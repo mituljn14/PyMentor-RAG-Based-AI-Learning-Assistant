@@ -1,0 +1,6333 @@
+{
+  "chunks": [
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 0.0,
+      "end": 2.26,
+      "text": " but what I will do here is"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 2.26,
+      "end": 3.82,
+      "text": " I will do R and I"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 3.82,
+      "end": 5.5,
+      "text": " in a complex number there is a real part"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 5.5,
+      "end": 7.34,
+      "text": " and an imaginary part"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 7.34,
+      "end": 9.74,
+      "text": " self.i is equal to i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 9.74,
+      "end": 11.82,
+      "text": " if you haven't read about complex numbers"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 11.82,
+      "end": 13.66,
+      "text": " then let me tell you that it is like a vector"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 13.66,
+      "end": 16.14,
+      "text": " it doesn't have exactly a vector"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 16.14,
+      "end": 17.3,
+      "text": " but it is very similar to vectors"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 17.3,
+      "end": 19.54,
+      "text": " in which there is a real part and an imaginary part"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 19.54,
+      "end": 20.94,
+      "text": " and they are added separately"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 20.94,
+      "end": 22.86,
+      "text": " so if I put a gender method here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 22.86,
+      "end": 24.78,
+      "text": " with the name __sum"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 24.78,
+      "end": 26.7,
+      "text": " and I give here self"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 26.7,
+      "end": 28.86,
+      "text": " and another complex number c2"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 29.0,
+      "end": 30.2,
+      "text": " so what I will do here is"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 30.2,
+      "end": 33.16,
+      "text": " I will return a complex number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 33.16,
+      "end": 35.16,
+      "text": " which will be a complex number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 35.16,
+      "end": 37.4,
+      "text": " I will return that"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 37.4,
+      "end": 39.4,
+      "text": " and it will be"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 39.4,
+      "end": 42.84,
+      "text": " self.r plus"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 42.84,
+      "end": 45.36,
+      "text": " self.r plus c2.r"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 45.36,
+      "end": 47.0,
+      "text": " means both the real parts will be added"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 47.0,
+      "end": 51.24,
+      "text": " and self.imaginary plus c2.imaginary"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 51.24,
+      "end": 53.8,
+      "text": " c2.imaginary, okay?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 53.8,
+      "end": 56.68,
+      "text": " this is our sum formula, okay?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 56.68,
+      "end": 58.76,
+      "text": " now what we will do here is"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 58.98,
+      "end": 60.58,
+      "text": " we will return two complex numbers"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 60.58,
+      "end": 63.54,
+      "text": " c1 is equal to complex"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 63.54,
+      "end": 66.1,
+      "text": " complex 1,2"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 66.1,
+      "end": 68.34,
+      "text": " and c2 will be"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 68.34,
+      "end": 70.82,
+      "text": " complex 3,4"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 70.82,
+      "end": 72.02,
+      "text": " okay? 3,4"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 72.02,
+      "end": 74.66,
+      "text": " we can also do 5 but 3,4 is fine"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 74.66,
+      "end": 75.66,
+      "text": " okay?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 75.66,
+      "end": 79.14,
+      "text": " and after this what we will do"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 79.14,
+      "end": 80.98,
+      "text": " we will print c1"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 80.98,
+      "end": 83.54,
+      "text": " plus c2"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 83.54,
+      "end": 86.34,
+      "text": " and after doing this, you see here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 86.64,
+      "end": 88.88,
+      "text": " I printed c1 plus c2"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 88.88,
+      "end": 90.12,
+      "text": " so it is saying"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 90.12,
+      "end": 93.4,
+      "text": " unsupported operands plus for type"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 93.4,
+      "end": 95.8,
+      "text": " complex and complex"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 95.8,
+      "end": 96.68,
+      "text": " what is going on here?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 96.68,
+      "end": 97.64,
+      "text": " what is going on here?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 97.64,
+      "end": 100.28,
+      "text": " means I can't add c2 in c1"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 100.28,
+      "end": 102.6,
+      "text": " means c1 is a complex number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 102.6,
+      "end": 104.12,
+      "text": " c2 is a complex number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 104.12,
+      "end": 105.4,
+      "text": " I can't add it"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 105.4,
+      "end": 106.92,
+      "text": " so sum is not add, basically"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 106.92,
+      "end": 108.28,
+      "text": " so this is my mistake"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 108.28,
+      "end": 109.8,
+      "text": " I hope this works"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 109.8,
+      "end": 110.68,
+      "text": " and you see here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 110.68,
+      "end": 112.44,
+      "text": " it gave me a complex object"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 112.44,
+      "end": 113.88,
+      "text": " now you see here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 113.88,
+      "end": 115.4,
+      "text": " str function is playing"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 116.38,
+      "end": 118.38,
+      "text": " it is telling me something like this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 118.38,
+      "end": 120.54,
+      "text": " it is not showing me complex number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 120.54,
+      "end": 122.7,
+      "text": " so whenever we want"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 122.7,
+      "end": 125.42,
+      "text": " it to show me things like this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 125.42,
+      "end": 126.22,
+      "text": " so what I will do"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 126.22,
+      "end": 127.42,
+      "text": " I will put a str method"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 127.42,
+      "end": 129.82,
+      "text": " str"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 129.82,
+      "end": 131.18,
+      "text": " and what I will do here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 131.18,
+      "end": 133.18,
+      "text": " I will remove this str from here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 133.18,
+      "end": 134.94,
+      "text": " because I will tell you about types later"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 134.94,
+      "end": 136.54,
+      "text": " and I will return here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 136.54,
+      "end": 138.54,
+      "text": " one f string"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 138.54,
+      "end": 140.62,
+      "text": " in which I will give real part"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 140.62,
+      "end": 141.74,
+      "text": " self.r"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 141.74,
+      "end": 143.9,
+      "text": " and after this I will give"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 144.4,
+      "end": 145.36,
+      "text": " I will write here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 145.36,
+      "end": 149.2,
+      "text": " plus self.imaginary i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 149.2,
+      "end": 150.08,
+      "text": " and after this i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 150.08,
+      "end": 152.08,
+      "text": " this is how complex numbers are represented"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 152.08,
+      "end": 154.32,
+      "text": " so I did self.r"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 154.32,
+      "end": 156.32,
+      "text": " and plus self.imaginary i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 156.32,
+      "end": 158.08,
+      "text": " and you see here 4 plus 6 i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 158.08,
+      "end": 159.36,
+      "text": " this was 1 plus 2 i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 159.36,
+      "end": 161.04,
+      "text": " this was 3 plus 4 i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 161.04,
+      "end": 162.4,
+      "text": " so 3 and 1 became 4"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 162.4,
+      "end": 163.68,
+      "text": " and 4 and 2 became 6"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 163.68,
+      "end": 166.16,
+      "text": " I hope you understood this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 166.16,
+      "end": 168.32,
+      "text": " and we can do the same for multiply"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 168.32,
+      "end": 170.0,
+      "text": " and we have to find formula for multiply"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 170.0,
+      "end": 171.28,
+      "text": " in complex number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 171.28,
+      "end": 172.48,
+      "text": " so what happens is"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 172.5,
+      "end": 174.98,
+      "text": " there is a formula for multiply in complex number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 174.98,
+      "end": 176.98,
+      "text": " and to derive that formula"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 176.98,
+      "end": 178.42,
+      "text": " I will not be able to derive here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 178.42,
+      "end": 181.38,
+      "text": " I will give formula for multiplication of two complex numbers"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 181.38,
+      "end": 186.5,
+      "text": " formula to multiply two complex numbers"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 186.5,
+      "end": 188.18,
+      "text": " and it will tell me"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 188.18,
+      "end": 190.42,
+      "text": " and I will use that formula"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 190.42,
+      "end": 192.42,
+      "text": " now it is telling me"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 192.42,
+      "end": 195.3,
+      "text": " that a plus bi and c plus di are two complex numbers"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 195.3,
+      "end": 196.34,
+      "text": " and it will tell me"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 196.34,
+      "end": 197.3,
+      "text": " that this is the formula"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 197.3,
+      "end": 200.1,
+      "text": " now I will tell it"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 200.1,
+      "end": 201.46,
+      "text": " I will not say anything to it"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 201.48,
+      "end": 202.44,
+      "text": " I will come here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 202.44,
+      "end": 203.64,
+      "text": " I simply"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 203.64,
+      "end": 205.64,
+      "text": " what I did is"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 205.64,
+      "end": 209.08,
+      "text": " my self.r is my first complex number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 209.08,
+      "end": 212.84,
+      "text": " and my c2.r is my second complex number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 212.84,
+      "end": 214.84,
+      "text": " so I can also say chat gpt"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 214.84,
+      "end": 216.36,
+      "text": " just to save some time"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 216.36,
+      "end": 217.88,
+      "text": " I will say"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 217.88,
+      "end": 219.88,
+      "text": " fix this formula"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 219.88,
+      "end": 222.92,
+      "text": " in the class complex"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 222.92,
+      "end": 224.92,
+      "text": " ok and I will give full code to it"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 224.92,
+      "end": 226.92,
+      "text": " so it will correct me"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 226.92,
+      "end": 228.52,
+      "text": " and it will correct me"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 228.52,
+      "end": 230.52,
+      "text": " and this is how you use AI to your advantage"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 230.54,
+      "end": 232.54,
+      "text": " I will do the same thing step by step"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 232.54,
+      "end": 234.54,
+      "text": " I will do it with AI"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 234.54,
+      "end": 236.54,
+      "text": " it has given me like this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 236.54,
+      "end": 238.54,
+      "text": " so real part"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 238.54,
+      "end": 240.54,
+      "text": " and imaginary part we have taken out"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 240.54,
+      "end": 242.54,
+      "text": " in different ways"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 242.54,
+      "end": 244.54,
+      "text": " if I multiply"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 244.54,
+      "end": 246.54,
+      "text": " if I say print and say c1 into c2"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 246.54,
+      "end": 248.54,
+      "text": " so you see it will multiply"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 248.54,
+      "end": 250.54,
+      "text": " complex number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 250.54,
+      "end": 252.54,
+      "text": " see minus 5 plus 10 will come"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 252.54,
+      "end": 254.54,
+      "text": " so I can ask it"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 254.54,
+      "end": 256.54,
+      "text": " what is 1 plus 2i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 256.54,
+      "end": 258.54,
+      "text": " and 3 plus 4i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 258.56,
+      "end": 260.56,
+      "text": " what is 1 plus 2i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 260.56,
+      "end": 262.56,
+      "text": " multiplied"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 262.56,
+      "end": 264.56,
+      "text": " by 3"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 264.56,
+      "end": 266.56,
+      "text": " plus 4i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 266.56,
+      "end": 268.56,
+      "text": " it will tell me"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 268.56,
+      "end": 270.56,
+      "text": " apply this formula"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 270.56,
+      "end": 272.56,
+      "text": " and should my answer be minus 5 plus 10i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 272.56,
+      "end": 274.56,
+      "text": " is it coming minus 5 plus 10i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 274.56,
+      "end": 276.56,
+      "text": " it should be coming"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 276.56,
+      "end": 278.56,
+      "text": " if you don't know complex number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 278.56,
+      "end": 280.56,
+      "text": " maybe you will find it complex"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 280.56,
+      "end": 282.56,
+      "text": " but again you should know"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 282.56,
+      "end": 284.56,
+      "text": " how to do it"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 284.56,
+      "end": 286.56,
+      "text": " now we have to make a class vector representing"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 286.58,
+      "end": 288.58,
+      "text": " n dimensions"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 288.58,
+      "end": 290.58,
+      "text": " we have to overload plus operators and star operators"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 290.58,
+      "end": 292.58,
+      "text": " which calculates the sum"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 292.58,
+      "end": 294.58,
+      "text": " and dot product of the vectors"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 294.58,
+      "end": 296.58,
+      "text": " so to sum"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 296.58,
+      "end": 298.58,
+      "text": " the formula of vectors is"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 298.58,
+      "end": 300.58,
+      "text": " to sum both"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 300.58,
+      "end": 302.58,
+      "text": " and what is the formula of dot product"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 302.58,
+      "end": 304.58,
+      "text": " basically what happens in dot product"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 304.58,
+      "end": 306.58,
+      "text": " you multiply"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 306.58,
+      "end": 308.58,
+      "text": " i,j and k values and sum them"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 308.58,
+      "end": 310.58,
+      "text": " so I will make a file"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 310.58,
+      "end": 312.58,
+      "text": " 05 underscore problem 5 dot py"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 312.58,
+      "end": 314.58,
+      "text": " and I will make a class in it"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 314.6,
+      "end": 316.6,
+      "text": " so I have taken a vector"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 316.6,
+      "end": 318.6,
+      "text": " class vector and initialized it"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 318.6,
+      "end": 320.6,
+      "text": " and I have made an add method"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 320.6,
+      "end": 322.6,
+      "text": " which is adding individual"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 322.6,
+      "end": 324.6,
+      "text": " elements and then"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 324.6,
+      "end": 326.6,
+      "text": " I have multiplied them and summed them"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 326.6,
+      "end": 328.6,
+      "text": " and to represent them in a string"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 328.6,
+      "end": 330.6,
+      "text": " I have written it like this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 330.6,
+      "end": 332.6,
+      "text": " so let's test its implementation"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 332.6,
+      "end": 334.6,
+      "text": " and see what we have done"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 334.6,
+      "end": 336.6,
+      "text": " vector 5,7,9 is coming as sum"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 336.6,
+      "end": 338.6,
+      "text": " then multiplied by 32"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 338.6,
+      "end": 340.6,
+      "text": " and here 8,10 and 12"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 340.6,
+      "end": 342.6,
+      "text": " and here 50"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 342.62,
+      "end": 344.62,
+      "text": " amazing"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 344.62,
+      "end": 346.62,
+      "text": " let's move on to the next question"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 346.62,
+      "end": 348.62,
+      "text": " now we have to write an str method"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 348.62,
+      "end": 350.62,
+      "text": " to print the vector as follows"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 350.62,
+      "end": 352.62,
+      "text": " assume vector of dimension 3"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 352.62,
+      "end": 354.62,
+      "text": " for this problem"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 354.62,
+      "end": 356.62,
+      "text": " so we will take the same question"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 356.62,
+      "end": 358.62,
+      "text": " and here I will simply change the str method"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 360.62,
+      "end": 362.62,
+      "text": " problem 6 dot py"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 362.62,
+      "end": 364.62,
+      "text": " and here you can see"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 364.62,
+      "end": 366.62,
+      "text": " that I have written something like this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 366.62,
+      "end": 368.62,
+      "text": " but now I will change this f string"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 368.62,
+      "end": 370.62,
+      "text": " and after changing this f string"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 370.64,
+      "end": 372.64,
+      "text": " I will write i"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 372.64,
+      "end": 374.64,
+      "text": " and then I will put a bracket"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 374.64,
+      "end": 376.64,
+      "text": " and then I will write j"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 376.64,
+      "end": 378.64,
+      "text": " and then I will write k"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 378.64,
+      "end": 380.64,
+      "text": " k"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 380.64,
+      "end": 382.64,
+      "text": " and now I will print it"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 382.64,
+      "end": 384.64,
+      "text": " and see the vector is being printed"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 384.64,
+      "end": 386.64,
+      "text": " we don't need comma, we need plus"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 386.64,
+      "end": 388.64,
+      "text": " I will write it correctly"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 388.64,
+      "end": 390.64,
+      "text": " so that there are no errors"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 390.64,
+      "end": 392.64,
+      "text": " so 5i7j9"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 392.64,
+      "end": 394.64,
+      "text": " you can see it coming like this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 394.64,
+      "end": 396.64,
+      "text": " and we have assumed vector of dimension 3"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 396.64,
+      "end": 398.64,
+      "text": " now we have to overwrite"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 398.66,
+      "end": 400.66,
+      "text": " the len method on vector"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 400.66,
+      "end": 402.66,
+      "text": " of problem 5"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 402.66,
+      "end": 404.66,
+      "text": " to display the dimension of the vector"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 404.66,
+      "end": 406.66,
+      "text": " so if I do len of"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 406.66,
+      "end": 408.66,
+      "text": " any vector"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 408.66,
+      "end": 410.66,
+      "text": " let me show you"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 410.66,
+      "end": 412.66,
+      "text": " problem 7"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 412.66,
+      "end": 414.66,
+      "text": " 7"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 416.66,
+      "end": 418.66,
+      "text": " dot py"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 418.66,
+      "end": 420.66,
+      "text": " and I will take this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 420.66,
+      "end": 422.66,
+      "text": " and I have made a vector"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 422.66,
+      "end": 424.66,
+      "text": " if I take print len of v1"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 424.66,
+      "end": 426.66,
+      "text": " so what will happen"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 426.68,
+      "end": 428.68,
+      "text": " it will ask me what is len"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 428.68,
+      "end": 430.68,
+      "text": " I don't know what is len of vector"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 430.68,
+      "end": 432.68,
+      "text": " so for this I will define"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 434.68,
+      "end": 436.68,
+      "text": " a len function"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 436.68,
+      "end": 438.68,
+      "text": " which will take self"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 438.68,
+      "end": 440.68,
+      "text": " and what will I return"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 440.68,
+      "end": 442.68,
+      "text": " I will return"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 442.68,
+      "end": 444.68,
+      "text": " 3"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 444.68,
+      "end": 446.68,
+      "text": " so here I will return 3"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 446.68,
+      "end": 448.68,
+      "text": " overwrite the len method of problem 5"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 448.68,
+      "end": 450.68,
+      "text": " to display the dimension of the vector"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 450.68,
+      "end": 452.68,
+      "text": " now here if my variables"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 452.68,
+      "end": 454.68,
+      "text": " if the length of my vector was variable"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 454.7,
+      "end": 456.7,
+      "text": " then I would have passed a list"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 456.7,
+      "end": 458.7,
+      "text": " I would have passed it like this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 458.7,
+      "end": 460.7,
+      "text": " I would have passed it like this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 460.7,
+      "end": 462.7,
+      "text": " 1,2,3, this is a 3 dimension vector"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 462.7,
+      "end": 464.7,
+      "text": " so what I will do here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 464.7,
+      "end": 466.7,
+      "text": " I will take list"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 466.7,
+      "end": 468.7,
+      "text": " then I will say self dot x comma"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 468.7,
+      "end": 470.7,
+      "text": " self dot y comma self dot z"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 470.7,
+      "end": 472.7,
+      "text": " is equal to"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 472.7,
+      "end": 474.7,
+      "text": " what will happen here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 474.7,
+      "end": 476.7,
+      "text": " comma self dot z is equal to list"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 476.7,
+      "end": 478.7,
+      "text": " or let's make it l"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 478.7,
+      "end": 480.7,
+      "text": " and after doing this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 480.7,
+      "end": 482.7,
+      "text": " our x, y, z will be set"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 482.72,
+      "end": 484.72,
+      "text": " so"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 484.72,
+      "end": 486.72,
+      "text": " x, y, z"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 486.72,
+      "end": 488.72,
+      "text": " are set here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 488.72,
+      "end": 490.72,
+      "text": " and for length I will simply say"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 490.72,
+      "end": 492.72,
+      "text": " return"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 492.72,
+      "end": 494.72,
+      "text": " and here instead of x, y, z"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 494.72,
+      "end": 496.72,
+      "text": " I will set this l"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 496.72,
+      "end": 498.72,
+      "text": " self dot l is equal to l"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 498.72,
+      "end": 500.72,
+      "text": " so that I can get the length of l"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 500.72,
+      "end": 502.72,
+      "text": " so I will remove all these methods"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 502.72,
+      "end": 504.72,
+      "text": " and I will simply"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 504.72,
+      "end": 506.72,
+      "text": " return len of"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 506.72,
+      "end": 508.72,
+      "text": " self dot l"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 508.72,
+      "end": 510.72,
+      "text": " and let's see if it is printing 3 or not"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 510.74,
+      "end": 512.74,
+      "text": " so multiple solutions"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 512.74,
+      "end": 514.74,
+      "text": " can be a problem"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 514.74,
+      "end": 516.74,
+      "text": " I hope you understood this question"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 516.74,
+      "end": 518.74,
+      "text": " and you got clarity"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 518.74,
+      "end": 520.74,
+      "text": " I hope I made things easy for you"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 520.74,
+      "end": 522.74,
+      "text": " now we will move ahead"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 522.74,
+      "end": 524.74,
+      "text": " in this python course"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 524.74,
+      "end": 526.74,
+      "text": " see you then"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 526.74,
+      "end": 528.74,
+      "text": " music"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 528.74,
+      "end": 530.74,
+      "text": " so now"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 530.74,
+      "end": 532.74,
+      "text": " we will talk about our project 2"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 532.74,
+      "end": 534.74,
+      "text": " which is the perfect guess"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 534.74,
+      "end": 536.74,
+      "text": " what is this game"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 536.74,
+      "end": 538.74,
+      "text": " I will tell you"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 538.76,
+      "end": 540.76,
+      "text": " we have to write a program"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 540.76,
+      "end": 542.76,
+      "text": " that generates a random number and ask the user to guess it"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 542.76,
+      "end": 544.76,
+      "text": " so a random number will be generated"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 544.76,
+      "end": 546.76,
+      "text": " then if you"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 546.76,
+      "end": 548.76,
+      "text": " have entered the number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 548.76,
+      "end": 550.76,
+      "text": " you have told it correctly"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 550.76,
+      "end": 552.76,
+      "text": " in all the number of guesses you have told"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 552.76,
+      "end": 554.76,
+      "text": " it is that good"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 554.76,
+      "end": 556.76,
+      "text": " means in all the less number of guesses you have told"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 556.76,
+      "end": 558.76,
+      "text": " it is that good and lower number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 558.76,
+      "end": 560.76,
+      "text": " please, higher number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 560.76,
+      "end": 562.76,
+      "text": " like that will give the indication"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 562.76,
+      "end": 564.76,
+      "text": " like suppose there is a number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 564.76,
+      "end": 566.76,
+      "text": " you have to guess between 1 to 100"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 566.78,
+      "end": 568.78,
+      "text": " so I have told 42"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 568.78,
+      "end": 570.78,
+      "text": " now if you type 42"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 570.78,
+      "end": 572.78,
+      "text": " it will ask you higher number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 572.78,
+      "end": 574.78,
+      "text": " if you type 79 it will ask you lower number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 574.78,
+      "end": 576.78,
+      "text": " until you guess the correct number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 576.78,
+      "end": 578.78,
+      "text": " and in all the guesses"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 578.78,
+      "end": 580.78,
+      "text": " in all the less guesses"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 580.78,
+      "end": 582.78,
+      "text": " it is better"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 582.78,
+      "end": 584.78,
+      "text": " so what we have to do here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 584.78,
+      "end": 586.78,
+      "text": " when the user guesses the correct number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 586.78,
+      "end": 588.78,
+      "text": " the program displays the number of guesses"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 588.78,
+      "end": 590.78,
+      "text": " the player used to arrive at a number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 590.78,
+      "end": 592.78,
+      "text": " then another person will play and the one who has less number of guesses"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 592.78,
+      "end": 594.78,
+      "text": " will win, so let's do this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 594.8,
+      "end": 596.8,
+      "text": " so what I will do here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 596.8,
+      "end": 598.8,
+      "text": " I will make a folder named project2"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 598.8,
+      "end": 600.8,
+      "text": " so project2"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 600.8,
+      "end": 602.8,
+      "text": " and here I will simply"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 602.8,
+      "end": 604.8,
+      "text": " open with quote and here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 604.8,
+      "end": 606.8,
+      "text": " I will make a file named main.py"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 606.8,
+      "end": 608.8,
+      "text": " main.py"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 608.8,
+      "end": 610.8,
+      "text": " now here I will show you one thing"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 610.8,
+      "end": 612.8,
+      "text": " now what I will do here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 612.8,
+      "end": 614.8,
+      "text": " I will say guess a number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 614.8,
+      "end": 616.8,
+      "text": " so I will print"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 616.8,
+      "end": 618.8,
+      "text": " and I will write A is equal to"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 618.8,
+      "end": 620.8,
+      "text": " int of input"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 620.8,
+      "end": 622.8,
+      "text": " and after this I will write"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 622.82,
+      "end": 624.82,
+      "text": " guess a number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 624.82,
+      "end": 626.82,
+      "text": " it is a very simple thing"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 626.82,
+      "end": 628.82,
+      "text": " after writing guess a number you will guess a number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 628.82,
+      "end": 630.82,
+      "text": " and I will use a random module"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 630.82,
+      "end": 632.82,
+      "text": " and I will generate a random"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 632.82,
+      "end": 634.82,
+      "text": " integer, I will say"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 634.82,
+      "end": 636.82,
+      "text": " n is equal to"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 636.82,
+      "end": 638.82,
+      "text": " random dot randint"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 638.82,
+      "end": 640.82,
+      "text": " and it will be between 1 to 100"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 640.82,
+      "end": 642.82,
+      "text": " so between 1 to 100"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 642.82,
+      "end": 644.82,
+      "text": " you will guess a number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 644.82,
+      "end": 646.82,
+      "text": " and I will write guess the number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 646.82,
+      "end": 648.82,
+      "text": " I will say guess the number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 648.82,
+      "end": 650.82,
+      "text": " and I will put this thing in while loop"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 650.84,
+      "end": 652.84,
+      "text": " and what will be the condition of while"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 652.84,
+      "end": 654.84,
+      "text": " A is not equal to n"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 654.84,
+      "end": 656.84,
+      "text": " I will fine tune this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 656.84,
+      "end": 658.84,
+      "text": " but for now I will say"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 658.84,
+      "end": 660.84,
+      "text": " A is equal to int of"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 660.84,
+      "end": 662.84,
+      "text": " input, guess the number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 662.84,
+      "end": 664.84,
+      "text": " so I will make A equal to minus 1"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 664.84,
+      "end": 666.84,
+      "text": " because A is never minus 1"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 666.84,
+      "end": 668.84,
+      "text": " and my n number is never minus 1"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 668.84,
+      "end": 670.84,
+      "text": " so this condition will always be true"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 670.84,
+      "end": 672.84,
+      "text": " when I will make A equal to minus 1"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 672.84,
+      "end": 674.84,
+      "text": " now what I am saying here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 674.84,
+      "end": 676.84,
+      "text": " while A is not equal to n"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 676.84,
+      "end": 678.84,
+      "text": " we have to guess A is equal to"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 678.86,
+      "end": 680.86,
+      "text": " now what we have to do"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 680.86,
+      "end": 682.86,
+      "text": " if A is equal to n"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 682.86,
+      "end": 684.86,
+      "text": " then it will break"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 684.86,
+      "end": 686.86,
+      "text": " it will automatically break"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 686.86,
+      "end": 688.86,
+      "text": " and here we will do guess is equal to"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 688.86,
+      "end": 690.86,
+      "text": " guess is equal to 0"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 690.86,
+      "end": 692.86,
+      "text": " and here guess is"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 692.86,
+      "end": 694.86,
+      "text": " plus equal to 1"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 694.86,
+      "end": 696.86,
+      "text": " now if your number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 696.86,
+      "end": 698.86,
+      "text": " if A is greater than n"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 698.86,
+      "end": 700.86,
+      "text": " then you will print"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 700.86,
+      "end": 702.86,
+      "text": " lower number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 702.86,
+      "end": 704.86,
+      "text": " lower number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 704.86,
+      "end": 706.86,
+      "text": " and otherwise what you will do"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 706.88,
+      "end": 708.88,
+      "text": " otherwise you will say"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 708.88,
+      "end": 710.88,
+      "text": " higher number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 710.88,
+      "end": 712.88,
+      "text": " higher number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 712.88,
+      "end": 714.88,
+      "text": " please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 714.88,
+      "end": 716.88,
+      "text": " if A is greater than"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 716.88,
+      "end": 718.88,
+      "text": " then you will say"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 718.88,
+      "end": 720.88,
+      "text": " lower number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 720.88,
+      "end": 722.88,
+      "text": " and if A is less than"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 722.88,
+      "end": 724.88,
+      "text": " higher number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 724.88,
+      "end": 726.88,
+      "text": " A is less than n, give me a bigger number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 726.88,
+      "end": 728.88,
+      "text": " and finally what will happen"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 728.88,
+      "end": 730.88,
+      "text": " when you have guessed the number correctly"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 730.88,
+      "end": 732.88,
+      "text": " then it will say"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 732.88,
+      "end": 734.88,
+      "text": " you have guessed the number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 734.9,
+      "end": 736.9,
+      "text": " so finally what will happen"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 736.9,
+      "end": 738.9,
+      "text": " when this loop will break"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 738.9,
+      "end": 740.9,
+      "text": " then I will print"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 740.9,
+      "end": 742.9,
+      "text": " you have guessed the number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 742.9,
+      "end": 744.9,
+      "text": " correctly in"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 744.9,
+      "end": 746.9,
+      "text": " guess is attempt"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 746.9,
+      "end": 748.9,
+      "text": " and I will make this as an f string"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 748.9,
+      "end": 750.9,
+      "text": " so here if I have guessed"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 750.9,
+      "end": 752.9,
+      "text": " in this many attempts then I will say"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 752.9,
+      "end": 754.9,
+      "text": " in guess is attempt"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 754.9,
+      "end": 756.9,
+      "text": " now I will run this and after running"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 756.9,
+      "end": 758.9,
+      "text": " guess the number, I will say 3"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 758.9,
+      "end": 760.9,
+      "text": " higher number please, ok, 44"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 760.9,
+      "end": 762.9,
+      "text": " higher number please, 55"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 762.92,
+      "end": 763.9,
+      "text": " higher number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 763.9,
+      "end": 765.92,
+      "text": " higher number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 765.92,
+      "end": 767.92,
+      "text": " higher number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 767.92,
+      "end": 769.92,
+      "text": " lower number pleased"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 769.92,
+      "end": 771.92,
+      "text": " ok, so 86"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 771.92,
+      "end": 773.92,
+      "text": " higher number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 773.92,
+      "end": 775.92,
+      "text": " ok 88, on 88 it said higher number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 775.92,
+      "end": 777.92,
+      "text": " please, so I will say 89"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 777.92,
+      "end": 779.92,
+      "text": " higher number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 779.92,
+      "end": 781.92,
+      "text": " 99, 90 also higher number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 781.92,
+      "end": 782.96,
+      "text": " please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 782.96,
+      "end": 783.98,
+      "text": " 93, please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 783.98,
+      "end": 785.98,
+      "text": " 99"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 785.98,
+      "end": 787.18,
+      "text": " lower number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 787.18,
+      "end": 788.34,
+      "text": " 94"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 788.34,
+      "end": 789.42,
+      "text": " please lower number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 789.42,
+      "end": 791.42,
+      "text": " 95 higher number please"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 791.42,
+      "end": 792.84,
+      "text": " 96"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 792.84,
+      "end": 796.28,
+      "text": " correct number in 15 attempts."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 796.28,
+      "end": 798.52,
+      "text": " Here I will write correct number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 798.52,
+      "end": 800.52,
+      "text": " and I will also write number here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 800.52,
+      "end": 803.4,
+      "text": " I will write n here, which is our actual number."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 803.4,
+      "end": 805.4,
+      "text": " So let's play this game again."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 805.4,
+      "end": 807.4,
+      "text": " Guess the number 3, higher number please."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 807.4,
+      "end": 809.4,
+      "text": " 66, lower number please. 55,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 809.4,
+      "end": 811.8,
+      "text": " lower number please. 44, lower number please."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 811.8,
+      "end": 813.8,
+      "text": " 33, lower number please."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 813.8,
+      "end": 816.68,
+      "text": " 22, lower number please. 12, lower number please."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 816.68,
+      "end": 819.4,
+      "text": " 5, higher number please."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 819.4,
+      "end": 821.4,
+      "text": " 7, 8, 9."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 821.4,
+      "end": 823.64,
+      "text": " Okay, so you have guessed the correct number,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 823.64,
+      "end": 826.12,
+      "text": " guessed the number 9 correctly in 12 attempts."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 826.12,
+      "end": 828.6,
+      "text": " So it is telling me how many attempts I have guessed."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 828.6,
+      "end": 830.6,
+      "text": " So, this is how we will do it."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 830.6,
+      "end": 832.6,
+      "text": " Now here you can see that"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 832.6,
+      "end": 835.4,
+      "text": " in our guesses it will come A is not equal to n."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 835.4,
+      "end": 836.92,
+      "text": " Our guesses will increase."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 836.92,
+      "end": 839.24,
+      "text": " Then finally if our guess is correct,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 839.24,
+      "end": 841.08,
+      "text": " if our guess is correct,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 841.08,
+      "end": 842.68,
+      "text": " let's say we have guessed correctly,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 842.68,
+      "end": 843.8,
+      "text": " then what will it do?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 843.8,
+      "end": 845.8,
+      "text": " It will print something here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 845.8,
+      "end": 848.36,
+      "text": " and will take us out of the loop."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 848.36,
+      "end": 850.04,
+      "text": " But I don't want that finally"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 850.04,
+      "end": 851.48,
+      "text": " when our number is equal,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 851.48,
+      "end": 853.0,
+      "text": " still this higher number is printed."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 853.0,
+      "end": 854.68,
+      "text": " So I will say this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 854.68,
+      "end": 856.92,
+      "text": " if A is less than n."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 856.92,
+      "end": 858.92,
+      "text": " So if A is equal to n,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 858.92,
+      "end": 860.92,
+      "text": " if A is equal to n,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 860.92,
+      "end": 862.28,
+      "text": " then nothing will happen."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 862.28,
+      "end": 865.16,
+      "text": " And I will do guesses plus equals to 1 at the end."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 865.16,
+      "end": 866.36,
+      "text": " And guesses is equal to 1,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 866.36,
+      "end": 868.36,
+      "text": " so one guess will be taken."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 868.36,
+      "end": 870.36,
+      "text": " So as this loop will continue,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 870.36,
+      "end": 871.8,
+      "text": " the guesses will increase,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 871.8,
+      "end": 873.24,
+      "text": " increase, increase."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 873.24,
+      "end": 875.24,
+      "text": " And finally what will happen"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 875.24,
+      "end": 877.64,
+      "text": " that the number of guesses you have,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 877.8,
+      "end": 880.36,
+      "text": " will finally be reported here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 880.36,
+      "end": 881.56,
+      "text": " Now what I will do here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 881.56,
+      "end": 883.56,
+      "text": " that the guesses I have written,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 883.56,
+      "end": 885.16,
+      "text": " I will put it in the elif."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 885.16,
+      "end": 886.68,
+      "text": " I will put it in the elif because"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 886.68,
+      "end": 888.12,
+      "text": " I don't want the value of guesses"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 888.12,
+      "end": 889.64,
+      "text": " to be plus or equal to 1"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 889.64,
+      "end": 891.0,
+      "text": " in any other case."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 891.0,
+      "end": 892.76,
+      "text": " So I will do it here like this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 892.76,
+      "end": 894.2,
+      "text": " guesses plus equals to 1,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 894.2,
+      "end": 895.96,
+      "text": " guesses plus equals to 1."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 895.96,
+      "end": 897.56,
+      "text": " You have guessed the number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 897.56,
+      "end": 899.24,
+      "text": " n correctly in guesses attempts."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 899.24,
+      "end": 900.84,
+      "text": " It will come like this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 900.84,
+      "end": 903.0,
+      "text": " I hope you liked this project."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 903.0,
+      "end": 904.92,
+      "text": " Now you have to play this with your friends."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 904.92,
+      "end": 906.6,
+      "text": " It is a very simple game."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 908.12,
+      "end": 909.16,
+      "text": " I do 33,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 909.16,
+      "end": 910.2,
+      "text": " do 44,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 910.2,
+      "end": 911.16,
+      "text": " do 55,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 911.16,
+      "end": 912.76,
+      "text": " do 66,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 912.76,
+      "end": 914.12,
+      "text": " do 50,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 914.12,
+      "end": 915.4,
+      "text": " higher number is saying,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 915.4,
+      "end": 917.56,
+      "text": " do 52,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 917.56,
+      "end": 918.92,
+      "text": " do 53,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 918.92,
+      "end": 920.2,
+      "text": " do 54,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 920.2,
+      "end": 922.04,
+      "text": " do 55,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 922.04,
+      "end": 923.08,
+      "text": " do 57,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 923.08,
+      "end": 924.68,
+      "text": " did 57,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 924.68,
+      "end": 926.28,
+      "text": " did 59,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 926.28,
+      "end": 927.32,
+      "text": " do 61,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 927.32,
+      "end": 928.12,
+      "text": " 61,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 928.12,
+      "end": 929.4,
+      "text": " 61 is also a lower number,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 929.4,
+      "end": 930.68,
+      "text": " it means it is 60"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 930.68,
+      "end": 933.24,
+      "text": " and yes said you guessed in 16 attempts."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 933.24,
+      "end": 935.0,
+      "text": " So yeah that was about project number 2."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 935.0,
+      "end": 936.68,
+      "text": " Now we will move forward in this course."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 936.68,
+      "end": 939.24,
+      "text": " And I will meet you in the next chapter."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 939.24,
+      "end": 944.36,
+      "text": " Intro"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 944.36,
+      "end": 945.64,
+      "text": " So today we will talk about"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 945.64,
+      "end": 948.44,
+      "text": " some of the newly added features in Python."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 948.44,
+      "end": 949.96,
+      "text": " These are the features"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 949.96,
+      "end": 951.8,
+      "text": " that make this course exclusive."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 951.8,
+      "end": 953.0,
+      "text": " I will tell you"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 953.0,
+      "end": 956.52,
+      "text": " which features you can use at any time"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 956.52,
+      "end": 958.28,
+      "text": " and make your Python programs"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 958.28,
+      "end": 960.28,
+      "text": " efficient and strong."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 960.28,
+      "end": 961.88,
+      "text": " Let's start with the first feature"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 961.88,
+      "end": 963.08,
+      "text": " which is Valorous operator."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 963.08,
+      "end": 964.28,
+      "text": " So what we will do,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 964.28,
+      "end": 966.12,
+      "text": " I will close this here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 966.28,
+      "end": 967.96,
+      "text": " and I will come here,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 967.96,
+      "end": 969.8,
+      "text": " this is chapter number 12,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 969.8,
+      "end": 971.8,
+      "text": " so I will make a folder"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 972.6,
+      "end": 974.04,
+      "text": " in the name of chapter 12"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 974.04,
+      "end": 975.72,
+      "text": " and I will open it in VS Code."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 975.72,
+      "end": 977.4,
+      "text": " And here our first program"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 977.4,
+      "end": 980.2,
+      "text": " will be 01 underscore valorous.py"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 980.2,
+      "end": 983.56,
+      "text": " 01 underscore valorous.py"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 983.56,
+      "end": 984.68,
+      "text": " and in valorous.py,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 984.68,
+      "end": 986.04,
+      "text": " which is our program,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 986.04,
+      "end": 988.68,
+      "text": " I will tell you the usage of valorous operator."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 988.68,
+      "end": 990.04,
+      "text": " So there is an operator,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 990.04,
+      "end": 991.08,
+      "text": " valorous operator,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 991.08,
+      "end": 993.96,
+      "text": " which was introduced from Python 3.8 onwards"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 993.96,
+      "end": 995.32,
+      "text": " and allows you"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 995.32,
+      "end": 997.08,
+      "text": " to assign values to variables"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 997.08,
+      "end": 998.36,
+      "text": " as part of an expression."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 998.36,
+      "end": 1000.28,
+      "text": " Means one expression will be"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1000.28,
+      "end": 1001.96,
+      "text": " part of your code"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1001.96,
+      "end": 1003.96,
+      "text": " and it will do two things,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1003.96,
+      "end": 1008.44,
+      "text": " that you can use your expression"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1008.44,
+      "end": 1010.28,
+      "text": " plus you can assign it to a variable."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1010.28,
+      "end": 1012.28,
+      "text": " Now I will show you how this thing works."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1012.84,
+      "end": 1015.16,
+      "text": " So I will copy this code"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1015.16,
+      "end": 1018.12,
+      "text": " and I will paste this code here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1018.12,
+      "end": 1021.56,
+      "text": " and I will format it properly."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1021.56,
+      "end": 1022.36,
+      "text": " For some reason,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1022.36,
+      "end": 1024.36,
+      "text": " formatting is not done properly"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1024.44,
+      "end": 1025.88,
+      "text": " and you see here,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1025.88,
+      "end": 1027.16,
+      "text": " I will comment it out."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1027.16,
+      "end": 1029.88,
+      "text": " So we wrote n valorous operator"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1029.88,
+      "end": 1032.6,
+      "text": " and len of this list is greater than 3."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1032.6,
+      "end": 1034.76,
+      "text": " So I can do two things in one statement."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1034.76,
+      "end": 1036.04,
+      "text": " I don't need to write that"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1036.04,
+      "end": 1037.24,
+      "text": " n is equal to"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1037.24,
+      "end": 1039.48,
+      "text": " and then after that if n."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1039.48,
+      "end": 1041.16,
+      "text": " So I did this in one line"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1041.16,
+      "end": 1043.48,
+      "text": " and this is basically a convenience method."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1043.48,
+      "end": 1045.64,
+      "text": " Means to do two things"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1045.64,
+      "end": 1047.24,
+      "text": " in the same line of code."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1047.24,
+      "end": 1048.92,
+      "text": " So here I will run it."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1048.92,
+      "end": 1049.56,
+      "text": " So what will happen?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1049.56,
+      "end": 1050.52,
+      "text": " That list is too long,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1050.52,
+      "end": 1051.8,
+      "text": " five elements expected."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1051.8,
+      "end": 1053.24,
+      "text": " It came here after writing."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1053.24,
+      "end": 1055.72,
+      "text": " So this will be evaluated in true"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1055.72,
+      "end": 1057.72,
+      "text": " plus the value of n"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1057.72,
+      "end": 1060.04,
+      "text": " will be assigned by the length of this list."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1060.04,
+      "end": 1061.72,
+      "text": " So this is a very simple operator."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1061.72,
+      "end": 1063.0,
+      "text": " You should know."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1063.0,
+      "end": 1065.0,
+      "text": " Modern programs use it a lot."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1065.56,
+      "end": 1068.92,
+      "text": " Now type definition is a very important topic"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1068.92,
+      "end": 1070.84,
+      "text": " and type definition is such a thing"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1070.84,
+      "end": 1071.96,
+      "text": " that you should know"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1071.96,
+      "end": 1074.28,
+      "text": " and it makes your work very easy."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1074.28,
+      "end": 1077.24,
+      "text": " Now assume that I make a variable."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1078.6,
+      "end": 1080.68,
+      "text": " I am making a variable whose name is n"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1080.68,
+      "end": 1082.84,
+      "text": " and I write here n is equal to"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1083.32,
+      "end": 1084.36,
+      "text": " I write 5."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1084.36,
+      "end": 1086.68,
+      "text": " Now if I write n."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1086.68,
+      "end": 1089.8,
+      "text": " Assume I will write n.is"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1089.8,
+      "end": 1091.8,
+      "text": " Assume I write n."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1091.8,
+      "end": 1092.52,
+      "text": " So what will happen?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1092.52,
+      "end": 1095.32,
+      "text": " I want that if this is an integer"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1095.32,
+      "end": 1097.64,
+      "text": " then I get all the methods of the integer."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1097.64,
+      "end": 1098.68,
+      "text": " Do you understand?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1098.68,
+      "end": 1100.04,
+      "text": " So what can I do?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1100.04,
+      "end": 1101.64,
+      "text": " I can explicitly tell python"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1101.64,
+      "end": 1104.28,
+      "text": " that my n will be an integer"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1104.84,
+      "end": 1106.68,
+      "text": " and now if I write n."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1106.68,
+      "end": 1108.44,
+      "text": " then I will get all the methods of the integer."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1108.44,
+      "end": 1109.0,
+      "text": " OK?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1109.56,
+      "end": 1111.32,
+      "text": " So n is an integer."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1111.32,
+      "end": 1112.92,
+      "text": " I told python this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1113.48,
+      "end": 1114.76,
+      "text": " Was it necessary to write this?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1114.76,
+      "end": 1115.56,
+      "text": " colon int?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1115.56,
+      "end": 1116.76,
+      "text": " No, it was not necessary."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1116.76,
+      "end": 1119.32,
+      "text": " So basically I marked here n as a string."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1119.32,
+      "end": 1122.36,
+      "text": " If I want to keep name as an str"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1122.36,
+      "end": 1124.12,
+      "text": " I marked n as an integer."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1124.12,
+      "end": 1125.72,
+      "text": " If I want to mark name as a string"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1126.28,
+      "end": 1127.72,
+      "text": " then I can do something like this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1128.44,
+      "end": 1130.12,
+      "text": " I will put a colon here and write Harry."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1130.12,
+      "end": 1132.12,
+      "text": " And you see name colon str is equal to Harry."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1132.12,
+      "end": 1133.32,
+      "text": " I wrote it here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1133.32,
+      "end": 1134.68,
+      "text": " Now what will happen in functions?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1135.16,
+      "end": 1136.76,
+      "text": " How can we do this in functions?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1136.76,
+      "end": 1138.52,
+      "text": " Types can be done in this way."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1138.52,
+      "end": 1141.08,
+      "text": " Assume I am writing a function named sum."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1141.16,
+      "end": 1143.16,
+      "text": " Which takes a and b."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1143.16,
+      "end": 1145.16,
+      "text": " And it returns an int."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1145.16,
+      "end": 1147.16,
+      "text": " So I can write something like this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1147.16,
+      "end": 1149.16,
+      "text": " Sum takes a as an integer."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1149.16,
+      "end": 1151.16,
+      "text": " b as an integer."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1151.16,
+      "end": 1153.16,
+      "text": " And returns an integer."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1153.16,
+      "end": 1155.16,
+      "text": " So I can write here return a plus b."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1155.16,
+      "end": 1157.16,
+      "text": " OK?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1157.16,
+      "end": 1159.16,
+      "text": " So I can do this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1159.16,
+      "end": 1161.16,
+      "text": " And if I do this once, what will happen?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1161.16,
+      "end": 1163.16,
+      "text": " Now if I write here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1163.16,
+      "end": 1165.16,
+      "text": " Assume I will write sum"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1165.16,
+      "end": 1167.16,
+      "text": " and it is telling me to give a an integer"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1167.16,
+      "end": 1169.16,
+      "text": " and b an integer."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1169.24,
+      "end": 1171.24,
+      "text": " So what happens is"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1171.24,
+      "end": 1173.24,
+      "text": " when a programmer is coding"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1173.24,
+      "end": 1175.24,
+      "text": " and you are using someone else's code"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1175.24,
+      "end": 1177.24,
+      "text": " or someone else is using your code"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1177.24,
+      "end": 1179.24,
+      "text": " then it will be easy to identify"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1179.24,
+      "end": 1181.24,
+      "text": " which function is returning what"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1181.24,
+      "end": 1183.24,
+      "text": " and which function"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1183.24,
+      "end": 1185.24,
+      "text": " is passing which type of values"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1185.24,
+      "end": 1187.24,
+      "text": " and parameters."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1187.24,
+      "end": 1189.24,
+      "text": " So basically you are telling types."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1189.24,
+      "end": 1191.24,
+      "text": " So this feature has been recently"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1191.24,
+      "end": 1193.24,
+      "text": " added in Python programming."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1193.24,
+      "end": 1195.24,
+      "text": " So I have written everything in the handbook for you."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1195.24,
+      "end": 1197.24,
+      "text": " Now we have advanced type hints"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1197.32,
+      "end": 1199.32,
+      "text": " which you get from the typing module."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1199.32,
+      "end": 1201.32,
+      "text": " So what you can do is"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1201.32,
+      "end": 1203.32,
+      "text": " you can write something like this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1203.32,
+      "end": 1205.32,
+      "text": " from typing type"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1205.32,
+      "end": 1207.32,
+      "text": " you can import list"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1207.32,
+      "end": 1209.32,
+      "text": " there are many more things"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1209.32,
+      "end": 1211.32,
+      "text": " which you can import in advance."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1211.32,
+      "end": 1213.32,
+      "text": " Like you can import"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1213.32,
+      "end": 1215.32,
+      "text": " a type called union"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1215.32,
+      "end": 1217.32,
+      "text": " you can import that"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1217.32,
+      "end": 1219.32,
+      "text": " dick, tuple"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1219.32,
+      "end": 1221.32,
+      "text": " you can import all of these."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1221.32,
+      "end": 1223.32,
+      "text": " And what will be the benefit of importing this?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1223.32,
+      "end": 1225.32,
+      "text": " You can write list of int like this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1225.4,
+      "end": 1227.4,
+      "text": " You can write tuple of str and int like this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1227.4,
+      "end": 1229.4,
+      "text": " Like you can see here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1229.4,
+      "end": 1231.4,
+      "text": " that I am writing list, tuple, dict and union"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1231.4,
+      "end": 1233.4,
+      "text": " in all four."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1233.4,
+      "end": 1235.4,
+      "text": " Let's also do a tuple."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1235.4,
+      "end": 1237.4,
+      "text": " I have also done a tuple here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1237.4,
+      "end": 1239.4,
+      "text": " Now see what happens"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1239.4,
+      "end": 1241.4,
+      "text": " importing list, tuple, dict and union from typing"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1241.4,
+      "end": 1243.4,
+      "text": " is the biggest benefit."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1243.4,
+      "end": 1245.4,
+      "text": " You can say that these numbers are list of integers."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1245.4,
+      "end": 1247.4,
+      "text": " So you have told that it is a list of integers."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1247.4,
+      "end": 1249.4,
+      "text": " You have written it like this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1249.4,
+      "end": 1251.4,
+      "text": " Then you can do one more thing"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1251.4,
+      "end": 1253.4,
+      "text": " that you can say that it is tuple of string and int."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1253.48,
+      "end": 1255.48,
+      "text": " It means tuple of two elements"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1255.48,
+      "end": 1257.48,
+      "text": " one of which is a string"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1257.48,
+      "end": 1259.48,
+      "text": " and one is an integer."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1259.48,
+      "end": 1261.48,
+      "text": " Then you are making a dictionary"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1261.48,
+      "end": 1263.48,
+      "text": " in which you are saying that the key value pairs"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1263.48,
+      "end": 1265.48,
+      "text": " are string and int."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1265.48,
+      "end": 1267.48,
+      "text": " Then you can use union."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1267.48,
+      "end": 1269.48,
+      "text": " Now what is union?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1269.48,
+      "end": 1271.48,
+      "text": " Union means that it can be integer or string."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1271.48,
+      "end": 1273.48,
+      "text": " Anything can be done from both."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1273.48,
+      "end": 1275.48,
+      "text": " These annotations help in making the code self-documenting"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1275.48,
+      "end": 1277.48,
+      "text": " and allows developers to understand"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1277.48,
+      "end": 1279.48,
+      "text": " the data structures used at a glance."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1279.48,
+      "end": 1281.48,
+      "text": " So if you want to hold"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1281.56,
+      "end": 1283.56,
+      "text": " one type or multiple types"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1283.56,
+      "end": 1285.56,
+      "text": " then you can use union."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1285.56,
+      "end": 1287.56,
+      "text": " Now let me tell you about match case."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1287.56,
+      "end": 1289.56,
+      "text": " It was introduced in Python"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1289.56,
+      "end": 1291.56,
+      "text": " from 3.10."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1291.56,
+      "end": 1293.56,
+      "text": " It is very similar to switch statement"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1293.56,
+      "end": 1295.56,
+      "text": " if you have read it in C language."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1295.56,
+      "end": 1297.56,
+      "text": " But let me tell you how it works."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1297.56,
+      "end": 1299.56,
+      "text": " So we will write a program"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1299.56,
+      "end": 1301.56,
+      "text": " for match case."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1301.56,
+      "end": 1303.56,
+      "text": " I will write match underscore case.py"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1303.56,
+      "end": 1305.56,
+      "text": " and I will bring a very simple match case statement."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1305.56,
+      "end": 1307.56,
+      "text": " Let's do it from the code itself."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1307.56,
+      "end": 1309.56,
+      "text": " I will bring it from the code itself."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1309.64,
+      "end": 1311.64,
+      "text": " I will press ctrl c"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1311.64,
+      "end": 1313.64,
+      "text": " and I will show you"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1313.64,
+      "end": 1315.64,
+      "text": " how match case works."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1315.64,
+      "end": 1317.64,
+      "text": " So here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1317.64,
+      "end": 1319.64,
+      "text": " I will format it."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1319.64,
+      "end": 1321.64,
+      "text": " It is not coming out"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1321.64,
+      "end": 1323.64,
+      "text": " from the pdf."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1323.64,
+      "end": 1325.64,
+      "text": " But I will show you"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1325.64,
+      "end": 1327.64,
+      "text": " how it will come."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1327.64,
+      "end": 1329.64,
+      "text": " I will format it quickly."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1329.64,
+      "end": 1331.64,
+      "text": " And here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1331.64,
+      "end": 1333.64,
+      "text": " we have to"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1333.64,
+      "end": 1335.64,
+      "text": " format it properly."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1335.64,
+      "end": 1337.64,
+      "text": " So you see here we have written"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1337.72,
+      "end": 1339.72,
+      "text": " 400, 500, etc."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1339.72,
+      "end": 1341.72,
+      "text": " So what will happen is"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1341.72,
+      "end": 1343.72,
+      "text": " we are making a function"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1343.72,
+      "end": 1345.72,
+      "text": " in which we are matching the status."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1345.72,
+      "end": 1347.72,
+      "text": " If the value of status is 200,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1347.72,
+      "end": 1349.72,
+      "text": " then it will be executed."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1349.72,
+      "end": 1351.72,
+      "text": " If it is 500, then it will be executed."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1351.72,
+      "end": 1353.72,
+      "text": " So what I will do is"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1353.72,
+      "end": 1355.72,
+      "text": " I will print it."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1355.72,
+      "end": 1357.72,
+      "text": " I will print it one by one."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1357.72,
+      "end": 1359.72,
+      "text": " You see if I write"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1359.72,
+      "end": 1361.72,
+      "text": " something like this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1361.72,
+      "end": 1363.72,
+      "text": " http status 200"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1363.72,
+      "end": 1365.72,
+      "text": " then you see what will happen here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1365.8,
+      "end": 1367.8,
+      "text": " But if I write 404"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1367.8,
+      "end": 1369.8,
+      "text": " then you see"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1369.8,
+      "end": 1371.8,
+      "text": " what will happen here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1371.8,
+      "end": 1373.8,
+      "text": " It will print not found."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1373.8,
+      "end": 1375.8,
+      "text": " And if I write 500, then you see what happens here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1375.8,
+      "end": 1377.8,
+      "text": " 500 print."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1377.8,
+      "end": 1379.8,
+      "text": " Internal server error should have been printed."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1379.8,
+      "end": 1381.8,
+      "text": " Why is it happening like this in 500?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1381.8,
+      "end": 1383.8,
+      "text": " I will have to see it."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1383.8,
+      "end": 1385.8,
+      "text": " So if I run it,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1385.8,
+      "end": 1387.8,
+      "text": " I have removed the return from here, which is my bad."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1387.8,
+      "end": 1389.8,
+      "text": " So we have to return here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1389.8,
+      "end": 1391.8,
+      "text": " internal server error, then it will print."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1391.8,
+      "end": 1393.8,
+      "text": " See, it printed internal server error."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1393.88,
+      "end": 1395.88,
+      "text": " If I write a number here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1395.88,
+      "end": 1397.88,
+      "text": " which is not there, then it should show"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1397.88,
+      "end": 1399.88,
+      "text": " unknown status."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1399.88,
+      "end": 1401.88,
+      "text": " Let's see."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1401.88,
+      "end": 1403.88,
+      "text": " I will remove its output here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1405.88,
+      "end": 1407.88,
+      "text": " I will have to return here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1407.88,
+      "end": 1409.88,
+      "text": " I have removed the return from here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1409.88,
+      "end": 1411.88,
+      "text": " Now you see"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1411.88,
+      "end": 1413.88,
+      "text": " unknown status is written here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1413.88,
+      "end": 1415.88,
+      "text": " So I hope you understood"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1415.88,
+      "end": 1417.88,
+      "text": " how matchcase works."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1417.88,
+      "end": 1419.88,
+      "text": " It is pretty straightforward and easy code."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1419.88,
+      "end": 1421.88,
+      "text": " So these were some topics"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1421.96,
+      "end": 1423.96,
+      "text": " that you should know."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1423.96,
+      "end": 1425.96,
+      "text": " Then there is another update to merge the dictionary."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1425.96,
+      "end": 1427.96,
+      "text": " You can update it."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1427.96,
+      "end": 1429.96,
+      "text": " You can create a merged dictionary from two dictionaries."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1429.96,
+      "end": 1431.96,
+      "text": " Suppose there are key value pairs in your dictionary"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1431.96,
+      "end": 1433.96,
+      "text": " and there are key value pairs in another dictionary."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1433.96,
+      "end": 1435.96,
+      "text": " If you want to merge both, then you can do it like this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1435.96,
+      "end": 1437.96,
+      "text": " So I would like you to try this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1437.96,
+      "end": 1439.96,
+      "text": " and make a merged dictionary."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1439.96,
+      "end": 1441.96,
+      "text": " Then there is another update"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1441.96,
+      "end": 1443.96,
+      "text": " that you can use multiple context managers"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1443.96,
+      "end": 1445.96,
+      "text": " in a single with statement."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1445.96,
+      "end": 1447.96,
+      "text": " As we saw, we can open the file"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1447.96,
+      "end": 1449.96,
+      "text": " by opening with."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1450.04,
+      "end": 1452.04,
+      "text": " Here you can"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1452.04,
+      "end": 1454.04,
+      "text": " use with to open"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1454.04,
+      "end": 1456.04,
+      "text": " multiple files."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1456.04,
+      "end": 1458.04,
+      "text": " You can write"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1458.04,
+      "end": 1460.04,
+      "text": " openfile1.txt as f1,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1460.04,
+      "end": 1462.04,
+      "text": " openfile2.txt as f2"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1462.04,
+      "end": 1464.04,
+      "text": " and then you can process both the files."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1464.04,
+      "end": 1466.04,
+      "text": " So these were"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1466.04,
+      "end": 1468.04,
+      "text": " multiple context managers"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1468.04,
+      "end": 1470.04,
+      "text": " that you can use"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1470.04,
+      "end": 1472.04,
+      "text": " in Python programming language."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1472.04,
+      "end": 1474.04,
+      "text": " I hope you enjoyed it."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1474.04,
+      "end": 1476.04,
+      "text": " You can try it."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1476.04,
+      "end": 1478.04,
+      "text": " There are some new features that have been recently added"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1478.12,
+      "end": 1480.12,
+      "text": " You won't get to see all this in my old courses."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1480.12,
+      "end": 1482.12,
+      "text": " But you will get to see it here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1482.12,
+      "end": 1484.12,
+      "text": " Now we will talk about"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1484.12,
+      "end": 1486.12,
+      "text": " exception handling in Python."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1486.12,
+      "end": 1488.12,
+      "text": " I will make a program and I will name it"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1488.12,
+      "end": 1490.12,
+      "text": " 04 underscore exception.py"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1490.12,
+      "end": 1492.12,
+      "text": " And exception handling"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1492.12,
+      "end": 1494.12,
+      "text": " is a very simple thing."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1494.12,
+      "end": 1496.12,
+      "text": " Suppose you wrote a code and you said"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1496.12,
+      "end": 1498.12,
+      "text": " int a is equal to int input"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1498.12,
+      "end": 1500.12,
+      "text": " You wrote a is equal to"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1500.12,
+      "end": 1502.12,
+      "text": " int input and you wrote"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1502.12,
+      "end": 1504.12,
+      "text": " hey, I will remove this try for now."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1504.12,
+      "end": 1506.12,
+      "text": " You wrote a very simple code."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1506.2,
+      "end": 1508.2,
+      "text": " Enter a number."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1508.2,
+      "end": 1510.2,
+      "text": " Enter a number"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1510.2,
+      "end": 1512.2,
+      "text": " and you put a colon."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1512.2,
+      "end": 1514.2,
+      "text": " Now once you put a colon and you did front a"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1514.2,
+      "end": 1516.2,
+      "text": " then suppose I wrote"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1516.2,
+      "end": 1518.2,
+      "text": " my name here by mistake."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1518.2,
+      "end": 1520.2,
+      "text": " The user will do anything."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1520.2,
+      "end": 1522.2,
+      "text": " If the user has power, then he will do anything."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1522.2,
+      "end": 1524.2,
+      "text": " He has a keyboard. He will write."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1524.2,
+      "end": 1526.2,
+      "text": " He will hit enter. Now see, there is an error here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1526.2,
+      "end": 1528.2,
+      "text": " But I didn't want this error to come."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1528.2,
+      "end": 1530.2,
+      "text": " I didn't want this error to come."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1530.2,
+      "end": 1532.2,
+      "text": " I wanted to show the user."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1532.2,
+      "end": 1534.2,
+      "text": " I mean, crashing the program should be the last resort."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1534.28,
+      "end": 1536.28,
+      "text": " In fact, the program should never crash."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1536.28,
+      "end": 1538.28,
+      "text": " In fact, what should happen to you?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1538.28,
+      "end": 1540.28,
+      "text": " The user should see that you are getting an error message"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1540.28,
+      "end": 1542.28,
+      "text": " which is telling the user that you did this thing wrong."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1542.28,
+      "end": 1544.28,
+      "text": " This should not have been the output of this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1544.28,
+      "end": 1546.28,
+      "text": " Its output should have been something like"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1546.28,
+      "end": 1548.28,
+      "text": " hey, please enter a valid number."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1548.28,
+      "end": 1550.28,
+      "text": " If it is not coming, then it is the programmer's fault."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1550.28,
+      "end": 1552.28,
+      "text": " It is the programmer's failure."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1552.28,
+      "end": 1554.28,
+      "text": " So how to remove the programmer's failure?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1554.28,
+      "end": 1556.28,
+      "text": " We use try except."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1556.28,
+      "end": 1558.28,
+      "text": " So we write try here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1558.28,
+      "end": 1560.28,
+      "text": " and after that we write"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1560.28,
+      "end": 1562.28,
+      "text": " except and we write"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1562.36,
+      "end": 1564.36,
+      "text": " exception as e"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1564.36,
+      "end": 1566.36,
+      "text": " and we write print e."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1566.36,
+      "end": 1568.36,
+      "text": " So if I am trying here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1568.36,
+      "end": 1570.36,
+      "text": " that I take an integer value in a"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1570.36,
+      "end": 1572.36,
+      "text": " and then print it"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1572.36,
+      "end": 1574.36,
+      "text": " and then I am writing"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1574.36,
+      "end": 1576.36,
+      "text": " except, then see enter a number."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1576.36,
+      "end": 1578.36,
+      "text": " If I enter the number correctly, then this program will work properly."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1578.36,
+      "end": 1580.36,
+      "text": " I mean, he tried this program."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1580.36,
+      "end": 1582.36,
+      "text": " If it works, then it's a very good thing."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1582.36,
+      "end": 1584.36,
+      "text": " But if this program does not work,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1584.36,
+      "end": 1586.36,
+      "text": " then it will go to the except block"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1586.36,
+      "end": 1588.36,
+      "text": " and whatever you do in the except block,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1588.36,
+      "end": 1590.36,
+      "text": " that will happen."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1590.44,
+      "end": 1592.44,
+      "text": " So I wrote anything here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1592.44,
+      "end": 1594.44,
+      "text": " So see this is invalid literal for int."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1594.44,
+      "end": 1596.44,
+      "text": " My program did not crash. This is not an error."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1596.44,
+      "end": 1598.44,
+      "text": " I am printing explicitly error."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1598.44,
+      "end": 1600.44,
+      "text": " Your program has not crashed."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1600.44,
+      "end": 1602.44,
+      "text": " If your program has crashed,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1602.44,
+      "end": 1604.44,
+      "text": " then nothing below it will work."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1604.44,
+      "end": 1606.44,
+      "text": " Like if I write thank you at the end,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1606.44,
+      "end": 1608.44,
+      "text": " print and if I write"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1608.44,
+      "end": 1610.44,
+      "text": " thank you here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1610.44,
+      "end": 1612.44,
+      "text": " and I put it in double quotes here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1612.44,
+      "end": 1614.44,
+      "text": " If I write thank you here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1614.44,
+      "end": 1616.44,
+      "text": " then thank you will also be printed after the error."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1616.44,
+      "end": 1618.44,
+      "text": " See if I did something like this,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1618.52,
+      "end": 1620.52,
+      "text": " then thank you is also printed."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1620.52,
+      "end": 1622.52,
+      "text": " But if I would have written only this,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1622.52,
+      "end": 1624.52,
+      "text": " a is equal to int enter this"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1624.52,
+      "end": 1626.52,
+      "text": " and this would not have happened."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1626.52,
+      "end": 1628.52,
+      "text": " This would not have been my part above."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1628.52,
+      "end": 1630.52,
+      "text": " And I would have run it."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1630.52,
+      "end": 1632.52,
+      "text": " So now see I did this, I entered,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1632.52,
+      "end": 1634.52,
+      "text": " thank you was not printed because the program crashed from here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1634.52,
+      "end": 1636.52,
+      "text": " Crash means it's over."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1636.52,
+      "end": 1638.52,
+      "text": " Destroyed."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1638.52,
+      "end": 1640.52,
+      "text": " This is an error in the program."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1640.52,
+      "end": 1642.52,
+      "text": " Destroyed."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1642.52,
+      "end": 1644.52,
+      "text": " I hope you are liking this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1644.52,
+      "end": 1646.52,
+      "text": " And you are understanding the topic."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1646.6,
+      "end": 1648.6,
+      "text": " So we will use such things in our programs."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1648.6,
+      "end": 1650.6,
+      "text": " If we have tried something,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1650.6,
+      "end": 1652.6,
+      "text": " then it is a very good thing."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1652.6,
+      "end": 1654.6,
+      "text": " If not, then it will go to accept."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1654.6,
+      "end": 1656.6,
+      "text": " Otherwise, ignoring accept will keep running."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1656.6,
+      "end": 1658.6,
+      "text": " If there is no error in your try block,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1658.6,
+      "end": 1660.6,
+      "text": " then it will ignore the accept block."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1660.6,
+      "end": 1662.6,
+      "text": " Then why will it run in the accept block?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1662.6,
+      "end": 1664.6,
+      "text": " There is no need for it to run in the accept block."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1664.6,
+      "end": 1666.6,
+      "text": " Now you see here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1666.6,
+      "end": 1668.6,
+      "text": " that we can throw a particular type of error."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1668.6,
+      "end": 1670.6,
+      "text": " I will show you how."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1670.6,
+      "end": 1672.6,
+      "text": " What can we do here?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1672.6,
+      "end": 1674.6,
+      "text": " We can say that if there is a zero division error,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1674.68,
+      "end": 1676.68,
+      "text": " then do this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1676.68,
+      "end": 1678.68,
+      "text": " If there is a type error, then do this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1678.68,
+      "end": 1680.68,
+      "text": " Otherwise, for the rest of the errors, do this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1680.68,
+      "end": 1682.68,
+      "text": " So a specific error can be handled."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1682.68,
+      "end": 1684.68,
+      "text": " Like if I show you here,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1684.68,
+      "end": 1686.68,
+      "text": " then this is a value error."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1686.68,
+      "end": 1688.68,
+      "text": " So I can say that if a value error comes,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1688.68,
+      "end": 1690.68,
+      "text": " then what should I do?"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1690.68,
+      "end": 1692.68,
+      "text": " If I write here,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1692.68,
+      "end": 1694.68,
+      "text": " accept value error as v"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1694.68,
+      "end": 1696.68,
+      "text": " and if I print v here,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1696.68,
+      "end": 1698.68,
+      "text": " then you see here,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1698.68,
+      "end": 1700.68,
+      "text": " I did this,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1700.68,
+      "end": 1702.68,
+      "text": " you see here value error is being printed."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1702.76,
+      "end": 1704.76,
+      "text": " If I write here,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1704.76,
+      "end": 1706.76,
+      "text": " and I write here,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1706.76,
+      "end": 1708.76,
+      "text": " then you see here,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1708.76,
+      "end": 1710.76,
+      "text": " it is being printed."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1710.76,
+      "end": 1712.76,
+      "text": " Means this block is running."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1712.76,
+      "end": 1714.76,
+      "text": " The rest of the exceptions will run here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1714.76,
+      "end": 1716.76,
+      "text": " So I handled a particular value error"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1716.76,
+      "end": 1718.76,
+      "text": " in a way."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1718.76,
+      "end": 1720.76,
+      "text": " Maybe if I had a zero division error,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1720.76,
+      "end": 1722.76,
+      "text": " then I would have shown some other message."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1722.76,
+      "end": 1724.76,
+      "text": " Maybe if I had another error,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1724.76,
+      "end": 1726.76,
+      "text": " then I would have shown something else."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1726.76,
+      "end": 1728.76,
+      "text": " So we can do something like this."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1728.76,
+      "end": 1730.76,
+      "text": " I hope you are getting the sense."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1730.84,
+      "end": 1732.84,
+      "text": " Now what happens is that we can raise exceptions."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1732.84,
+      "end": 1734.84,
+      "text": " Like suppose"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1734.84,
+      "end": 1736.84,
+      "text": " I make a program."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1736.84,
+      "end": 1738.84,
+      "text": " I name it raising"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1738.84,
+      "end": 1740.84,
+      "text": " exceptions.py"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1740.84,
+      "end": 1742.84,
+      "text": " Suppose I say"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1742.84,
+      "end": 1744.84,
+      "text": " enter a number."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1744.84,
+      "end": 1746.84,
+      "text": " So I will write a is equal to int"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1746.84,
+      "end": 1748.84,
+      "text": " and I will write enter a number."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1748.84,
+      "end": 1750.84,
+      "text": " After this I will enter another number."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1750.84,
+      "end": 1752.84,
+      "text": " Enter a number,"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1752.84,
+      "end": 1754.84,
+      "text": " then enter second number."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1754.84,
+      "end": 1756.84,
+      "text": " And then I will write"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1756.84,
+      "end": 1758.84,
+      "text": " print, I will put an f string."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1758.92,
+      "end": 1760.92,
+      "text": " The division"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1760.92,
+      "end": 1762.92,
+      "text": " a by b is"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1762.92,
+      "end": 1764.92,
+      "text": " and I will write here a by b."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1764.92,
+      "end": 1766.92,
+      "text": " Suppose I am dividing a and b."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1766.92,
+      "end": 1768.92,
+      "text": " Now suppose I run it here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1768.92,
+      "end": 1770.92,
+      "text": " I run it here."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1770.92,
+      "end": 1772.92,
+      "text": " It is saying"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1772.92,
+      "end": 1774.92,
+      "text": " int of input, I will have to write."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1774.92,
+      "end": 1776.92,
+      "text": " Sorry about that."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1776.92,
+      "end": 1778.92,
+      "text": " And suppose I run it."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1778.92,
+      "end": 1780.92,
+      "text": " I gave it in a, suppose 5."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1780.92,
+      "end": 1782.92,
+      "text": " And I gave the second zero."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1782.92,
+      "end": 1784.92,
+      "text": " So the error has come."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1784.92,
+      "end": 1786.92,
+      "text": " You cannot divide from zero."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1787.0,
+      "end": 1789.0,
+      "text": " Here I have to write"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1789.0,
+      "end": 1791.0,
+      "text": " int input."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1791.0,
+      "end": 1793.0,
+      "text": " I am sorry about that."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1793.0,
+      "end": 1795.0,
+      "text": " So if I write here"
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1795.0,
+      "end": 1797.0,
+      "text": " three after office and then write zero."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1797.0,
+      "end": 1799.0,
+      "text": " Then zero division error has come."
+    },
+    {
+      "number": "17",
+      "title": "part17",
+      "start": 1799.0,
+      "end": 1801.0,
+      "text": " You cannot do division by zero in python."
+    }
+  ],
+  "text": " but what I will do here is I will do R and I in a complex number there is a real part and an imaginary part self.i is equal to i if you haven't read about complex numbers then let me tell you that it is like a vector it doesn't have exactly a vector but it is very similar to vectors in which there is a real part and an imaginary part and they are added separately so if I put a gender method here with the name __sum and I give here self and another complex number c2 so what I will do here is I will return a complex number which will be a complex number I will return that and it will be self.r plus self.r plus c2.r means both the real parts will be added and self.imaginary plus c2.imaginary c2.imaginary, okay? this is our sum formula, okay? now what we will do here is we will return two complex numbers c1 is equal to complex complex 1,2 and c2 will be complex 3,4 okay? 3,4 we can also do 5 but 3,4 is fine okay? and after this what we will do we will print c1 plus c2 and after doing this, you see here I printed c1 plus c2 so it is saying unsupported operands plus for type complex and complex what is going on here? what is going on here? means I can't add c2 in c1 means c1 is a complex number c2 is a complex number I can't add it so sum is not add, basically so this is my mistake I hope this works and you see here it gave me a complex object now you see here str function is playing it is telling me something like this it is not showing me complex number so whenever we want it to show me things like this so what I will do I will put a str method str and what I will do here I will remove this str from here because I will tell you about types later and I will return here one f string in which I will give real part self.r and after this I will give I will write here plus self.imaginary i and after this i this is how complex numbers are represented so I did self.r and plus self.imaginary i and you see here 4 plus 6 i this was 1 plus 2 i this was 3 plus 4 i so 3 and 1 became 4 and 4 and 2 became 6 I hope you understood this and we can do the same for multiply and we have to find formula for multiply in complex number so what happens is there is a formula for multiply in complex number and to derive that formula I will not be able to derive here I will give formula for multiplication of two complex numbers formula to multiply two complex numbers and it will tell me and I will use that formula now it is telling me that a plus bi and c plus di are two complex numbers and it will tell me that this is the formula now I will tell it I will not say anything to it I will come here I simply what I did is my self.r is my first complex number and my c2.r is my second complex number so I can also say chat gpt just to save some time I will say fix this formula in the class complex ok and I will give full code to it so it will correct me and it will correct me and this is how you use AI to your advantage I will do the same thing step by step I will do it with AI it has given me like this so real part and imaginary part we have taken out in different ways if I multiply if I say print and say c1 into c2 so you see it will multiply complex number see minus 5 plus 10 will come so I can ask it what is 1 plus 2i and 3 plus 4i what is 1 plus 2i multiplied by 3 plus 4i it will tell me apply this formula and should my answer be minus 5 plus 10i is it coming minus 5 plus 10i it should be coming if you don't know complex number maybe you will find it complex but again you should know how to do it now we have to make a class vector representing n dimensions we have to overload plus operators and star operators which calculates the sum and dot product of the vectors so to sum the formula of vectors is to sum both and what is the formula of dot product basically what happens in dot product you multiply i,j and k values and sum them so I will make a file 05 underscore problem 5 dot py and I will make a class in it so I have taken a vector class vector and initialized it and I have made an add method which is adding individual elements and then I have multiplied them and summed them and to represent them in a string I have written it like this so let's test its implementation and see what we have done vector 5,7,9 is coming as sum then multiplied by 32 and here 8,10 and 12 and here 50 amazing let's move on to the next question now we have to write an str method to print the vector as follows assume vector of dimension 3 for this problem so we will take the same question and here I will simply change the str method problem 6 dot py and here you can see that I have written something like this but now I will change this f string and after changing this f string I will write i and then I will put a bracket and then I will write j and then I will write k k and now I will print it and see the vector is being printed we don't need comma, we need plus I will write it correctly so that there are no errors so 5i7j9 you can see it coming like this and we have assumed vector of dimension 3 now we have to overwrite the len method on vector of problem 5 to display the dimension of the vector so if I do len of any vector let me show you problem 7 7 dot py and I will take this and I have made a vector if I take print len of v1 so what will happen it will ask me what is len I don't know what is len of vector so for this I will define a len function which will take self and what will I return I will return 3 so here I will return 3 overwrite the len method of problem 5 to display the dimension of the vector now here if my variables if the length of my vector was variable then I would have passed a list I would have passed it like this I would have passed it like this 1,2,3, this is a 3 dimension vector so what I will do here I will take list then I will say self dot x comma self dot y comma self dot z is equal to what will happen here comma self dot z is equal to list or let's make it l and after doing this our x, y, z will be set so x, y, z are set here and for length I will simply say return and here instead of x, y, z I will set this l self dot l is equal to l so that I can get the length of l so I will remove all these methods and I will simply return len of self dot l and let's see if it is printing 3 or not so multiple solutions can be a problem I hope you understood this question and you got clarity I hope I made things easy for you now we will move ahead in this python course see you then music so now we will talk about our project 2 which is the perfect guess what is this game I will tell you we have to write a program that generates a random number and ask the user to guess it so a random number will be generated then if you have entered the number you have told it correctly in all the number of guesses you have told it is that good means in all the less number of guesses you have told it is that good and lower number please, higher number please like that will give the indication like suppose there is a number you have to guess between 1 to 100 so I have told 42 now if you type 42 it will ask you higher number please if you type 79 it will ask you lower number please until you guess the correct number and in all the guesses in all the less guesses it is better so what we have to do here when the user guesses the correct number the program displays the number of guesses the player used to arrive at a number then another person will play and the one who has less number of guesses will win, so let's do this so what I will do here I will make a folder named project2 so project2 and here I will simply open with quote and here I will make a file named main.py main.py now here I will show you one thing now what I will do here I will say guess a number so I will print and I will write A is equal to int of input and after this I will write guess a number it is a very simple thing after writing guess a number you will guess a number and I will use a random module and I will generate a random integer, I will say n is equal to random dot randint and it will be between 1 to 100 so between 1 to 100 you will guess a number and I will write guess the number I will say guess the number and I will put this thing in while loop and what will be the condition of while A is not equal to n I will fine tune this but for now I will say A is equal to int of input, guess the number so I will make A equal to minus 1 because A is never minus 1 and my n number is never minus 1 so this condition will always be true when I will make A equal to minus 1 now what I am saying here while A is not equal to n we have to guess A is equal to now what we have to do if A is equal to n then it will break it will automatically break and here we will do guess is equal to guess is equal to 0 and here guess is plus equal to 1 now if your number if A is greater than n then you will print lower number please lower number please and otherwise what you will do otherwise you will say higher number please higher number please if A is greater than then you will say lower number please and if A is less than higher number please A is less than n, give me a bigger number and finally what will happen when you have guessed the number correctly then it will say you have guessed the number so finally what will happen when this loop will break then I will print you have guessed the number correctly in guess is attempt and I will make this as an f string so here if I have guessed in this many attempts then I will say in guess is attempt now I will run this and after running guess the number, I will say 3 higher number please, ok, 44 higher number please, 55 higher number please higher number please higher number please lower number pleased ok, so 86 higher number please ok 88, on 88 it said higher number please, so I will say 89 higher number please 99, 90 also higher number please 93, please 99 lower number please 94 please lower number 95 higher number please 96 correct number in 15 attempts. Here I will write correct number and I will also write number here. I will write n here, which is our actual number. So let's play this game again. Guess the number 3, higher number please. 66, lower number please. 55, lower number please. 44, lower number please. 33, lower number please. 22, lower number please. 12, lower number please. 5, higher number please. 7, 8, 9. Okay, so you have guessed the correct number, guessed the number 9 correctly in 12 attempts. So it is telling me how many attempts I have guessed. So, this is how we will do it. Now here you can see that in our guesses it will come A is not equal to n. Our guesses will increase. Then finally if our guess is correct, if our guess is correct, let's say we have guessed correctly, then what will it do? It will print something here and will take us out of the loop. But I don't want that finally when our number is equal, still this higher number is printed. So I will say this if A is less than n. So if A is equal to n, if A is equal to n, then nothing will happen. And I will do guesses plus equals to 1 at the end. And guesses is equal to 1, so one guess will be taken. So as this loop will continue, the guesses will increase, increase, increase. And finally what will happen that the number of guesses you have, will finally be reported here. Now what I will do here that the guesses I have written, I will put it in the elif. I will put it in the elif because I don't want the value of guesses to be plus or equal to 1 in any other case. So I will do it here like this. guesses plus equals to 1, guesses plus equals to 1. You have guessed the number n correctly in guesses attempts. It will come like this. I hope you liked this project. Now you have to play this with your friends. It is a very simple game. I do 33, do 44, do 55, do 66, do 50, higher number is saying, do 52, do 53, do 54, do 55, do 57, did 57, did 59, do 61, 61, 61 is also a lower number, it means it is 60 and yes said you guessed in 16 attempts. So yeah that was about project number 2. Now we will move forward in this course. And I will meet you in the next chapter. Intro So today we will talk about some of the newly added features in Python. These are the features that make this course exclusive. I will tell you which features you can use at any time and make your Python programs efficient and strong. Let's start with the first feature which is Valorous operator. So what we will do, I will close this here and I will come here, this is chapter number 12, so I will make a folder in the name of chapter 12 and I will open it in VS Code. And here our first program will be 01 underscore valorous.py 01 underscore valorous.py and in valorous.py, which is our program, I will tell you the usage of valorous operator. So there is an operator, valorous operator, which was introduced from Python 3.8 onwards and allows you to assign values to variables as part of an expression. Means one expression will be part of your code and it will do two things, that you can use your expression plus you can assign it to a variable. Now I will show you how this thing works. So I will copy this code and I will paste this code here and I will format it properly. For some reason, formatting is not done properly and you see here, I will comment it out. So we wrote n valorous operator and len of this list is greater than 3. So I can do two things in one statement. I don't need to write that n is equal to and then after that if n. So I did this in one line and this is basically a convenience method. Means to do two things in the same line of code. So here I will run it. So what will happen? That list is too long, five elements expected. It came here after writing. So this will be evaluated in true plus the value of n will be assigned by the length of this list. So this is a very simple operator. You should know. Modern programs use it a lot. Now type definition is a very important topic and type definition is such a thing that you should know and it makes your work very easy. Now assume that I make a variable. I am making a variable whose name is n and I write here n is equal to I write 5. Now if I write n. Assume I will write n.is Assume I write n. So what will happen? I want that if this is an integer then I get all the methods of the integer. Do you understand? So what can I do? I can explicitly tell python that my n will be an integer and now if I write n. then I will get all the methods of the integer. OK? So n is an integer. I told python this. Was it necessary to write this? colon int? No, it was not necessary. So basically I marked here n as a string. If I want to keep name as an str I marked n as an integer. If I want to mark name as a string then I can do something like this. I will put a colon here and write Harry. And you see name colon str is equal to Harry. I wrote it here. Now what will happen in functions? How can we do this in functions? Types can be done in this way. Assume I am writing a function named sum. Which takes a and b. And it returns an int. So I can write something like this. Sum takes a as an integer. b as an integer. And returns an integer. So I can write here return a plus b. OK? So I can do this. And if I do this once, what will happen? Now if I write here Assume I will write sum and it is telling me to give a an integer and b an integer. So what happens is when a programmer is coding and you are using someone else's code or someone else is using your code then it will be easy to identify which function is returning what and which function is passing which type of values and parameters. So basically you are telling types. So this feature has been recently added in Python programming. So I have written everything in the handbook for you. Now we have advanced type hints which you get from the typing module. So what you can do is you can write something like this from typing type you can import list there are many more things which you can import in advance. Like you can import a type called union you can import that dick, tuple you can import all of these. And what will be the benefit of importing this? You can write list of int like this. You can write tuple of str and int like this. Like you can see here that I am writing list, tuple, dict and union in all four. Let's also do a tuple. I have also done a tuple here. Now see what happens importing list, tuple, dict and union from typing is the biggest benefit. You can say that these numbers are list of integers. So you have told that it is a list of integers. You have written it like this. Then you can do one more thing that you can say that it is tuple of string and int. It means tuple of two elements one of which is a string and one is an integer. Then you are making a dictionary in which you are saying that the key value pairs are string and int. Then you can use union. Now what is union? Union means that it can be integer or string. Anything can be done from both. These annotations help in making the code self-documenting and allows developers to understand the data structures used at a glance. So if you want to hold one type or multiple types then you can use union. Now let me tell you about match case. It was introduced in Python from 3.10. It is very similar to switch statement if you have read it in C language. But let me tell you how it works. So we will write a program for match case. I will write match underscore case.py and I will bring a very simple match case statement. Let's do it from the code itself. I will bring it from the code itself. I will press ctrl c and I will show you how match case works. So here I will format it. It is not coming out from the pdf. But I will show you how it will come. I will format it quickly. And here we have to format it properly. So you see here we have written 400, 500, etc. So what will happen is we are making a function in which we are matching the status. If the value of status is 200, then it will be executed. If it is 500, then it will be executed. So what I will do is I will print it. I will print it one by one. You see if I write something like this http status 200 then you see what will happen here. But if I write 404 then you see what will happen here. It will print not found. And if I write 500, then you see what happens here. 500 print. Internal server error should have been printed. Why is it happening like this in 500? I will have to see it. So if I run it, I have removed the return from here, which is my bad. So we have to return here internal server error, then it will print. See, it printed internal server error. If I write a number here which is not there, then it should show unknown status. Let's see. I will remove its output here. I will have to return here. I have removed the return from here. Now you see unknown status is written here. So I hope you understood how matchcase works. It is pretty straightforward and easy code. So these were some topics that you should know. Then there is another update to merge the dictionary. You can update it. You can create a merged dictionary from two dictionaries. Suppose there are key value pairs in your dictionary and there are key value pairs in another dictionary. If you want to merge both, then you can do it like this. So I would like you to try this and make a merged dictionary. Then there is another update that you can use multiple context managers in a single with statement. As we saw, we can open the file by opening with. Here you can use with to open multiple files. You can write openfile1.txt as f1, openfile2.txt as f2 and then you can process both the files. So these were multiple context managers that you can use in Python programming language. I hope you enjoyed it. You can try it. There are some new features that have been recently added You won't get to see all this in my old courses. But you will get to see it here. Now we will talk about exception handling in Python. I will make a program and I will name it 04 underscore exception.py And exception handling is a very simple thing. Suppose you wrote a code and you said int a is equal to int input You wrote a is equal to int input and you wrote hey, I will remove this try for now. You wrote a very simple code. Enter a number. Enter a number and you put a colon. Now once you put a colon and you did front a then suppose I wrote my name here by mistake. The user will do anything. If the user has power, then he will do anything. He has a keyboard. He will write. He will hit enter. Now see, there is an error here. But I didn't want this error to come. I didn't want this error to come. I wanted to show the user. I mean, crashing the program should be the last resort. In fact, the program should never crash. In fact, what should happen to you? The user should see that you are getting an error message which is telling the user that you did this thing wrong. This should not have been the output of this. Its output should have been something like hey, please enter a valid number. If it is not coming, then it is the programmer's fault. It is the programmer's failure. So how to remove the programmer's failure? We use try except. So we write try here and after that we write except and we write exception as e and we write print e. So if I am trying here that I take an integer value in a and then print it and then I am writing except, then see enter a number. If I enter the number correctly, then this program will work properly. I mean, he tried this program. If it works, then it's a very good thing. But if this program does not work, then it will go to the except block and whatever you do in the except block, that will happen. So I wrote anything here. So see this is invalid literal for int. My program did not crash. This is not an error. I am printing explicitly error. Your program has not crashed. If your program has crashed, then nothing below it will work. Like if I write thank you at the end, print and if I write thank you here and I put it in double quotes here. If I write thank you here then thank you will also be printed after the error. See if I did something like this, then thank you is also printed. But if I would have written only this, a is equal to int enter this and this would not have happened. This would not have been my part above. And I would have run it. So now see I did this, I entered, thank you was not printed because the program crashed from here. Crash means it's over. Destroyed. This is an error in the program. Destroyed. I hope you are liking this. And you are understanding the topic. So we will use such things in our programs. If we have tried something, then it is a very good thing. If not, then it will go to accept. Otherwise, ignoring accept will keep running. If there is no error in your try block, then it will ignore the accept block. Then why will it run in the accept block? There is no need for it to run in the accept block. Now you see here that we can throw a particular type of error. I will show you how. What can we do here? We can say that if there is a zero division error, then do this. If there is a type error, then do this. Otherwise, for the rest of the errors, do this. So a specific error can be handled. Like if I show you here, then this is a value error. So I can say that if a value error comes, then what should I do? If I write here, accept value error as v and if I print v here, then you see here, I did this, you see here value error is being printed. If I write here, and I write here, then you see here, it is being printed. Means this block is running. The rest of the exceptions will run here. So I handled a particular value error in a way. Maybe if I had a zero division error, then I would have shown some other message. Maybe if I had another error, then I would have shown something else. So we can do something like this. I hope you are getting the sense. Now what happens is that we can raise exceptions. Like suppose I make a program. I name it raising exceptions.py Suppose I say enter a number. So I will write a is equal to int and I will write enter a number. After this I will enter another number. Enter a number, then enter second number. And then I will write print, I will put an f string. The division a by b is and I will write here a by b. Suppose I am dividing a and b. Now suppose I run it here. I run it here. It is saying int of input, I will have to write. Sorry about that. And suppose I run it. I gave it in a, suppose 5. And I gave the second zero. So the error has come. You cannot divide from zero. Here I have to write int input. I am sorry about that. So if I write here three after office and then write zero. Then zero division error has come. You cannot do division by zero in python."
+}

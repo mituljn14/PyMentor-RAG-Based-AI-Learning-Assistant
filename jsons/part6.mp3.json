@@ -1,0 +1,6095 @@
+{
+  "chunks": [
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 0.0,
+      "end": 5.0,
+      "text": " and if you write complex logic then it will be computationally expensive"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 5.0,
+      "end": 8.0,
+      "text": " well these are high level things so I will delete them"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 8.0,
+      "end": 14.0,
+      "text": " but in general you should understand that dictionary data type is very important in python programming"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 14.0,
+      "end": 16.0,
+      "text": " and it is very important for us to understand it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 16.0,
+      "end": 18.0,
+      "text": " coming back to the notes"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 18.0,
+      "end": 22.0,
+      "text": " if you have written key, value, harry code, marks 100, list"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 22.0,
+      "end": 26.0,
+      "text": " then you can print its values like this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 26.0,
+      "end": 30.0,
+      "text": " similarly if you write a list then you will get 1 to 9"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 30.0,
+      "end": 34.0,
+      "text": " because list key corresponding is 1 to 9"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 34.0,
+      "end": 37.0,
+      "text": " great, I hope that makes sense"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 37.0,
+      "end": 39.0,
+      "text": " properties of python dictionaries"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 39.0,
+      "end": 41.0,
+      "text": " now let's talk about some properties of this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 41.0,
+      "end": 46.0,
+      "text": " first it is unordered, second it is mutable, third it is indexed"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 46.0,
+      "end": 48.0,
+      "text": " what does it mean?"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 48.0,
+      "end": 50.0,
+      "text": " it means that first order doesn't matter in this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 50.0,
+      "end": 53.0,
+      "text": " second thing it is mutable"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 53.0,
+      "end": 54.0,
+      "text": " what does mutable mean?"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 54.0,
+      "end": 56.0,
+      "text": " it means that we can change it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 56.0,
+      "end": 62.0,
+      "text": " list was mutable, string was immutable, tuple was immutable"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 62.0,
+      "end": 64.0,
+      "text": " dictionary is in the game, it is mutable"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 64.0,
+      "end": 67.0,
+      "text": " it means that you can change existing dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 67.0,
+      "end": 69.0,
+      "text": " you can add things in dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 69.0,
+      "end": 72.0,
+      "text": " you can change corresponding values of existing keys"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 72.0,
+      "end": 77.0,
+      "text": " and along with that it can't have duplicate keys"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 77.0,
+      "end": 79.0,
+      "text": " so this is a very good thing"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 79.0,
+      "end": 82.0,
+      "text": " indexed means that it is indexed"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 82.0,
+      "end": 87.0,
+      "text": " if you say rohan then you will get 23 immediately"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 87.0,
+      "end": 89.0,
+      "text": " it won't look up one by one"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 89.0,
+      "end": 91.0,
+      "text": " it won't check marks first"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 91.0,
+      "end": 93.0,
+      "text": " whether this is rohan or not"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 93.0,
+      "end": 95.0,
+      "text": " it will get it by indexing"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 95.0,
+      "end": 98.0,
+      "text": " and corresponding 23 will be printed by rohan"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 98.0,
+      "end": 101.0,
+      "text": " so let's see some methods of dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 101.0,
+      "end": 104.0,
+      "text": " so we will keep our dictionary marks exactly there"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 104.0,
+      "end": 107.0,
+      "text": " and after that we will see dict methods"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 107.0,
+      "end": 109.0,
+      "text": " so i will write methods here .py"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 109.0,
+      "end": 112.0,
+      "text": " and i will keep dictionary marks here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 112.0,
+      "end": 117.0,
+      "text": " so can key value pairs be like 0, Harry?"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 117.0,
+      "end": 119.0,
+      "text": " yes it can be"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 119.0,
+      "end": 123.0,
+      "text": " here you can use string and here you can use integers"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 123.0,
+      "end": 127.0,
+      "text": " now i want to tell you some methods of dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 127.0,
+      "end": 129.0,
+      "text": " so the first method of dictionary is .items"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 129.0,
+      "end": 133.0,
+      "text": " so if i print here and i say marks.items"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 133.0,
+      "end": 135.0,
+      "text": " so what marks.items does is"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 135.0,
+      "end": 137.0,
+      "text": " it gives us all these items of dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 137.0,
+      "end": 141.0,
+      "text": " means it gives a list of key value pairs"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 141.0,
+      "end": 144.0,
+      "text": " and key value pairs are in tuples form"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 144.0,
+      "end": 146.0,
+      "text": " now i will tell you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 146.0,
+      "end": 149.0,
+      "text": " so if i print marks.items here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 149.0,
+      "end": 151.0,
+      "text": " so you can see i got dict items"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 151.0,
+      "end": 154.0,
+      "text": " now i can iterate this using for loop"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 154.0,
+      "end": 155.0,
+      "text": " which we will read later"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 155.0,
+      "end": 159.0,
+      "text": " next method is .keys"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 159.0,
+      "end": 161.0,
+      "text": " if i print here a.keys"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 161.0,
+      "end": 165.0,
+      "text": " if i print here marks.keys"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 165.0,
+      "end": 167.0,
+      "text": " in this way i will get marks keys"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 167.0,
+      "end": 170.0,
+      "text": " you can see i got marks keys"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 170.0,
+      "end": 171.0,
+      "text": " now i will do one thing"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 171.0,
+      "end": 174.0,
+      "text": " just so that you have this code"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 174.0,
+      "end": 175.0,
+      "text": " so i will write it like this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 175.0,
+      "end": 177.0,
+      "text": " so what is the meaning of keys"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 177.0,
+      "end": 179.0,
+      "text": " it is harry,shubham,rohan and 0"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 179.0,
+      "end": 181.0,
+      "text": " means the one on your left hand side"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 181.0,
+      "end": 183.0,
+      "text": " and on your right hand side"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 183.0,
+      "end": 185.0,
+      "text": " your 156,23 are values"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 185.0,
+      "end": 187.0,
+      "text": " and we can print them"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 187.0,
+      "end": 189.0,
+      "text": " by doing marks.values"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 189.0,
+      "end": 191.0,
+      "text": " so if i do marks.values"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 191.0,
+      "end": 193.0,
+      "text": " so you can see values of dictionary are printed"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 193.0,
+      "end": 195.0,
+      "text": " so i hope you understood"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 195.0,
+      "end": 197.0,
+      "text": " what is marks.values"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 197.0,
+      "end": 199.0,
+      "text": " and what is marks.keys"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 199.0,
+      "end": 201.0,
+      "text": " now what we can do"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 201.0,
+      "end": 203.0,
+      "text": " we can update"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 203.0,
+      "end": 205.0,
+      "text": " and we can update our dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 205.0,
+      "end": 207.0,
+      "text": " for example if i write here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 207.0,
+      "end": 209.0,
+      "text": " that marks"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 209.0,
+      "end": 211.0,
+      "text": " if i write here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 211.0,
+      "end": 213.0,
+      "text": " marks.update"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 213.0,
+      "end": 215.0,
+      "text": " and i will say that"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 215.0,
+      "end": 217.0,
+      "text": " my dictionary is harry"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 217.0,
+      "end": 219.0,
+      "text": " so you can cut his marks by 99"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 219.0,
+      "end": 221.0,
+      "text": " means you should not give 100"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 221.0,
+      "end": 223.0,
+      "text": " so we cut one mark"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 223.0,
+      "end": 225.0,
+      "text": " so this happens in cbse"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 225.0,
+      "end": 227.0,
+      "text": " if you know then tell me in the comment"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 227.0,
+      "end": 229.0,
+      "text": " so we cut one mark"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 229.0,
+      "end": 231.0,
+      "text": " so you can see here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 231.0,
+      "end": 233.0,
+      "text": " marks.update harry colon 99"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 233.0,
+      "end": 235.0,
+      "text": " so my original dictionary will be updated"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 235.0,
+      "end": 237.0,
+      "text": " and this will happen"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 237.0,
+      "end": 239.0,
+      "text": " because my dictionary is mutable"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 239.0,
+      "end": 241.0,
+      "text": " so you will get"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 241.0,
+      "end": 243.0,
+      "text": " the proof of mutability"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 243.0,
+      "end": 245.0,
+      "text": " so i will print marks"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 245.0,
+      "end": 247.0,
+      "text": " and i will comment"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 247.0,
+      "end": 249.0,
+      "text": " values print"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 249.0,
+      "end": 251.0,
+      "text": " so you can see that in our original dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 251.0,
+      "end": 253.0,
+      "text": " harry is 99"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 253.0,
+      "end": 255.0,
+      "text": " means you update marks.update"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 255.0,
+      "end": 257.0,
+      "text": " and pass a new dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 257.0,
+      "end": 259.0,
+      "text": " and in that dictionary the keys"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 259.0,
+      "end": 261.0,
+      "text": " that are matching"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 261.0,
+      "end": 263.0,
+      "text": " they get updated and the keys that are not"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 263.0,
+      "end": 265.0,
+      "text": " like renu"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 265.0,
+      "end": 267.0,
+      "text": " i will say that renu is more intelligent than harry"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 267.0,
+      "end": 269.0,
+      "text": " he has 100 marks"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 269.0,
+      "end": 271.0,
+      "text": " so renu will also get added"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 271.0,
+      "end": 273.0,
+      "text": " so the keys that are not matching"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 273.0,
+      "end": 275.0,
+      "text": " they will get added"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 275.0,
+      "end": 277.0,
+      "text": " if i write marks.update"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 277.0,
+      "end": 279.0,
+      "text": " i will tell you easily"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 279.0,
+      "end": 281.0,
+      "text": " i wrote marks.update"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 281.0,
+      "end": 283.0,
+      "text": " and passed a new dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 283.0,
+      "end": 285.0,
+      "text": " so the dictionary that i passed"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 285.0,
+      "end": 287.0,
+      "text": " the keys that are matching"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 287.0,
+      "end": 289.0,
+      "text": " they will get updated"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 289.0,
+      "end": 291.0,
+      "text": " like harry was 100"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 291.0,
+      "end": 293.0,
+      "text": " so it will get updated"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 293.0,
+      "end": 295.0,
+      "text": " and the keys that are not matching"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 295.0,
+      "end": 297.0,
+      "text": " like renu"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 297.0,
+      "end": 299.0,
+      "text": " it will get added"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 299.0,
+      "end": 301.0,
+      "text": " so the dictionary will get updated"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 301.0,
+      "end": 303.0,
+      "text": " so the key value pairs"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 303.0,
+      "end": 305.0,
+      "text": " keeping them"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 305.0,
+      "end": 307.0,
+      "text": " the dictionary will get updated"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 307.0,
+      "end": 309.0,
+      "text": " so this was our update method"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 309.0,
+      "end": 311.0,
+      "text": " which is a very simple"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 311.0,
+      "end": 313.0,
+      "text": " and straight forward method"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 313.0,
+      "end": 315.0,
+      "text": " now i will tell you get method"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 315.0,
+      "end": 317.0,
+      "text": " what is the meaning of get method"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 317.0,
+      "end": 319.0,
+      "text": " i will write a.get name"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 319.0,
+      "end": 321.0,
+      "text": " it will return the value of the specified keys"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 321.0,
+      "end": 323.0,
+      "text": " and value is returned"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 323.0,
+      "end": 325.0,
+      "text": " so i will show you here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 325.0,
+      "end": 327.0,
+      "text": " if i come here and i will write"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 327.0,
+      "end": 329.0,
+      "text": " and i will write marks.get"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 329.0,
+      "end": 331.0,
+      "text": " if i write shivika"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 331.0,
+      "end": 333.0,
+      "text": " i want to show you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 333.0,
+      "end": 335.0,
+      "text": " so i will get none"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 335.0,
+      "end": 337.0,
+      "text": " and if i write harry"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 337.0,
+      "end": 339.0,
+      "text": " so what will happen"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 339.0,
+      "end": 341.0,
+      "text": " so i will get harry's marks"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 341.0,
+      "end": 343.0,
+      "text": " which is 100, i have commented out"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 343.0,
+      "end": 345.0,
+      "text": " 99 so it is showing 100"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 345.0,
+      "end": 347.0,
+      "text": " now you will say"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 347.0,
+      "end": 349.0,
+      "text": " marks.get harry"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 349.0,
+      "end": 351.0,
+      "text": " and this one"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 351.0,
+      "end": 353.0,
+      "text": " marks harry"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 353.0,
+      "end": 355.0,
+      "text": " what is the difference in this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 355.0,
+      "end": 357.0,
+      "text": " this comes in interview so listen carefully"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 357.0,
+      "end": 359.0,
+      "text": " what i am telling you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 359.0,
+      "end": 361.0,
+      "text": " if you say to me"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 361.0,
+      "end": 363.0,
+      "text": " marks.get harry"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 363.0,
+      "end": 365.0,
+      "text": " and marks harry"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 365.0,
+      "end": 367.0,
+      "text": " means you said that this is marks.get harry"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 367.0,
+      "end": 369.0,
+      "text": " this is marks harry"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 369.0,
+      "end": 371.0,
+      "text": " if you say to me that"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 371.0,
+      "end": 373.0,
+      "text": " they are same so i will say no they are not same"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 373.0,
+      "end": 375.0,
+      "text": " why they are not same"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 375.0,
+      "end": 377.0,
+      "text": " because if i run this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 377.0,
+      "end": 379.0,
+      "text": " they gave me 100, 100"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 379.0,
+      "end": 381.0,
+      "text": " but if i write harry2"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 381.0,
+      "end": 383.0,
+      "text": " so this line will give me none"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 383.0,
+      "end": 385.0,
+      "text": " but this line will give me error"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 385.0,
+      "end": 387.0,
+      "text": " so if you use square bracket"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 387.0,
+      "end": 389.0,
+      "text": " syntax then you will get error"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 389.0,
+      "end": 391.0,
+      "text": " if key does not exist in"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 391.0,
+      "end": 393.0,
+      "text": " the dictionary and if you use"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 393.0,
+      "end": 395.0,
+      "text": " .get method then you will get none"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 395.0,
+      "end": 397.0,
+      "text": " so i will run this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 397.0,
+      "end": 399.0,
+      "text": " so you will get to know that key error came"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 399.0,
+      "end": 401.0,
+      "text": " but here you got none"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 401.0,
+      "end": 403.0,
+      "text": " i will write here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 403.0,
+      "end": 405.0,
+      "text": " prints none"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 405.0,
+      "end": 407.0,
+      "text": " prints none"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 407.0,
+      "end": 409.0,
+      "text": " and what will it do, returns an error"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 409.0,
+      "end": 411.0,
+      "text": " it will return an error"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 411.0,
+      "end": 413.0,
+      "text": " as simple as that"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 413.0,
+      "end": 415.0,
+      "text": " so i hope you understood"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 415.0,
+      "end": 417.0,
+      "text": " so these were some methods of our dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 417.0,
+      "end": 419.0,
+      "text": " now again i will tell you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 419.0,
+      "end": 421.0,
+      "text": " to go to docs but"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 421.0,
+      "end": 423.0,
+      "text": " i will tell you better than docs to go to chat gpt"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 423.0,
+      "end": 425.0,
+      "text": " and go to chat gpt"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 425.0,
+      "end": 427.0,
+      "text": " and ask chat gpt"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 427.0,
+      "end": 429.0,
+      "text": " give me some"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 429.0,
+      "end": 431.0,
+      "text": " dictionary methods"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 431.0,
+      "end": 433.0,
+      "text": " and here if you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 433.0,
+      "end": 435.0,
+      "text": " write python then it will be a good prompt"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 435.0,
+      "end": 437.0,
+      "text": " give me some python dictionary methods"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 437.0,
+      "end": 439.0,
+      "text": " and here see dig.clear"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 439.0,
+      "end": 441.0,
+      "text": " this method clears the dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 441.0,
+      "end": 443.0,
+      "text": " another method is dig.copy"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 443.0,
+      "end": 445.0,
+      "text": " it makes a shallow copy of the dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 445.0,
+      "end": 447.0,
+      "text": " from keys"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 447.0,
+      "end": 449.0,
+      "text": " you can use it to make a new dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 449.0,
+      "end": 451.0,
+      "text": " in which what will happen"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 451.0,
+      "end": 453.0,
+      "text": " that the keys will be taken from here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 453.0,
+      "end": 455.0,
+      "text": " and value will be zero"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 455.0,
+      "end": 457.0,
+      "text": " so these are some methods which you can use"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 457.0,
+      "end": 459.0,
+      "text": " pop, pop item, set default"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 459.0,
+      "end": 461.0,
+      "text": " update"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 461.0,
+      "end": 463.0,
+      "text": " but the examples i have told you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 463.0,
+      "end": 465.0,
+      "text": " here are the most important"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 465.0,
+      "end": 467.0,
+      "text": " methods, rest you can"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 467.0,
+      "end": 469.0,
+      "text": " use chat gpt and google"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 469.0,
+      "end": 471.0,
+      "text": " pop method is very famous"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 471.0,
+      "end": 473.0,
+      "text": " you must try it out"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 473.0,
+      "end": 475.0,
+      "text": " so i will tell you which"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 475.0,
+      "end": 477.0,
+      "text": " methods you must try out"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 477.0,
+      "end": 479.0,
+      "text": " first you must know pop method"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 479.0,
+      "end": 481.0,
+      "text": " where is pop method"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 481.0,
+      "end": 483.0,
+      "text": " you must know pop method"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 483.0,
+      "end": 485.0,
+      "text": " after this pop item"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 485.0,
+      "end": 487.0,
+      "text": " you must know, so pop and pop"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 487.0,
+      "end": 489.0,
+      "text": " item you can see, rest i have told you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 489.0,
+      "end": 491.0,
+      "text": " i hope you understood"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 491.0,
+      "end": 493.0,
+      "text": " and now we will talk about sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 493.0,
+      "end": 495.0,
+      "text": " yes we are going to talk about sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 495.0,
+      "end": 497.0,
+      "text": " what is set, set is a collection"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 497.0,
+      "end": 499.0,
+      "text": " of well defined objects"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 499.0,
+      "end": 501.0,
+      "text": " if you are a science student"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 501.0,
+      "end": 503.0,
+      "text": " then you must have remembered"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 503.0,
+      "end": 505.0,
+      "text": " set is a collection of well defined objects"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 505.0,
+      "end": 507.0,
+      "text": " and here i will teach you some mathematics"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 507.0,
+      "end": 509.0,
+      "text": " you must have remembered"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 509.0,
+      "end": 511.0,
+      "text": " mathematics"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 511.0,
+      "end": 513.0,
+      "text": " you will remember mathematics because"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 513.0,
+      "end": 515.0,
+      "text": " it is based on mathematics"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 515.0,
+      "end": 517.0,
+      "text": " it is based on mathematics"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 517.0,
+      "end": 519.0,
+      "text": " if you have seen chapter no 1"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 519.0,
+      "end": 521.0,
+      "text": " in your class 11"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 521.0,
+      "end": 523.0,
+      "text": " i am talking to a science student"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 523.0,
+      "end": 525.0,
+      "text": " commerce students also study math"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 525.0,
+      "end": 527.0,
+      "text": " so you will know"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 527.0,
+      "end": 529.0,
+      "text": " how this set works"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 529.0,
+      "end": 531.0,
+      "text": " so i will tell you from the start"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 531.0,
+      "end": 533.0,
+      "text": " so what i will do here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 533.0,
+      "end": 535.0,
+      "text": " 03 underscore"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 535.0,
+      "end": 537.0,
+      "text": " sets.py"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 537.0,
+      "end": 539.0,
+      "text": " if i write here s is equal to"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 539.0,
+      "end": 541.0,
+      "text": " if i write like this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 541.0,
+      "end": 543.0,
+      "text": " so what will happen, it will become an empty dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 543.0,
+      "end": 545.0,
+      "text": " if i"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 545.0,
+      "end": 547.0,
+      "text": " do like this, it will become a set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 547.0,
+      "end": 549.0,
+      "text": " so if you want to make an empty dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 549.0,
+      "end": 551.0,
+      "text": " i will write here, if you want to make an empty dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 551.0,
+      "end": 553.0,
+      "text": " d is equal to"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 553.0,
+      "end": 555.0,
+      "text": " if you do like this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 555.0,
+      "end": 557.0,
+      "text": " d is equal to"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 557.0,
+      "end": 559.0,
+      "text": " so what will happen, it will become an empty dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 559.0,
+      "end": 561.0,
+      "text": " so i will write here, comment"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 561.0,
+      "end": 563.0,
+      "text": " empty dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 563.0,
+      "end": 565.0,
+      "text": " this is the way to make an empty dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 565.0,
+      "end": 567.0,
+      "text": " so i will explain you things on repel"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 567.0,
+      "end": 569.0,
+      "text": " so if you write python here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 569.0,
+      "end": 571.0,
+      "text": " and you write here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 571.0,
+      "end": 573.0,
+      "text": " d is equal to something like this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 573.0,
+      "end": 575.0,
+      "text": " and then you write"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 575.0,
+      "end": 577.0,
+      "text": " print type of d"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 577.0,
+      "end": 579.0,
+      "text": " so this is class dict"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 579.0,
+      "end": 581.0,
+      "text": " so how to make an empty set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 581.0,
+      "end": 583.0,
+      "text": " because set is written like this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 583.0,
+      "end": 585.0,
+      "text": " means there are key value pairs in the dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 585.0,
+      "end": 587.0,
+      "text": " we know"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 587.0,
+      "end": 589.0,
+      "text": " there are key value pairs in the dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 589.0,
+      "end": 591.0,
+      "text": " but the sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 591.0,
+      "end": 593.0,
+      "text": " you put values in them"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 593.0,
+      "end": 595.0,
+      "text": " and both sets and dictionaries"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 595.0,
+      "end": 597.0,
+      "text": " both are made using curly bracket"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 599.0,
+      "end": 601.0,
+      "text": " so now you will ask me"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 601.0,
+      "end": 603.0,
+      "text": " that ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 603.0,
+      "end": 605.0,
+      "text": " what you told was very good"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 605.0,
+      "end": 607.0,
+      "text": " one five or thirty two"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 607.0,
+      "end": 609.0,
+      "text": " will make a set with values"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 609.0,
+      "end": 611.0,
+      "text": " one five or thirty two"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 611.0,
+      "end": 613.0,
+      "text": " and dictionary is written like this but how to make an empty set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 613.0,
+      "end": 615.0,
+      "text": " so because"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 615.0,
+      "end": 617.0,
+      "text": " set and dictionary both are enclosed with curly brackets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 617.0,
+      "end": 619.0,
+      "text": " so to make"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 619.0,
+      "end": 621.0,
+      "text": " an empty set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 621.0,
+      "end": 623.0,
+      "text": " i will put here e"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 623.0,
+      "end": 625.0,
+      "text": " you can put any name, it should be a valid identifier"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 625.0,
+      "end": 627.0,
+      "text": " e is equal to set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 627.0,
+      "end": 629.0,
+      "text": " you make an empty set by writing like this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 629.0,
+      "end": 631.0,
+      "text": " so if i come on repel again and this time i will zoom"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 631.0,
+      "end": 633.0,
+      "text": " otherwise you will say that why this person doesn't zoom"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 633.0,
+      "end": 635.0,
+      "text": " python"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 635.0,
+      "end": 637.0,
+      "text": " and then if i write here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 637.0,
+      "end": 639.0,
+      "text": " s is equal to set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 639.0,
+      "end": 641.0,
+      "text": " and if i print type of s"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 641.0,
+      "end": 643.0,
+      "text": " then this class set is giving me"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 643.0,
+      "end": 645.0,
+      "text": " so to make an empty set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 645.0,
+      "end": 647.0,
+      "text": " this is not used, this makes an empty dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 647.0,
+      "end": 649.0,
+      "text": " this is used"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 649.0,
+      "end": 651.0,
+      "text": " to make an empty set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 651.0,
+      "end": 653.0,
+      "text": " set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 653.0,
+      "end": 655.0,
+      "text": " don't use s is equal to"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 655.0,
+      "end": 657.0,
+      "text": " as it will create"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 657.0,
+      "end": 659.0,
+      "text": " an empty"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 659.0,
+      "end": 661.0,
+      "text": " dictionary, so this is asked in the interview"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 661.0,
+      "end": 663.0,
+      "text": " that make an empty set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 663.0,
+      "end": 665.0,
+      "text": " and many people do this mistake and reject the interview"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 665.0,
+      "end": 667.0,
+      "text": " that what is this, you don't even know"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 667.0,
+      "end": 669.0,
+      "text": " how to make an empty set, you want me to"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 669.0,
+      "end": 671.0,
+      "text": " hire you, should i give you so much money"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 671.0,
+      "end": 673.0,
+      "text": " so don't be one of them"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 673.0,
+      "end": 675.0,
+      "text": " now see what is set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 675.0,
+      "end": 677.0,
+      "text": " why set is used"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 677.0,
+      "end": 679.0,
+      "text": " why set is made in python"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 679.0,
+      "end": 681.0,
+      "text": " no element can be repeated in set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 681.0,
+      "end": 683.0,
+      "text": " if you have written one five thirty two in set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 683.0,
+      "end": 685.0,
+      "text": " if you have written five five five twice"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 685.0,
+      "end": 687.0,
+      "text": " five five five"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 687.0,
+      "end": 689.0,
+      "text": " and if you print s"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 689.0,
+      "end": 691.0,
+      "text": " so see here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 691.0,
+      "end": 693.0,
+      "text": " i will run it and show you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 693.0,
+      "end": 695.0,
+      "text": " thirty two one five and fifty four"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 695.0,
+      "end": 697.0,
+      "text": " so here what is set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 697.0,
+      "end": 699.0,
+      "text": " it will take every value only once"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 699.0,
+      "end": 701.0,
+      "text": " it will take one, five"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 701.0,
+      "end": 703.0,
+      "text": " although five is written four times here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 703.0,
+      "end": 705.0,
+      "text": " but it will take only once because in set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 705.0,
+      "end": 707.0,
+      "text": " elements can't be repeated, so whenever we have"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 707.0,
+      "end": 709.0,
+      "text": " any use case in which elements can't be repeated"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 709.0,
+      "end": 711.0,
+      "text": " we use set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 711.0,
+      "end": 713.0,
+      "text": " i hope that is clear"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 713.0,
+      "end": 715.0,
+      "text": " i hope that is, so one five thirty two"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 715.0,
+      "end": 717.0,
+      "text": " fifty four five five five"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 717.0,
+      "end": 719.0,
+      "text": " it was written here but we got thirty two one"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 719.0,
+      "end": 721.0,
+      "text": " five and fifty four, now see"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 721.0,
+      "end": 723.0,
+      "text": " the order here, it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 723.0,
+      "end": 725.0,
+      "text": " didn't maintain, so this thing"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 725.0,
+      "end": 727.0,
+      "text": " is going to note, if you want order"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 727.0,
+      "end": 729.0,
+      "text": " then you have to use list"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 729.0,
+      "end": 731.0,
+      "text": " but if you just want"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 731.0,
+      "end": 733.0,
+      "text": " that my elements don't repeat"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 733.0,
+      "end": 735.0,
+      "text": " then you can do something like this, i hope"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 735.0,
+      "end": 737.0,
+      "text": " that makes sense, now the way"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 737.0,
+      "end": 739.0,
+      "text": " i told you about set, i told you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 739.0,
+      "end": 741.0,
+      "text": " methods of list, i told you methods of double"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 741.0,
+      "end": 743.0,
+      "text": " i told you methods of dictionary, i will tell you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 743.0,
+      "end": 745.0,
+      "text": " methods of sets too"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 745.0,
+      "end": 747.0,
+      "text": " zero four underscore set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 747.0,
+      "end": 749.0,
+      "text": " underscore methods dot py"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 749.0,
+      "end": 751.0,
+      "text": " ok, let's go"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 751.0,
+      "end": 753.0,
+      "text": " so what we will do, we will use this set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 753.0,
+      "end": 755.0,
+      "text": " can other data type elements come in set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 755.0,
+      "end": 757.0,
+      "text": " means i can write it like this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 757.0,
+      "end": 759.0,
+      "text": " harry after five"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 759.0,
+      "end": 761.0,
+      "text": " can i do this, yes i can"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 761.0,
+      "end": 763.0,
+      "text": " so if i print s and"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 763.0,
+      "end": 765.0,
+      "text": " type of s and run it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 765.0,
+      "end": 767.0,
+      "text": " so you see what will happen here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 767.0,
+      "end": 769.0,
+      "text": " my set is printed and this class set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 769.0,
+      "end": 771.0,
+      "text": " is telling me, which means it is valid"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 771.0,
+      "end": 773.0,
+      "text": " ok, it is valid, i can do this, very good"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 773.0,
+      "end": 775.0,
+      "text": " now i will tell you about"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 775.0,
+      "end": 777.0,
+      "text": " methods of set, so in set methods"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 777.0,
+      "end": 779.0,
+      "text": " most important method is add"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 779.0,
+      "end": 781.0,
+      "text": " repetition is not allowed in sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 781.0,
+      "end": 783.0,
+      "text": " and most important method is add"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 783.0,
+      "end": 785.0,
+      "text": " so if you are using add in sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 785.0,
+      "end": 787.0,
+      "text": " so what i will do, here i will simply write"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 787.0,
+      "end": 789.0,
+      "text": " s dot add, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 789.0,
+      "end": 791.0,
+      "text": " suppose i want to add five six six"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 791.0,
+      "end": 793.0,
+      "text": " and i will print s again"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 793.0,
+      "end": 795.0,
+      "text": " and type of s also"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 795.0,
+      "end": 797.0,
+      "text": " so it will remain set and in this five six six"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 797.0,
+      "end": 799.0,
+      "text": " is also added, as you can see"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 799.0,
+      "end": 801.0,
+      "text": " and class set is showing me, by the way"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 801.0,
+      "end": 803.0,
+      "text": " you can make it as a tab also, just so that you don't know"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 803.0,
+      "end": 805.0,
+      "text": " if you don't know then let me tell you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 805.0,
+      "end": 807.0,
+      "text": " you can see it as a tab also"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 807.0,
+      "end": 809.0,
+      "text": " so you see here, the methods of set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 809.0,
+      "end": 811.0,
+      "text": " i told you in s dot add"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 811.0,
+      "end": 813.0,
+      "text": " five six six, s type"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 813.0,
+      "end": 815.0,
+      "text": " if i did s, then five six six"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 815.0,
+      "end": 817.0,
+      "text": " is added, now i will come to chat gpt"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 817.0,
+      "end": 819.0,
+      "text": " and i will say give me"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 819.0,
+      "end": 821.0,
+      "text": " some most important"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 821.0,
+      "end": 823.0,
+      "text": " set methods"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 823.0,
+      "end": 825.0,
+      "text": " in python, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 825.0,
+      "end": 827.0,
+      "text": " let's make it set methods in python"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 827.0,
+      "end": 829.0,
+      "text": " and it will give me set methods, so here you see"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 829.0,
+      "end": 831.0,
+      "text": " we have seen add, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 831.0,
+      "end": 833.0,
+      "text": " after this there is clear which clears"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 833.0,
+      "end": 835.0,
+      "text": " the set and there is a copy, rest"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 835.0,
+      "end": 837.0,
+      "text": " difference and difference update"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 837.0,
+      "end": 839.0,
+      "text": " i will tell you now, there is a discard"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 839.0,
+      "end": 841.0,
+      "text": " then there is an intersection"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 841.0,
+      "end": 843.0,
+      "text": " so we will study about all these"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 843.0,
+      "end": 845.0,
+      "text": " so before that what we will do"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 845.0,
+      "end": 847.0,
+      "text": " that we will study the properties of set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 847.0,
+      "end": 849.0,
+      "text": " first of all, that they are unordered"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 849.0,
+      "end": 851.0,
+      "text": " ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 851.0,
+      "end": 853.0,
+      "text": " you can't expect order"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 853.0,
+      "end": 855.0,
+      "text": " from set, it's not like you gave one two three"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 855.0,
+      "end": 857.0,
+      "text": " four, so you are thinking that it will be stored"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 857.0,
+      "end": 859.0,
+      "text": " like this, we have seen"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 859.0,
+      "end": 861.0,
+      "text": " example already, our 32 was being printed later"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 861.0,
+      "end": 863.0,
+      "text": " we saw example here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 863.0,
+      "end": 865.0,
+      "text": " now you see here that there is no way to change"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 865.0,
+      "end": 867.0,
+      "text": " items in sets, ok, you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 867.0,
+      "end": 869.0,
+      "text": " once added in set, so it's not like you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 869.0,
+      "end": 871.0,
+      "text": " do something else instead of that item, you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 871.0,
+      "end": 873.0,
+      "text": " can remove that item and put a new item"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 873.0,
+      "end": 875.0,
+      "text": " but changing existing item"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 875.0,
+      "end": 877.0,
+      "text": " doesn't make sense in sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 877.0,
+      "end": 879.0,
+      "text": " because set is a collection of well defined objects"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 879.0,
+      "end": 881.0,
+      "text": " which are not repeated, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 881.0,
+      "end": 883.0,
+      "text": " sets cannot contain duplicate values"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 883.0,
+      "end": 885.0,
+      "text": " sets duplicate"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 885.0,
+      "end": 887.0,
+      "text": " values cannot contain"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 887.0,
+      "end": 889.0,
+      "text": " i have already told you this, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 889.0,
+      "end": 891.0,
+      "text": " and sets are unindexed"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 891.0,
+      "end": 893.0,
+      "text": " means you can't access by index"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 893.0,
+      "end": 895.0,
+      "text": " elements of set, it's not like you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 895.0,
+      "end": 897.0,
+      "text": " count by 0, 1, 2, 3, 4, it's not like that"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 897.0,
+      "end": 899.0,
+      "text": " ok, now"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 899.0,
+      "end": 901.0,
+      "text": " let's talk about operations on sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 901.0,
+      "end": 903.0,
+      "text": " what operations you can do on sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 903.0,
+      "end": 905.0,
+      "text": " first of all, you can remove length of a set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 905.0,
+      "end": 907.0,
+      "text": " you can also remove length of a dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 907.0,
+      "end": 909.0,
+      "text": " in case i didn't tell you in dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 909.0,
+      "end": 911.0,
+      "text": " that you can remove length of a dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 911.0,
+      "end": 913.0,
+      "text": " so i will tell you that if you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 913.0,
+      "end": 915.0,
+      "text": " here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 915.0,
+      "end": 917.0,
+      "text": " i will write d, i don't want to confuse you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 917.0,
+      "end": 919.0,
+      "text": " if i write 0"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 919.0,
+      "end": 921.0,
+      "text": " colon 1 and 1 colon"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 921.0,
+      "end": 923.0,
+      "text": " harry, basically"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 923.0,
+      "end": 925.0,
+      "text": " i am making key value pair, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 925.0,
+      "end": 927.0,
+      "text": " i will close it with curly bracket"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 927.0,
+      "end": 929.0,
+      "text": " and if i write length of d"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 929.0,
+      "end": 931.0,
+      "text": " then i will get 2 here because"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 931.0,
+      "end": 933.0,
+      "text": " it has two key value pairs, so in dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 933.0,
+      "end": 935.0,
+      "text": " len works, in set len works"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 935.0,
+      "end": 937.0,
+      "text": " len is a function"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 937.0,
+      "end": 939.0,
+      "text": " which works in our list"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 939.0,
+      "end": 941.0,
+      "text": " works in tuple, works in dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 941.0,
+      "end": 943.0,
+      "text": " works in set, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 943.0,
+      "end": 945.0,
+      "text": " it will return 4 because length of set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 945.0,
+      "end": 947.0,
+      "text": " is 4, ok, here 4 values"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 947.0,
+      "end": 949.0,
+      "text": " so it is returning 4, we can remove"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 949.0,
+      "end": 951.0,
+      "text": " any element"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 951.0,
+      "end": 953.0,
+      "text": " and our set will be updated, if we"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 953.0,
+      "end": 955.0,
+      "text": " run s.remove, like i will run it here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 955.0,
+      "end": 957.0,
+      "text": " if i write here s.remove"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 957.0,
+      "end": 959.0,
+      "text": " and i write here 1"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 959.0,
+      "end": 961.0,
+      "text": " then 1 will be removed from my set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 961.0,
+      "end": 963.0,
+      "text": " and if i duplicate it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 963.0,
+      "end": 965.0,
+      "text": " just so that you know how i"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 965.0,
+      "end": 967.0,
+      "text": " duplicated it, i will toggle screen cast mode"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 967.0,
+      "end": 969.0,
+      "text": " alt shift down arrow"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 969.0,
+      "end": 971.0,
+      "text": " if you press alt, it will duplicate"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 971.0,
+      "end": 973.0,
+      "text": " you can press alt and drag it down"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 973.0,
+      "end": 975.0,
+      "text": " like this, these are shortcuts of vs code"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 975.0,
+      "end": 977.0,
+      "text": " just so that you know, if we run it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 977.0,
+      "end": 979.0,
+      "text": " then you can see what we did"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 979.0,
+      "end": 981.0,
+      "text": " we removed 1, so 1 is"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 981.0,
+      "end": 983.0,
+      "text": " removed from our set after we"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 983.0,
+      "end": 985.0,
+      "text": " ran s.remove, so we"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 985.0,
+      "end": 987.0,
+      "text": " ran s.remove, so our 1 is gone"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 987.0,
+      "end": 989.0,
+      "text": " ok, i hope you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 989.0,
+      "end": 991.0,
+      "text": " understood this, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 991.0,
+      "end": 993.0,
+      "text": " now i will come back and show you s.pop"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 993.0,
+      "end": 995.0,
+      "text": " what pop does is it removes"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 995.0,
+      "end": 997.0,
+      "text": " a random element from set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 997.0,
+      "end": 999.0,
+      "text": " i won't say that you should use pop"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 999.0,
+      "end": 1001.0,
+      "text": " on your sets, because it is"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1001.0,
+      "end": 1003.0,
+      "text": " removing a random element from set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1003.0,
+      "end": 1005.0,
+      "text": " which is not good in my opinion, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1005.0,
+      "end": 1007.0,
+      "text": " what clear will do is it will"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1007.0,
+      "end": 1009.0,
+      "text": " clear your set and"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1009.0,
+      "end": 1011.0,
+      "text": " your set will be cleared"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1011.0,
+      "end": 1013.0,
+      "text": " if you run s.clear, now i will tell you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1013.0,
+      "end": 1015.0,
+      "text": " about union and intersection"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1015.0,
+      "end": 1017.0,
+      "text": " if i talk about union in sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1017.0,
+      "end": 1019.0,
+      "text": " then union means that"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1019.0,
+      "end": 1021.0,
+      "text": " take those values which are in both sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1021.0,
+      "end": 1023.0,
+      "text": " ok, and i will make a new file for this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1023.0,
+      "end": 1025.0,
+      "text": " and if you are a math student then you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1025.0,
+      "end": 1027.0,
+      "text": " must be knowing this, set union"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1027.0,
+      "end": 1029.0,
+      "text": " intersection dot py"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1029.0,
+      "end": 1031.0,
+      "text": " ok, suppose i have"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1031.0,
+      "end": 1033.0,
+      "text": " a set named s1 and in that"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1033.0,
+      "end": 1035.0,
+      "text": " values are 1, 45 and 6"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1035.0,
+      "end": 1037.0,
+      "text": " and i have a set named s2"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1037.0,
+      "end": 1039.0,
+      "text": " in which values are 7,"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1039.0,
+      "end": 1041.0,
+      "text": " 8 and 1, ok, and let's take one more"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1041.0,
+      "end": 1043.0,
+      "text": " let's take 78 also"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1043.0,
+      "end": 1045.0,
+      "text": " if i say that"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1045.0,
+      "end": 1047.0,
+      "text": " print and i say s1"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1047.0,
+      "end": 1049.0,
+      "text": " dot union and"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1049.0,
+      "end": 1051.0,
+      "text": " i write here what, i say"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1051.0,
+      "end": 1053.0,
+      "text": " s2, i say s1 dot union s2"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1053.0,
+      "end": 1055.0,
+      "text": " union means that"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1055.0,
+      "end": 1057.0,
+      "text": " take values of both sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1057.0,
+      "end": 1059.0,
+      "text": " with no value repeated"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1059.0,
+      "end": 1061.0,
+      "text": " whatsoever, ok, so what will happen"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1061.0,
+      "end": 1063.0,
+      "text": " 1, 45, 6, 7, 8, 1 was there"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1063.0,
+      "end": 1065.0,
+      "text": " and 78, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1065.0,
+      "end": 1067.0,
+      "text": " so now see here all these values"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1067.0,
+      "end": 1069.0,
+      "text": " are there, value can't be repeated in set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1069.0,
+      "end": 1071.0,
+      "text": " this was our rule from the beginning"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1071.0,
+      "end": 1073.0,
+      "text": " so that rule will also follow, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1073.0,
+      "end": 1075.0,
+      "text": " so what will our union do"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1075.0,
+      "end": 1077.0,
+      "text": " union means take values of both sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1077.0,
+      "end": 1079.0,
+      "text": " now"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1079.0,
+      "end": 1081.0,
+      "text": " there is one thing called intersection in sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1081.0,
+      "end": 1083.0,
+      "text": " intersection means"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1083.0,
+      "end": 1085.0,
+      "text": " what to do, take common values"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1085.0,
+      "end": 1087.0,
+      "text": " of both sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1087.0,
+      "end": 1089.0,
+      "text": " so what are the common values of both, there is only one"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1089.0,
+      "end": 1091.0,
+      "text": " so what will happen in the value of intersection"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1091.0,
+      "end": 1093.0,
+      "text": " there will be only one, there will be a set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1093.0,
+      "end": 1095.0,
+      "text": " in which there is only one, ok, if here also"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1095.0,
+      "end": 1097.0,
+      "text": " there was 78, if here also"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1097.0,
+      "end": 1099.0,
+      "text": " there was 78, then what would have been the union"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1099.0,
+      "end": 1101.0,
+      "text": " union would have remained same, because values of this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1101.0,
+      "end": 1103.0,
+      "text": " and values of this will also be included in union"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1103.0,
+      "end": 1105.0,
+      "text": " intersection means"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1105.0,
+      "end": 1107.0,
+      "text": " make a set in which"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1107.0,
+      "end": 1109.0,
+      "text": " there are overlapping values, which are 1 and 78"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1109.0,
+      "end": 1111.0,
+      "text": " and union and intersection"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1111.0,
+      "end": 1113.0,
+      "text": " should be there, so at least"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1113.0,
+      "end": 1115.0,
+      "text": " these two should be there"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1115.0,
+      "end": 1117.0,
+      "text": " there are many other operations on sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1117.0,
+      "end": 1119.0,
+      "text": " but I will say that these should be there"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1119.0,
+      "end": 1121.0,
+      "text": " so 16, 78, 45, 78 and 178"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1121.0,
+      "end": 1123.0,
+      "text": " intersection is there, so this is union"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1123.0,
+      "end": 1125.0,
+      "text": " this is intersection, I hope you understood"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1125.0,
+      "end": 1127.0,
+      "text": " this thing, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1127.0,
+      "end": 1129.0,
+      "text": " so if I run it again and show you, this is union"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1129.0,
+      "end": 1131.0,
+      "text": " this is intersection, rest you do the experiment"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1131.0,
+      "end": 1133.0,
+      "text": " yourself, if you have any doubt"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1133.0,
+      "end": 1135.0,
+      "text": " that what will be the output of this, how to do this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1135.0,
+      "end": 1137.0,
+      "text": " how to do that, run repl"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1137.0,
+      "end": 1139.0,
+      "text": " in computer, right click and click on terminal"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1139.0,
+      "end": 1141.0,
+      "text": " and click on terminal"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1141.0,
+      "end": 1143.0,
+      "text": " and run repl by writing python"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1143.0,
+      "end": 1145.0,
+      "text": " ok, this thing no one told me"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1145.0,
+      "end": 1147.0,
+      "text": " that this is free, means"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1147.0,
+      "end": 1149.0,
+      "text": " sometimes we feel who should do this, run repl"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1149.0,
+      "end": 1151.0,
+      "text": " and run it yourself, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1151.0,
+      "end": 1153.0,
+      "text": " you will learn more from that, by someone's saying"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1153.0,
+      "end": 1155.0,
+      "text": " you ask someone that if you do this in union"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1155.0,
+      "end": 1157.0,
+      "text": " then what will happen, do it and see"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1157.0,
+      "end": 1159.0,
+      "text": " ok, I hope that makes sense"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1159.0,
+      "end": 1161.0,
+      "text": " there are many other operations in our sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1161.0,
+      "end": 1163.0,
+      "text": " but I will only say union"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1163.0,
+      "end": 1165.0,
+      "text": " and intersection, if you are not a math student"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1165.0,
+      "end": 1167.0,
+      "text": " you don't want to have more relation with math"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1167.0,
+      "end": 1169.0,
+      "text": " you are learning python programming"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1169.0,
+      "end": 1171.0,
+      "text": " only for web development"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1171.0,
+      "end": 1173.0,
+      "text": " or for AI, so for now"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1173.0,
+      "end": 1175.0,
+      "text": " you can learn only union and intersection"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1175.0,
+      "end": 1177.0,
+      "text": " before going I want to explain this diagram"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1177.0,
+      "end": 1179.0,
+      "text": " to you, suppose the first"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1179.0,
+      "end": 1181.0,
+      "text": " circle has area A"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1181.0,
+      "end": 1183.0,
+      "text": " and this circle has area B"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1183.0,
+      "end": 1185.0,
+      "text": " and this is R1"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1185.0,
+      "end": 1187.0,
+      "text": " and this is R3, means this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1187.0,
+      "end": 1189.0,
+      "text": " area is R1 and this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1189.0,
+      "end": 1191.0,
+      "text": " area is R3"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1191.0,
+      "end": 1193.0,
+      "text": " to explain this better I will"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1193.0,
+      "end": 1195.0,
+      "text": " take a snap and explain to you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1195.0,
+      "end": 1197.0,
+      "text": " so basically if you see here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1197.0,
+      "end": 1199.0,
+      "text": " so I will take a yellow"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1199.0,
+      "end": 1201.0,
+      "text": " color, this area"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1201.0,
+      "end": 1203.0,
+      "text": " means this whole area"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1203.0,
+      "end": 1205.0,
+      "text": " is R1, ok, and if I"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1205.0,
+      "end": 1207.0,
+      "text": " take another color, so this area"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1207.0,
+      "end": 1209.0,
+      "text": " is R3, ok, and"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1209.0,
+      "end": 1211.0,
+      "text": " R2 is the overlapping"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1211.0,
+      "end": 1213.0,
+      "text": " area, so suppose I take this color"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1213.0,
+      "end": 1215.0,
+      "text": " CN, so this is R2"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1215.0,
+      "end": 1217.0,
+      "text": " ok, and what is A, A is"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1217.0,
+      "end": 1219.0,
+      "text": " whole circle, B is whole circle, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1219.0,
+      "end": 1221.0,
+      "text": " I don't want you to get bored by listening mathematics"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1221.0,
+      "end": 1223.0,
+      "text": " if you haven't done much mathematics"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1223.0,
+      "end": 1225.0,
+      "text": " but this diagram is very important and"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1225.0,
+      "end": 1227.0,
+      "text": " explains things very well, R1"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1227.0,
+      "end": 1229.0,
+      "text": " is this much area, so if I talk about"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1229.0,
+      "end": 1231.0,
+      "text": " R2, so it is A intersection B"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1231.0,
+      "end": 1233.0,
+      "text": " this is symbol of intersection, intersection"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1233.0,
+      "end": 1235.0,
+      "text": " means those values which are in A and B"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1235.0,
+      "end": 1237.0,
+      "text": " and this overlapping area"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1237.0,
+      "end": 1239.0,
+      "text": " we call it R2 and this intersection"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1239.0,
+      "end": 1241.0,
+      "text": " is B, if I talk about R1 plus R2"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1241.0,
+      "end": 1243.0,
+      "text": " plus R3, so it is A union B"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1243.0,
+      "end": 1245.0,
+      "text": " means those values which are in"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1245.0,
+      "end": 1247.0,
+      "text": " both sets, means combined values of both sets"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1247.0,
+      "end": 1249.0,
+      "text": " after this A triangle B"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1249.0,
+      "end": 1251.0,
+      "text": " R1 plus R3"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1251.0,
+      "end": 1253.0,
+      "text": " which is A triangle B, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1253.0,
+      "end": 1255.0,
+      "text": " so if we talk about R1"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1255.0,
+      "end": 1257.0,
+      "text": " and R3, so it is A triangle B"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1257.0,
+      "end": 1259.0,
+      "text": " then R1 is"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1259.0,
+      "end": 1261.0,
+      "text": " A minus B, means A which is"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1261.0,
+      "end": 1263.0,
+      "text": " whole and minused, so from that"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1263.0,
+      "end": 1265.0,
+      "text": " whatever area of B is there, so it is R1"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1265.0,
+      "end": 1267.0,
+      "text": " and what is R3, B"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1267.0,
+      "end": 1269.0,
+      "text": " minus A"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1269.0,
+      "end": 1271.0,
+      "text": " I hope you understood this thing"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1271.0,
+      "end": 1273.0,
+      "text": " so in total it works"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1273.0,
+      "end": 1275.0,
+      "text": " like this and if you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1275.0,
+      "end": 1277.0,
+      "text": " I will show you in RAPL"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1277.0,
+      "end": 1279.0,
+      "text": " suppose I wrote python here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1279.0,
+      "end": 1281.0,
+      "text": " I will zoom it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1281.0,
+      "end": 1283.0,
+      "text": " I am going in mathematics a little more but"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1283.0,
+      "end": 1285.0,
+      "text": " I want to explain you this thing"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1285.0,
+      "end": 1287.0,
+      "text": " in case it will be useful to you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1287.0,
+      "end": 1289.0,
+      "text": " so I will write 1, 23, 45"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1289.0,
+      "end": 1291.0,
+      "text": " and I will write"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1291.0,
+      "end": 1293.0,
+      "text": " S2, let us say"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1293.0,
+      "end": 1295.0,
+      "text": " 6, 1, 3, 23"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1297.0,
+      "end": 1299.0,
+      "text": " and then here 54"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1299.0,
+      "end": 1301.0,
+      "text": " ok, if I say"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1301.0,
+      "end": 1303.0,
+      "text": " S1 minus S2, so it will give me a set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1303.0,
+      "end": 1305.0,
+      "text": " which values are in S1"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1305.0,
+      "end": 1307.0,
+      "text": " and will minus those values which are in S2"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1307.0,
+      "end": 1309.0,
+      "text": " so 1 will be cut"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1309.0,
+      "end": 1311.0,
+      "text": " and 23 will be cut, so only"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1311.0,
+      "end": 1313.0,
+      "text": " 45 will be left, why only 45"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1313.0,
+      "end": 1315.0,
+      "text": " because the value"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1315.0,
+      "end": 1317.0,
+      "text": " which is 45 is here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1317.0,
+      "end": 1319.0,
+      "text": " but not here, so S1"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1319.0,
+      "end": 1321.0,
+      "text": " minus S2, now the way"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1321.0,
+      "end": 1323.0,
+      "text": " we saw that we can minus in set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1323.0,
+      "end": 1325.0,
+      "text": " we can do these operations"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1325.0,
+      "end": 1327.0,
+      "text": " in set, I have already told you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1327.0,
+      "end": 1329.0,
+      "text": " about union, but if you come here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1329.0,
+      "end": 1331.0,
+      "text": " then you see, there is difference method, there is intersection"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1331.0,
+      "end": 1333.0,
+      "text": " we saw union, this subset"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1333.0,
+      "end": 1335.0,
+      "text": " this subset, this superset, there are two methods"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1335.0,
+      "end": 1337.0,
+      "text": " what is the meaning of subset, let us say"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1337.0,
+      "end": 1339.0,
+      "text": " I have a set, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1339.0,
+      "end": 1341.0,
+      "text": " now I don't want to go much in set theory"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1341.0,
+      "end": 1343.0,
+      "text": " because this is python tutorial, but I will"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1343.0,
+      "end": 1345.0,
+      "text": " tell you about this subset, let us say"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1345.0,
+      "end": 1347.0,
+      "text": " this is, what will be its subset"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1347.0,
+      "end": 1349.0,
+      "text": " 1 will be its subset, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1349.0,
+      "end": 1351.0,
+      "text": " 1, 45 will also be its subset, subset means"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1351.0,
+      "end": 1353.0,
+      "text": " that any set will be subset"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1353.0,
+      "end": 1355.0,
+      "text": " when its elements"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1355.0,
+      "end": 1357.0,
+      "text": " are already in this set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1357.0,
+      "end": 1359.0,
+      "text": " ok, then this will be subset"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1359.0,
+      "end": 1361.0,
+      "text": " so will 6, 78 be subset of this set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1361.0,
+      "end": 1363.0,
+      "text": " yes, will 1, 2, 3"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1363.0,
+      "end": 1365.0,
+      "text": " be subset of this set, no"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1365.0,
+      "end": 1367.0,
+      "text": " because there is no 2 or 3 in this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1367.0,
+      "end": 1369.0,
+      "text": " will 7, 8 be subset of this set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1369.0,
+      "end": 1371.0,
+      "text": " yes, why will it be subset"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1371.0,
+      "end": 1373.0,
+      "text": " because there is 7 and 8"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1373.0,
+      "end": 1375.0,
+      "text": " in this, ok, so this is subset"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1375.0,
+      "end": 1377.0,
+      "text": " and this will be superset of that subset"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1377.0,
+      "end": 1379.0,
+      "text": " ok, so if you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1379.0,
+      "end": 1381.0,
+      "text": " are finding this information too much"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1381.0,
+      "end": 1383.0,
+      "text": " then you see here, these two methods"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1383.0,
+      "end": 1385.0,
+      "text": " you can use, I will say you use"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1385.0,
+      "end": 1387.0,
+      "text": " S1.is subset and set1"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1387.0,
+      "end": 1389.0,
+      "text": " so if any subset"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1389.0,
+      "end": 1391.0,
+      "text": " will be there, then it will tell"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1391.0,
+      "end": 1393.0,
+      "text": " or else it will return false, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1393.0,
+      "end": 1395.0,
+      "text": " now see, our set1 was here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1395.0,
+      "end": 1397.0,
+      "text": " set1 is 1, 2, 3"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1397.0,
+      "end": 1399.0,
+      "text": " ok, so 1, 2, 3"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1399.0,
+      "end": 1401.0,
+      "text": " is this subset, that is why"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1401.0,
+      "end": 1403.0,
+      "text": " .is subset is returning true, ok"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1403.0,
+      "end": 1405.0,
+      "text": " so I will say, you guys spend"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1405.0,
+      "end": 1407.0,
+      "text": " some time on this, if you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1407.0,
+      "end": 1409.0,
+      "text": " want to go to set, means"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1409.0,
+      "end": 1411.0,
+      "text": " you want to learn"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1411.0,
+      "end": 1413.0,
+      "text": " related to set, then I will say"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1413.0,
+      "end": 1415.0,
+      "text": " yes, you will have to spend some more time"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1415.0,
+      "end": 1417.0,
+      "text": " on set, so yeah, that was about"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1417.0,
+      "end": 1419.0,
+      "text": " chapter number 5, I am so happy"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1419.0,
+      "end": 1421.0,
+      "text": " that we have completed chapter number 5"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1421.0,
+      "end": 1423.0,
+      "text": " now we will see chapter number"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1423.0,
+      "end": 1425.0,
+      "text": " 5's practice set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1425.0,
+      "end": 1427.0,
+      "text": " it is very important, practice set is"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1427.0,
+      "end": 1429.0,
+      "text": " very close to my heart, we will solve it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1429.0,
+      "end": 1431.0,
+      "text": " and after that we will move"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1431.0,
+      "end": 1433.0,
+      "text": " to chapter 6, I am enjoying it a lot"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1433.0,
+      "end": 1435.0,
+      "text": " I am very excited, so let's"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1435.0,
+      "end": 1437.0,
+      "text": " move to chapter 5's practice set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1437.0,
+      "end": 1442.0,
+      "text": " music"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1442.0,
+      "end": 1444.0,
+      "text": " alright guys, chapter 5 practice set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1444.0,
+      "end": 1446.0,
+      "text": " first question, so what I will do"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1446.0,
+      "end": 1448.0,
+      "text": " I have closed my existing VS code"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1448.0,
+      "end": 1450.0,
+      "text": " and I will open with code"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1450.0,
+      "end": 1452.0,
+      "text": " on chapter 5 PS"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1452.0,
+      "end": 1454.0,
+      "text": " and you can see, I will write"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1454.0,
+      "end": 1456.0,
+      "text": " 01 underscore problem"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1456.0,
+      "end": 1458.0,
+      "text": " 1.py, so I have written problem 1.py"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1458.0,
+      "end": 1460.0,
+      "text": " here, first question says"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1460.0,
+      "end": 1462.0,
+      "text": " write a program to create a dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1462.0,
+      "end": 1464.0,
+      "text": " we have to make a dictionary of"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1464.0,
+      "end": 1466.0,
+      "text": " Hindi words with values as their"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1466.0,
+      "end": 1468.0,
+      "text": " English translation, so"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1468.0,
+      "end": 1470.0,
+      "text": " the values you have, you have to"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1470.0,
+      "end": 1472.0,
+      "text": " tell them as English translation"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1472.0,
+      "end": 1474.0,
+      "text": " like, I will tell you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1474.0,
+      "end": 1476.0,
+      "text": " so what we have to do, words"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1476.0,
+      "end": 1478.0,
+      "text": " is equal to, like I will write"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1478.0,
+      "end": 1480.0,
+      "text": " help and I will write"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1480.0,
+      "end": 1482.0,
+      "text": " here help, alright"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1482.0,
+      "end": 1484.0,
+      "text": " then I will write here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1484.0,
+      "end": 1486.0,
+      "text": " chair"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1486.0,
+      "end": 1488.0,
+      "text": " chair, alright"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1488.0,
+      "end": 1490.0,
+      "text": " then I will write cat"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1490.0,
+      "end": 1492.0,
+      "text": " I will write here cat, now I will keep only this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1492.0,
+      "end": 1494.0,
+      "text": " then what I will do, that"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1494.0,
+      "end": 1496.0,
+      "text": " word is equal to"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1496.0,
+      "end": 1498.0,
+      "text": " input"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1498.0,
+      "end": 1500.0,
+      "text": " I will take, enter the"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1500.0,
+      "end": 1502.0,
+      "text": " word you want"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1502.0,
+      "end": 1504.0,
+      "text": " want meaning"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1504.0,
+      "end": 1506.0,
+      "text": " of, alright, so here what will happen"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1506.0,
+      "end": 1508.0,
+      "text": " that a word will come"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1508.0,
+      "end": 1510.0,
+      "text": " and after that what you have to do"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1510.0,
+      "end": 1512.0,
+      "text": " print, who? words"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1512.0,
+      "end": 1514.0,
+      "text": " word, now see"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1514.0,
+      "end": 1516.0,
+      "text": " what I have done here, this word"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1516.0,
+      "end": 1518.0,
+      "text": " is a variable and whatever you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1518.0,
+      "end": 1520.0,
+      "text": " will input, that will come inside the word"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1520.0,
+      "end": 1522.0,
+      "text": " and when you will do words"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1522.0,
+      "end": 1524.0,
+      "text": " then what will happen, if you have written help"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1524.0,
+      "end": 1526.0,
+      "text": " then here words help will come"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1526.0,
+      "end": 1528.0,
+      "text": " if you have written something else then"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1528.0,
+      "end": 1530.0,
+      "text": " that will come, and what I will do here, like"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1530.0,
+      "end": 1532.0,
+      "text": " I will run this, you see here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1532.0,
+      "end": 1534.0,
+      "text": " enter the word, so I will write help"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1534.0,
+      "end": 1536.0,
+      "text": " if I will hit enter then see here help came, alright"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1536.0,
+      "end": 1538.0,
+      "text": " so you saw that how easy"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1538.0,
+      "end": 1540.0,
+      "text": " it was to solve this problem, we"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1540.0,
+      "end": 1542.0,
+      "text": " simply made a dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1542.0,
+      "end": 1544.0,
+      "text": " after making this dictionary we"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1544.0,
+      "end": 1546.0,
+      "text": " used input here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1546.0,
+      "end": 1548.0,
+      "text": " we said inside the word"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1548.0,
+      "end": 1550.0,
+      "text": " tell us the word which you want to know"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1550.0,
+      "end": 1552.0,
+      "text": " then we smartly"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1552.0,
+      "end": 1554.0,
+      "text": " put this variable here, that is words"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1554.0,
+      "end": 1556.0,
+      "text": " word and it will be printed"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1556.0,
+      "end": 1558.0,
+      "text": " okay, if I will write any word which is not"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1558.0,
+      "end": 1560.0,
+      "text": " in our dictionary then what will happen"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1560.0,
+      "end": 1562.0,
+      "text": " then you see here this key error is giving me"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1562.0,
+      "end": 1564.0,
+      "text": " so here is a condition"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1564.0,
+      "end": 1566.0,
+      "text": " and what is that condition, that in your dictionary"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1566.0,
+      "end": 1568.0,
+      "text": " that word should be there, alright"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1568.0,
+      "end": 1570.0,
+      "text": " let's move on to the next"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1570.0,
+      "end": 1572.0,
+      "text": " question, our next question says"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1572.0,
+      "end": 1574.0,
+      "text": " write a program to input"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1574.0,
+      "end": 1576.0,
+      "text": " 8 numbers from the user and"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1576.0,
+      "end": 1578.0,
+      "text": " display all the unique numbers"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1578.0,
+      "end": 1580.0,
+      "text": " once, okay, so what you have to do"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1580.0,
+      "end": 1582.0,
+      "text": " 8 numbers have to be input"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1582.0,
+      "end": 1584.0,
+      "text": " and this is a simple classic problem"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1584.0,
+      "end": 1586.0,
+      "text": " of sets, I have"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1586.0,
+      "end": 1588.0,
+      "text": " told you the use case of the whole set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1588.0,
+      "end": 1590.0,
+      "text": " so what I will do here, I will write"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1590.0,
+      "end": 1592.0,
+      "text": " n is equal to input"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1592.0,
+      "end": 1594.0,
+      "text": " and I will write enter"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1594.0,
+      "end": 1596.0,
+      "text": " let's capitalize this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1596.0,
+      "end": 1598.0,
+      "text": " number 1"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1598.0,
+      "end": 1600.0,
+      "text": " and how many times you have to do this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1600.0,
+      "end": 1602.0,
+      "text": " you have to do this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1602.0,
+      "end": 1604.0,
+      "text": " 8 times, okay, so you have to do this 8 times"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1604.0,
+      "end": 1606.0,
+      "text": " so what I will do is"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1606.0,
+      "end": 1608.0,
+      "text": " I will use the same variable and here"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1608.0,
+      "end": 1610.0,
+      "text": " I will take 8 times input and after"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1610.0,
+      "end": 1612.0,
+      "text": " taking 8 times input what I will do"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1612.0,
+      "end": 1614.0,
+      "text": " that I will write here, first of all"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1614.0,
+      "end": 1616.0,
+      "text": " I will make an empty set, s is equal to set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1616.0,
+      "end": 1618.0,
+      "text": " and we know that set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1618.0,
+      "end": 1620.0,
+      "text": " in fact an empty set is made like this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1620.0,
+      "end": 1622.0,
+      "text": " we know this, and after this what we will do"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1622.0,
+      "end": 1624.0,
+      "text": " s dot add and n"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1624.0,
+      "end": 1626.0,
+      "text": " but no, we have to"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1626.0,
+      "end": 1628.0,
+      "text": " do int n or we have to do int input"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1628.0,
+      "end": 1630.0,
+      "text": " because we have to make a set of integers"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1630.0,
+      "end": 1632.0,
+      "text": " and here is the trickiness"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1632.0,
+      "end": 1634.0,
+      "text": " of this problem that you have to"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1634.0,
+      "end": 1636.0,
+      "text": " make an integer and then put it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1636.0,
+      "end": 1638.0,
+      "text": " in the set, so yes, good"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1638.0,
+      "end": 1640.0,
+      "text": " and here I will not make number 1"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1640.0,
+      "end": 1642.0,
+      "text": " why not I will do this, enter number"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1642.0,
+      "end": 1644.0,
+      "text": " and I will"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1644.0,
+      "end": 1646.0,
+      "text": " duplicate it 8 times, 7 times"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1646.0,
+      "end": 1648.0,
+      "text": " 1, 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1648.0,
+      "end": 1650.0,
+      "text": " so I have pressed on the keyboard"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1650.0,
+      "end": 1652.0,
+      "text": " alt shift"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1652.0,
+      "end": 1654.0,
+      "text": " and down arrow, I will show you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1654.0,
+      "end": 1656.0,
+      "text": " one more time, alt shift"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1656.0,
+      "end": 1658.0,
+      "text": " down arrow, I have pressed 7 times"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1658.0,
+      "end": 1660.0,
+      "text": " okay, and finally"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1660.0,
+      "end": 1662.0,
+      "text": " what we will do, we will print the set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1662.0,
+      "end": 1664.0,
+      "text": " so you see here, as soon as I"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1664.0,
+      "end": 1666.0,
+      "text": " run this program, it is asking me the number"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1666.0,
+      "end": 1668.0,
+      "text": " 3, 5, 3"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1668.0,
+      "end": 1670.0,
+      "text": " 2, 1"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1670.0,
+      "end": 1672.0,
+      "text": " 1, 2, 2"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1672.0,
+      "end": 1674.0,
+      "text": " and see it gave me 1, 2, 3, 5"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1674.0,
+      "end": 1676.0,
+      "text": " because it wanted to"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1676.0,
+      "end": 1678.0,
+      "text": " display unique numbers, did you see"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1678.0,
+      "end": 1680.0,
+      "text": " how easy it was, set's use case"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1680.0,
+      "end": 1682.0,
+      "text": " and the question number 2"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1682.0,
+      "end": 1684.0,
+      "text": " I have framed it in such a way that you"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1684.0,
+      "end": 1686.0,
+      "text": " get the use case of set, that you will know"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1686.0,
+      "end": 1688.0,
+      "text": " how to display numbers uniquely"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1688.0,
+      "end": 1690.0,
+      "text": " can we have a set with"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1690.0,
+      "end": 1692.0,
+      "text": " 18 as an integer and"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1692.0,
+      "end": 1694.0,
+      "text": " 18 as a string as value in it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1694.0,
+      "end": 1696.0,
+      "text": " is this possible, let's"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1696.0,
+      "end": 1698.0,
+      "text": " try it, let's try it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1698.0,
+      "end": 1700.0,
+      "text": " so what we will do, 0, 3"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1700.0,
+      "end": 1702.0,
+      "text": " sometimes to do some things"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1702.0,
+      "end": 1704.0,
+      "text": " you people"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1704.0,
+      "end": 1706.0,
+      "text": " should run the program"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1706.0,
+      "end": 1708.0,
+      "text": " like let's say I make a set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1708.0,
+      "end": 1710.0,
+      "text": " I set.add18"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1710.0,
+      "end": 1712.0,
+      "text": " s.add and s.add"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1712.0,
+      "end": 1714.0,
+      "text": " 18 as"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1714.0,
+      "end": 1716.0,
+      "text": " a string"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1716.0,
+      "end": 1718.0,
+      "text": " let's print it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1718.0,
+      "end": 1720.0,
+      "text": " I want you all to comment"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1720.0,
+      "end": 1722.0,
+      "text": " and tell me what will be the output of this, will it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1722.0,
+      "end": 1724.0,
+      "text": " come once or twice, do"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1724.0,
+      "end": 1726.0,
+      "text": " put a time stamp so that I know"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1726.0,
+      "end": 1728.0,
+      "text": " what problem solution I have given, so let's"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1728.0,
+      "end": 1730.0,
+      "text": " run it and show you all, I"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1730.0,
+      "end": 1732.0,
+      "text": " run it and yes, you see"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1732.0,
+      "end": 1734.0,
+      "text": " 18 as a string and 18 as an integer"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1734.0,
+      "end": 1736.0,
+      "text": " both are in your set"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1736.0,
+      "end": 1738.0,
+      "text": " because these are two different"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1738.0,
+      "end": 1740.0,
+      "text": " values, one is integer and one is"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1740.0,
+      "end": 1742.0,
+      "text": " string, so yes we can do this"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1742.0,
+      "end": 1744.0,
+      "text": " so what is the answer to this, yes"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1744.0,
+      "end": 1746.0,
+      "text": " we can have a set with 18 as"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1746.0,
+      "end": 1748.0,
+      "text": " an integer and 18 as"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1748.0,
+      "end": 1750.0,
+      "text": " a string value in it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1750.0,
+      "end": 1752.0,
+      "text": " now see here it is saying"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1752.0,
+      "end": 1754.0,
+      "text": " what will be the length of the following set, you did"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1754.0,
+      "end": 1756.0,
+      "text": " 20, then 20.0"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1756.0,
+      "end": 1758.0,
+      "text": " then you added 20 as a string"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1758.0,
+      "end": 1760.0,
+      "text": " the answer is simple"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1760.0,
+      "end": 1762.0,
+      "text": " these three are different values"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1762.0,
+      "end": 1764.0,
+      "text": " length of s will be"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1764.0,
+      "end": 1766.0,
+      "text": " 3, so if I"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1766.0,
+      "end": 1768.0,
+      "text": " do one thing, I will copy"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1768.0,
+      "end": 1770.0,
+      "text": " the code, question number 4"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1770.0,
+      "end": 1772.0,
+      "text": " question number 4"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1772.0,
+      "end": 1774.0,
+      "text": " where did you go vs code, question"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1774.0,
+      "end": 1776.0,
+      "text": " number 404"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1776.0,
+      "end": 1778.0,
+      "text": " underscore problem"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1778.0,
+      "end": 1780.0,
+      "text": " 4.py and we"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1780.0,
+      "end": 1782.0,
+      "text": " will print it"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1782.0,
+      "end": 1784.0,
+      "text": " sorry length of s"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1784.0,
+      "end": 1786.0,
+      "text": " let's print s only"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1786.0,
+      "end": 1788.0,
+      "text": " length of s will come"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1788.0,
+      "end": 1790.0,
+      "text": " what happened, we thought"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1790.0,
+      "end": 1792.0,
+      "text": " 3 will come, but"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1792.0,
+      "end": 1794.0,
+      "text": " 2 came, why"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1794.0,
+      "end": 1796.0,
+      "text": " this happened, and this is a very important"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1796.0,
+      "end": 1798.0,
+      "text": " interview question in python, I will"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1798.0,
+      "end": 1800.0,
+      "text": " explain it to you with rappel because"
+    },
+    {
+      "number": "6",
+      "title": "part6",
+      "start": 1800.0,
+      "end": 1802.0,
+      "text": " it is very easy to understand"
+    }
+  ],
+  "text": " and if you write complex logic then it will be computationally expensive well these are high level things so I will delete them but in general you should understand that dictionary data type is very important in python programming and it is very important for us to understand it coming back to the notes if you have written key, value, harry code, marks 100, list then you can print its values like this similarly if you write a list then you will get 1 to 9 because list key corresponding is 1 to 9 great, I hope that makes sense properties of python dictionaries now let's talk about some properties of this first it is unordered, second it is mutable, third it is indexed what does it mean? it means that first order doesn't matter in this second thing it is mutable what does mutable mean? it means that we can change it list was mutable, string was immutable, tuple was immutable dictionary is in the game, it is mutable it means that you can change existing dictionary you can add things in dictionary you can change corresponding values of existing keys and along with that it can't have duplicate keys so this is a very good thing indexed means that it is indexed if you say rohan then you will get 23 immediately it won't look up one by one it won't check marks first whether this is rohan or not it will get it by indexing and corresponding 23 will be printed by rohan so let's see some methods of dictionary so we will keep our dictionary marks exactly there and after that we will see dict methods so i will write methods here .py and i will keep dictionary marks here so can key value pairs be like 0, Harry? yes it can be here you can use string and here you can use integers now i want to tell you some methods of dictionary so the first method of dictionary is .items so if i print here and i say marks.items so what marks.items does is it gives us all these items of dictionary means it gives a list of key value pairs and key value pairs are in tuples form now i will tell you so if i print marks.items here so you can see i got dict items now i can iterate this using for loop which we will read later next method is .keys if i print here a.keys if i print here marks.keys in this way i will get marks keys you can see i got marks keys now i will do one thing just so that you have this code so i will write it like this so what is the meaning of keys it is harry,shubham,rohan and 0 means the one on your left hand side and on your right hand side your 156,23 are values and we can print them by doing marks.values so if i do marks.values so you can see values of dictionary are printed so i hope you understood what is marks.values and what is marks.keys now what we can do we can update and we can update our dictionary for example if i write here that marks if i write here marks.update and i will say that my dictionary is harry so you can cut his marks by 99 means you should not give 100 so we cut one mark so this happens in cbse if you know then tell me in the comment so we cut one mark so you can see here marks.update harry colon 99 so my original dictionary will be updated and this will happen because my dictionary is mutable so you will get the proof of mutability so i will print marks and i will comment values print so you can see that in our original dictionary harry is 99 means you update marks.update and pass a new dictionary and in that dictionary the keys that are matching they get updated and the keys that are not like renu i will say that renu is more intelligent than harry he has 100 marks so renu will also get added so the keys that are not matching they will get added if i write marks.update i will tell you easily i wrote marks.update and passed a new dictionary so the dictionary that i passed the keys that are matching they will get updated like harry was 100 so it will get updated and the keys that are not matching like renu it will get added so the dictionary will get updated so the key value pairs keeping them the dictionary will get updated so this was our update method which is a very simple and straight forward method now i will tell you get method what is the meaning of get method i will write a.get name it will return the value of the specified keys and value is returned so i will show you here if i come here and i will write and i will write marks.get if i write shivika i want to show you so i will get none and if i write harry so what will happen so i will get harry's marks which is 100, i have commented out 99 so it is showing 100 now you will say marks.get harry and this one marks harry what is the difference in this this comes in interview so listen carefully what i am telling you if you say to me marks.get harry and marks harry means you said that this is marks.get harry this is marks harry if you say to me that they are same so i will say no they are not same why they are not same because if i run this they gave me 100, 100 but if i write harry2 so this line will give me none but this line will give me error so if you use square bracket syntax then you will get error if key does not exist in the dictionary and if you use .get method then you will get none so i will run this so you will get to know that key error came but here you got none i will write here prints none prints none and what will it do, returns an error it will return an error as simple as that so i hope you understood so these were some methods of our dictionary now again i will tell you to go to docs but i will tell you better than docs to go to chat gpt and go to chat gpt and ask chat gpt give me some dictionary methods and here if you write python then it will be a good prompt give me some python dictionary methods and here see dig.clear this method clears the dictionary another method is dig.copy it makes a shallow copy of the dictionary from keys you can use it to make a new dictionary in which what will happen that the keys will be taken from here and value will be zero so these are some methods which you can use pop, pop item, set default update but the examples i have told you here are the most important methods, rest you can use chat gpt and google pop method is very famous you must try it out so i will tell you which methods you must try out first you must know pop method where is pop method you must know pop method after this pop item you must know, so pop and pop item you can see, rest i have told you i hope you understood and now we will talk about sets yes we are going to talk about sets what is set, set is a collection of well defined objects if you are a science student then you must have remembered set is a collection of well defined objects and here i will teach you some mathematics you must have remembered mathematics you will remember mathematics because it is based on mathematics it is based on mathematics if you have seen chapter no 1 in your class 11 i am talking to a science student commerce students also study math so you will know how this set works so i will tell you from the start so what i will do here 03 underscore sets.py if i write here s is equal to if i write like this so what will happen, it will become an empty dictionary if i do like this, it will become a set so if you want to make an empty dictionary i will write here, if you want to make an empty dictionary d is equal to if you do like this d is equal to so what will happen, it will become an empty dictionary so i will write here, comment empty dictionary this is the way to make an empty dictionary so i will explain you things on repel so if you write python here and you write here d is equal to something like this and then you write print type of d so this is class dict so how to make an empty set because set is written like this means there are key value pairs in the dictionary we know there are key value pairs in the dictionary but the sets you put values in them and both sets and dictionaries both are made using curly bracket so now you will ask me that ok what you told was very good one five or thirty two will make a set with values one five or thirty two and dictionary is written like this but how to make an empty set so because set and dictionary both are enclosed with curly brackets so to make an empty set i will put here e you can put any name, it should be a valid identifier e is equal to set you make an empty set by writing like this so if i come on repel again and this time i will zoom otherwise you will say that why this person doesn't zoom python and then if i write here s is equal to set and if i print type of s then this class set is giving me so to make an empty set this is not used, this makes an empty dictionary this is used to make an empty set set don't use s is equal to as it will create an empty dictionary, so this is asked in the interview that make an empty set and many people do this mistake and reject the interview that what is this, you don't even know how to make an empty set, you want me to hire you, should i give you so much money so don't be one of them now see what is set why set is used why set is made in python no element can be repeated in set if you have written one five thirty two in set if you have written five five five twice five five five and if you print s so see here i will run it and show you thirty two one five and fifty four so here what is set it will take every value only once it will take one, five although five is written four times here but it will take only once because in set elements can't be repeated, so whenever we have any use case in which elements can't be repeated we use set i hope that is clear i hope that is, so one five thirty two fifty four five five five it was written here but we got thirty two one five and fifty four, now see the order here, it didn't maintain, so this thing is going to note, if you want order then you have to use list but if you just want that my elements don't repeat then you can do something like this, i hope that makes sense, now the way i told you about set, i told you methods of list, i told you methods of double i told you methods of dictionary, i will tell you methods of sets too zero four underscore set underscore methods dot py ok, let's go so what we will do, we will use this set can other data type elements come in set means i can write it like this harry after five can i do this, yes i can so if i print s and type of s and run it so you see what will happen here my set is printed and this class set is telling me, which means it is valid ok, it is valid, i can do this, very good now i will tell you about methods of set, so in set methods most important method is add repetition is not allowed in sets and most important method is add so if you are using add in sets so what i will do, here i will simply write s dot add, ok suppose i want to add five six six and i will print s again and type of s also so it will remain set and in this five six six is also added, as you can see and class set is showing me, by the way you can make it as a tab also, just so that you don't know if you don't know then let me tell you you can see it as a tab also so you see here, the methods of set i told you in s dot add five six six, s type if i did s, then five six six is added, now i will come to chat gpt and i will say give me some most important set methods in python, ok let's make it set methods in python and it will give me set methods, so here you see we have seen add, ok after this there is clear which clears the set and there is a copy, rest difference and difference update i will tell you now, there is a discard then there is an intersection so we will study about all these so before that what we will do that we will study the properties of set first of all, that they are unordered ok you can't expect order from set, it's not like you gave one two three four, so you are thinking that it will be stored like this, we have seen example already, our 32 was being printed later we saw example here now you see here that there is no way to change items in sets, ok, you once added in set, so it's not like you do something else instead of that item, you can remove that item and put a new item but changing existing item doesn't make sense in sets because set is a collection of well defined objects which are not repeated, ok sets cannot contain duplicate values sets duplicate values cannot contain i have already told you this, ok and sets are unindexed means you can't access by index elements of set, it's not like you count by 0, 1, 2, 3, 4, it's not like that ok, now let's talk about operations on sets what operations you can do on sets first of all, you can remove length of a set you can also remove length of a dictionary in case i didn't tell you in dictionary that you can remove length of a dictionary so i will tell you that if you here i will write d, i don't want to confuse you if i write 0 colon 1 and 1 colon harry, basically i am making key value pair, ok i will close it with curly bracket and if i write length of d then i will get 2 here because it has two key value pairs, so in dictionary len works, in set len works len is a function which works in our list works in tuple, works in dictionary works in set, ok it will return 4 because length of set is 4, ok, here 4 values so it is returning 4, we can remove any element and our set will be updated, if we run s.remove, like i will run it here if i write here s.remove and i write here 1 then 1 will be removed from my set and if i duplicate it just so that you know how i duplicated it, i will toggle screen cast mode alt shift down arrow if you press alt, it will duplicate you can press alt and drag it down like this, these are shortcuts of vs code just so that you know, if we run it then you can see what we did we removed 1, so 1 is removed from our set after we ran s.remove, so we ran s.remove, so our 1 is gone ok, i hope you understood this, ok now i will come back and show you s.pop what pop does is it removes a random element from set i won't say that you should use pop on your sets, because it is removing a random element from set which is not good in my opinion, ok what clear will do is it will clear your set and your set will be cleared if you run s.clear, now i will tell you about union and intersection if i talk about union in sets then union means that take those values which are in both sets ok, and i will make a new file for this and if you are a math student then you must be knowing this, set union intersection dot py ok, suppose i have a set named s1 and in that values are 1, 45 and 6 and i have a set named s2 in which values are 7, 8 and 1, ok, and let's take one more let's take 78 also if i say that print and i say s1 dot union and i write here what, i say s2, i say s1 dot union s2 union means that take values of both sets with no value repeated whatsoever, ok, so what will happen 1, 45, 6, 7, 8, 1 was there and 78, ok so now see here all these values are there, value can't be repeated in set this was our rule from the beginning so that rule will also follow, ok so what will our union do union means take values of both sets now there is one thing called intersection in sets intersection means what to do, take common values of both sets so what are the common values of both, there is only one so what will happen in the value of intersection there will be only one, there will be a set in which there is only one, ok, if here also there was 78, if here also there was 78, then what would have been the union union would have remained same, because values of this and values of this will also be included in union intersection means make a set in which there are overlapping values, which are 1 and 78 and union and intersection should be there, so at least these two should be there there are many other operations on sets but I will say that these should be there so 16, 78, 45, 78 and 178 intersection is there, so this is union this is intersection, I hope you understood this thing, ok so if I run it again and show you, this is union this is intersection, rest you do the experiment yourself, if you have any doubt that what will be the output of this, how to do this how to do that, run repl in computer, right click and click on terminal and click on terminal and run repl by writing python ok, this thing no one told me that this is free, means sometimes we feel who should do this, run repl and run it yourself, ok you will learn more from that, by someone's saying you ask someone that if you do this in union then what will happen, do it and see ok, I hope that makes sense there are many other operations in our sets but I will only say union and intersection, if you are not a math student you don't want to have more relation with math you are learning python programming only for web development or for AI, so for now you can learn only union and intersection before going I want to explain this diagram to you, suppose the first circle has area A and this circle has area B and this is R1 and this is R3, means this area is R1 and this area is R3 to explain this better I will take a snap and explain to you so basically if you see here so I will take a yellow color, this area means this whole area is R1, ok, and if I take another color, so this area is R3, ok, and R2 is the overlapping area, so suppose I take this color CN, so this is R2 ok, and what is A, A is whole circle, B is whole circle, ok I don't want you to get bored by listening mathematics if you haven't done much mathematics but this diagram is very important and explains things very well, R1 is this much area, so if I talk about R2, so it is A intersection B this is symbol of intersection, intersection means those values which are in A and B and this overlapping area we call it R2 and this intersection is B, if I talk about R1 plus R2 plus R3, so it is A union B means those values which are in both sets, means combined values of both sets after this A triangle B R1 plus R3 which is A triangle B, ok so if we talk about R1 and R3, so it is A triangle B then R1 is A minus B, means A which is whole and minused, so from that whatever area of B is there, so it is R1 and what is R3, B minus A I hope you understood this thing so in total it works like this and if you I will show you in RAPL suppose I wrote python here I will zoom it I am going in mathematics a little more but I want to explain you this thing in case it will be useful to you so I will write 1, 23, 45 and I will write S2, let us say 6, 1, 3, 23 and then here 54 ok, if I say S1 minus S2, so it will give me a set which values are in S1 and will minus those values which are in S2 so 1 will be cut and 23 will be cut, so only 45 will be left, why only 45 because the value which is 45 is here but not here, so S1 minus S2, now the way we saw that we can minus in set we can do these operations in set, I have already told you about union, but if you come here then you see, there is difference method, there is intersection we saw union, this subset this subset, this superset, there are two methods what is the meaning of subset, let us say I have a set, ok now I don't want to go much in set theory because this is python tutorial, but I will tell you about this subset, let us say this is, what will be its subset 1 will be its subset, ok 1, 45 will also be its subset, subset means that any set will be subset when its elements are already in this set ok, then this will be subset so will 6, 78 be subset of this set yes, will 1, 2, 3 be subset of this set, no because there is no 2 or 3 in this will 7, 8 be subset of this set yes, why will it be subset because there is 7 and 8 in this, ok, so this is subset and this will be superset of that subset ok, so if you are finding this information too much then you see here, these two methods you can use, I will say you use S1.is subset and set1 so if any subset will be there, then it will tell or else it will return false, ok now see, our set1 was here set1 is 1, 2, 3 ok, so 1, 2, 3 is this subset, that is why .is subset is returning true, ok so I will say, you guys spend some time on this, if you want to go to set, means you want to learn related to set, then I will say yes, you will have to spend some more time on set, so yeah, that was about chapter number 5, I am so happy that we have completed chapter number 5 now we will see chapter number 5's practice set it is very important, practice set is very close to my heart, we will solve it and after that we will move to chapter 6, I am enjoying it a lot I am very excited, so let's move to chapter 5's practice set music alright guys, chapter 5 practice set first question, so what I will do I have closed my existing VS code and I will open with code on chapter 5 PS and you can see, I will write 01 underscore problem 1.py, so I have written problem 1.py here, first question says write a program to create a dictionary we have to make a dictionary of Hindi words with values as their English translation, so the values you have, you have to tell them as English translation like, I will tell you so what we have to do, words is equal to, like I will write help and I will write here help, alright then I will write here chair chair, alright then I will write cat I will write here cat, now I will keep only this then what I will do, that word is equal to input I will take, enter the word you want want meaning of, alright, so here what will happen that a word will come and after that what you have to do print, who? words word, now see what I have done here, this word is a variable and whatever you will input, that will come inside the word and when you will do words then what will happen, if you have written help then here words help will come if you have written something else then that will come, and what I will do here, like I will run this, you see here enter the word, so I will write help if I will hit enter then see here help came, alright so you saw that how easy it was to solve this problem, we simply made a dictionary after making this dictionary we used input here we said inside the word tell us the word which you want to know then we smartly put this variable here, that is words word and it will be printed okay, if I will write any word which is not in our dictionary then what will happen then you see here this key error is giving me so here is a condition and what is that condition, that in your dictionary that word should be there, alright let's move on to the next question, our next question says write a program to input 8 numbers from the user and display all the unique numbers once, okay, so what you have to do 8 numbers have to be input and this is a simple classic problem of sets, I have told you the use case of the whole set so what I will do here, I will write n is equal to input and I will write enter let's capitalize this number 1 and how many times you have to do this you have to do this 8 times, okay, so you have to do this 8 times so what I will do is I will use the same variable and here I will take 8 times input and after taking 8 times input what I will do that I will write here, first of all I will make an empty set, s is equal to set and we know that set in fact an empty set is made like this we know this, and after this what we will do s dot add and n but no, we have to do int n or we have to do int input because we have to make a set of integers and here is the trickiness of this problem that you have to make an integer and then put it in the set, so yes, good and here I will not make number 1 why not I will do this, enter number and I will duplicate it 8 times, 7 times 1, 2, 3, 4, 5, 6, 7 so I have pressed on the keyboard alt shift and down arrow, I will show you one more time, alt shift down arrow, I have pressed 7 times okay, and finally what we will do, we will print the set so you see here, as soon as I run this program, it is asking me the number 3, 5, 3 2, 1 1, 2, 2 and see it gave me 1, 2, 3, 5 because it wanted to display unique numbers, did you see how easy it was, set's use case and the question number 2 I have framed it in such a way that you get the use case of set, that you will know how to display numbers uniquely can we have a set with 18 as an integer and 18 as a string as value in it is this possible, let's try it, let's try it so what we will do, 0, 3 sometimes to do some things you people should run the program like let's say I make a set I set.add18 s.add and s.add 18 as a string let's print it I want you all to comment and tell me what will be the output of this, will it come once or twice, do put a time stamp so that I know what problem solution I have given, so let's run it and show you all, I run it and yes, you see 18 as a string and 18 as an integer both are in your set because these are two different values, one is integer and one is string, so yes we can do this so what is the answer to this, yes we can have a set with 18 as an integer and 18 as a string value in it now see here it is saying what will be the length of the following set, you did 20, then 20.0 then you added 20 as a string the answer is simple these three are different values length of s will be 3, so if I do one thing, I will copy the code, question number 4 question number 4 where did you go vs code, question number 404 underscore problem 4.py and we will print it sorry length of s let's print s only length of s will come what happened, we thought 3 will come, but 2 came, why this happened, and this is a very important interview question in python, I will explain it to you with rappel because it is very easy to understand"
+}

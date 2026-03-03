@@ -1,0 +1,1573 @@
+{
+  "chunks": [
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 0.0,
+      "end": 5.48,
+      "text": " now it will be reversed, it starts from 11 and then it will be reversed 6 to 62, 34 and 1"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 5.48,
+      "end": 11.0,
+      "text": " so if you want to reverse your list, then you can use reverse method in it"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 11.0,
+      "end": 15.68,
+      "text": " now what we will do here, we will see insert, what is insert?"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 15.68,
+      "end": 21.2,
+      "text": " we have seen append, what append does? it inserts at the end, means it joins the list at the end"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 21.2,
+      "end": 25.56,
+      "text": " if I have to put something in the middle, if I have to put something on a particular index"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 25.56,
+      "end": 33.44,
+      "text": " so how will I do that, suppose I want to add a new item, suppose I add an item in it"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 33.44,
+      "end": 41.2,
+      "text": " and I want that the name of this item is 33333 and I want it at index 3"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 41.2,
+      "end": 47.28,
+      "text": " so you will see here that it is telling me that which index you want to insert and what you want to insert"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 47.28,
+      "end": 52.36,
+      "text": " so it is written here that first tell me the index, then tell me what you want to insert, index, object"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 52.36,
+      "end": 59.84,
+      "text": " so you get a hint in VS code, so suppose I want to insert 33333, its index will be 0, 1, 2, 3"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 59.84,
+      "end": 66.44,
+      "text": " so it will be inserted after 62, so see it is inserted after 62, so we basically said here"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 66.44,
+      "end": 74.88,
+      "text": " that insert, insert 33333, how many 3 I have written, 2, 2, 4, 2, 6, yes it is 6"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 74.88,
+      "end": 88.84,
+      "text": " insert 33333, such that its index in the list is 3, so when I am saying l1.insert 3,333333"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 88.84,
+      "end": 97.44,
+      "text": " I am basically saying that insert it in the list such that its index is 3, if I make it 2, then what will happen"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 97.48,
+      "end": 105.68,
+      "text": " so what will happen, it will be inserted after 0, 1, 2, means its index should be 2 in this list"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 105.68,
+      "end": 111.2,
+      "text": " insert it in this way, this is being said, so where will it come, obviously it will come after 34"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 111.2,
+      "end": 116.96,
+      "text": " as you have seen here, so this is our insert method, then comes pop method, what does pop do"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 116.96,
+      "end": 126.52,
+      "text": " it will delete element at a particular index and will also return its value, means it will remove a particular index element from your list"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 126.56,
+      "end": 131.48,
+      "text": " and will return that element, now we are not seeing its return value, what does return value mean"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 131.48,
+      "end": 137.16,
+      "text": " return value means that if I print l1.sort then what will come, if I print l1.reverse then what will come"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 137.16,
+      "end": 144.04,
+      "text": " that will be called return value of l1.reverse, in the case of list, because it is changing my original list"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 144.04,
+      "end": 149.84,
+      "text": " I have nothing to do with return value, are you understanding this, because it is changing my original list"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 149.84,
+      "end": 155.52,
+      "text": " so I am just running the function and taking a leave, I am saying that it is fine, I have run the function on the list"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 155.52,
+      "end": 164.36,
+      "text": " my original list has changed, my work is just 35, now you see here, I will comment this and show you pop method"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 164.36,
+      "end": 172.88,
+      "text": " so if I say l1.pop and write 3, what is there on 3 index, 0, 1, 2, 3, this 2 will pop out, now see if I print then it will not be 2"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 172.88,
+      "end": 179.48,
+      "text": " it is not 2, see after 62 it is coming 6, what happened to 2, it popped out, 2 popped out"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 179.48,
+      "end": 188.72,
+      "text": " and you can see here that if I print this, see what happens whenever we run a function, it will do some work"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 188.72,
+      "end": 196.0,
+      "text": " like in this case what is l1.pop doing, it is changing l1 and it will return something, if I print it then what will come"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 196.0,
+      "end": 205.96,
+      "text": " if I do a is equal to l1.pop, I will show you this thing, so when I run l1.pop and print it, it will print the value at index 3"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 205.96,
+      "end": 216.64,
+      "text": " which is 2 in this case, it will print that, so you saw here when I did print l1.pop 3, the 2 was printed here"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 216.64,
+      "end": 223.32,
+      "text": " because the value at index 3 was 2, the value that popped was 2, 2 value was erased from the list, it was printed"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 223.32,
+      "end": 233.84,
+      "text": " I could have written it like this also, like I write here value is equal to, so basically what I said, I said that its return value"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 234.08,
+      "end": 241.08,
+      "text": " in the container named value, means in the variable named value, it is called a variable not a container, I am saying container to explain you"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 241.08,
+      "end": 246.12,
+      "text": " value is equal to l1.pop 3 and print value, this will also print the same thing, see it will print 2 only, so I hope these things are very easy for"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 246.12,
+      "end": 251.16,
+      "text": "you"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 251.16,
+      "end": 257.08,
+      "text": " one more way I want to tell you to run a python program, if you want to run a python program, then you write python"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 257.08,
+      "end": 265.12,
+      "text": " by giving space, whatever you want to run, suppose I wrote here 02 and make sure that your terminal is open in that folder"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 265.12,
+      "end": 272.56,
+      "text": " in which your program is, like in my chapter 4 folder, in chapter 4 folder, I have this program, now what you do"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 272.56,
+      "end": 280.24,
+      "text": " write 02 and give tab, see from 02 only one file is starting, listen to me carefully, from 02 only one file is starting"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 280.24,
+      "end": 289.72,
+      "text": " so after 02, if I give tab, if I press tab key, then it will auto complete for me, if I hit enter, then the program will run, so if you want to write"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 289.72,
+      "end": 292.94,
+      "text": " a full name of a file in your terminal and that is a very complicated name, like in this case, it is a very long name, it will take a little time to"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 292.94,
+      "end": 296.16,
+      "text": "type 02"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 296.16,
+      "end": 303.76,
+      "text": " so what you do, write 02 and press tab, it will auto complete, but one thing you have to ensure that if something else is starting from 02"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 303.76,
+      "end": 307.68,
+      "text": " then you have to write till there, till it is not unique, like if 02 underscore list is there, 02 underscore tuple is there, then you have to write"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 307.68,
+      "end": 311.6,
+      "text": "02 underscore l"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 311.6,
+      "end": 315.42,
+      "text": " and press tab, then only it will understand which file you want to open, anyway this is the knowledge of the terminal, now I come back to the"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 315.42,
+      "end": 319.24,
+      "text": "knowledge of python"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 319.24,
+      "end": 327.68,
+      "text": " so if you want to print the return value, then you can do something like this, l1.sort, l1.reverse return value, I don't care about it"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 327.68,
+      "end": 332.74,
+      "text": " because my work is done, if I want, I can print its return value, but I will not do it because l1.sort will sort my list, l1.reverse will reverse my"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 332.74,
+      "end": 337.8,
+      "text": "list"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 337.8,
+      "end": 342.8,
+      "text": " my work will be done, that's it, was our string changing in the case of string, it was not happening and this is the difference that the string is"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 342.8,
+      "end": 347.8,
+      "text": "immutable, the list is mutable"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 347.8,
+      "end": 351.9,
+      "text": " so we are able to change the list because the list is mutable, means by running the function on it, we are able to change the original list, but the"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 351.9,
+      "end": 356.0,
+      "text": "string is immutable"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 356.0,
+      "end": 361.5,
+      "text": " means it returns a new string, but it cannot change your existing string at all, then comes our remove method, which removes a particular value from"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 361.5,
+      "end": 367.0,
+      "text": "the list"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 367.0,
+      "end": 376.8,
+      "text": " so try the remove method yourself, I want to give you as a challenge, try the remove method yourself, one method which I want you to try yourself"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 376.8,
+      "end": 382.2,
+      "text": " are there any other methods, yes there are other methods, and I want you to comment at least one method of list, you can ask chatgpt, tell me some"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 382.2,
+      "end": 387.6,
+      "text": "more methods of list"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 387.6,
+      "end": 393.1,
+      "text": " so he will give you a comprehensive list, one thing I want to say that the things I have put in the handbook are the most important methods, you"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 393.1,
+      "end": 398.6,
+      "text": "follow them, whatever chatgpt is giving you, take it with a pinch of salt"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 398.6,
+      "end": 405.6,
+      "text": " means don't take it so seriously, because I have put a lot of effort in this handbook and made it with my human brain, and I will give you the"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 405.6,
+      "end": 412.6,
+      "text": "handwritten version of this handbook, you will get that too"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 412.6,
+      "end": 419.1,
+      "text": " so let's talk about tuples, what is tuple, tuple is an immutable data type in python, which is like a list, but what is the difference between list"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 419.1,
+      "end": 425.6,
+      "text": "and tuple, tuple is immutable and list is mutable"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 425.6,
+      "end": 434.6,
+      "text": " like I have already told you that string is immutable, you can't change the string, you can change the list, but somewhere we need a data type which"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 434.6,
+      "end": 443.6,
+      "text": "is a collection and it is immutable"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 443.6,
+      "end": 455.6,
+      "text": " so this type of data type is our tuple, so let's talk about tuple, how will tuple be made, so first we will make a file 03 underscore tuple dot py,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 455.6,
+      "end": 467.6,
+      "text": "so if I write here a is equal to and here in bracket I will write 1,2,5,6 and if I print and show you type of a, then a is a tuple"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 467.6,
+      "end": 474.6,
+      "text": " so you can see class tuple is there, so this is a tuple, why is it a tuple, because you have made a bracket like this, now if you want to make an"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 474.6,
+      "end": 481.6,
+      "text": "empty tuple, then you can make it like this, you want to make an empty tuple, you can make it like this, so this is your empty tuple, so you people"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 481.6,
+      "end": 488.6,
+      "text": "remember this thing that this is your empty tuple"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 488.6,
+      "end": 494.4,
+      "text": " if you want to make a tuple which is empty, then how will you make it, will you make it like this, no you won't make it like this, I will show you"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 494.4,
+      "end": 500.2,
+      "text": "what will happen if you make it like this, if you make it like this then python will think that you have written a number which you have enclosed in"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 500.2,
+      "end": 506.0,
+      "text": "bracket and you can see class integer is telling here, it's not even python's fault, so you will say that I want to make a tuple which has only one"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 506.0,
+      "end": 511.8,
+      "text": "element, how should I make it, so what you have to do is you have to give a comma after 1, then python will understand that you are not talking about"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 511.8,
+      "end": 517.6,
+      "text": "integer,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 518.6,
+      "end": 528.27,
+      "text": " you are talking about a tuple which has only one element, so as soon as you run it, you will get class tuple printed here, so here we have made a"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 528.27,
+      "end": 537.93,
+      "text": "tuple which has only one element, but usually we deal with such tuples which have multiple elements and if there are different data type elements then"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 537.93,
+      "end": 547.6,
+      "text": "there should be no problem, so if I write here false, I write here rohan, if I write here shivam and run it,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 548.6,
+      "end": 555.85,
+      "text": " then you can see class tuple here, so can I change tuple's elements, you will comment this below and after putting timestamp you will comment and"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 555.85,
+      "end": 563.1,
+      "text": "tell me that can I do it or not, if I do a0 is equal to 45 or 453, what will happen, tell me in the comment section below, just tell me this much,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 563.1,
+      "end": 570.35,
+      "text": "will there be a change or not, and I am glad you commented, if you commented then you have commented absolutely right, you cannot change because the"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 570.35,
+      "end": 577.6,
+      "text": "point of tuple is that you cannot change it,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 578.6,
+      "end": 587.6,
+      "text": " you can make a new tuple, all those things will be done, you cannot change tuple, that is, I said a is equal to, so it became a stone line, just like"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 587.6,
+      "end": 596.6,
+      "text": "a string, you cannot change the string, if you said a is equal to double quote harry, then it means a is equal to double quote harry, you cannot"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 596.6,
+      "end": 605.6,
+      "text": "change its third character, nor can you change its fifth character, so you made a is equal to tuple here, so it became a stone line,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 605.6,
+      "end": 611.6,
+      "text": " so you made a stone line, so you cannot change tuple, this is the main point, now you see here we have taken a tuple and we will talk about some"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 611.6,
+      "end": 617.6,
+      "text": "methods of tuple and there are many other methods of tuple about which we will talk, so first of all I will tell you about some methods of tuple and"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 617.6,
+      "end": 623.6,
+      "text": "what I will do here,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 623.6,
+      "end": 632.93,
+      "text": " now I will print a and I told you that if you print a then it will be this, if you print type of a then it will be this, so I have already told you"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 632.93,
+      "end": 642.27,
+      "text": "all these things that class tuple will come, now we will see the methods of tuple, so 04 underscore tuple underscore methods dot py, so I will do one"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 642.27,
+      "end": 651.6,
+      "text": "thing, let's take this only, let's reuse this tuple and if I say a dot here,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 651.6,
+      "end": 660.27,
+      "text": " so you see that if I do a dot count 45 and I write no is equal to a dot count 45, print no, now how will you know that it is changing existing, see"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 660.27,
+      "end": 668.93,
+      "text": "you have to remember which is mutable and which is immutable, string is immutable, so it will not change existing string, it will always return a new"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 668.93,
+      "end": 677.6,
+      "text": "string and in the case of list, existing list will change,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 677.6,
+      "end": 684.6,
+      "text": " but here you see that when I say no is equal to a dot count 45, see a cannot change by running a dot count because a is a tuple which is an immutable"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 684.6,
+      "end": 691.6,
+      "text": "data type, so if I run it in this way, then you see it has told me that 45 comes only once in your tuple, and if I put another 45 then it will return"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 691.6,
+      "end": 698.6,
+      "text": "2,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 698.6,
+      "end": 705.85,
+      "text": " so do use chat gpt, I say it again and again and I will keep saying give me some tuple methods, it is very important for you to use chat gpt, see it"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 705.85,
+      "end": 713.1,
+      "text": "has told me that count is one, index is one, I have included both, I have also included index, you see here many more things have been told, how to"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 713.1,
+      "end": 720.35,
+      "text": "make concatenated tuple, you always see a new tuple is being made, existing tuple is not changing, they have also made concatenation, tomorrow a new"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 720.35,
+      "end": 727.6,
+      "text": "tuple is being made,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 728.6,
+      "end": 735.85,
+      "text": " so I will do one thing here, my tuple is equal to a, my tuple dot index 3, what does the index method do, returns the index of the first occurrence"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 735.85,
+      "end": 743.1,
+      "text": "of a specified value in the tuple, if it is not there in your tuple, then it will raise the value error, like if I say here i is equal to a dot index,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 743.1,
+      "end": 750.35,
+      "text": "tell me the index of 45, I will print i, which index will tell me, see 0, 1, 1 will return, it will not find further because it has got 45, once it"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 750.35,
+      "end": 757.6,
+      "text": "has got 45, it will not find further,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 757.6,
+      "end": 771.6,
+      "text": " let me show you, see it has written 1, 0, 1, if I do 3424, 3424, if I run it, it is saying that your 3424 is on the third index, 0, 1, 2, 3, your"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 771.6,
+      "end": 785.6,
+      "text": "3424 is on the third index, I hope you have understood that 3424 is on the third index,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 785.6,
+      "end": 792.93,
+      "text": " index means counting from 0, index means counting from 0, 0, 1, 2, 3, and we will count from 0 only because this is programming, I am not talking"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 792.93,
+      "end": 800.27,
+      "text": "about only python, if you see C language, Rust, C++, you will see that your counting will start from 0, you have to note this, so that wraps up the"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 800.27,
+      "end": 807.6,
+      "text": "tuple chapter,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 807.6,
+      "end": 814.6,
+      "text": " and the things that chat gpt has told you, this is very good, it has told you how to do concatenation, you can make a new tuple by doing plus, then"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 814.6,
+      "end": 821.6,
+      "text": "repetition, tuples can be repeated using star, now it is telling that if you want to repeat, you have to make a tuple which has repeated values, like"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 821.6,
+      "end": 828.6,
+      "text": "there is a tuple, now you want this tuple to be repeated 3 times, you do repeated is equal to my tuple into 3, let me zoom in a little, so your tuple"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 828.6,
+      "end": 835.6,
+      "text": "will be like this,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 835.6,
+      "end": 844.93,
+      "text": " membership, you can check if an item exists in a tuple using the in keyword, this is also very good, you can check if there is any element in your"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 844.93,
+      "end": 854.27,
+      "text": "tuple or not, if you say print 2 in my tuple, output will be true, 4 in my tuple, output will be false, how cool is that, so use chat gpt, my friends,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 854.27,
+      "end": 863.6,
+      "text": "use chat gpt, if your teacher or professor is telling you in your college, which I have heard that people say that there is no need to open chat gpt,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 863.6,
+      "end": 870.85,
+      "text": " no, if you don't open it, someone else will open it and it will go ahead of you, so here you have to use it a lot, you have to use it a lot, keep it"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 870.85,
+      "end": 878.1,
+      "text": "a little less during learning time so that you can learn, later you have to use it by pressing, my tuple is equal to this, you can take out the length"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 878.1,
+      "end": 885.35,
+      "text": "of my tuple, you can take out the length, I will include it here, so if I print len of a, then its length is 8, it has told, you will count 1, 2, 3,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 885.35,
+      "end": 892.6,
+      "text": "4, 5, 6, 7, 8, it has 8 elements,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 893.6,
+      "end": 900.35,
+      "text": " then slicing, exactly the same concept of slicing, which I told you, just remember one thing that when you do slicing, a new tuple will be written,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 900.35,
+      "end": 907.1,
+      "text": "unpacking, tuple can be unpacked into individual variables, you can do unpacking of tuple, like if you have done a, b, c is equal to my tuple, then in"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 907.1,
+      "end": 913.85,
+      "text": "a, b, c, 1, 2, 3 respectively, the columns will be assigned, I hope you understood this thing, it's great, it's fun, it's fun, it's fun, it's fun,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 913.85,
+      "end": 920.6,
+      "text": "it's fun,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 920.6,
+      "end": 930.6,
+      "text": " come back, and now we will move towards the practice set of chapter number 4, I am very much motivated, let's go towards the practice set,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 930.6,
+      "end": 938.27,
+      "text": " so guys, practice set 4, first question says, write a program to store 7 fruits in a list entered by the user, so there is a list, in it you have to"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 938.27,
+      "end": 945.93,
+      "text": "ask the user for 7 fruits and enter it, understood, if not, then I will explain, so what we will do here, we will make a folder by the name of chapter"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 945.93,
+      "end": 953.6,
+      "text": "4 ps,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 953.6,
+      "end": 960.85,
+      "text": " I will close the old folder, I will open this folder by pressing shift right, and I will make a new file, 01 underscore problem1.py, so what do we"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 960.85,
+      "end": 968.1,
+      "text": "have, first of all we have to make a list, and they give a good name, it's not like that, they give a good name, fruits is equal to, I have made a"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 968.1,
+      "end": 975.35,
+      "text": "blank list here, after this what I will do, I will say f1 is equal to fruit1 is equal to input, so what will the user do, it will tell me, enter fruit"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 975.35,
+      "end": 982.6,
+      "text": "name,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 983.6,
+      "end": 992.93,
+      "text": " then after this what I will do, I will write fruits.append f1, I will append f1, then what I will do, I will do the same work with f2, f3, f4, so I"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 992.93,
+      "end": 1002.27,
+      "text": "will do the same work with f2, I will do the same work with f3, I will do the same work with f4, how many fruits, how many to do, where is the"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1002.27,
+      "end": 1011.6,
+      "text": "question, 7 fruits, so we have to make up to f7, it is a cumbersome program, but I will tell you guys that how you can make it better,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1011.6,
+      "end": 1020.6,
+      "text": " so after 4, I don't even need to change its name, and I will tell you why, f5, 6, and here 7, and by pressing alt, I will toggle the screen cast"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1020.6,
+      "end": 1029.6,
+      "text": "mode, so that you can see what I am doing, I have selected this, I have pressed alt in my keyboard, I have pressed up arrow and I can move it, you"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1029.6,
+      "end": 1038.6,
+      "text": "should know how to do such things,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1038.6,
+      "end": 1052.6,
+      "text": " and finally we will print our fruits, let's go, and you see here, enter fruit name, banana, banana, then after this another fruit name, grapes, then"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1052.6,
+      "end": 1066.6,
+      "text": "grapes, then after this I don't know any other fruit name, tomato, potato, which is not a fruit, I don't know,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1066.6,
+      "end": 1073.27,
+      "text": " you guys write in the comment that you don't know that fruit is not a fruit, I have taken it, I could have taken pineapple, watermelon, but 1, 2, 3,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1073.27,
+      "end": 1079.93,
+      "text": "4, 5, 6, 7, 7 by 7, the list of fruits is made here, so you run this program according to you, make it yourself, it will be fun, let's move to the"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1079.93,
+      "end": 1086.6,
+      "text": "next question,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1086.6,
+      "end": 1093.93,
+      "text": " write a program to accept marks of 6 students and display them in a sorted manner, so you have to accept marks of 6 students, it is exactly the same"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1093.93,
+      "end": 1101.27,
+      "text": "program, it is exactly the same program, 0, 2, underscore, problem, 2.py, and where fruits are written, now I will show you one thing, you can double"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1101.27,
+      "end": 1108.6,
+      "text": "click and select fruits,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1108.6,
+      "end": 1115.35,
+      "text": " you can double click and select fruits, you can see change all occurrences by right clicking, learn this, it is very useful, you can see change all"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1115.35,
+      "end": 1122.1,
+      "text": "occurrences, click on it, and instead of fruits, you write marks, and here this fruit, change all occurrences, you can select and do it, and you can"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1122.1,
+      "end": 1128.85,
+      "text": "double click and select, so you have to select it, right click, change all occurrences, and you see, as soon as you do change all occurrences, you get"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1128.85,
+      "end": 1135.6,
+      "text": "multiple cursors,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1135.6,
+      "end": 1145.27,
+      "text": " now you have to write, backspace, and you write here, enter marks here, you have to write it like this, you have to write enter marks here, so what"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1145.27,
+      "end": 1154.93,
+      "text": "will happen, your first mark, second, third, fourth, how many students we have to take, we have to take 6 students, we have to take 6 students, 1, 2,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1154.93,
+      "end": 1164.6,
+      "text": "3, 4, 5, 6, and here you see, marks, and then we will print, so I run it, enter marks here, 23, 1, 2, 45, and here you see,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1165.6,
+      "end": 1175.27,
+      "text": " then someone got 65, then my marks are 100, and this is not printed in sorted manner, so what we have to do, after appending in marks, we have to"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1175.27,
+      "end": 1184.93,
+      "text": "sort marks, so what we have to do, we have to write marks in sorted manner, so now if I right click it, sorry, I will run it here, and I will put"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1184.93,
+      "end": 1194.6,
+      "text": "here, whatever marks are there, I will put it, so see it came in sorted manner, it has not come in increasing order yet,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1195.6,
+      "end": 1205.27,
+      "text": " why it has not come in sorted manner, and behind it is our type, what type is this, its type is string, so its type is string, so what I have to do,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1205.27,
+      "end": 1214.93,
+      "text": "I have to replace input with int input, but you see, even after string, sort function worked on it, it sorted it alphabetically, first 2 comes, it"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1214.93,
+      "end": 1224.6,
+      "text": "wrote strings starting from 2, then it wrote strings starting from 3, then it wrote strings starting from 6,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1225.6,
+      "end": 1234.6,
+      "text": " so in MS Excel, if you have seen, sort function, or if you have not seen, it has sorted alphabetically, so what we have to do, we need integer marks,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1234.6,
+      "end": 1243.6,
+      "text": "so we will change this input bracket to int input, so I will change all occurrences, and here I will write input in place of input, and I will open"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1243.6,
+      "end": 1252.6,
+      "text": "bracket again, and I have to open only one bracket, because I have to put rest of the brackets at the end, so I will delete it by pressing delete key,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1252.6,
+      "end": 1259.6,
+      "text": " so I have written int, then I have written input, then I will press end key, see I have pressed end key, I will close it by pressing end key, I have"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1259.6,
+      "end": 1266.6,
+      "text": "used a little tricky multiple cursor, but you should know how to do it, I have selected it, changed all occurrences, then whatever keys I have"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1266.6,
+      "end": 1273.6,
+      "text": "pressed, it came on your computer screen, you can do it one by one also, if you are a beginner, you are not able to do it, no problem, do it one by"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1273.6,
+      "end": 1280.6,
+      "text": "one, but I like to do it fast, so I will run it here, I have run it here,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1280.6,
+      "end": 1290.6,
+      "text": " and see it is saying enter mark share, let's run it again, I have run it here, and see enter mark share, 34 came, 78 came, 23 came, 79 came, 100"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1290.6,
+      "end": 1300.6,
+      "text": "came, then my friend 98 came, and see it has sorted in increasing order, so it has given me sorted list of integers,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1300.6,
+      "end": 1308.27,
+      "text": " earlier you saw that a single quote was coming around the list, why was that single quote coming, that single quote was coming because it was a"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1308.27,
+      "end": 1315.93,
+      "text": "string, so our problem 2 is also solved, let's come to problem 3, check that a type cannot be changed in python, it is a little mistyped here, check"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1315.93,
+      "end": 1323.6,
+      "text": "that tuple type cannot be changed in python, so let's solve problem number 3,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1330.6,
+      "end": 1340.27,
+      "text": " I am going to write a and I am going to write 34 and let's add Harry in it, so I will try to change a2 and I will say that do a2 larry, so what will"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1340.27,
+      "end": 1349.93,
+      "text": "it do, error will come, you see tuple object does not support item assignment, it means that your assignment cannot be done in tuple, because tuple is"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1349.93,
+      "end": 1359.6,
+      "text": "immutable, you cannot change it,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1360.6,
+      "end": 1370.27,
+      "text": " so let's come to the next question, which is writing a program to sum a list with 4 numbers, so we have a list which has 4 numbers and we will sum it"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1370.27,
+      "end": 1379.93,
+      "text": "with 4.py, so I have l is equal to a list which has 4 numbers and I have to sum these 4 numbers, so what I will do to sum them, I will print l sum of"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1379.93,
+      "end": 1389.6,
+      "text": "l,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1390.6,
+      "end": 1399.6,
+      "text": " so sum is a function which sums, now what is sum, sum is a built-in function and here you can make a list and it will sum it for you, so we have some"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1399.6,
+      "end": 1408.6,
+      "text": "numbers which we have summed, so I will make these numbers single digit number so that you can check it, so 5 and 1 is 6 and 6 and 6 is 12, so is it"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1408.6,
+      "end": 1417.6,
+      "text": "12, yes it is 12, which means that our program is completely ready,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1418.6,
+      "end": 1426.93,
+      "text": " so let's come to the next question, write a program to count the number of zeros in the following tuple, so let's copy the following tuple, so I will"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1426.93,
+      "end": 1435.27,
+      "text": "copy this tuple and make a new file and I will name it 05 underscore problem 5.py, so I will do this, I will say n is equal to a dot count, we have to"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1435.27,
+      "end": 1443.6,
+      "text": "count 0 and print n,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1443.6,
+      "end": 1451.6,
+      "text": " so we can see that 3 is 0, but if it was 30,000, then you might not have been able to count, so I did a dot count 0, so 3 came here, so we had to"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1451.6,
+      "end": 1459.6,
+      "text": "count zeros, if I had to count something else, then I could have done that too, and yes that wraps our chapter 4 practice set, I hope you understood"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1459.6,
+      "end": 1467.6,
+      "text": "tuples and lists, now I will teach you one thing before ending this video,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1467.6,
+      "end": 1480.1,
+      "text": " I will show you that we have solved this question, write check data type cannot be, let's take this one, or let's take this one, this is the"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1480.1,
+      "end": 1492.6,
+      "text": "question, and I will start a new chart, I will say chart gpt, I have submitted this answer to this question,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1497.6,
+      "end": 1505.27,
+      "text": " I did right or wrong, now I will show you my answer, so my answer was problem number 2, so I am saying to chart gpt that I have solved this question"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1505.27,
+      "end": 1512.93,
+      "text": "in this way, so it is telling that your code correctly accepts marks for 6 students and displays them in a sorted manner, here are some suggestions"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1512.93,
+      "end": 1520.6,
+      "text": "and improvements, correct use of list and append, you use a list to store,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1520.6,
+      "end": 1529.27,
+      "text": " see I did right, now it is telling what are the suggestions for improvement, and it has told me some other things, I have not read for loop so I did"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1529.27,
+      "end": 1537.93,
+      "text": "not make you do it, but you got the point that chart gpt does not just solve the question, it also tells you where you did right, where wrong and what"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1537.93,
+      "end": 1546.6,
+      "text": "could have been improved, so include chart gpt in your flow, include it in learning flow,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1546.6,
+      "end": 1551.1,
+      "text": " do it in professional flow, but also include it in learning flow, so this learning is very good, I hope you liked it, now let's move towards chapter"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1551.1,
+      "end": 1555.6,
+      "text": "5 because it is very important."
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1576.6,
+      "end": 1584.6,
+      "text": " I will stop this chapter because it is very important, what are the dictionary and sets, these are also collections, these are also used to store"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1584.6,
+      "end": 1592.6,
+      "text": "data in python, but how it is different from list and tuple, I will tell you, the dictionary in python programming is key value pairs, like if you"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1592.6,
+      "end": 1600.6,
+      "text": "want to store the names and marks of some students, then you can map their name with their marks,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1600.6,
+      "end": 1609.93,
+      "text": " and you can store the pairs of names and marks like this, what does that mean and how to do that in python programming, let's learn, so I will come"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1609.93,
+      "end": 1619.27,
+      "text": "here and make a folder of chapter 5, and after making the folder of chapter 5, I will open it in VS code, so the first file that is going to be made"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1619.27,
+      "end": 1628.6,
+      "text": "here is dictionaries,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1628.6,
+      "end": 1643.1,
+      "text": " so what I will do is, I will write here marks is equal to, and I will write something like this, and I will write harry, I will say that harry's"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1643.1,
+      "end": 1657.6,
+      "text": "marks are 100 out of 100, then shubham's marks are 56, rohan's marks are 23, and now what I will do is, I will print the type of marks,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1658.6,
+      "end": 1666.6,
+      "text": " I will print the type of marks, if I print these two, then you will see that the dictionary of marks has been printed, and along with that the class"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1666.6,
+      "end": 1674.6,
+      "text": "dict has been printed, which means that its type is dictionary type, and this dictionary type has been recognized by python, python is telling that"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1674.6,
+      "end": 1682.6,
+      "text": "this is a dictionary, the sole use of dictionary is that you can play in key value pairs,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1682.6,
+      "end": 1691.93,
+      "text": " in short, if you want the key value to be associated with each other, and along with that we get a list type collection, basically I can say this"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1691.93,
+      "end": 1701.27,
+      "text": "list of key value pairs, means it is associated with key values, and along with that you have stored it in a collection, now you know what is the good"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1701.27,
+      "end": 1710.6,
+      "text": "thing, I will tell you the fun thing, the fun thing is that you can print, like in the list we were counting from 0 to indexing, 0, 1, 2, 3,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1710.6,
+      "end": 1719.93,
+      "text": " here the fun thing is that you can't print marks 0, if you print marks 0, then you will get a key error, that what is 0, but the fun thing is that"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1719.93,
+      "end": 1729.27,
+      "text": "you can print marks harry, because the key name is harry, and it will tell you what is the corresponding pair of it, this is the syntax of making a"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1729.27,
+      "end": 1738.6,
+      "text": "dictionary, it will tell you how many marks are corresponding to harry, and you can see here it has told 100,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1738.6,
+      "end": 1745.85,
+      "text": " if I write shubham, then it will tell me, it will tell me marks of shubham, and if I write rohan, it will tell me marks of rohan, now what is the"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1745.85,
+      "end": 1753.1,
+      "text": "benefit of doing this, I will tell you the inner thing, that why did dictionary was required in python programming, basically what happens is that"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1753.1,
+      "end": 1760.35,
+      "text": "this lookup, means if I have 1000 marks, 1000 students marks, then this lookup is very fast, means if I find marks of harry, then in a big O of one"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1760.35,
+      "end": 1767.6,
+      "text": "time, I will be told that"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1768.6,
+      "end": 1775.85,
+      "text": " marks of harry are 100, understand this, marks of harry are 100, marks of shubham are 56, and if I would have tried to write this thing in list, I am"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1775.85,
+      "end": 1783.1,
+      "text": "telling you the inner thing, you will feel uncomfortable, but I will tell you, because it is important to know, if I would have stored like this,"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1783.1,
+      "end": 1790.35,
+      "text": "marks of harry are 100, means I can make list of list, I can make list in list, list of list is allowed in python, so I can make this, but if we do"
+    },
+    {
+      "number": "5",
+      "title": "part5",
+      "start": 1790.35,
+      "end": 1797.6,
+      "text": "this, then we will not be able to write directly"
+    }
+  ],
+  "text": " now it will be reversed, it starts from 11 and then it will be reversed 6 to 62, 34 and 1 so if you want to reverse your list, then you can use reverse method in it now what we will do here, we will see insert, what is insert? we have seen append, what append does? it inserts at the end, means it joins the list at the end if I have to put something in the middle, if I have to put something on a particular index so how will I do that, suppose I want to add a new item, suppose I add an item in it and I want that the name of this item is 33333 and I want it at index 3 so you will see here that it is telling me that which index you want to insert and what you want to insert so it is written here that first tell me the index, then tell me what you want to insert, index, object so you get a hint in VS code, so suppose I want to insert 33333, its index will be 0, 1, 2, 3 so it will be inserted after 62, so see it is inserted after 62, so we basically said here that insert, insert 33333, how many 3 I have written, 2, 2, 4, 2, 6, yes it is 6 insert 33333, such that its index in the list is 3, so when I am saying l1.insert 3,333333 I am basically saying that insert it in the list such that its index is 3, if I make it 2, then what will happen so what will happen, it will be inserted after 0, 1, 2, means its index should be 2 in this list insert it in this way, this is being said, so where will it come, obviously it will come after 34 as you have seen here, so this is our insert method, then comes pop method, what does pop do it will delete element at a particular index and will also return its value, means it will remove a particular index element from your list and will return that element, now we are not seeing its return value, what does return value mean return value means that if I print l1.sort then what will come, if I print l1.reverse then what will come that will be called return value of l1.reverse, in the case of list, because it is changing my original list I have nothing to do with return value, are you understanding this, because it is changing my original list so I am just running the function and taking a leave, I am saying that it is fine, I have run the function on the list my original list has changed, my work is just 35, now you see here, I will comment this and show you pop method so if I say l1.pop and write 3, what is there on 3 index, 0, 1, 2, 3, this 2 will pop out, now see if I print then it will not be 2 it is not 2, see after 62 it is coming 6, what happened to 2, it popped out, 2 popped out and you can see here that if I print this, see what happens whenever we run a function, it will do some work like in this case what is l1.pop doing, it is changing l1 and it will return something, if I print it then what will come if I do a is equal to l1.pop, I will show you this thing, so when I run l1.pop and print it, it will print the value at index 3 which is 2 in this case, it will print that, so you saw here when I did print l1.pop 3, the 2 was printed here because the value at index 3 was 2, the value that popped was 2, 2 value was erased from the list, it was printed I could have written it like this also, like I write here value is equal to, so basically what I said, I said that its return value in the container named value, means in the variable named value, it is called a variable not a container, I am saying container to explain you value is equal to l1.pop 3 and print value, this will also print the same thing, see it will print 2 only, so I hope these things are very easy for you one more way I want to tell you to run a python program, if you want to run a python program, then you write python by giving space, whatever you want to run, suppose I wrote here 02 and make sure that your terminal is open in that folder in which your program is, like in my chapter 4 folder, in chapter 4 folder, I have this program, now what you do write 02 and give tab, see from 02 only one file is starting, listen to me carefully, from 02 only one file is starting so after 02, if I give tab, if I press tab key, then it will auto complete for me, if I hit enter, then the program will run, so if you want to write a full name of a file in your terminal and that is a very complicated name, like in this case, it is a very long name, it will take a little time to type 02 so what you do, write 02 and press tab, it will auto complete, but one thing you have to ensure that if something else is starting from 02 then you have to write till there, till it is not unique, like if 02 underscore list is there, 02 underscore tuple is there, then you have to write 02 underscore l and press tab, then only it will understand which file you want to open, anyway this is the knowledge of the terminal, now I come back to the knowledge of python so if you want to print the return value, then you can do something like this, l1.sort, l1.reverse return value, I don't care about it because my work is done, if I want, I can print its return value, but I will not do it because l1.sort will sort my list, l1.reverse will reverse my list my work will be done, that's it, was our string changing in the case of string, it was not happening and this is the difference that the string is immutable, the list is mutable so we are able to change the list because the list is mutable, means by running the function on it, we are able to change the original list, but the string is immutable means it returns a new string, but it cannot change your existing string at all, then comes our remove method, which removes a particular value from the list so try the remove method yourself, I want to give you as a challenge, try the remove method yourself, one method which I want you to try yourself are there any other methods, yes there are other methods, and I want you to comment at least one method of list, you can ask chatgpt, tell me some more methods of list so he will give you a comprehensive list, one thing I want to say that the things I have put in the handbook are the most important methods, you follow them, whatever chatgpt is giving you, take it with a pinch of salt means don't take it so seriously, because I have put a lot of effort in this handbook and made it with my human brain, and I will give you the handwritten version of this handbook, you will get that too so let's talk about tuples, what is tuple, tuple is an immutable data type in python, which is like a list, but what is the difference between list and tuple, tuple is immutable and list is mutable like I have already told you that string is immutable, you can't change the string, you can change the list, but somewhere we need a data type which is a collection and it is immutable so this type of data type is our tuple, so let's talk about tuple, how will tuple be made, so first we will make a file 03 underscore tuple dot py, so if I write here a is equal to and here in bracket I will write 1,2,5,6 and if I print and show you type of a, then a is a tuple so you can see class tuple is there, so this is a tuple, why is it a tuple, because you have made a bracket like this, now if you want to make an empty tuple, then you can make it like this, you want to make an empty tuple, you can make it like this, so this is your empty tuple, so you people remember this thing that this is your empty tuple if you want to make a tuple which is empty, then how will you make it, will you make it like this, no you won't make it like this, I will show you what will happen if you make it like this, if you make it like this then python will think that you have written a number which you have enclosed in bracket and you can see class integer is telling here, it's not even python's fault, so you will say that I want to make a tuple which has only one element, how should I make it, so what you have to do is you have to give a comma after 1, then python will understand that you are not talking about integer, you are talking about a tuple which has only one element, so as soon as you run it, you will get class tuple printed here, so here we have made a tuple which has only one element, but usually we deal with such tuples which have multiple elements and if there are different data type elements then there should be no problem, so if I write here false, I write here rohan, if I write here shivam and run it, then you can see class tuple here, so can I change tuple's elements, you will comment this below and after putting timestamp you will comment and tell me that can I do it or not, if I do a0 is equal to 45 or 453, what will happen, tell me in the comment section below, just tell me this much, will there be a change or not, and I am glad you commented, if you commented then you have commented absolutely right, you cannot change because the point of tuple is that you cannot change it, you can make a new tuple, all those things will be done, you cannot change tuple, that is, I said a is equal to, so it became a stone line, just like a string, you cannot change the string, if you said a is equal to double quote harry, then it means a is equal to double quote harry, you cannot change its third character, nor can you change its fifth character, so you made a is equal to tuple here, so it became a stone line, so you made a stone line, so you cannot change tuple, this is the main point, now you see here we have taken a tuple and we will talk about some methods of tuple and there are many other methods of tuple about which we will talk, so first of all I will tell you about some methods of tuple and what I will do here, now I will print a and I told you that if you print a then it will be this, if you print type of a then it will be this, so I have already told you all these things that class tuple will come, now we will see the methods of tuple, so 04 underscore tuple underscore methods dot py, so I will do one thing, let's take this only, let's reuse this tuple and if I say a dot here, so you see that if I do a dot count 45 and I write no is equal to a dot count 45, print no, now how will you know that it is changing existing, see you have to remember which is mutable and which is immutable, string is immutable, so it will not change existing string, it will always return a new string and in the case of list, existing list will change, but here you see that when I say no is equal to a dot count 45, see a cannot change by running a dot count because a is a tuple which is an immutable data type, so if I run it in this way, then you see it has told me that 45 comes only once in your tuple, and if I put another 45 then it will return 2, so do use chat gpt, I say it again and again and I will keep saying give me some tuple methods, it is very important for you to use chat gpt, see it has told me that count is one, index is one, I have included both, I have also included index, you see here many more things have been told, how to make concatenated tuple, you always see a new tuple is being made, existing tuple is not changing, they have also made concatenation, tomorrow a new tuple is being made, so I will do one thing here, my tuple is equal to a, my tuple dot index 3, what does the index method do, returns the index of the first occurrence of a specified value in the tuple, if it is not there in your tuple, then it will raise the value error, like if I say here i is equal to a dot index, tell me the index of 45, I will print i, which index will tell me, see 0, 1, 1 will return, it will not find further because it has got 45, once it has got 45, it will not find further, let me show you, see it has written 1, 0, 1, if I do 3424, 3424, if I run it, it is saying that your 3424 is on the third index, 0, 1, 2, 3, your 3424 is on the third index, I hope you have understood that 3424 is on the third index, index means counting from 0, index means counting from 0, 0, 1, 2, 3, and we will count from 0 only because this is programming, I am not talking about only python, if you see C language, Rust, C++, you will see that your counting will start from 0, you have to note this, so that wraps up the tuple chapter, and the things that chat gpt has told you, this is very good, it has told you how to do concatenation, you can make a new tuple by doing plus, then repetition, tuples can be repeated using star, now it is telling that if you want to repeat, you have to make a tuple which has repeated values, like there is a tuple, now you want this tuple to be repeated 3 times, you do repeated is equal to my tuple into 3, let me zoom in a little, so your tuple will be like this, membership, you can check if an item exists in a tuple using the in keyword, this is also very good, you can check if there is any element in your tuple or not, if you say print 2 in my tuple, output will be true, 4 in my tuple, output will be false, how cool is that, so use chat gpt, my friends, use chat gpt, if your teacher or professor is telling you in your college, which I have heard that people say that there is no need to open chat gpt, no, if you don't open it, someone else will open it and it will go ahead of you, so here you have to use it a lot, you have to use it a lot, keep it a little less during learning time so that you can learn, later you have to use it by pressing, my tuple is equal to this, you can take out the length of my tuple, you can take out the length, I will include it here, so if I print len of a, then its length is 8, it has told, you will count 1, 2, 3, 4, 5, 6, 7, 8, it has 8 elements, then slicing, exactly the same concept of slicing, which I told you, just remember one thing that when you do slicing, a new tuple will be written, unpacking, tuple can be unpacked into individual variables, you can do unpacking of tuple, like if you have done a, b, c is equal to my tuple, then in a, b, c, 1, 2, 3 respectively, the columns will be assigned, I hope you understood this thing, it's great, it's fun, it's fun, it's fun, it's fun, it's fun, come back, and now we will move towards the practice set of chapter number 4, I am very much motivated, let's go towards the practice set, so guys, practice set 4, first question says, write a program to store 7 fruits in a list entered by the user, so there is a list, in it you have to ask the user for 7 fruits and enter it, understood, if not, then I will explain, so what we will do here, we will make a folder by the name of chapter 4 ps, I will close the old folder, I will open this folder by pressing shift right, and I will make a new file, 01 underscore problem1.py, so what do we have, first of all we have to make a list, and they give a good name, it's not like that, they give a good name, fruits is equal to, I have made a blank list here, after this what I will do, I will say f1 is equal to fruit1 is equal to input, so what will the user do, it will tell me, enter fruit name, then after this what I will do, I will write fruits.append f1, I will append f1, then what I will do, I will do the same work with f2, f3, f4, so I will do the same work with f2, I will do the same work with f3, I will do the same work with f4, how many fruits, how many to do, where is the question, 7 fruits, so we have to make up to f7, it is a cumbersome program, but I will tell you guys that how you can make it better, so after 4, I don't even need to change its name, and I will tell you why, f5, 6, and here 7, and by pressing alt, I will toggle the screen cast mode, so that you can see what I am doing, I have selected this, I have pressed alt in my keyboard, I have pressed up arrow and I can move it, you should know how to do such things, and finally we will print our fruits, let's go, and you see here, enter fruit name, banana, banana, then after this another fruit name, grapes, then grapes, then after this I don't know any other fruit name, tomato, potato, which is not a fruit, I don't know, you guys write in the comment that you don't know that fruit is not a fruit, I have taken it, I could have taken pineapple, watermelon, but 1, 2, 3, 4, 5, 6, 7, 7 by 7, the list of fruits is made here, so you run this program according to you, make it yourself, it will be fun, let's move to the next question, write a program to accept marks of 6 students and display them in a sorted manner, so you have to accept marks of 6 students, it is exactly the same program, it is exactly the same program, 0, 2, underscore, problem, 2.py, and where fruits are written, now I will show you one thing, you can double click and select fruits, you can double click and select fruits, you can see change all occurrences by right clicking, learn this, it is very useful, you can see change all occurrences, click on it, and instead of fruits, you write marks, and here this fruit, change all occurrences, you can select and do it, and you can double click and select, so you have to select it, right click, change all occurrences, and you see, as soon as you do change all occurrences, you get multiple cursors, now you have to write, backspace, and you write here, enter marks here, you have to write it like this, you have to write enter marks here, so what will happen, your first mark, second, third, fourth, how many students we have to take, we have to take 6 students, we have to take 6 students, 1, 2, 3, 4, 5, 6, and here you see, marks, and then we will print, so I run it, enter marks here, 23, 1, 2, 45, and here you see, then someone got 65, then my marks are 100, and this is not printed in sorted manner, so what we have to do, after appending in marks, we have to sort marks, so what we have to do, we have to write marks in sorted manner, so now if I right click it, sorry, I will run it here, and I will put here, whatever marks are there, I will put it, so see it came in sorted manner, it has not come in increasing order yet, why it has not come in sorted manner, and behind it is our type, what type is this, its type is string, so its type is string, so what I have to do, I have to replace input with int input, but you see, even after string, sort function worked on it, it sorted it alphabetically, first 2 comes, it wrote strings starting from 2, then it wrote strings starting from 3, then it wrote strings starting from 6, so in MS Excel, if you have seen, sort function, or if you have not seen, it has sorted alphabetically, so what we have to do, we need integer marks, so we will change this input bracket to int input, so I will change all occurrences, and here I will write input in place of input, and I will open bracket again, and I have to open only one bracket, because I have to put rest of the brackets at the end, so I will delete it by pressing delete key, so I have written int, then I have written input, then I will press end key, see I have pressed end key, I will close it by pressing end key, I have used a little tricky multiple cursor, but you should know how to do it, I have selected it, changed all occurrences, then whatever keys I have pressed, it came on your computer screen, you can do it one by one also, if you are a beginner, you are not able to do it, no problem, do it one by one, but I like to do it fast, so I will run it here, I have run it here, and see it is saying enter mark share, let's run it again, I have run it here, and see enter mark share, 34 came, 78 came, 23 came, 79 came, 100 came, then my friend 98 came, and see it has sorted in increasing order, so it has given me sorted list of integers, earlier you saw that a single quote was coming around the list, why was that single quote coming, that single quote was coming because it was a string, so our problem 2 is also solved, let's come to problem 3, check that a type cannot be changed in python, it is a little mistyped here, check that tuple type cannot be changed in python, so let's solve problem number 3, I am going to write a and I am going to write 34 and let's add Harry in it, so I will try to change a2 and I will say that do a2 larry, so what will it do, error will come, you see tuple object does not support item assignment, it means that your assignment cannot be done in tuple, because tuple is immutable, you cannot change it, so let's come to the next question, which is writing a program to sum a list with 4 numbers, so we have a list which has 4 numbers and we will sum it with 4.py, so I have l is equal to a list which has 4 numbers and I have to sum these 4 numbers, so what I will do to sum them, I will print l sum of l, so sum is a function which sums, now what is sum, sum is a built-in function and here you can make a list and it will sum it for you, so we have some numbers which we have summed, so I will make these numbers single digit number so that you can check it, so 5 and 1 is 6 and 6 and 6 is 12, so is it 12, yes it is 12, which means that our program is completely ready, so let's come to the next question, write a program to count the number of zeros in the following tuple, so let's copy the following tuple, so I will copy this tuple and make a new file and I will name it 05 underscore problem 5.py, so I will do this, I will say n is equal to a dot count, we have to count 0 and print n, so we can see that 3 is 0, but if it was 30,000, then you might not have been able to count, so I did a dot count 0, so 3 came here, so we had to count zeros, if I had to count something else, then I could have done that too, and yes that wraps our chapter 4 practice set, I hope you understood tuples and lists, now I will teach you one thing before ending this video, I will show you that we have solved this question, write check data type cannot be, let's take this one, or let's take this one, this is the question, and I will start a new chart, I will say chart gpt, I have submitted this answer to this question, I did right or wrong, now I will show you my answer, so my answer was problem number 2, so I am saying to chart gpt that I have solved this question in this way, so it is telling that your code correctly accepts marks for 6 students and displays them in a sorted manner, here are some suggestions and improvements, correct use of list and append, you use a list to store, see I did right, now it is telling what are the suggestions for improvement, and it has told me some other things, I have not read for loop so I did not make you do it, but you got the point that chart gpt does not just solve the question, it also tells you where you did right, where wrong and what could have been improved, so include chart gpt in your flow, include it in learning flow, do it in professional flow, but also include it in learning flow, so this learning is very good, I hope you liked it, now let's move towards chapter 5 because it is very important. I will stop this chapter because it is very important, what are the dictionary and sets, these are also collections, these are also used to store data in python, but how it is different from list and tuple, I will tell you, the dictionary in python programming is key value pairs, like if you want to store the names and marks of some students, then you can map their name with their marks, and you can store the pairs of names and marks like this, what does that mean and how to do that in python programming, let's learn, so I will come here and make a folder of chapter 5, and after making the folder of chapter 5, I will open it in VS code, so the first file that is going to be made here is dictionaries, so what I will do is, I will write here marks is equal to, and I will write something like this, and I will write harry, I will say that harry's marks are 100 out of 100, then shubham's marks are 56, rohan's marks are 23, and now what I will do is, I will print the type of marks, I will print the type of marks, if I print these two, then you will see that the dictionary of marks has been printed, and along with that the class dict has been printed, which means that its type is dictionary type, and this dictionary type has been recognized by python, python is telling that this is a dictionary, the sole use of dictionary is that you can play in key value pairs, in short, if you want the key value to be associated with each other, and along with that we get a list type collection, basically I can say this list of key value pairs, means it is associated with key values, and along with that you have stored it in a collection, now you know what is the good thing, I will tell you the fun thing, the fun thing is that you can print, like in the list we were counting from 0 to indexing, 0, 1, 2, 3, here the fun thing is that you can't print marks 0, if you print marks 0, then you will get a key error, that what is 0, but the fun thing is that you can print marks harry, because the key name is harry, and it will tell you what is the corresponding pair of it, this is the syntax of making a dictionary, it will tell you how many marks are corresponding to harry, and you can see here it has told 100, if I write shubham, then it will tell me, it will tell me marks of shubham, and if I write rohan, it will tell me marks of rohan, now what is the benefit of doing this, I will tell you the inner thing, that why did dictionary was required in python programming, basically what happens is that this lookup, means if I have 1000 marks, 1000 students marks, then this lookup is very fast, means if I find marks of harry, then in a big O of one time, I will be told that marks of harry are 100, understand this, marks of harry are 100, marks of shubham are 56, and if I would have tried to write this thing in list, I am telling you the inner thing, you will feel uncomfortable, but I will tell you, because it is important to know, if I would have stored like this, marks of harry are 100, means I can make list of list, I can make list in list, list of list is allowed in python, so I can make this, but if we do this, then we will not be able to write directly"
+}

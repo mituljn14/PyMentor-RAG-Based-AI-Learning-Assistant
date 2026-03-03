@@ -1,0 +1,11 @@
+I'd be happy to help with your question.
+
+It seems like the OOP concept is being discussed in parts 14 and 16 of the course. Let's dive into it.
+
+In part 14, specifically between 0:48-0:56 seconds, the instructor talks about what Object-Oriented Programming (OOP) is. Later, from 1:20-1:26 seconds, they delve deeper into its significance and provide a brief overview of key concepts.
+
+Fast-forwarding to part 16, at approximately 29.75-31.33 seconds, the lecturer explains how OOP helps organize code in a structured way, making it easier to maintain and modify. They also briefly discuss classes, which are central to the concept of OOP.
+
+So, if you want to learn more about OOP, I recommend watching parts 14 and 16. Specifically, for part 14, start at around 0:48 seconds to catch the discussion on what OOP is. In part 16, begin at approximately 29.75 seconds to grasp how OOP aids in code organization.
+
+Would you like me to guide you further or clarify any aspect of this explanation?

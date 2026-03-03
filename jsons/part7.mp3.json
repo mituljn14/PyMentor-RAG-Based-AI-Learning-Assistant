@@ -1,0 +1,6109 @@
+{
+  "chunks": [
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 0.0,
+      "end": 2.56,
+      "text": " understand, it's my duty and very important"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 2.56,
+      "end": 6.88,
+      "text": " so I will write python here and I will write 1 equals to equals to 1.0"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 6.88,
+      "end": 11.8,
+      "text": " you will think that 1 equals to equals to 1.0 will return false in python programming"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 11.8,
+      "end": 13.8,
+      "text": " but actually it returns true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 13.8,
+      "end": 15.56,
+      "text": " because when both numbers are same"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 15.56,
+      "end": 21.2,
+      "text": " python floating point number and integer number shows true to their equality"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 21.2,
+      "end": 23.2,
+      "text": " and you see here it is true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 23.2,
+      "end": 26.6,
+      "text": " now if I take this thing to chat gpt and I"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 26.6,
+      "end": 31.56,
+      "text": " tell chat gpt to explain this behavior"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 31.56,
+      "end": 33.56,
+      "text": " so what will happen, I wrote behaviors"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 33.56,
+      "end": 35.56,
+      "text": " now see here chat gpt has explained"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 35.56,
+      "end": 37.56,
+      "text": " so use chat gpt, use AI"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 37.56,
+      "end": 40.44,
+      "text": " see here it is telling comparison operator"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 40.44,
+      "end": 43.24,
+      "text": " it will say that comparison operator"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 43.24,
+      "end": 47.72,
+      "text": " checks values, if both values are same then data type doesn't matter to python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 47.72,
+      "end": 51.64,
+      "text": " so here you can see 1 equals to equals to 1.0 evaluates to true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 51.64,
+      "end": 55.24,
+      "text": " because while comparing floating point number and integer"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 55.24,
+      "end": 61.56,
+      "text": " python compares their values and determines that if they are numerically equal then true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 61.56,
+      "end": 63.56,
+      "text": " so this is python's property"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 63.56,
+      "end": 67.56,
+      "text": " and because of that what happened that the length of this set"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 67.56,
+      "end": 69.56,
+      "text": " will be 2"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 69.56,
+      "end": 71.56,
+      "text": " what an interesting question right"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 71.56,
+      "end": 73.56,
+      "text": " what an interesting question"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 73.56,
+      "end": 75.56,
+      "text": " so if you do len of s"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 75.56,
+      "end": 77.56,
+      "text": " so what will happen, it will be 2"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 77.56,
+      "end": 79.56,
+      "text": " very interesting question"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 79.56,
+      "end": 81.56,
+      "text": " that's why I have put it, it comes a lot in interviews"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 81.88,
+      "end": 85.88,
+      "text": " so you should ask this to your friends who think that they know python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 85.88,
+      "end": 88.84,
+      "text": " ask this question, maybe they will also get it"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 88.84,
+      "end": 90.84,
+      "text": " problem number 5 says s is equal to"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 90.84,
+      "end": 92.84,
+      "text": " if you made it like this then what is the type of s"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 92.84,
+      "end": 94.84,
+      "text": " many people will say it is set, no it is a dictionary"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 94.84,
+      "end": 96.84,
+      "text": " if it is s then it doesn't mean it is set"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 96.84,
+      "end": 100.04,
+      "text": " are you getting it, understand the ways to confuse"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 100.04,
+      "end": 104.36,
+      "text": " s is equal to, the interviewer has given you an empty curly bracket"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 104.36,
+      "end": 108.36,
+      "text": " he is giving you the hope that if you have written s as a variable then it will be set"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 108.36,
+      "end": 114.36,
+      "text": " no, if I call it iphone 15 pro max then it will not be iphone 15 pro max"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 114.36,
+      "end": 116.36,
+      "text": " it will be an ac remote"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 116.36,
+      "end": 119.24,
+      "text": " so that's the thing, I hope you understood the things"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 119.24,
+      "end": 121.24,
+      "text": " what will be the answer of this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 121.24,
+      "end": 123.24,
+      "text": " I have already told you the answer of this, s is equal to"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 123.24,
+      "end": 127.24,
+      "text": " if you do type of s then it will be a dictionary"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 127.24,
+      "end": 130.6,
+      "text": " alright, let's move on to the question number 6"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 130.6,
+      "end": 132.6,
+      "text": " and I will also solve question number 5"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 132.6,
+      "end": 134.6,
+      "text": " I will do it quickly"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 134.6,
+      "end": 138.6,
+      "text": " 05 underscore problem 5 dot py"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 138.6,
+      "end": 142.6,
+      "text": " s is equal to, print type of s"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 142.6,
+      "end": 144.6,
+      "text": " and it will be a dict because it is a dictionary"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 144.6,
+      "end": 146.6,
+      "text": " now what we will do is"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 146.6,
+      "end": 148.6,
+      "text": " we will make a place for problem 6"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 148.6,
+      "end": 152.6,
+      "text": " problem 6 dot py"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 152.6,
+      "end": 154.6,
+      "text": " what is problem 6 saying"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 154.6,
+      "end": 158.6,
+      "text": " make an empty dictionary, allow 4 friends to enter their favorite language"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 158.6,
+      "end": 160.6,
+      "text": " as value and use key as their names"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 160.6,
+      "end": 162.6,
+      "text": " like harry python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 162.6,
+      "end": 164.6,
+      "text": " shubham c++"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 164.6,
+      "end": 166.6,
+      "text": " rohan assembly language"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 166.6,
+      "end": 168.6,
+      "text": " like this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 168.6,
+      "end": 170.6,
+      "text": " assume that their names are unique"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 170.6,
+      "end": 172.6,
+      "text": " so what we have to do"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 172.6,
+      "end": 174.6,
+      "text": " we have to write a program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 174.6,
+      "end": 176.6,
+      "text": " in which we will make an empty dictionary"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 176.6,
+      "end": 178.6,
+      "text": " it is made"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 178.6,
+      "end": 180.6,
+      "text": " then what I will do"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 180.6,
+      "end": 182.6,
+      "text": " name is equal to"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 182.6,
+      "end": 184.6,
+      "text": " I will do input and I will write"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 184.6,
+      "end": 186.6,
+      "text": " enter friends name"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 186.6,
+      "end": 188.6,
+      "text": " then"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 188.6,
+      "end": 190.6,
+      "text": " lang is equal to"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 190.6,
+      "end": 192.6,
+      "text": " I will do input and I will say"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 192.6,
+      "end": 194.6,
+      "text": " enter language name"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 194.6,
+      "end": 196.6,
+      "text": " enter language name"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 196.6,
+      "end": 198.6,
+      "text": " and after that what I will do"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 198.6,
+      "end": 200.6,
+      "text": " I will add in dictionary"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 200.6,
+      "end": 202.6,
+      "text": " what I will do"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 202.6,
+      "end": 204.6,
+      "text": " how to add"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 204.6,
+      "end": 206.6,
+      "text": " I will write d dot update name"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 206.6,
+      "end": 208.6,
+      "text": " colon lang"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 208.6,
+      "end": 210.6,
+      "text": " and you see here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 210.6,
+      "end": 212.6,
+      "text": " how many times I will do this thing, I will do this thing 4 times"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 212.6,
+      "end": 214.6,
+      "text": " and why I will do this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 214.6,
+      "end": 216.6,
+      "text": " I will do it 1,2,3 times more, means total 4 times"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 216.6,
+      "end": 218.6,
+      "text": " why I am doing this 4 times"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 218.6,
+      "end": 220.6,
+      "text": " because I have 4 friends"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 220.6,
+      "end": 222.6,
+      "text": " I have to do this for 4 friends"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 222.6,
+      "end": 224.6,
+      "text": " now if I run this program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 224.6,
+      "end": 226.6,
+      "text": " then you see"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 226.6,
+      "end": 228.6,
+      "text": " assume I am writing"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 228.6,
+      "end": 230.6,
+      "text": " harry and python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 230.6,
+      "end": 232.6,
+      "text": " actually at the end"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 232.6,
+      "end": 234.6,
+      "text": " I should have printed d"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 234.6,
+      "end": 236.6,
+      "text": " then only you will see"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 236.6,
+      "end": 238.6,
+      "text": " how my dictionary looks"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 238.6,
+      "end": 240.6,
+      "text": " so I will type quickly"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 240.6,
+      "end": 242.6,
+      "text": " I will write harry, python, rohan"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 242.6,
+      "end": 244.6,
+      "text": " then I will write assembly"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 244.6,
+      "end": 246.6,
+      "text": " then I will write shubham"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 246.6,
+      "end": 248.6,
+      "text": " then I will write c"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 248.6,
+      "end": 250.6,
+      "text": " then I will write divya"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 250.6,
+      "end": 252.6,
+      "text": " and you see here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 252.6,
+      "end": 254.6,
+      "text": " our dictionary is ready"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 254.6,
+      "end": 256.6,
+      "text": " name is in key, language is in value"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 256.6,
+      "end": 258.6,
+      "text": " harry, python, rohan, assembly"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 258.6,
+      "end": 260.6,
+      "text": " shubham, c, divya, cpp"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 260.6,
+      "end": 262.6,
+      "text": " easy peasy lemon squeezy"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 262.6,
+      "end": 264.6,
+      "text": " now here question no.7"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 264.6,
+      "end": 266.6,
+      "text": " if the names of two friends are"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 266.6,
+      "end": 268.6,
+      "text": " same, means in this case"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 268.6,
+      "end": 270.6,
+      "text": " if two friends names are same"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 270.6,
+      "end": 272.6,
+      "text": " then what will happen"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 272.6,
+      "end": 274.6,
+      "text": " nothing will happen"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 274.6,
+      "end": 276.6,
+      "text": " just our update method"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 276.6,
+      "end": 278.6,
+      "text": " will keep updating"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 278.6,
+      "end": 280.6,
+      "text": " if I write rohan c"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 280.6,
+      "end": 282.6,
+      "text": " then the language entered later"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 282.6,
+      "end": 284.6,
+      "text": " will be considered as rohan's language"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 284.6,
+      "end": 286.6,
+      "text": " let me show you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 286.6,
+      "end": 288.6,
+      "text": " assume I wrote here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 288.6,
+      "end": 290.6,
+      "text": " shubham, python, harry"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 290.6,
+      "end": 292.6,
+      "text": " python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 292.6,
+      "end": 294.6,
+      "text": " assume I wrote c for rohan"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 294.6,
+      "end": 296.6,
+      "text": " and then again for rohan"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 296.6,
+      "end": 298.6,
+      "text": " for rohan"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 298.6,
+      "end": 300.6,
+      "text": " I wrote js"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 300.6,
+      "end": 302.6,
+      "text": " for rohan only js will come"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 302.6,
+      "end": 304.6,
+      "text": " because rohan's key is updated"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 304.6,
+      "end": 306.6,
+      "text": " till here when I put the input"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 306.6,
+      "end": 308.6,
+      "text": " till there rohan's language"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 308.6,
+      "end": 310.6,
+      "text": " was c"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 310.6,
+      "end": 312.6,
+      "text": " but after that when other rohan put js"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 312.6,
+      "end": 314.6,
+      "text": " then it updated because I"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 314.6,
+      "end": 316.6,
+      "text": " used update method of dictionary"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 316.6,
+      "end": 318.6,
+      "text": " I hope you understood this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 318.6,
+      "end": 320.6,
+      "text": " I hope you understood this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 320.6,
+      "end": 322.6,
+      "text": " when I wrote d.update"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 322.6,
+      "end": 324.6,
+      "text": " then what happened my existing dictionary"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 324.6,
+      "end": 326.6,
+      "text": " updated, I hope you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 326.6,
+      "end": 328.6,
+      "text": " understood this very well"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 328.6,
+      "end": 330.6,
+      "text": " next question"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 330.6,
+      "end": 332.6,
+      "text": " if two languages are same"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 332.6,
+      "end": 334.6,
+      "text": " then what will happen in program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 334.6,
+      "end": 336.6,
+      "text": " if key is same"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 336.6,
+      "end": 338.6,
+      "text": " then it will be updated"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 338.6,
+      "end": 340.6,
+      "text": " like here we saw"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 340.6,
+      "end": 342.6,
+      "text": " shubham, harry and rohan were our keys"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 342.6,
+      "end": 344.6,
+      "text": " because rohan entered twice"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 344.6,
+      "end": 346.6,
+      "text": " and in second bar it was updated"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 346.6,
+      "end": 348.6,
+      "text": " once it was set as c"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 348.6,
+      "end": 350.6,
+      "text": " then it was updated to js"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 350.6,
+      "end": 352.6,
+      "text": " but if value is same"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 352.6,
+      "end": 354.6,
+      "text": " like here shubham is python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 354.6,
+      "end": 356.6,
+      "text": " harry is python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 356.6,
+      "end": 358.6,
+      "text": " value can be same"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 358.6,
+      "end": 360.6,
+      "text": " because in dictionary identifier is key"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 360.6,
+      "end": 362.6,
+      "text": " means what is written first"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 362.6,
+      "end": 364.6,
+      "text": " like its identifier is shubham"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 364.6,
+      "end": 366.6,
+      "text": " if I want python then what I will write"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 366.6,
+      "end": 368.6,
+      "text": " I will write d.shubham then I will get python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 368.6,
+      "end": 370.6,
+      "text": " I will write d.harry then I will get python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 370.6,
+      "end": 372.6,
+      "text": " I will write d.rohan then I will get js"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 372.6,
+      "end": 374.6,
+      "text": " so value can be same"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 374.6,
+      "end": 376.6,
+      "text": " just"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 376.6,
+      "end": 378.6,
+      "text": " key which is our identifier"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 378.6,
+      "end": 380.6,
+      "text": " it should not be same"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 380.6,
+      "end": 382.6,
+      "text": " otherwise you can see some problem"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 382.6,
+      "end": 384.6,
+      "text": " basically it will be updated as we saw already"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 384.6,
+      "end": 386.6,
+      "text": " I hope you got the point"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 386.6,
+      "end": 388.6,
+      "text": " question no.9 is asking can you change the values"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 388.6,
+      "end": 390.6,
+      "text": " inside a list which is"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 390.6,
+      "end": 392.6,
+      "text": " contained in a set"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 392.6,
+      "end": 394.6,
+      "text": " so its a very interesting problem"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 394.6,
+      "end": 396.6,
+      "text": " so lets try to update"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 396.6,
+      "end": 398.6,
+      "text": " and can we update"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 398.6,
+      "end": 400.6,
+      "text": " or not, we will know"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 400.6,
+      "end": 402.6,
+      "text": " so this is problem no.9"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 402.6,
+      "end": 404.6,
+      "text": " so here I will"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 404.6,
+      "end": 406.6,
+      "text": " make"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 406.6,
+      "end": 408.6,
+      "text": " 07 underscore problem7"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 408.6,
+      "end": 410.6,
+      "text": " dot py"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 410.6,
+      "end": 412.6,
+      "text": " and I will write here what will happen"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 412.6,
+      "end": 414.6,
+      "text": " the values"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 414.6,
+      "end": 416.6,
+      "text": " entered later will be"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 416.6,
+      "end": 418.6,
+      "text": " updated"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 418.6,
+      "end": 420.6,
+      "text": " and here in 08 I will write"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 420.6,
+      "end": 422.6,
+      "text": " in 08 I will write"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 422.6,
+      "end": 424.6,
+      "text": " problem8 dot py"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 424.6,
+      "end": 426.6,
+      "text": " and here I will write"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 426.6,
+      "end": 428.6,
+      "text": " nothing will happen"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 428.6,
+      "end": 430.6,
+      "text": " nothing will happen"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 430.6,
+      "end": 432.6,
+      "text": " the values can be"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 432.6,
+      "end": 434.6,
+      "text": " same, I have written here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 434.6,
+      "end": 436.6,
+      "text": " now the 9th problem"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 436.6,
+      "end": 438.6,
+      "text": " its code is copied on my clipboard"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 438.6,
+      "end": 440.6,
+      "text": " so I will write problem"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 440.6,
+      "end": 442.6,
+      "text": " 9 dot py"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 442.6,
+      "end": 444.6,
+      "text": " and I will paste it here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 444.6,
+      "end": 446.6,
+      "text": " and what we will do"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 446.6,
+      "end": 448.6,
+      "text": " we will try to change it"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 448.6,
+      "end": 450.6,
+      "text": " how to change it"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 450.6,
+      "end": 452.6,
+      "text": " I can't do it"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 452.6,
+      "end": 454.6,
+      "text": " now tell me what you want"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 454.6,
+      "end": 456.6,
+      "text": " I do this or not"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 456.6,
+      "end": 458.6,
+      "text": " 01234"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 458.6,
+      "end": 460.6,
+      "text": " but I told you that there is no indexing in set"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 460.6,
+      "end": 462.6,
+      "text": " but suppose some idiot"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 462.6,
+      "end": 464.6,
+      "text": " tries to index it"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 464.6,
+      "end": 466.6,
+      "text": " by doing 01234"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 466.6,
+      "end": 468.6,
+      "text": " and then says"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 468.6,
+      "end": 470.6,
+      "text": " 01234 is equal to 9"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 470.6,
+      "end": 472.6,
+      "text": " python will say what are you doing"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 472.6,
+      "end": 474.6,
+      "text": " what did you eat, what did you drink"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 474.6,
+      "end": 476.6,
+      "text": " what did you blow, so this is what python will say"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 476.6,
+      "end": 478.6,
+      "text": " you can see here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 478.6,
+      "end": 480.6,
+      "text": " S40 is equal to"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 480.6,
+      "end": 482.6,
+      "text": " 9 is written here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 482.6,
+      "end": 484.6,
+      "text": " it is saying an hashable type list"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 484.6,
+      "end": 486.6,
+      "text": " it is saying that first thing"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 486.6,
+      "end": 488.6,
+      "text": " this list can't be set because"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 488.6,
+      "end": 490.6,
+      "text": " list is not hashable"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 490.6,
+      "end": 492.6,
+      "text": " second thing is"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 492.6,
+      "end": 494.6,
+      "text": " even if it was"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 494.6,
+      "end": 496.6,
+      "text": " you are not allowed to do it"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 496.6,
+      "end": 498.6,
+      "text": " there are two reasons"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 498.6,
+      "end": 500.6,
+      "text": " we can't update"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 500.6,
+      "end": 502.6,
+      "text": " first thing is we can't"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 502.6,
+      "end": 504.6,
+      "text": " include list in a set"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 504.6,
+      "end": 506.6,
+      "text": " second thing is"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 506.6,
+      "end": 508.6,
+      "text": " second thing is"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 508.6,
+      "end": 510.6,
+      "text": " even if we can do it, we can't"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 510.6,
+      "end": 512.6,
+      "text": " change the value by indexing"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 512.6,
+      "end": 514.6,
+      "text": " so if I hold this chart gpt"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 514.6,
+      "end": 516.6,
+      "text": " and I will tell chart gpt"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 516.6,
+      "end": 518.6,
+      "text": " give me some more wisdom around this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 518.6,
+      "end": 520.6,
+      "text": " I will give him the whole question"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 520.6,
+      "end": 522.6,
+      "text": " no you can't change the value inside a list"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 522.6,
+      "end": 524.6,
+      "text": " contained in a set, infact you can't even"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 524.6,
+      "end": 526.6,
+      "text": " have a list as an element in a set"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 526.6,
+      "end": 528.6,
+      "text": " because sets in python require all the elements"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 528.6,
+      "end": 530.6,
+      "text": " to be immutable and hashable"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 530.6,
+      "end": 532.6,
+      "text": " are you understanding this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 532.6,
+      "end": 534.6,
+      "text": " all the elements in your set"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 534.6,
+      "end": 536.6,
+      "text": " should be immutable and hashable"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 536.6,
+      "end": 538.6,
+      "text": " lists are mutable"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 538.6,
+      "end": 540.6,
+      "text": " I have told you what is mutable"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 540.6,
+      "end": 542.6,
+      "text": " it means change that can be done"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 542.6,
+      "end": 544.6,
+      "text": " and not hashable"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 544.6,
+      "end": 546.6,
+      "text": " so they can't be added to a set"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 546.6,
+      "end": 548.6,
+      "text": " now he is saying"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 548.6,
+      "end": 550.6,
+      "text": " whatever you want to do"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 550.6,
+      "end": 552.6,
+      "text": " he has given more wisdom"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 552.6,
+      "end": 554.6,
+      "text": " so I am telling you chart gpt"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 554.6,
+      "end": 556.6,
+      "text": " or whatever AI"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 556.6,
+      "end": 558.6,
+      "text": " use AI to your advantage"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 558.6,
+      "end": 560.6,
+      "text": " use it to learn fast"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 560.6,
+      "end": 562.6,
+      "text": " if you are not understanding anything"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 562.6,
+      "end": 564.6,
+      "text": " tell chart gpt to give you wisdom"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 564.6,
+      "end": 566.6,
+      "text": " he will give you wisdom"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 566.6,
+      "end": 568.6,
+      "text": " are you understanding"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 568.6,
+      "end": 570.6,
+      "text": " I hope you understood"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 570.6,
+      "end": 572.6,
+      "text": " you have done chapter 5 practice set"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 572.6,
+      "end": 574.6,
+      "text": " I hope you are understanding"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 574.6,
+      "end": 576.6,
+      "text": " everything upto this point"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 576.6,
+      "end": 578.6,
+      "text": " and in the coming time we will do a powerful project"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 578.6,
+      "end": 580.6,
+      "text": " but for now let's move to chapter 6"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 580.6,
+      "end": 582.6,
+      "text": " see you there"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 586.6,
+      "end": 588.6,
+      "text": " guys chapter 6 is conditional expression"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 588.6,
+      "end": 590.6,
+      "text": " now what is conditional expression"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 590.6,
+      "end": 592.6,
+      "text": " see what happens sometimes"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 592.6,
+      "end": 594.6,
+      "text": " we do our work according to certain conditions"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 594.6,
+      "end": 596.6,
+      "text": " for example"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 596.6,
+      "end": 598.6,
+      "text": " if user entered 7"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 598.6,
+      "end": 600.6,
+      "text": " so maybe we want to show him"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 600.6,
+      "end": 602.6,
+      "text": " that you entered an odd number"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 602.6,
+      "end": 604.6,
+      "text": " and if someone entered 6"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 604.6,
+      "end": 606.6,
+      "text": " then we want to show him"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 606.6,
+      "end": 608.6,
+      "text": " this is an even number"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 608.6,
+      "end": 610.6,
+      "text": " so to make such programs"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 610.6,
+      "end": 612.6,
+      "text": " we use conditional expression"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 612.6,
+      "end": 614.6,
+      "text": " I will explain with some analogy"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 614.6,
+      "end": 616.6,
+      "text": " I will explain with my own temper"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 616.6,
+      "end": 618.6,
+      "text": " I have made chapter 6 folder"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 618.6,
+      "end": 620.6,
+      "text": " I will open with code by right clicking"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 620.6,
+      "end": 622.6,
+      "text": " and this folder will open"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 622.6,
+      "end": 624.6,
+      "text": " so the first program is"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 624.6,
+      "end": 626.6,
+      "text": " conditionals.py"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 626.6,
+      "end": 628.6,
+      "text": " what is conditionals"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 628.6,
+      "end": 630.6,
+      "text": " conditionals is if else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 630.6,
+      "end": 632.6,
+      "text": " elif in python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 632.6,
+      "end": 634.6,
+      "text": " why we use it, how we use it"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 634.6,
+      "end": 636.6,
+      "text": " see what happens"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 636.6,
+      "end": 638.6,
+      "text": " we work according to certain conditions"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 638.6,
+      "end": 640.6,
+      "text": " today is sunday, let's order food from outside"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 640.6,
+      "end": 642.6,
+      "text": " we can't order food from outside everyday"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 642.6,
+      "end": 644.6,
+      "text": " infact it's not healthy"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 644.6,
+      "end": 646.6,
+      "text": " so let's do it on sunday"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 646.6,
+      "end": 648.6,
+      "text": " let's eat ice cream on sunday"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 648.6,
+      "end": 650.6,
+      "text": " maybe we won't eat ice cream everyday"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 650.6,
+      "end": 652.6,
+      "text": " but let's eat ice cream today on sunday"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 652.6,
+      "end": 654.6,
+      "text": " so this is condition that today is sunday"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 654.6,
+      "end": 656.6,
+      "text": " that's why we eat ice cream"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 656.6,
+      "end": 658.6,
+      "text": " today is my friend's birthday that's why I will give him"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 658.6,
+      "end": 660.6,
+      "text": " gift of 10,000, by the way no one gives"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 660.6,
+      "end": 662.6,
+      "text": " gift of 10,000 but again"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 662.6,
+      "end": 664.6,
+      "text": " if someone is giving gift of 10,000"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 664.6,
+      "end": 666.6,
+      "text": " it doesn't mean that he will give everyday"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 666.6,
+      "end": 668.6,
+      "text": " condition is that it's your birthday"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 668.6,
+      "end": 670.6,
+      "text": " that's why I am giving you gift"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 670.6,
+      "end": 672.6,
+      "text": " or else your face is not good that I will give you gift everyday"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 672.6,
+      "end": 674.6,
+      "text": " ok"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 674.6,
+      "end": 676.6,
+      "text": " so here sometimes we want to play pubg"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 676.6,
+      "end": 678.6,
+      "text": " on our phone if the day is sunday"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 678.6,
+      "end": 680.6,
+      "text": " that let's play pubg on sunday, rest of the day we study"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 680.6,
+      "end": 682.6,
+      "text": " like this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 682.6,
+      "end": 684.6,
+      "text": " sometimes we order ice cream online if the day is sunny"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 684.6,
+      "end": 686.6,
+      "text": " if the day is sunny"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 686.6,
+      "end": 688.6,
+      "text": " then we will say that it's too hot"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 688.6,
+      "end": 690.6,
+      "text": " temperature is 40-50 degree"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 690.6,
+      "end": 692.6,
+      "text": " let's eat ice cream"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 692.6,
+      "end": 694.6,
+      "text": " sometimes we can go hiking"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 694.6,
+      "end": 696.6,
+      "text": " if our parents allow"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 696.6,
+      "end": 698.6,
+      "text": " or mom says that no need to go hiking"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 698.6,
+      "end": 700.6,
+      "text": " then we won't go, ok"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 700.6,
+      "end": 702.6,
+      "text": " this is the type of scene, in python programming"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 702.6,
+      "end": 704.6,
+      "text": " it happens like this that we want to"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 704.6,
+      "end": 706.6,
+      "text": " execute some instructions"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 706.6,
+      "end": 708.6,
+      "text": " only when"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 708.6,
+      "end": 710.6,
+      "text": " when a particular"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 710.6,
+      "end": 712.6,
+      "text": " condition is met"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 712.6,
+      "end": 714.6,
+      "text": " ok, once again"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 714.6,
+      "end": 716.6,
+      "text": " in python programming we must be able to"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 716.6,
+      "end": 718.6,
+      "text": " execute instructions on a certain"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 718.6,
+      "end": 720.6,
+      "text": " condition being met, ok"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 720.6,
+      "end": 722.6,
+      "text": " and this is what the conditionals"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 722.6,
+      "end": 724.6,
+      "text": " are for, ok"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 724.6,
+      "end": 726.6,
+      "text": " till here we understood"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 726.6,
+      "end": 728.6,
+      "text": " now what we will do, we will understand this in code"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 728.6,
+      "end": 730.6,
+      "text": " what happens is, suppose I"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 730.6,
+      "end": 732.6,
+      "text": " said that user"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 732.6,
+      "end": 734.6,
+      "text": " you enter your age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 734.6,
+      "end": 736.6,
+      "text": " enter your age, ok"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 736.6,
+      "end": 738.6,
+      "text": " and obviously we already"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 738.6,
+      "end": 740.6,
+      "text": " read that the input"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 740.6,
+      "end": 742.6,
+      "text": " output string"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 742.6,
+      "end": 744.6,
+      "text": " that's why we have to type cast it"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 744.6,
+      "end": 746.6,
+      "text": " to make integer, so I have"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 746.6,
+      "end": 748.6,
+      "text": " a is equal to int input here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 748.6,
+      "end": 750.6,
+      "text": " now I can say if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 750.6,
+      "end": 752.6,
+      "text": " if means if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 752.6,
+      "end": 754.6,
+      "text": " the age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 754.6,
+      "end": 756.6,
+      "text": " is greater than 18"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 756.6,
+      "end": 758.6,
+      "text": " I will put a colon"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 758.6,
+      "end": 760.6,
+      "text": " here, this is the syntax of python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 760.6,
+      "end": 762.6,
+      "text": " see here you have to understand things"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 762.6,
+      "end": 764.6,
+      "text": " very carefully, I have put a colon"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 764.6,
+      "end": 766.6,
+      "text": " colon means that now we"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 766.6,
+      "end": 768.6,
+      "text": " have entered in if, now see"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 768.6,
+      "end": 770.6,
+      "text": " as soon as I press enter"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 770.6,
+      "end": 772.6,
+      "text": " my cursor didn't come here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 772.6,
+      "end": 774.6,
+      "text": " it came here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 774.6,
+      "end": 776.6,
+      "text": " and this space is called"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 776.6,
+      "end": 778.6,
+      "text": " indentation in python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 778.6,
+      "end": 780.6,
+      "text": " once again, when I wrote if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 780.6,
+      "end": 782.6,
+      "text": " written a greater than 18 in bracket"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 782.6,
+      "end": 784.6,
+      "text": " wrote condition, put a colon"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 784.6,
+      "end": 786.6,
+      "text": " which is syntax of if, as soon as I"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 786.6,
+      "end": 788.6,
+      "text": " hit enter, it will automatically"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 788.6,
+      "end": 790.6,
+      "text": " give me this space"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 790.6,
+      "end": 792.6,
+      "text": " this space is put in python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 792.6,
+      "end": 794.6,
+      "text": " to indent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 794.6,
+      "end": 796.6,
+      "text": " indent means that you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 796.6,
+      "end": 798.6,
+      "text": " have entered in if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 798.6,
+      "end": 800.6,
+      "text": " I did like this, I wrote print"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 800.6,
+      "end": 802.6,
+      "text": " you are above the"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 802.6,
+      "end": 804.6,
+      "text": " age of consent, ok"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 804.6,
+      "end": 806.6,
+      "text": " and after this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 806.6,
+      "end": 808.6,
+      "text": " you will hit enter and come back"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 808.6,
+      "end": 810.6,
+      "text": " means you were in if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 810.6,
+      "end": 812.6,
+      "text": " this space means that you are"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 812.6,
+      "end": 814.6,
+      "text": " inside if, to come out of if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 814.6,
+      "end": 816.6,
+      "text": " you have to come here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 816.6,
+      "end": 818.6,
+      "text": " and else you do"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 818.6,
+      "end": 820.6,
+      "text": " or else print"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 820.6,
+      "end": 822.6,
+      "text": " and I will copy the above one"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 822.6,
+      "end": 824.6,
+      "text": " I will copy this one"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 824.6,
+      "end": 826.6,
+      "text": " you are below the age of consent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 826.6,
+      "end": 828.6,
+      "text": " ok, so now"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 828.6,
+      "end": 830.6,
+      "text": " let's understand this program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 830.6,
+      "end": 832.6,
+      "text": " I will toggle screen cast mode for you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 832.6,
+      "end": 834.6,
+      "text": " if a is greater than 18"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 834.6,
+      "end": 836.6,
+      "text": " then we are inside if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 836.6,
+      "end": 838.6,
+      "text": " you are above the age of consent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 838.6,
+      "end": 840.6,
+      "text": " and if I want to write"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 840.6,
+      "end": 842.6,
+      "text": " another line in this if, good for you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 842.6,
+      "end": 844.6,
+      "text": " so I can write that"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 844.6,
+      "end": 846.6,
+      "text": " but I have to be inside this if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 846.6,
+      "end": 848.6,
+      "text": " means I have to give this space"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 848.6,
+      "end": 850.6,
+      "text": " means you are inside if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 850.6,
+      "end": 852.6,
+      "text": " if you have seen in english"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 852.6,
+      "end": 854.6,
+      "text": " that it is done like this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 854.6,
+      "end": 856.6,
+      "text": " that we are inside this heading"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 856.6,
+      "end": 858.6,
+      "text": " so here indentation is given"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 858.6,
+      "end": 860.6,
+      "text": " you must have seen this thing in books"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 860.6,
+      "end": 862.6,
+      "text": " that there is a heading"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 862.6,
+      "end": 864.6,
+      "text": " then whatever is written below"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 864.6,
+      "end": 866.6,
+      "text": " that is written with a space"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 866.6,
+      "end": 868.6,
+      "text": " and when the other heading starts"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 868.6,
+      "end": 870.6,
+      "text": " then we come back here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 870.6,
+      "end": 872.6,
+      "text": " this type of indentation is used in python"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 872.6,
+      "end": 874.6,
+      "text": " and by using this type of indentation"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 874.6,
+      "end": 876.6,
+      "text": " we can come inside if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 876.6,
+      "end": 878.6,
+      "text": " inside else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 878.6,
+      "end": 880.6,
+      "text": " outside if and outside else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 880.6,
+      "end": 882.6,
+      "text": " now here this if is connected to this else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 882.6,
+      "end": 884.6,
+      "text": " if your age is greater than 18"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 884.6,
+      "end": 886.6,
+      "text": " then this will be printed"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 886.6,
+      "end": 888.6,
+      "text": " if less than 18 or equal to 18"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 888.6,
+      "end": 890.6,
+      "text": " then this will be printed"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 890.6,
+      "end": 892.6,
+      "text": " so I will make it greater than equal to"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 892.6,
+      "end": 894.6,
+      "text": " just so that it comes on greater than equal to"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 894.6,
+      "end": 896.6,
+      "text": " let's run this program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 896.6,
+      "end": 898.6,
+      "text": " now someone will ask me"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 898.6,
+      "end": 900.6,
+      "text": " enter your age, you know I entered 56"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 900.6,
+      "end": 902.6,
+      "text": " you are above the age of consent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 902.6,
+      "end": 904.6,
+      "text": " ok, spelling of consent is wrong"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 904.6,
+      "end": 906.6,
+      "text": " consent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 906.6,
+      "end": 908.6,
+      "text": " and good for you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 908.6,
+      "end": 910.6,
+      "text": " you are above the age of consent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 910.6,
+      "end": 912.6,
+      "text": " good for you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 912.6,
+      "end": 914.6,
+      "text": " so if I run again and I write my age as 5"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 914.6,
+      "end": 916.6,
+      "text": " you are below the age of consent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 916.6,
+      "end": 918.6,
+      "text": " ok, here I will correct the spelling of consent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 918.6,
+      "end": 920.6,
+      "text": " again"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 920.6,
+      "end": 922.6,
+      "text": " and if I write here 0"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 922.6,
+      "end": 924.6,
+      "text": " then what will happen"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 924.6,
+      "end": 926.6,
+      "text": " you are below the age of consent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 926.6,
+      "end": 928.6,
+      "text": " ok, so what will happen"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 928.6,
+      "end": 930.6,
+      "text": " that the program's control"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 930.6,
+      "end": 932.6,
+      "text": " once we get only one value"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 932.6,
+      "end": 934.6,
+      "text": " program will enter inside this if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 934.6,
+      "end": 936.6,
+      "text": " it will ask that what"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 936.6,
+      "end": 938.6,
+      "text": " what it has entered is greater than 18"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 938.6,
+      "end": 940.6,
+      "text": " if yes then"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 940.6,
+      "end": 942.6,
+      "text": " print this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 942.6,
+      "end": 944.6,
+      "text": " means execute whatever is inside if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 944.6,
+      "end": 946.6,
+      "text": " and ignore the rest"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 946.6,
+      "end": 948.6,
+      "text": " after this our control will come here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 948.6,
+      "end": 950.6,
+      "text": " control means program will come here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 950.6,
+      "end": 952.6,
+      "text": " let's say I write"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 952.6,
+      "end": 954.6,
+      "text": " end of program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 954.6,
+      "end": 956.6,
+      "text": " let me run and show you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 956.6,
+      "end": 958.6,
+      "text": " let's say I wrote 56 here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 958.6,
+      "end": 960.6,
+      "text": " now you see what happened"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 960.6,
+      "end": 962.6,
+      "text": " you are above the age of consent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 962.6,
+      "end": 964.6,
+      "text": " good for you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 964.6,
+      "end": 966.6,
+      "text": " means this condition is true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 966.6,
+      "end": 968.6,
+      "text": " so this control"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 968.6,
+      "end": 970.6,
+      "text": " of program came inside this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 970.6,
+      "end": 972.6,
+      "text": " and inside this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 972.6,
+      "end": 974.6,
+      "text": " it executed the inside instructions"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 974.6,
+      "end": 976.6,
+      "text": " and ignored the rest"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 976.6,
+      "end": 978.6,
+      "text": " because when the condition of if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 978.6,
+      "end": 980.6,
+      "text": " is true then rest is not working"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 980.6,
+      "end": 982.6,
+      "text": " if condition is false"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 982.6,
+      "end": 984.6,
+      "text": " then only rest is working"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 984.6,
+      "end": 986.6,
+      "text": " so because if condition is true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 986.6,
+      "end": 988.6,
+      "text": " so it will work"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 988.6,
+      "end": 990.6,
+      "text": " and after this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 990.6,
+      "end": 992.6,
+      "text": " program will jump outside the else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 992.6,
+      "end": 994.6,
+      "text": " means here, so end of program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 994.6,
+      "end": 996.6,
+      "text": " got printed, I hope"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 996.6,
+      "end": 998.6,
+      "text": " I have explained this to you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 998.6,
+      "end": 1000.6,
+      "text": " this is only if else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1000.6,
+      "end": 1002.6,
+      "text": " now I want to tell you about elif"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1002.6,
+      "end": 1004.6,
+      "text": " sometimes we do things"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1004.6,
+      "end": 1006.6,
+      "text": " on multiple conditions"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1006.6,
+      "end": 1008.6,
+      "text": " let me tell you the use case"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1008.6,
+      "end": 1010.6,
+      "text": " first of all I will check"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1010.6,
+      "end": 1012.6,
+      "text": " whether a is greater than"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1012.6,
+      "end": 1014.6,
+      "text": " or equal to 18"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1014.6,
+      "end": 1016.6,
+      "text": " if greater than or equal to 18 then I will print this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1016.6,
+      "end": 1018.6,
+      "text": " but think"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1018.6,
+      "end": 1020.6,
+      "text": " if someone wrote his age as minus 78"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1020.6,
+      "end": 1022.6,
+      "text": " still he is saying the same"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1022.6,
+      "end": 1024.6,
+      "text": " I want that if someone gives negative age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1024.6,
+      "end": 1026.6,
+      "text": " then he will get a heads up"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1026.6,
+      "end": 1028.6,
+      "text": " and program will tell him"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1028.6,
+      "end": 1030.6,
+      "text": " what happened, why are you giving negative age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1030.6,
+      "end": 1032.6,
+      "text": " there is no negative age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1032.6,
+      "end": 1034.6,
+      "text": " have you ever seen minus 8 years old"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1034.6,
+      "end": 1036.6,
+      "text": " don't write in the comment that I have seen"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1036.6,
+      "end": 1038.6,
+      "text": " you might not have seen"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1038.6,
+      "end": 1040.6,
+      "text": " now see here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1040.6,
+      "end": 1042.6,
+      "text": " if I want to give a head up to my user"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1042.6,
+      "end": 1044.6,
+      "text": " it sounds weird"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1044.6,
+      "end": 1046.6,
+      "text": " but I want to give a head up"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1046.6,
+      "end": 1048.6,
+      "text": " why are you giving negative age in my program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1048.6,
+      "end": 1050.6,
+      "text": " why are you playing with my program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1050.6,
+      "end": 1052.6,
+      "text": " then I will write elif"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1052.6,
+      "end": 1054.6,
+      "text": " I will say elif a is less than 0"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1054.6,
+      "end": 1056.6,
+      "text": " means if a is negative"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1056.6,
+      "end": 1058.6,
+      "text": " I will put colon"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1058.6,
+      "end": 1060.6,
+      "text": " I will enter"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1060.6,
+      "end": 1062.6,
+      "text": " I will print here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1062.6,
+      "end": 1064.6,
+      "text": " see"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1064.6,
+      "end": 1066.6,
+      "text": " you are entering"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1066.6,
+      "end": 1068.6,
+      "text": " are entering"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1068.6,
+      "end": 1070.6,
+      "text": " an invalid age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1070.6,
+      "end": 1072.6,
+      "text": " now let's understand this program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1072.6,
+      "end": 1074.6,
+      "text": " this if, elif"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1074.6,
+      "end": 1076.6,
+      "text": " and else are connected"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1076.6,
+      "end": 1078.6,
+      "text": " first thing you have to understand"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1078.6,
+      "end": 1080.6,
+      "text": " if you wrote if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1080.6,
+      "end": 1082.6,
+      "text": " then elif and then else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1082.6,
+      "end": 1084.6,
+      "text": " then all three are connected"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1084.6,
+      "end": 1086.6,
+      "text": " and all three work together"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1086.6,
+      "end": 1088.6,
+      "text": " how they work together"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1088.6,
+      "end": 1090.6,
+      "text": " first condition of if will be checked"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1090.6,
+      "end": 1092.6,
+      "text": " if condition is checked"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1092.6,
+      "end": 1094.6,
+      "text": " then what will happen"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1094.6,
+      "end": 1096.6,
+      "text": " if it is true then this will be printed"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1096.6,
+      "end": 1098.6,
+      "text": " and these two will be ignored"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1098.6,
+      "end": 1100.6,
+      "text": " but if this condition is not true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1100.6,
+      "end": 1102.6,
+      "text": " listen carefully"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1102.6,
+      "end": 1104.6,
+      "text": " if condition of if is not true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1104.6,
+      "end": 1106.6,
+      "text": " then what will happen"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1106.6,
+      "end": 1108.6,
+      "text": " then your"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1108.6,
+      "end": 1110.6,
+      "text": " this will not work"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1110.6,
+      "end": 1112.6,
+      "text": " because condition in if is not true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1112.6,
+      "end": 1114.6,
+      "text": " then it will check"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1114.6,
+      "end": 1116.6,
+      "text": " condition of next elif"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1116.6,
+      "end": 1118.6,
+      "text": " if this is also not true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1118.6,
+      "end": 1120.6,
+      "text": " then if there is any elif"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1120.6,
+      "end": 1122.6,
+      "text": " then it will check that condition"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1122.6,
+      "end": 1124.6,
+      "text": " suppose I want to put an elif here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1124.6,
+      "end": 1126.6,
+      "text": " and I want"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1126.6,
+      "end": 1128.6,
+      "text": " if a equals to equals to 0"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1128.6,
+      "end": 1130.6,
+      "text": " means if a is equal to 0"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1130.6,
+      "end": 1132.6,
+      "text": " you are entering 0"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1132.6,
+      "end": 1134.6,
+      "text": " ok"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1134.6,
+      "end": 1136.6,
+      "text": " which is not a valid age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1136.6,
+      "end": 1138.6,
+      "text": " ok"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1138.6,
+      "end": 1140.6,
+      "text": " so here I want if my condition is true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1140.6,
+      "end": 1142.6,
+      "text": " then this will be printed"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1142.6,
+      "end": 1144.6,
+      "text": " otherwise if someone put negative age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1144.6,
+      "end": 1146.6,
+      "text": " then I will tell him not to put invalid"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1146.6,
+      "end": 1148.6,
+      "text": " negative age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1148.6,
+      "end": 1150.6,
+      "text": " if someone put 0"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1150.6,
+      "end": 1152.6,
+      "text": " then I want you are entering 0"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1152.6,
+      "end": 1154.6,
+      "text": " which is a valid age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1154.6,
+      "end": 1156.6,
+      "text": " and if any condition is not matched"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1156.6,
+      "end": 1158.6,
+      "text": " then this will work"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1158.6,
+      "end": 1160.6,
+      "text": " so all four work together"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1160.6,
+      "end": 1162.6,
+      "text": " so this is called if elif else ladder"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1162.6,
+      "end": 1164.6,
+      "text": " what is called if elif else ladder"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1164.6,
+      "end": 1166.6,
+      "text": " I will write here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1166.6,
+      "end": 1168.6,
+      "text": " if elif else ladder"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1168.6,
+      "end": 1170.6,
+      "text": " so we will do one thing"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1170.6,
+      "end": 1172.6,
+      "text": " here we will make a program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1172.6,
+      "end": 1174.6,
+      "text": " 0 2 underscore if elif else ladder"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1174.6,
+      "end": 1176.6,
+      "text": " dot py"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1176.6,
+      "end": 1178.6,
+      "text": " I want to keep it readable"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1178.6,
+      "end": 1180.6,
+      "text": " ok"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1180.6,
+      "end": 1182.6,
+      "text": " if elif else ladder"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1182.6,
+      "end": 1184.6,
+      "text": " and I want that once we"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1184.6,
+      "end": 1186.6,
+      "text": " finish this course"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1186.6,
+      "end": 1188.6,
+      "text": " then you have everything"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1188.6,
+      "end": 1190.6,
+      "text": " and in conditionals"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1190.6,
+      "end": 1192.6,
+      "text": " I want to put only this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1192.6,
+      "end": 1194.6,
+      "text": " ok"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1194.6,
+      "end": 1196.6,
+      "text": " this is our ladder"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1196.6,
+      "end": 1198.6,
+      "text": " this is called if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1198.6,
+      "end": 1200.6,
+      "text": " this is called if else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1200.6,
+      "end": 1202.6,
+      "text": " and this is called if elif else ladder"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1202.6,
+      "end": 1204.6,
+      "text": " ok"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1204.6,
+      "end": 1206.6,
+      "text": " this is our if else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1206.6,
+      "end": 1208.6,
+      "text": " if else statement"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1208.6,
+      "end": 1210.6,
+      "text": " I want to document things very well"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1210.6,
+      "end": 1212.6,
+      "text": " so that once we finish this course"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1212.6,
+      "end": 1214.6,
+      "text": " then you have this set of programs"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1214.6,
+      "end": 1216.6,
+      "text": " like a resource"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1216.6,
+      "end": 1218.6,
+      "text": " ok"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1218.6,
+      "end": 1220.6,
+      "text": " once your age is entered"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1220.6,
+      "end": 1222.6,
+      "text": " let me run this program and show you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1222.6,
+      "end": 1224.6,
+      "text": " and then I will tell you how it is running"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1224.6,
+      "end": 1226.6,
+      "text": " suppose I put 78"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1226.6,
+      "end": 1228.6,
+      "text": " as soon as I put 78"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1228.6,
+      "end": 1230.6,
+      "text": " then condition will match"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1230.6,
+      "end": 1232.6,
+      "text": " condition in if will match"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1232.6,
+      "end": 1234.6,
+      "text": " 78 is greater than 18"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1234.6,
+      "end": 1236.6,
+      "text": " and because it is greater than 18"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1236.6,
+      "end": 1238.6,
+      "text": " so these two lines"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1238.6,
+      "end": 1240.6,
+      "text": " will get executed"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1240.6,
+      "end": 1242.6,
+      "text": " and because these will get executed"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1242.6,
+      "end": 1244.6,
+      "text": " so this elif"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1244.6,
+      "end": 1246.6,
+      "text": " this elif and this else will get ignored"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1246.6,
+      "end": 1248.6,
+      "text": " ok"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1248.6,
+      "end": 1250.6,
+      "text": " very good"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1250.6,
+      "end": 1252.6,
+      "text": " now because this is executed"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1252.6,
+      "end": 1254.6,
+      "text": " and this is ignored"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1254.6,
+      "end": 1256.6,
+      "text": " so after running this program will come to end of program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1256.6,
+      "end": 1258.6,
+      "text": " because this print end of program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1258.6,
+      "end": 1260.6,
+      "text": " is not in any if elif or else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1260.6,
+      "end": 1262.6,
+      "text": " look carefully"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1262.6,
+      "end": 1264.6,
+      "text": " this line is in if because"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1264.6,
+      "end": 1266.6,
+      "text": " there is space after if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1266.6,
+      "end": 1268.6,
+      "text": " this line is in elif because there is space"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1268.6,
+      "end": 1270.6,
+      "text": " I will call it indent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1270.6,
+      "end": 1272.6,
+      "text": " I will call it indent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1272.6,
+      "end": 1274.6,
+      "text": " it's name is indent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1274.6,
+      "end": 1276.6,
+      "text": " elif is written here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1276.6,
+      "end": 1278.6,
+      "text": " this line is in this elif because"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1278.6,
+      "end": 1280.6,
+      "text": " indent is written here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1280.6,
+      "end": 1282.6,
+      "text": " this line is in else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1282.6,
+      "end": 1284.6,
+      "text": " because indent is written here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1284.6,
+      "end": 1286.6,
+      "text": " very good we understood"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1286.6,
+      "end": 1288.6,
+      "text": " this line is outside because indent is not written"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1288.6,
+      "end": 1290.6,
+      "text": " it is stuck here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1290.6,
+      "end": 1292.6,
+      "text": " now you see here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1292.6,
+      "end": 1294.6,
+      "text": " you entered age, condition in if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1294.6,
+      "end": 1296.6,
+      "text": " got matched, masala in if got executed"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1296.6,
+      "end": 1298.6,
+      "text": " which was two lines"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1298.6,
+      "end": 1300.6,
+      "text": " both lines in if got executed"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1300.6,
+      "end": 1302.6,
+      "text": " and after this end of program came"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1302.6,
+      "end": 1304.6,
+      "text": " very good"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1304.6,
+      "end": 1306.6,
+      "text": " now what I will do"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1306.6,
+      "end": 1308.6,
+      "text": " I will run this program again"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1308.6,
+      "end": 1310.6,
+      "text": " and I will"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1310.6,
+      "end": 1312.6,
+      "text": " put minus 78"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1312.6,
+      "end": 1314.6,
+      "text": " now when I put minus 78"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1314.6,
+      "end": 1316.6,
+      "text": " this condition is not matched because"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1316.6,
+      "end": 1318.6,
+      "text": " minus 78 is greater than 18 and here equal is not there"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1318.6,
+      "end": 1320.6,
+      "text": " so it will check this condition"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1320.6,
+      "end": 1322.6,
+      "text": " in elif"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1322.6,
+      "end": 1324.6,
+      "text": " this condition is true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1324.6,
+      "end": 1326.6,
+      "text": " because minus 78 is less than 0"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1326.6,
+      "end": 1328.6,
+      "text": " so this condition"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1328.6,
+      "end": 1330.6,
+      "text": " is met here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1330.6,
+      "end": 1332.6,
+      "text": " and because this condition"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1332.6,
+      "end": 1334.6,
+      "text": " is met that's why"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1334.6,
+      "end": 1336.6,
+      "text": " this is printed"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1336.6,
+      "end": 1338.6,
+      "text": " but if elif"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1338.6,
+      "end": 1340.6,
+      "text": " all the elif and else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1340.6,
+      "end": 1342.6,
+      "text": " one condition is matched"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1342.6,
+      "end": 1344.6,
+      "text": " then rest is ignored"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1344.6,
+      "end": 1346.6,
+      "text": " because this condition is matched"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1346.6,
+      "end": 1348.6,
+      "text": " so rest elif and else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1348.6,
+      "end": 1350.6,
+      "text": " will be ignored and directly our control will come here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1350.6,
+      "end": 1352.6,
+      "text": " and you see here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1352.6,
+      "end": 1354.6,
+      "text": " you are entering an invalid"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1354.6,
+      "end": 1356.6,
+      "text": " negative age, end of program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1356.6,
+      "end": 1358.6,
+      "text": " ok, end of program came here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1358.6,
+      "end": 1360.6,
+      "text": " now you see"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1360.6,
+      "end": 1362.6,
+      "text": " I will put 0 and show you here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1362.6,
+      "end": 1364.6,
+      "text": " and if I put 0 here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1364.6,
+      "end": 1366.6,
+      "text": " you see here it is saying you are entering 0"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1366.6,
+      "end": 1368.6,
+      "text": " which is not a valid age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1368.6,
+      "end": 1370.6,
+      "text": " why are you putting 0"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1370.6,
+      "end": 1372.6,
+      "text": " so what happened this condition"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1372.6,
+      "end": 1374.6,
+      "text": " did not try to match"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1374.6,
+      "end": 1376.6,
+      "text": " this condition did not try to match"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1376.6,
+      "end": 1378.6,
+      "text": " this one matched because it was 0"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1378.6,
+      "end": 1380.6,
+      "text": " that's why it printed this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1380.6,
+      "end": 1382.6,
+      "text": " and directly came out of this ladder"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1382.6,
+      "end": 1384.6,
+      "text": " and printed this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1384.6,
+      "end": 1386.6,
+      "text": " so only one thing will be executed"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1386.6,
+      "end": 1388.6,
+      "text": " from ladder"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1388.6,
+      "end": 1390.6,
+      "text": " now see here I will run it"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1390.6,
+      "end": 1392.6,
+      "text": " and if I"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1392.6,
+      "end": 1394.6,
+      "text": " put some number"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1394.6,
+      "end": 1396.6,
+      "text": " which is"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1396.6,
+      "end": 1398.6,
+      "text": " 4"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1398.6,
+      "end": 1400.6,
+      "text": " so this condition did not match"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1400.6,
+      "end": 1402.6,
+      "text": " this condition did not match"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1402.6,
+      "end": 1404.6,
+      "text": " you are below the age of concern came"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1404.6,
+      "end": 1406.6,
+      "text": " end of program came, I hope you understood this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1406.6,
+      "end": 1408.6,
+      "text": " let's come to notes, I have written"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1408.6,
+      "end": 1410.6,
+      "text": " exactly the same thing in notes"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1410.6,
+      "end": 1412.6,
+      "text": " if else and elif statements"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1412.6,
+      "end": 1414.6,
+      "text": " are a multi way decision"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1414.6,
+      "end": 1416.6,
+      "text": " taken by our program due to certain"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1416.6,
+      "end": 1418.6,
+      "text": " conditions in our code"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1418.6,
+      "end": 1420.6,
+      "text": " so this code"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1420.6,
+      "end": 1422.6,
+      "text": " I have told you that what happens if elif"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1422.6,
+      "end": 1424.6,
+      "text": " then here I have given a code example"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1424.6,
+      "end": 1426.6,
+      "text": " of if else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1426.6,
+      "end": 1428.6,
+      "text": " now you have to do a quick quiz"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1428.6,
+      "end": 1430.6,
+      "text": " write a program to print yes when the age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1430.6,
+      "end": 1432.6,
+      "text": " entered by the user is greater than or"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1432.6,
+      "end": 1434.6,
+      "text": " equal to 18, what you have to do"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1434.6,
+      "end": 1436.6,
+      "text": " that you have to write a program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1436.6,
+      "end": 1438.6,
+      "text": " to print yes when the age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1438.6,
+      "end": 1440.6,
+      "text": " entered by the user is greater than"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1440.6,
+      "end": 1442.6,
+      "text": " or equal to 18, very simple"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1442.6,
+      "end": 1444.6,
+      "text": " program in fact I have written a similar program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1444.6,
+      "end": 1446.6,
+      "text": " for this here so you may"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1446.6,
+      "end": 1448.6,
+      "text": " not need so much"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1448.6,
+      "end": 1450.6,
+      "text": " to write this program because I have already"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1450.6,
+      "end": 1452.6,
+      "text": " written it, it will be copy pasted but"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1452.6,
+      "end": 1454.6,
+      "text": " write a program which prints yes"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1454.6,
+      "end": 1456.6,
+      "text": " if age entered by the user is greater than or"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1456.6,
+      "end": 1458.6,
+      "text": " equal to 18, otherwise you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1458.6,
+      "end": 1460.6,
+      "text": " can print no, so"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1460.6,
+      "end": 1462.6,
+      "text": " you have to do this, do it"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1462.6,
+      "end": 1464.6,
+      "text": " and tell me in the comment section"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1464.6,
+      "end": 1466.6,
+      "text": " by writing a time stamp that I have"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1466.6,
+      "end": 1468.6,
+      "text": " finished the quick quiz, I want you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1468.6,
+      "end": 1470.6,
+      "text": " to tell me in the comment section below that"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1470.6,
+      "end": 1472.6,
+      "text": " I have finished the quick quiz"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1472.6,
+      "end": 1474.6,
+      "text": " now let's talk about relational"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1474.6,
+      "end": 1476.6,
+      "text": " operators, what are these"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1476.6,
+      "end": 1478.6,
+      "text": " relational operators"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1478.6,
+      "end": 1480.6,
+      "text": " relational operators are used to"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1480.6,
+      "end": 1482.6,
+      "text": " evaluate conditions inside the if statement"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1482.6,
+      "end": 1484.6,
+      "text": " some examples are equals"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1484.6,
+      "end": 1486.6,
+      "text": " greater than equals or less than equals"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1486.6,
+      "end": 1488.6,
+      "text": " I have told you about relational operators"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1488.6,
+      "end": 1490.6,
+      "text": " earlier that equal to equal to"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1490.6,
+      "end": 1492.6,
+      "text": " greater than equal to"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1492.6,
+      "end": 1494.6,
+      "text": " they are also called comparison operators"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1494.6,
+      "end": 1496.6,
+      "text": " comparison operators and"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1496.6,
+      "end": 1498.6,
+      "text": " relational operators are the same thing"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1498.6,
+      "end": 1500.6,
+      "text": " so you should know this, I have already"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1500.6,
+      "end": 1502.6,
+      "text": " told you, we also talked about logical operators"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1502.6,
+      "end": 1504.6,
+      "text": " and we have here and"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1504.6,
+      "end": 1506.6,
+      "text": " we had a very heavy discussion on"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1506.6,
+      "end": 1508.6,
+      "text": " or not, we said that"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1508.6,
+      "end": 1510.6,
+      "text": " and is true when both are true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1510.6,
+      "end": 1512.6,
+      "text": " means if both are true then"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1512.6,
+      "end": 1514.6,
+      "text": " and will return true, means if I"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1514.6,
+      "end": 1516.6,
+      "text": " will do true and true then only"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1516.6,
+      "end": 1518.6,
+      "text": " it will return true otherwise"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1518.6,
+      "end": 1520.6,
+      "text": " it will return false, true and"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1520.6,
+      "end": 1522.6,
+      "text": " false will also be false, false and"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1522.6,
+      "end": 1524.6,
+      "text": " true will also be false, false and"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1524.6,
+      "end": 1526.6,
+      "text": " false will also be false, but in or"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1526.6,
+      "end": 1528.6,
+      "text": " there is no such case, or needs"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1528.6,
+      "end": 1530.6,
+      "text": " any one operand"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1530.6,
+      "end": 1532.6,
+      "text": " true to be true, means"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1532.6,
+      "end": 1534.6,
+      "text": " true and false will also be true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1534.6,
+      "end": 1536.6,
+      "text": " false and true will also be true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1536.6,
+      "end": 1538.6,
+      "text": " true and true will also be true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1538.6,
+      "end": 1540.6,
+      "text": " but false and false will be false"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1540.6,
+      "end": 1542.6,
+      "text": " and what does not do, it inverts"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1542.6,
+      "end": 1544.6,
+      "text": " true to false, false to true"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1544.6,
+      "end": 1546.6,
+      "text": " we had talked about these three"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1546.6,
+      "end": 1548.6,
+      "text": " now I have explained to you about"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1548.6,
+      "end": 1550.6,
+      "text": " the Elif clause that"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1550.6,
+      "end": 1552.6,
+      "text": " how many conditions you can have"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1552.6,
+      "end": 1554.6,
+      "text": " you can check one by one"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1554.6,
+      "end": 1556.6,
+      "text": " so I have already told you about"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1556.6,
+      "end": 1558.6,
+      "text": " Elif clause"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1558.6,
+      "end": 1560.6,
+      "text": " and Elif"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1560.6,
+      "end": 1562.6,
+      "text": " that you people"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1562.6,
+      "end": 1564.6,
+      "text": " it is not necessary to write, you can write only if else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1564.6,
+      "end": 1566.6,
+      "text": " means you can write only such"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1566.6,
+      "end": 1568.6,
+      "text": " program in which there is only one if and one else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1568.6,
+      "end": 1570.6,
+      "text": " and you can write such program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1570.6,
+      "end": 1572.6,
+      "text": " in which there is only if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1572.6,
+      "end": 1574.6,
+      "text": " many Elif's are in between and one else"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1574.6,
+      "end": 1576.6,
+      "text": " ok, I will give you one example"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1576.6,
+      "end": 1578.6,
+      "text": " which confuses many people"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1578.6,
+      "end": 1580.6,
+      "text": " and after that we will wrap up this chapter"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1580.6,
+      "end": 1582.6,
+      "text": " that example"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1582.6,
+      "end": 1584.6,
+      "text": " is ours"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1584.6,
+      "end": 1586.6,
+      "text": " 03 underscore"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1586.6,
+      "end": 1588.6,
+      "text": " multiple if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1588.6,
+      "end": 1590.6,
+      "text": " of statements"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1590.6,
+      "end": 1592.6,
+      "text": " example of multiple if statements"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1592.6,
+      "end": 1594.6,
+      "text": " so what I will do, I will write here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1594.6,
+      "end": 1596.6,
+      "text": " if age is greater than 45"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1596.6,
+      "end": 1598.6,
+      "text": " and I am going to write the same program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1598.6,
+      "end": 1600.6,
+      "text": " I am going to write the same program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1600.6,
+      "end": 1602.6,
+      "text": " here first and then"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1602.6,
+      "end": 1604.6,
+      "text": " I will explain to you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1604.6,
+      "end": 1606.6,
+      "text": " and here if age"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1606.6,
+      "end": 1608.6,
+      "text": " is greater than, we wrote 18"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1608.6,
+      "end": 1610.6,
+      "text": " here we wrote if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1610.6,
+      "end": 1612.6,
+      "text": " wrote Elif, wrote Elif, let's assume"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1612.6,
+      "end": 1614.6,
+      "text": " I write something like this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1614.6,
+      "end": 1616.6,
+      "text": " I put two if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1616.6,
+      "end": 1618.6,
+      "text": " I write here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1618.6,
+      "end": 1620.6,
+      "text": " if a percent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1620.6,
+      "end": 1622.6,
+      "text": " two is equal to equal to"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1622.6,
+      "end": 1624.6,
+      "text": " zero, means if one is divided by two"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1624.6,
+      "end": 1626.6,
+      "text": " and the remainder is zero"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1626.6,
+      "end": 1628.6,
+      "text": " then print"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1628.6,
+      "end": 1630.6,
+      "text": " a is even"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1630.6,
+      "end": 1632.6,
+      "text": " and after that I did this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1632.6,
+      "end": 1634.6,
+      "text": " so how will this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1634.6,
+      "end": 1636.6,
+      "text": " be executed, I will explain to you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1636.6,
+      "end": 1638.6,
+      "text": " see, the first thing"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1638.6,
+      "end": 1640.6,
+      "text": " you should do is"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1640.6,
+      "end": 1642.6,
+      "text": " that you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1642.6,
+      "end": 1644.6,
+      "text": " which if, which else and which"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1644.6,
+      "end": 1646.6,
+      "text": " is related to Elif, first of all determine this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1646.6,
+      "end": 1648.6,
+      "text": " if you see this program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1648.6,
+      "end": 1650.6,
+      "text": " then this if, after this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1650.6,
+      "end": 1652.6,
+      "text": " there is no else, after this there is no Elif"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1652.6,
+      "end": 1654.6,
+      "text": " that's why this is an independent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1654.6,
+      "end": 1656.6,
+      "text": " if, so I will name this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1656.6,
+      "end": 1658.6,
+      "text": " if statement one"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1658.6,
+      "end": 1660.6,
+      "text": " ok, this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1660.6,
+      "end": 1662.6,
+      "text": " statement number one"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1662.6,
+      "end": 1664.6,
+      "text": " and I will name this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1664.6,
+      "end": 1666.6,
+      "text": " if statement number two"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1666.6,
+      "end": 1668.6,
+      "text": " ok, I will name this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1668.6,
+      "end": 1670.6,
+      "text": " statement number two, so if statement"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1670.6,
+      "end": 1672.6,
+      "text": " number one and if statement"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1672.6,
+      "end": 1674.6,
+      "text": " number two, so if statement"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1674.6,
+      "end": 1676.6,
+      "text": " number one is this, if statement number"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1676.6,
+      "end": 1678.6,
+      "text": " two is this and here you can"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1678.6,
+      "end": 1680.6,
+      "text": " see that this will run independently"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1680.6,
+      "end": 1682.6,
+      "text": " and this one"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1682.6,
+      "end": 1684.6,
+      "text": " will also run independently"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1684.6,
+      "end": 1686.6,
+      "text": " ok, I hope you understood"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1686.6,
+      "end": 1688.6,
+      "text": " this thing, a is greater than"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1688.6,
+      "end": 1690.6,
+      "text": " equal to 18, here these three"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1690.6,
+      "end": 1692.6,
+      "text": " will run independently"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1692.6,
+      "end": 1694.6,
+      "text": " and this will run independently, and I will do one thing"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1694.6,
+      "end": 1696.6,
+      "text": " I will write here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1696.6,
+      "end": 1698.6,
+      "text": " end of"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1698.6,
+      "end": 1700.6,
+      "text": " if statement"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1700.6,
+      "end": 1702.6,
+      "text": " number one and here I will write"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1702.6,
+      "end": 1704.6,
+      "text": " end of if statement number two"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1704.6,
+      "end": 1706.6,
+      "text": " ok, here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1706.6,
+      "end": 1708.6,
+      "text": " I wrote end of if statement"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1708.6,
+      "end": 1710.6,
+      "text": " number one and here I will write end of"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1710.6,
+      "end": 1712.6,
+      "text": " if statement number two, so"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1712.6,
+      "end": 1714.6,
+      "text": " what happened here that"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1714.6,
+      "end": 1716.6,
+      "text": " this statement will run independently and this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1716.6,
+      "end": 1718.6,
+      "text": " statement will run independently, ok, so"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1718.6,
+      "end": 1720.6,
+      "text": " I hope you understood this thing"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1720.6,
+      "end": 1722.6,
+      "text": " if there were more if else statements"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1722.6,
+      "end": 1724.6,
+      "text": " then the first thing we would have to do"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1724.6,
+      "end": 1726.6,
+      "text": " is that how many if statements"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1726.6,
+      "end": 1728.6,
+      "text": " will work together, we will"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1728.6,
+      "end": 1730.6,
+      "text": " segment it, now here"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1730.6,
+      "end": 1732.6,
+      "text": " you see that if I"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1732.6,
+      "end": 1734.6,
+      "text": " enter 18, I will show you"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1734.6,
+      "end": 1736.6,
+      "text": " or I will say"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1736.6,
+      "end": 1738.6,
+      "text": " enter 28, if I"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1738.6,
+      "end": 1740.6,
+      "text": " enter 28, then what will happen in 28"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1740.6,
+      "end": 1742.6,
+      "text": " first of all this if statement"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1742.6,
+      "end": 1744.6,
+      "text": " will run and this will say"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1744.6,
+      "end": 1746.6,
+      "text": " a is even and"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1746.6,
+      "end": 1748.6,
+      "text": " after that this whole ladder will run"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1748.6,
+      "end": 1750.6,
+      "text": " what will happen in this, a greater than 18"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1750.6,
+      "end": 1752.6,
+      "text": " yes it is, 28 is greater than 18, this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1752.6,
+      "end": 1754.6,
+      "text": " will run, this ignore, this ignore"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1754.6,
+      "end": 1756.6,
+      "text": " and then end of program will run"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1756.6,
+      "end": 1758.6,
+      "text": " you can see this, so"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1758.6,
+      "end": 1760.6,
+      "text": " these complex if else statements"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1760.6,
+      "end": 1762.6,
+      "text": " you will have to understand a little and I will say"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1762.6,
+      "end": 1764.6,
+      "text": " that the third program I have done"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1764.6,
+      "end": 1766.6,
+      "text": " you run it again and see"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1766.6,
+      "end": 1768.6,
+      "text": " because you will understand only if you run it again"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1768.6,
+      "end": 1770.6,
+      "text": " in this there could have been"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1770.6,
+      "end": 1772.6,
+      "text": " multiple if statements, if I"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1772.6,
+      "end": 1774.6,
+      "text": " would have put one more if statement after this"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1774.6,
+      "end": 1776.6,
+      "text": " then it would have run independently"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1776.6,
+      "end": 1778.6,
+      "text": " if I would have put one if statement between"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1778.6,
+      "end": 1780.6,
+      "text": " these two, then that if statement would have been"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1780.6,
+      "end": 1782.6,
+      "text": " obtained from this, ok, so"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1782.6,
+      "end": 1784.6,
+      "text": " you have to determine first"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1784.6,
+      "end": 1786.6,
+      "text": " which if, else and"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1786.6,
+      "end": 1788.6,
+      "text": " else are going to work together and"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1788.6,
+      "end": 1790.6,
+      "text": " after that you get the output of the program"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1790.6,
+      "end": 1792.6,
+      "text": " because some if are independent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1792.6,
+      "end": 1794.6,
+      "text": " like here if is independent"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1794.6,
+      "end": 1796.6,
+      "text": " if does not need else, if"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1796.6,
+      "end": 1798.6,
+      "text": " can be alone, else can not"
+    },
+    {
+      "number": "7",
+      "title": "part7",
+      "start": 1798.6,
+      "end": 1800.6,
+      "text": " be alone but if I"
+    }
+  ],
+  "text": " understand, it's my duty and very important so I will write python here and I will write 1 equals to equals to 1.0 you will think that 1 equals to equals to 1.0 will return false in python programming but actually it returns true because when both numbers are same python floating point number and integer number shows true to their equality and you see here it is true now if I take this thing to chat gpt and I tell chat gpt to explain this behavior so what will happen, I wrote behaviors now see here chat gpt has explained so use chat gpt, use AI see here it is telling comparison operator it will say that comparison operator checks values, if both values are same then data type doesn't matter to python so here you can see 1 equals to equals to 1.0 evaluates to true because while comparing floating point number and integer python compares their values and determines that if they are numerically equal then true so this is python's property and because of that what happened that the length of this set will be 2 what an interesting question right what an interesting question so if you do len of s so what will happen, it will be 2 very interesting question that's why I have put it, it comes a lot in interviews so you should ask this to your friends who think that they know python ask this question, maybe they will also get it problem number 5 says s is equal to if you made it like this then what is the type of s many people will say it is set, no it is a dictionary if it is s then it doesn't mean it is set are you getting it, understand the ways to confuse s is equal to, the interviewer has given you an empty curly bracket he is giving you the hope that if you have written s as a variable then it will be set no, if I call it iphone 15 pro max then it will not be iphone 15 pro max it will be an ac remote so that's the thing, I hope you understood the things what will be the answer of this I have already told you the answer of this, s is equal to if you do type of s then it will be a dictionary alright, let's move on to the question number 6 and I will also solve question number 5 I will do it quickly 05 underscore problem 5 dot py s is equal to, print type of s and it will be a dict because it is a dictionary now what we will do is we will make a place for problem 6 problem 6 dot py what is problem 6 saying make an empty dictionary, allow 4 friends to enter their favorite language as value and use key as their names like harry python shubham c++ rohan assembly language like this assume that their names are unique so what we have to do we have to write a program in which we will make an empty dictionary it is made then what I will do name is equal to I will do input and I will write enter friends name then lang is equal to I will do input and I will say enter language name enter language name and after that what I will do I will add in dictionary what I will do how to add I will write d dot update name colon lang and you see here how many times I will do this thing, I will do this thing 4 times and why I will do this I will do it 1,2,3 times more, means total 4 times why I am doing this 4 times because I have 4 friends I have to do this for 4 friends now if I run this program then you see assume I am writing harry and python actually at the end I should have printed d then only you will see how my dictionary looks so I will type quickly I will write harry, python, rohan then I will write assembly then I will write shubham then I will write c then I will write divya and you see here our dictionary is ready name is in key, language is in value harry, python, rohan, assembly shubham, c, divya, cpp easy peasy lemon squeezy now here question no.7 if the names of two friends are same, means in this case if two friends names are same then what will happen nothing will happen just our update method will keep updating if I write rohan c then the language entered later will be considered as rohan's language let me show you assume I wrote here shubham, python, harry python assume I wrote c for rohan and then again for rohan for rohan I wrote js for rohan only js will come because rohan's key is updated till here when I put the input till there rohan's language was c but after that when other rohan put js then it updated because I used update method of dictionary I hope you understood this I hope you understood this when I wrote d.update then what happened my existing dictionary updated, I hope you understood this very well next question if two languages are same then what will happen in program if key is same then it will be updated like here we saw shubham, harry and rohan were our keys because rohan entered twice and in second bar it was updated once it was set as c then it was updated to js but if value is same like here shubham is python harry is python value can be same because in dictionary identifier is key means what is written first like its identifier is shubham if I want python then what I will write I will write d.shubham then I will get python I will write d.harry then I will get python I will write d.rohan then I will get js so value can be same just key which is our identifier it should not be same otherwise you can see some problem basically it will be updated as we saw already I hope you got the point question no.9 is asking can you change the values inside a list which is contained in a set so its a very interesting problem so lets try to update and can we update or not, we will know so this is problem no.9 so here I will make 07 underscore problem7 dot py and I will write here what will happen the values entered later will be updated and here in 08 I will write in 08 I will write problem8 dot py and here I will write nothing will happen nothing will happen the values can be same, I have written here now the 9th problem its code is copied on my clipboard so I will write problem 9 dot py and I will paste it here and what we will do we will try to change it how to change it I can't do it now tell me what you want I do this or not 01234 but I told you that there is no indexing in set but suppose some idiot tries to index it by doing 01234 and then says 01234 is equal to 9 python will say what are you doing what did you eat, what did you drink what did you blow, so this is what python will say you can see here S40 is equal to 9 is written here it is saying an hashable type list it is saying that first thing this list can't be set because list is not hashable second thing is even if it was you are not allowed to do it there are two reasons we can't update first thing is we can't include list in a set second thing is second thing is even if we can do it, we can't change the value by indexing so if I hold this chart gpt and I will tell chart gpt give me some more wisdom around this I will give him the whole question no you can't change the value inside a list contained in a set, infact you can't even have a list as an element in a set because sets in python require all the elements to be immutable and hashable are you understanding this all the elements in your set should be immutable and hashable lists are mutable I have told you what is mutable it means change that can be done and not hashable so they can't be added to a set now he is saying whatever you want to do he has given more wisdom so I am telling you chart gpt or whatever AI use AI to your advantage use it to learn fast if you are not understanding anything tell chart gpt to give you wisdom he will give you wisdom are you understanding I hope you understood you have done chapter 5 practice set I hope you are understanding everything upto this point and in the coming time we will do a powerful project but for now let's move to chapter 6 see you there guys chapter 6 is conditional expression now what is conditional expression see what happens sometimes we do our work according to certain conditions for example if user entered 7 so maybe we want to show him that you entered an odd number and if someone entered 6 then we want to show him this is an even number so to make such programs we use conditional expression I will explain with some analogy I will explain with my own temper I have made chapter 6 folder I will open with code by right clicking and this folder will open so the first program is conditionals.py what is conditionals conditionals is if else elif in python why we use it, how we use it see what happens we work according to certain conditions today is sunday, let's order food from outside we can't order food from outside everyday infact it's not healthy so let's do it on sunday let's eat ice cream on sunday maybe we won't eat ice cream everyday but let's eat ice cream today on sunday so this is condition that today is sunday that's why we eat ice cream today is my friend's birthday that's why I will give him gift of 10,000, by the way no one gives gift of 10,000 but again if someone is giving gift of 10,000 it doesn't mean that he will give everyday condition is that it's your birthday that's why I am giving you gift or else your face is not good that I will give you gift everyday ok so here sometimes we want to play pubg on our phone if the day is sunday that let's play pubg on sunday, rest of the day we study like this sometimes we order ice cream online if the day is sunny if the day is sunny then we will say that it's too hot temperature is 40-50 degree let's eat ice cream sometimes we can go hiking if our parents allow or mom says that no need to go hiking then we won't go, ok this is the type of scene, in python programming it happens like this that we want to execute some instructions only when when a particular condition is met ok, once again in python programming we must be able to execute instructions on a certain condition being met, ok and this is what the conditionals are for, ok till here we understood now what we will do, we will understand this in code what happens is, suppose I said that user you enter your age enter your age, ok and obviously we already read that the input output string that's why we have to type cast it to make integer, so I have a is equal to int input here now I can say if if means if the age is greater than 18 I will put a colon here, this is the syntax of python see here you have to understand things very carefully, I have put a colon colon means that now we have entered in if, now see as soon as I press enter my cursor didn't come here it came here and this space is called indentation in python once again, when I wrote if written a greater than 18 in bracket wrote condition, put a colon which is syntax of if, as soon as I hit enter, it will automatically give me this space this space is put in python to indent indent means that you have entered in if I did like this, I wrote print you are above the age of consent, ok and after this you will hit enter and come back means you were in if this space means that you are inside if, to come out of if you have to come here and else you do or else print and I will copy the above one I will copy this one you are below the age of consent ok, so now let's understand this program I will toggle screen cast mode for you if a is greater than 18 then we are inside if you are above the age of consent and if I want to write another line in this if, good for you so I can write that but I have to be inside this if means I have to give this space means you are inside if if you have seen in english that it is done like this that we are inside this heading so here indentation is given you must have seen this thing in books that there is a heading then whatever is written below that is written with a space and when the other heading starts then we come back here this type of indentation is used in python and by using this type of indentation we can come inside if inside else outside if and outside else now here this if is connected to this else if your age is greater than 18 then this will be printed if less than 18 or equal to 18 then this will be printed so I will make it greater than equal to just so that it comes on greater than equal to let's run this program now someone will ask me enter your age, you know I entered 56 you are above the age of consent ok, spelling of consent is wrong consent and good for you you are above the age of consent good for you so if I run again and I write my age as 5 you are below the age of consent ok, here I will correct the spelling of consent again and if I write here 0 then what will happen you are below the age of consent ok, so what will happen that the program's control once we get only one value program will enter inside this if it will ask that what what it has entered is greater than 18 if yes then print this means execute whatever is inside if and ignore the rest after this our control will come here control means program will come here let's say I write end of program let me run and show you let's say I wrote 56 here now you see what happened you are above the age of consent good for you means this condition is true so this control of program came inside this and inside this it executed the inside instructions and ignored the rest because when the condition of if is true then rest is not working if condition is false then only rest is working so because if condition is true so it will work and after this program will jump outside the else means here, so end of program got printed, I hope I have explained this to you this is only if else now I want to tell you about elif sometimes we do things on multiple conditions let me tell you the use case first of all I will check whether a is greater than or equal to 18 if greater than or equal to 18 then I will print this but think if someone wrote his age as minus 78 still he is saying the same I want that if someone gives negative age then he will get a heads up and program will tell him what happened, why are you giving negative age there is no negative age have you ever seen minus 8 years old don't write in the comment that I have seen you might not have seen now see here if I want to give a head up to my user it sounds weird but I want to give a head up why are you giving negative age in my program why are you playing with my program then I will write elif I will say elif a is less than 0 means if a is negative I will put colon I will enter I will print here see you are entering are entering an invalid age now let's understand this program this if, elif and else are connected first thing you have to understand if you wrote if then elif and then else then all three are connected and all three work together how they work together first condition of if will be checked if condition is checked then what will happen if it is true then this will be printed and these two will be ignored but if this condition is not true listen carefully if condition of if is not true then what will happen then your this will not work because condition in if is not true then it will check condition of next elif if this is also not true then if there is any elif then it will check that condition suppose I want to put an elif here and I want if a equals to equals to 0 means if a is equal to 0 you are entering 0 ok which is not a valid age ok so here I want if my condition is true then this will be printed otherwise if someone put negative age then I will tell him not to put invalid negative age if someone put 0 then I want you are entering 0 which is a valid age and if any condition is not matched then this will work so all four work together so this is called if elif else ladder what is called if elif else ladder I will write here if elif else ladder so we will do one thing here we will make a program 0 2 underscore if elif else ladder dot py I want to keep it readable ok if elif else ladder and I want that once we finish this course then you have everything and in conditionals I want to put only this ok this is our ladder this is called if this is called if else and this is called if elif else ladder ok this is our if else if else statement I want to document things very well so that once we finish this course then you have this set of programs like a resource ok once your age is entered let me run this program and show you and then I will tell you how it is running suppose I put 78 as soon as I put 78 then condition will match condition in if will match 78 is greater than 18 and because it is greater than 18 so these two lines will get executed and because these will get executed so this elif this elif and this else will get ignored ok very good now because this is executed and this is ignored so after running this program will come to end of program because this print end of program is not in any if elif or else look carefully this line is in if because there is space after if this line is in elif because there is space I will call it indent I will call it indent it's name is indent elif is written here this line is in this elif because indent is written here this line is in else because indent is written here very good we understood this line is outside because indent is not written it is stuck here now you see here you entered age, condition in if got matched, masala in if got executed which was two lines both lines in if got executed and after this end of program came very good now what I will do I will run this program again and I will put minus 78 now when I put minus 78 this condition is not matched because minus 78 is greater than 18 and here equal is not there so it will check this condition in elif this condition is true because minus 78 is less than 0 so this condition is met here and because this condition is met that's why this is printed but if elif all the elif and else one condition is matched then rest is ignored because this condition is matched so rest elif and else will be ignored and directly our control will come here and you see here you are entering an invalid negative age, end of program ok, end of program came here now you see I will put 0 and show you here and if I put 0 here you see here it is saying you are entering 0 which is not a valid age why are you putting 0 so what happened this condition did not try to match this condition did not try to match this one matched because it was 0 that's why it printed this and directly came out of this ladder and printed this so only one thing will be executed from ladder now see here I will run it and if I put some number which is 4 so this condition did not match this condition did not match you are below the age of concern came end of program came, I hope you understood this let's come to notes, I have written exactly the same thing in notes if else and elif statements are a multi way decision taken by our program due to certain conditions in our code so this code I have told you that what happens if elif then here I have given a code example of if else now you have to do a quick quiz write a program to print yes when the age entered by the user is greater than or equal to 18, what you have to do that you have to write a program to print yes when the age entered by the user is greater than or equal to 18, very simple program in fact I have written a similar program for this here so you may not need so much to write this program because I have already written it, it will be copy pasted but write a program which prints yes if age entered by the user is greater than or equal to 18, otherwise you can print no, so you have to do this, do it and tell me in the comment section by writing a time stamp that I have finished the quick quiz, I want you to tell me in the comment section below that I have finished the quick quiz now let's talk about relational operators, what are these relational operators relational operators are used to evaluate conditions inside the if statement some examples are equals greater than equals or less than equals I have told you about relational operators earlier that equal to equal to greater than equal to they are also called comparison operators comparison operators and relational operators are the same thing so you should know this, I have already told you, we also talked about logical operators and we have here and we had a very heavy discussion on or not, we said that and is true when both are true means if both are true then and will return true, means if I will do true and true then only it will return true otherwise it will return false, true and false will also be false, false and true will also be false, false and false will also be false, but in or there is no such case, or needs any one operand true to be true, means true and false will also be true false and true will also be true true and true will also be true but false and false will be false and what does not do, it inverts true to false, false to true we had talked about these three now I have explained to you about the Elif clause that how many conditions you can have you can check one by one so I have already told you about Elif clause and Elif that you people it is not necessary to write, you can write only if else means you can write only such program in which there is only one if and one else and you can write such program in which there is only if many Elif's are in between and one else ok, I will give you one example which confuses many people and after that we will wrap up this chapter that example is ours 03 underscore multiple if of statements example of multiple if statements so what I will do, I will write here if age is greater than 45 and I am going to write the same program I am going to write the same program here first and then I will explain to you and here if age is greater than, we wrote 18 here we wrote if wrote Elif, wrote Elif, let's assume I write something like this I put two if I write here if a percent two is equal to equal to zero, means if one is divided by two and the remainder is zero then print a is even and after that I did this so how will this be executed, I will explain to you see, the first thing you should do is that you which if, which else and which is related to Elif, first of all determine this if you see this program then this if, after this there is no else, after this there is no Elif that's why this is an independent if, so I will name this if statement one ok, this statement number one and I will name this if statement number two ok, I will name this statement number two, so if statement number one and if statement number two, so if statement number one is this, if statement number two is this and here you can see that this will run independently and this one will also run independently ok, I hope you understood this thing, a is greater than equal to 18, here these three will run independently and this will run independently, and I will do one thing I will write here end of if statement number one and here I will write end of if statement number two ok, here I wrote end of if statement number one and here I will write end of if statement number two, so what happened here that this statement will run independently and this statement will run independently, ok, so I hope you understood this thing if there were more if else statements then the first thing we would have to do is that how many if statements will work together, we will segment it, now here you see that if I enter 18, I will show you or I will say enter 28, if I enter 28, then what will happen in 28 first of all this if statement will run and this will say a is even and after that this whole ladder will run what will happen in this, a greater than 18 yes it is, 28 is greater than 18, this will run, this ignore, this ignore and then end of program will run you can see this, so these complex if else statements you will have to understand a little and I will say that the third program I have done you run it again and see because you will understand only if you run it again in this there could have been multiple if statements, if I would have put one more if statement after this then it would have run independently if I would have put one if statement between these two, then that if statement would have been obtained from this, ok, so you have to determine first which if, else and else are going to work together and after that you get the output of the program because some if are independent like here if is independent if does not need else, if can be alone, else can not be alone but if I"
+}

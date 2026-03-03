@@ -1,0 +1,8 @@
+embeddings.joblib
+*.joblib
+*.pt
+*.bin
+*.pth
+venv/
+env/
+__pycache__/

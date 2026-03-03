@@ -1,0 +1,7460 @@
+{
+  "chunks": [
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 0.0,
+      "end": 2.72,
+      "text": " and this question number 5 is saying"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 2.72,
+      "end": 6.48,
+      "text": " repeat program 4 for a list of such words to be censored"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 6.48,
+      "end": 8.0,
+      "text": " so what we have to do is"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 8.0,
+      "end": 9.2,
+      "text": " earlier there was only one word"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 9.2,
+      "end": 10.0,
+      "text": " now we have to do is"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 10.0,
+      "end": 12.16,
+      "text": " we have to give a list of censored words"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 12.16,
+      "end": 15.28,
+      "text": " and we have to do this for all the words in that list"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 15.28,
+      "end": 18.4,
+      "text": " and you see what is the benefit of writing a program properly"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 18.4,
+      "end": 20.32,
+      "text": " I will reuse this program"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 20.32,
+      "end": 22.24,
+      "text": " and solve problem number 5"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 22.24,
+      "end": 23.92,
+      "text": " this time we don't have a word"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 23.92,
+      "end": 25.2,
+      "text": " this time we have words"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 25.2,
+      "end": 27.04,
+      "text": " and let's say these are the words"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 27.04,
+      "end": 28.56,
+      "text": " let's say these are the two words"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 28.56,
+      "end": 29.6,
+      "text": " let's say these are the words"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 29.6,
+      "end": 31.6,
+      "text": " donkey, bad and dirty"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 31.6,
+      "end": 32.48,
+      "text": " so I will do one thing"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 32.48,
+      "end": 33.76,
+      "text": " here I will write donkey"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 33.76,
+      "end": 35.76,
+      "text": " here I will write dirty"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 35.76,
+      "end": 39.68,
+      "text": " my are very dirty"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 39.68,
+      "end": 40.48,
+      "text": " donkey ho"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 40.48,
+      "end": 41.68,
+      "text": " okay I wrote this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 41.68,
+      "end": 43.04,
+      "text": " so what I did in this file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 43.04,
+      "end": 45.04,
+      "text": " I wrote these words"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 45.04,
+      "end": 47.92,
+      "text": " I wrote dirty, good, everything"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 47.92,
+      "end": 48.96,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 48.96,
+      "end": 50.64,
+      "text": " in fact this is dirty"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 50.64,
+      "end": 52.8,
+      "text": " so I write this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 52.8,
+      "end": 55.52,
+      "text": " and now what I will do here is"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 55.52,
+      "end": 57.68,
+      "text": " I will write for word in words"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 57.68,
+      "end": 58.8,
+      "text": " okay so what I will do here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 58.8,
+      "end": 61.68,
+      "text": " I will write for word in words"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 61.68,
+      "end": 64.96,
+      "text": " and content new which we are going to generate this time"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 64.96,
+      "end": 67.68,
+      "text": " we will say content new is equal to content.replace word"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 67.68,
+      "end": 68.56,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 68.56,
+      "end": 70.88,
+      "text": " and here we will not do content new this time"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 70.88,
+      "end": 73.44,
+      "text": " in fact content is equal to content.replace"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 73.44,
+      "end": 76.0,
+      "text": " so that we update the same variable"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 76.0,
+      "end": 76.96,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 76.96,
+      "end": 79.36,
+      "text": " and you see I have updated the same variable"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 79.36,
+      "end": 80.48,
+      "text": " and what I am doing this time"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 80.48,
+      "end": 81.28,
+      "text": " word"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 81.28,
+      "end": 82.88,
+      "text": " and this time I will do something like"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 82.88,
+      "end": 85.36,
+      "text": " that I will do this in double quote"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 85.36,
+      "end": 88.64,
+      "text": " and I will say into length of word"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 88.64,
+      "end": 89.2,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 89.2,
+      "end": 90.72,
+      "text": " means whatever is the length of the word"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 90.72,
+      "end": 92.08,
+      "text": " this hash should come as much as possible"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 92.08,
+      "end": 92.56,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 92.56,
+      "end": 94.0,
+      "text": " so see this is looking like this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 94.0,
+      "end": 95.92,
+      "text": " I will remove this hash here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 95.92,
+      "end": 101.52,
+      "text": " and as soon as I run this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 101.52,
+      "end": 104.8,
+      "text": " you see all these words are censored"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 104.8,
+      "end": 106.64,
+      "text": " and how is this program working"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 106.64,
+      "end": 107.92,
+      "text": " basically what we are doing"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 107.92,
+      "end": 109.04,
+      "text": " we are taking this list of words"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 109.04,
+      "end": 110.8,
+      "text": " and after this we are reading"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 110.8,
+      "end": 112.0,
+      "text": " the content of this file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 112.0,
+      "end": 114.08,
+      "text": " then what we are doing for every word"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 114.16,
+      "end": 115.92,
+      "text": " we are updating our content string"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 115.92,
+      "end": 118.08,
+      "text": " we are saying replace content"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 118.08,
+      "end": 119.2,
+      "text": " wherever the word is"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 119.2,
+      "end": 119.68,
+      "text": " there"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 120.64,
+      "end": 122.72,
+      "text": " put star as much as the length of the word"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 122.72,
+      "end": 123.12,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 123.12,
+      "end": 124.48,
+      "text": " we have done a simple thing here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 125.2,
+      "end": 126.48,
+      "text": " then what we did here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 126.48,
+      "end": 127.92,
+      "text": " we said file.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 129.44,
+      "end": 129.84,
+      "text": " w"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 131.04,
+      "end": 131.76,
+      "text": " f.write"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 132.48,
+      "end": 133.44,
+      "text": " content"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 133.44,
+      "end": 135.68,
+      "text": " means write this content again"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 135.68,
+      "end": 138.0,
+      "text": " so first we replaced the content"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 138.0,
+      "end": 139.6,
+      "text": " means we replaced the occurrence of every word"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 140.72,
+      "end": 143.28,
+      "text": " with hash into length of word"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 143.28,
+      "end": 144.96,
+      "text": " then after this what we did"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 144.96,
+      "end": 145.2,
+      "text": " that"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 146.08,
+      "end": 147.52,
+      "text": " we wrote it again here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 147.52,
+      "end": 148.0,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 148.0,
+      "end": 149.44,
+      "text": " so I hope you got the point"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 149.44,
+      "end": 152.24,
+      "text": " and understood how this program is working"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 153.12,
+      "end": 155.2,
+      "text": " now write a program to mine a log file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 155.2,
+      "end": 157.92,
+      "text": " and find out whether it contains python"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 157.92,
+      "end": 158.64,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 158.64,
+      "end": 159.76,
+      "text": " so we just have to tell"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 159.76,
+      "end": 162.4,
+      "text": " whether there is python in any log file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 162.4,
+      "end": 163.84,
+      "text": " so this is very simple"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 163.84,
+      "end": 164.72,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 164.72,
+      "end": 165.76,
+      "text": " so what we have to do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 167.44,
+      "end": 168.72,
+      "text": " suppose we have a log file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 168.72,
+      "end": 169.6,
+      "text": " log.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 171.68,
+      "end": 172.88,
+      "text": " now we just have to find out"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 173.04,
+      "end": 174.32,
+      "text": " whether there is python in it or not"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 174.32,
+      "end": 177.6,
+      "text": " so if I write here lorem 435"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 177.6,
+      "end": 178.32,
+      "text": " let me do one thing"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 178.32,
+      "end": 179.44,
+      "text": " I will do html"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 180.0,
+      "end": 180.88,
+      "text": " and you should know"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 180.88,
+      "end": 183.44,
+      "text": " if you do lorem 435 in html"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 183.44,
+      "end": 185.76,
+      "text": " a very big string is generated for you"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 185.76,
+      "end": 186.56,
+      "text": " what I will do here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 186.56,
+      "end": 188.24,
+      "text": " I will add python here in the middle"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 188.24,
+      "end": 188.48,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 188.48,
+      "end": 189.36,
+      "text": " I added python"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 190.0,
+      "end": 190.72,
+      "text": " now what I will do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 190.72,
+      "end": 192.4,
+      "text": " first of all I will read this log file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 192.4,
+      "end": 195.92,
+      "text": " so I will write with open log.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 196.64,
+      "end": 198.56,
+      "text": " and I will write as f"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 198.56,
+      "end": 201.36,
+      "text": " then I will read f."
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 201.36,
+      "end": 201.84,
+      "text": " first"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 202.4,
+      "end": 202.72,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 202.72,
+      "end": 204.32,
+      "text": " I will say give me its content"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 206.16,
+      "end": 208.08,
+      "text": " content is equal to f.read"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 208.08,
+      "end": 209.52,
+      "text": " and then I will write if"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 209.52,
+      "end": 212.96,
+      "text": " and I will write python in content"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 213.92,
+      "end": 214.88,
+      "text": " then what should I do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 214.88,
+      "end": 217.84,
+      "text": " print yes python is present"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 219.68,
+      "end": 220.16,
+      "text": " else"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 222.0,
+      "end": 226.48,
+      "text": " print no python is not present"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 226.48,
+      "end": 226.8,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 227.6,
+      "end": 228.72,
+      "text": " our very simple"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 228.72,
+      "end": 230.16,
+      "text": " here is yes python is present"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 230.16,
+      "end": 230.96,
+      "text": " our print is done"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 230.96,
+      "end": 231.6,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 232.48,
+      "end": 233.6,
+      "text": " yes python is present"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 233.6,
+      "end": 235.2,
+      "text": " and if I remove this python"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 235.2,
+      "end": 236.24,
+      "text": " from log.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 237.04,
+      "end": 238.24,
+      "text": " if I remove this python"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 238.24,
+      "end": 238.88,
+      "text": " if I do this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 239.52,
+      "end": 240.32,
+      "text": " then what will happen"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 240.32,
+      "end": 241.92,
+      "text": " no python is not present"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 241.92,
+      "end": 242.96,
+      "text": " as you saw"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 243.6,
+      "end": 246.24,
+      "text": " so our question is also solved"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 246.24,
+      "end": 247.36,
+      "text": " now come to the next question"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 247.92,
+      "end": 249.44,
+      "text": " write a program to find out"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 249.44,
+      "end": 251.2,
+      "text": " the line number where python is present"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 251.2,
+      "end": 252.4,
+      "text": " from question number 6"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 252.4,
+      "end": 254.16,
+      "text": " now you have to find the line number"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 254.16,
+      "end": 256.16,
+      "text": " in which line number python is present"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 256.16,
+      "end": 257.12,
+      "text": " how will you do that"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 257.92,
+      "end": 258.72,
+      "text": " so what will you do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 258.72,
+      "end": 260.08,
+      "text": " you will read the lines one by one"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 260.08,
+      "end": 260.32,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 260.32,
+      "end": 262.08,
+      "text": " so I will show you how to do it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 262.08,
+      "end": 262.48,
+      "text": " so we will make it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 262.48,
+      "end": 267.04,
+      "text": " 07 underscore problem 7.py"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 268.4,
+      "end": 270.24,
+      "text": " and this time we will not do f.read"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 270.24,
+      "end": 270.72,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 270.72,
+      "end": 272.8,
+      "text": " we will write line number here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 273.76,
+      "end": 275.2,
+      "text": " line is equal to 1"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 275.2,
+      "end": 276.32,
+      "text": " line number will be 1"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 276.32,
+      "end": 277.84,
+      "text": " we will start from the first line"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 277.84,
+      "end": 278.48,
+      "text": " and we will say"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 279.6,
+      "end": 280.64,
+      "text": " line is equal to"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 280.64,
+      "end": 283.68,
+      "text": " we will say line is equal to f.readline"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 283.68,
+      "end": 284.0,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 284.8,
+      "end": 286.64,
+      "text": " and then what we will do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 286.64,
+      "end": 289.92,
+      "text": " we will say if python in line"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 289.92,
+      "end": 291.28,
+      "text": " yes python is present"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 292.4,
+      "end": 293.52,
+      "text": " what will be the line number"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 294.16,
+      "end": 295.28,
+      "text": " line number will be ours"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 295.28,
+      "end": 296.16,
+      "text": " whatever is our line"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 296.96,
+      "end": 298.4,
+      "text": " so we will write line here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 298.4,
+      "end": 299.84,
+      "text": " and I will explain to you how this happened"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 299.84,
+      "end": 300.08,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 300.64,
+      "end": 301.6,
+      "text": " I will explain it very well"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 301.6,
+      "end": 302.64,
+      "text": " don't worry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 302.64,
+      "end": 303.6,
+      "text": " so what we did here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 303.6,
+      "end": 305.52,
+      "text": " printed that python is there"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 305.52,
+      "end": 307.76,
+      "text": " and we wrote line number here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 307.76,
+      "end": 308.4,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 308.4,
+      "end": 309.44,
+      "text": " so let's do one thing"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 309.44,
+      "end": 310.64,
+      "text": " what we will do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 310.64,
+      "end": 310.88,
+      "text": " that"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 311.76,
+      "end": 312.16,
+      "text": " here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 312.72,
+      "end": 313.92,
+      "text": " it can be done in two ways"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 313.92,
+      "end": 315.68,
+      "text": " first of all, do readline one by one"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 315.68,
+      "end": 317.76,
+      "text": " or lines is equal to f.readlines"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 317.76,
+      "end": 319.28,
+      "text": " and then run a for loop"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 319.28,
+      "end": 320.72,
+      "text": " so for line in lines"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 322.56,
+      "end": 322.96,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 322.96,
+      "end": 324.48,
+      "text": " and here line is equal to 1"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 324.48,
+      "end": 326.48,
+      "text": " do by default line number is equal to 1"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 326.48,
+      "end": 328.08,
+      "text": " line number is equal to 1"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 328.8,
+      "end": 330.72,
+      "text": " and here what we will do after this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 332.0,
+      "end": 334.96,
+      "text": " line number plus equals to 1"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 334.96,
+      "end": 336.56,
+      "text": " so we are looking at each line one by one"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 336.56,
+      "end": 338.08,
+      "text": " and if this list is exhausted"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 338.96,
+      "end": 340.96,
+      "text": " if this list is exhausted"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 340.96,
+      "end": 341.76,
+      "text": " then what we will do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 342.8,
+      "end": 344.4,
+      "text": " if this list is exhausted"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 344.4,
+      "end": 346.48,
+      "text": " then we will say no python is not present"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 346.48,
+      "end": 348.4,
+      "text": " so we read else with for"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 348.88,
+      "end": 349.84,
+      "text": " when else is used"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 349.84,
+      "end": 351.6,
+      "text": " when for loop is complete"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 351.6,
+      "end": 353.68,
+      "text": " but once we get python and line number"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 353.68,
+      "end": 354.88,
+      "text": " then we will break it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 355.44,
+      "end": 355.76,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 357.04,
+      "end": 358.32,
+      "text": " if we break"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 358.32,
+      "end": 359.2,
+      "text": " then what will happen"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 359.2,
+      "end": 360.48,
+      "text": " if we break"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 360.48,
+      "end": 361.76,
+      "text": " else will not work"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 361.76,
+      "end": 361.92,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 361.92,
+      "end": 362.88,
+      "text": " remember this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 362.88,
+      "end": 363.76,
+      "text": " when we break"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 363.76,
+      "end": 365.36,
+      "text": " then else does not work"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 365.36,
+      "end": 366.48,
+      "text": " if the whole loop is running"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 366.48,
+      "end": 367.92,
+      "text": " that means loop is exhausted"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 367.92,
+      "end": 369.28,
+      "text": " then else is run at the end"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 369.28,
+      "end": 369.84,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 369.84,
+      "end": 370.88,
+      "text": " we saw this thing"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 371.6,
+      "end": 372.56,
+      "text": " for with else"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 372.56,
+      "end": 374.24,
+      "text": " that means if you run for loop"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 374.24,
+      "end": 375.52,
+      "text": " and that for is run completely"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 375.52,
+      "end": 378.24,
+      "text": " that means if it is run for all lines"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 378.64,
+      "end": 380.56,
+      "text": " that means for each value in the list"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 380.56,
+      "end": 381.68,
+      "text": " then your else will run"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 381.68,
+      "end": 382.88,
+      "text": " when that loop will be exhausted"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 382.88,
+      "end": 384.48,
+      "text": " otherwise it will not work"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 384.48,
+      "end": 385.44,
+      "text": " else will not work"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 386.24,
+      "end": 386.48,
+      "text": " okay"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 387.04,
+      "end": 388.16,
+      "text": " else will run when"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 388.16,
+      "end": 389.44,
+      "text": " for loop is complete"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 389.44,
+      "end": 390.96,
+      "text": " if you break in between"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 390.96,
+      "end": 392.16,
+      "text": " then your else will not work"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 392.16,
+      "end": 393.44,
+      "text": " with that said let's run it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 394.4,
+      "end": 395.6,
+      "text": " no python is not present"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 395.6,
+      "end": 396.24,
+      "text": " is coming"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 396.24,
+      "end": 397.76,
+      "text": " but if I go to log.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 397.76,
+      "end": 398.88,
+      "text": " and write python here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 398.88,
+      "end": 399.76,
+      "text": " let's say I do this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 400.4,
+      "end": 401.6,
+      "text": " and write python"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 403.44,
+      "end": 405.68,
+      "text": " so python is coming in line number 3"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 405.68,
+      "end": 408.56,
+      "text": " let's try to run the program again"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 408.56,
+      "end": 409.6,
+      "text": " yes python is present"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 409.6,
+      "end": 410.24,
+      "text": " line number"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 410.24,
+      "end": 411.92,
+      "text": " actually I had to write line no"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 411.92,
+      "end": 413.68,
+      "text": " I printed the whole line"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 413.68,
+      "end": 414.96,
+      "text": " I had to write line number"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 414.96,
+      "end": 416.24,
+      "text": " so let's run again"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 416.88,
+      "end": 418.0,
+      "text": " yes python is present"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 418.0,
+      "end": 418.88,
+      "text": " line number is 3"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 419.68,
+      "end": 420.16,
+      "text": " amazing"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 420.16,
+      "end": 421.44,
+      "text": " easy peasy lemon squeezy"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 421.44,
+      "end": 421.76,
+      "text": " come"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 422.24,
+      "end": 424.16,
+      "text": " come back to question number 8"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 424.16,
+      "end": 427.04,
+      "text": " write a program to make a copy of a text file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 427.04,
+      "end": 428.08,
+      "text": " this.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 428.64,
+      "end": 429.76,
+      "text": " very simple"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 429.76,
+      "end": 431.76,
+      "text": " this.txt is a file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 431.76,
+      "end": 433.68,
+      "text": " we have to make a copy of it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 434.16,
+      "end": 437.68,
+      "text": " 08 underscore problem 8.py"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 437.68,
+      "end": 438.64,
+      "text": " so what we will do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 438.64,
+      "end": 440.0,
+      "text": " we will first say"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 440.0,
+      "end": 442.8,
+      "text": " with open this.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 444.0,
+      "end": 448.88,
+      "text": " as f content is equal to f.read"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 448.88,
+      "end": 450.08,
+      "text": " then we will say"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 450.08,
+      "end": 454.16,
+      "text": " with open this underscore copy.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 455.2,
+      "end": 456.64,
+      "text": " open in w mode"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 456.64,
+      "end": 459.04,
+      "text": " as f content is equal to"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 459.84,
+      "end": 461.04,
+      "text": " f.write"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 461.76,
+      "end": 462.48,
+      "text": " content"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 462.48,
+      "end": 463.36,
+      "text": " content is equal to"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 463.36,
+      "end": 463.84,
+      "text": " sorry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 463.84,
+      "end": 465.68,
+      "text": " f.write content"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 465.68,
+      "end": 466.4,
+      "text": " that's it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 466.4,
+      "end": 467.52,
+      "text": " in this.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 467.52,
+      "end": 468.8,
+      "text": " hey I am this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 469.68,
+      "end": 473.84,
+      "text": " I am having a lot of fun"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 473.84,
+      "end": 475.04,
+      "text": " I am having fun"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 475.68,
+      "end": 476.64,
+      "text": " assume I write anything"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 476.64,
+      "end": 476.96,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 477.52,
+      "end": 478.96,
+      "text": " then after this I run it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 478.96,
+      "end": 479.52,
+      "text": " and you see"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 479.52,
+      "end": 480.4,
+      "text": " as soon as I run it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 480.4,
+      "end": 481.2,
+      "text": " this copy was made"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 481.2,
+      "end": 482.64,
+      "text": " and it has the same content"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 483.28,
+      "end": 483.76,
+      "text": " it is simple"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 483.76,
+      "end": 484.08,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 484.72,
+      "end": 485.92,
+      "text": " now come back"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 485.92,
+      "end": 486.8,
+      "text": " after this 9th question"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 486.8,
+      "end": 488.08,
+      "text": " can I write a program to find out"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 488.08,
+      "end": 489.92,
+      "text": " whether a file is identical"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 489.92,
+      "end": 491.84,
+      "text": " and matches the content of another file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 491.84,
+      "end": 492.48,
+      "text": " so come"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 492.48,
+      "end": 493.84,
+      "text": " so we will have two files"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 493.84,
+      "end": 495.6,
+      "text": " one file 1 and one file 2"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 495.6,
+      "end": 496.8,
+      "text": " so for 9th question"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 496.8,
+      "end": 498.0,
+      "text": " first we make a file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 502.32,
+      "end": 502.88,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 502.88,
+      "end": 503.68,
+      "text": " so what will happen"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 503.68,
+      "end": 505.52,
+      "text": " first file will be file 1"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 505.52,
+      "end": 507.12,
+      "text": " then second will be file 2"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 507.12,
+      "end": 508.32,
+      "text": " so we will say"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 508.32,
+      "end": 510.56,
+      "text": " file1.txt as f"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 510.56,
+      "end": 512.8,
+      "text": " content1 is equal to f.read"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 512.8,
+      "end": 514.0,
+      "text": " and we will do the same thing"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 514.0,
+      "end": 515.68,
+      "text": " for content2"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 515.68,
+      "end": 516.4,
+      "text": " and we will say"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 516.4,
+      "end": 520.96,
+      "text": " that if the contents of file1 and file2"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 521.2,
+      "end": 525.84,
+      "text": " if content1 is equal to content2"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 525.84,
+      "end": 526.56,
+      "text": " then what you do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 527.28,
+      "end": 531.6,
+      "text": " print yes these files are identical"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 531.6,
+      "end": 532.72,
+      "text": " otherwise what you will print"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 532.72,
+      "end": 533.92,
+      "text": " that they are not identical"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 533.92,
+      "end": 534.64,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 534.64,
+      "end": 536.32,
+      "text": " so what else you will do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 536.32,
+      "end": 536.72,
+      "text": " else"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 537.68,
+      "end": 538.64,
+      "text": " else you will do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 540.16,
+      "end": 540.48,
+      "text": " no"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 542.08,
+      "end": 543.28,
+      "text": " why did I write print"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 545.76,
+      "end": 547.68,
+      "text": " no these files are not identical"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 547.68,
+      "end": 548.08,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 548.08,
+      "end": 548.72,
+      "text": " so come"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 548.72,
+      "end": 549.52,
+      "text": " let's run it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 549.52,
+      "end": 550.72,
+      "text": " so I will do one thing"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 551.28,
+      "end": 554.96,
+      "text": " I will compare file.txt with poem.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 556.08,
+      "end": 556.8,
+      "text": " and obviously"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 556.8,
+      "end": 557.92,
+      "text": " this content is not same"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 557.92,
+      "end": 559.6,
+      "text": " file.txt and poem.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 559.6,
+      "end": 560.08,
+      "text": " will be same"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 560.08,
+      "end": 560.56,
+      "text": " no"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 560.56,
+      "end": 561.92,
+      "text": " these files are not identical"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 562.56,
+      "end": 565.76,
+      "text": " if I compare this.txt and this.copy"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 565.76,
+      "end": 567.36,
+      "text": " that is I say this.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 568.0,
+      "end": 571.36,
+      "text": " and here I write this.copy.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 571.36,
+      "end": 572.24,
+      "text": " then it will show me"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 572.24,
+      "end": 573.76,
+      "text": " yes these files are identical"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 573.76,
+      "end": 574.08,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 574.64,
+      "end": 575.2,
+      "text": " it's simple"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 576.0,
+      "end": 576.56,
+      "text": " 10th question"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 576.56,
+      "end": 579.84,
+      "text": " can I write a program to wipe out the content of a file using python"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 579.84,
+      "end": 581.2,
+      "text": " and this is very simple"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 581.2,
+      "end": 582.48,
+      "text": " this is very simple question"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 583.2,
+      "end": 584.8,
+      "text": " 10 underscore"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 586.24,
+      "end": 588.24,
+      "text": " problem10.py"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 588.96,
+      "end": 591.6,
+      "text": " how to wipe out a file content"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 591.6,
+      "end": 592.0,
+      "text": " should I tell you"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 592.0,
+      "end": 593.04,
+      "text": " very simple way"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 593.04,
+      "end": 594.08,
+      "text": " very simple way"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 594.64,
+      "end": 595.04,
+      "text": " see this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 596.8,
+      "end": 597.28,
+      "text": " see this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 598.0,
+      "end": 598.88,
+      "text": " I will show you"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 598.88,
+      "end": 600.24,
+      "text": " I will close others"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 600.24,
+      "end": 601.12,
+      "text": " close others"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 601.6,
+      "end": 602.48,
+      "text": " see this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 602.48,
+      "end": 603.52,
+      "text": " what I will do here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 603.52,
+      "end": 604.56,
+      "text": " f.write"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 604.56,
+      "end": 605.36,
+      "text": " I will blank"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 605.36,
+      "end": 606.16,
+      "text": " it's simple"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 606.16,
+      "end": 607.44,
+      "text": " in any file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 607.44,
+      "end": 608.16,
+      "text": " f.write"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 608.16,
+      "end": 608.8,
+      "text": " I will blank"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 609.52,
+      "end": 610.8,
+      "text": " and its content will be wiped"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 610.8,
+      "end": 612.56,
+      "text": " see this is in this.copy"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 613.44,
+      "end": 614.16,
+      "text": " I will run"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 615.04,
+      "end": 615.6,
+      "text": " it's blank"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 615.6,
+      "end": 616.48,
+      "text": " this.content"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 616.48,
+      "end": 617.68,
+      "text": " I have wiped out"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 617.68,
+      "end": 618.4,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 619.28,
+      "end": 620.24,
+      "text": " next question is"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 620.24,
+      "end": 624.32,
+      "text": " write a python program to rename a file to renamed by python.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 624.32,
+      "end": 626.64,
+      "text": " so first of all we have to bring that file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 626.64,
+      "end": 627.76,
+      "text": " which we have to rename"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 627.76,
+      "end": 628.0,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 628.0,
+      "end": 629.6,
+      "text": " so 11th question is"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 631.36,
+      "end": 634.0,
+      "text": " p.r.o.b.l.e.m.p.y"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 634.72,
+      "end": 635.84,
+      "text": " and here what I will do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 635.84,
+      "end": 636.24,
+      "text": " that"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 636.24,
+      "end": 637.12,
+      "text": " there is a file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 637.12,
+      "end": 637.92,
+      "text": " log.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 637.92,
+      "end": 638.88,
+      "text": " so here I will do one thing"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 638.88,
+      "end": 639.92,
+      "text": " that"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 639.92,
+      "end": 641.28,
+      "text": " I will make old.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 641.28,
+      "end": 642.56,
+      "text": " I will write here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 642.56,
+      "end": 643.84,
+      "text": " I am old"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 643.84,
+      "end": 645.52,
+      "text": " and I will rename this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 645.52,
+      "end": 646.48,
+      "text": " to new.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 646.48,
+      "end": 646.88,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 646.88,
+      "end": 648.8,
+      "text": " how can we rename this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 648.8,
+      "end": 651.36,
+      "text": " a very simple way to rename is"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 651.36,
+      "end": 651.84,
+      "text": " that"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 651.84,
+      "end": 652.64,
+      "text": " what you do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 652.64,
+      "end": 653.28,
+      "text": " that"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 653.28,
+      "end": 655.36,
+      "text": " copy the existing file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 655.36,
+      "end": 656.88,
+      "text": " and you"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 656.88,
+      "end": 658.4,
+      "text": " rename it by txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 658.4,
+      "end": 660.8,
+      "text": " and delete this file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 660.8,
+      "end": 661.36,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 661.36,
+      "end": 662.96,
+      "text": " so for this you have to use"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 662.96,
+      "end": 663.92,
+      "text": " os module"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 663.92,
+      "end": 666.08,
+      "text": " but I will not use os module"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 666.08,
+      "end": 666.72,
+      "text": " what I will do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 666.72,
+      "end": 667.28,
+      "text": " first of all"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 667.28,
+      "end": 669.6,
+      "text": " I will read the content of this old file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 669.6,
+      "end": 670.88,
+      "text": " and to read the content"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 670.88,
+      "end": 672.48,
+      "text": " we have already written a lot of code"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 672.48,
+      "end": 673.44,
+      "text": " this is"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 673.44,
+      "end": 675.2,
+      "text": " the code to read the content"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 675.2,
+      "end": 675.84,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 675.84,
+      "end": 676.56,
+      "text": " so what we will do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 676.56,
+      "end": 676.96,
+      "text": " here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 676.96,
+      "end": 679.52,
+      "text": " we will read the content of old.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 679.52,
+      "end": 680.4,
+      "text": " and what we will do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 680.4,
+      "end": 681.44,
+      "text": " that"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 681.44,
+      "end": 683.2,
+      "text": " the content of it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 683.2,
+      "end": 685.12,
+      "text": " we will put it in which"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 685.12,
+      "end": 688.08,
+      "text": " we will write it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 688.08,
+      "end": 689.84,
+      "text": " in another file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 689.84,
+      "end": 691.52,
+      "text": " renamed by python.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 691.52,
+      "end": 692.48,
+      "text": " in this way"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 692.48,
+      "end": 694.48,
+      "text": " renamed by python.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 694.48,
+      "end": 695.28,
+      "text": " we will do like this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 695.28,
+      "end": 700.24,
+      "text": " renamed by python.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 700.24,
+      "end": 702.08,
+      "text": " and we will write the content in it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 702.08,
+      "end": 702.72,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 702.72,
+      "end": 703.76,
+      "text": " and if you want"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 703.76,
+      "end": 705.76,
+      "text": " then you use os module"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 705.76,
+      "end": 708.32,
+      "text": " or use shutil module"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 708.32,
+      "end": 709.84,
+      "text": " and delete it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 709.84,
+      "end": 710.88,
+      "text": " old.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 710.88,
+      "end": 711.52,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 711.52,
+      "end": 712.72,
+      "text": " so to do this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 712.72,
+      "end": 714.48,
+      "text": " you have to import shutil"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 714.48,
+      "end": 715.92,
+      "text": " which is a module"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 715.92,
+      "end": 717.36,
+      "text": " and you can delete the file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 717.36,
+      "end": 719.12,
+      "text": " but for now what I will do here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 719.12,
+      "end": 720.96,
+      "text": " I will make renamed by python.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 720.96,
+      "end": 722.32,
+      "text": " in which the same content is there"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 722.32,
+      "end": 723.68,
+      "text": " which was in old.txt"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 724.16,
+      "end": 725.44,
+      "text": " I am old"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 725.44,
+      "end": 726.8,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 726.8,
+      "end": 727.36,
+      "text": " alright"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 727.36,
+      "end": 727.84,
+      "text": " so"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 727.84,
+      "end": 728.56,
+      "text": " with this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 728.56,
+      "end": 731.36,
+      "text": " our practice set 9 is wrapped"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 731.36,
+      "end": 732.64,
+      "text": " now we will move"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 732.64,
+      "end": 734.08,
+      "text": " towards chapter number 10"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 734.08,
+      "end": 734.72,
+      "text": " which is"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 734.72,
+      "end": 735.84,
+      "text": " object oriented programming"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 735.84,
+      "end": 736.96,
+      "text": " I am very excited"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 736.96,
+      "end": 738.4,
+      "text": " a very important topic"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 738.4,
+      "end": 739.76,
+      "text": " and you will enjoy"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 739.76,
+      "end": 741.84,
+      "text": " let's go to chapter number 10"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 741.84,
+      "end": 742.4,
+      "text": " see you there"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 742.4,
+      "end": 747.36,
+      "text": " intro"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 747.36,
+      "end": 747.92,
+      "text": " so guys"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 747.92,
+      "end": 749.12,
+      "text": " today we are going to see"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 749.12,
+      "end": 750.48,
+      "text": " object oriented programming"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 750.48,
+      "end": 752.16,
+      "text": " what is object oriented programming"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 752.24,
+      "end": 753.28,
+      "text": " object oriented programming"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 753.28,
+      "end": 755.12,
+      "text": " is a paradigm of programming"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 755.12,
+      "end": 756.32,
+      "text": " is a way"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 756.32,
+      "end": 757.84,
+      "text": " and we have two types"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 757.84,
+      "end": 758.72,
+      "text": " basically approach"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 758.72,
+      "end": 760.08,
+      "text": " of programming"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 760.08,
+      "end": 761.68,
+      "text": " one is object oriented approach"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 761.68,
+      "end": 763.28,
+      "text": " which we are going to see in this chapter"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 763.28,
+      "end": 765.12,
+      "text": " and one is functional approach"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 765.12,
+      "end": 766.72,
+      "text": " what happens in object oriented approach"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 766.72,
+      "end": 768.48,
+      "text": " that we solve the problem"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 768.48,
+      "end": 770.0,
+      "text": " by creating an object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 770.0,
+      "end": 771.36,
+      "text": " and this is one of the most"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 771.36,
+      "end": 772.8,
+      "text": " popular approaches"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 772.8,
+      "end": 773.52,
+      "text": " in programming"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 773.52,
+      "end": 775.12,
+      "text": " this is called object oriented programming"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 775.12,
+      "end": 776.72,
+      "text": " this concept focuses"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 776.72,
+      "end": 779.04,
+      "text": " on using reusable code"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 779.04,
+      "end": 780.08,
+      "text": " which is also called dry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 780.08,
+      "end": 780.88,
+      "text": " dry stands for"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 780.96,
+      "end": 782.0,
+      "text": " do not repeat yourself"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 782.0,
+      "end": 783.12,
+      "text": " means don't repeat"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 783.12,
+      "end": 784.64,
+      "text": " use the same thing"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 784.64,
+      "end": 785.84,
+      "text": " what is the meaning of this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 785.84,
+      "end": 788.08,
+      "text": " you must have been very confused"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 788.08,
+      "end": 789.76,
+      "text": " if you have heard for the first time"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 789.76,
+      "end": 791.6,
+      "text": " about object oriented programming"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 791.6,
+      "end": 792.88,
+      "text": " but I have come here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 792.88,
+      "end": 794.8,
+      "text": " to clear your confusion"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 794.8,
+      "end": 795.44,
+      "text": " so come on guys"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 795.44,
+      "end": 796.88,
+      "text": " we understand object oriented programming"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 796.88,
+      "end": 797.76,
+      "text": " closely"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 797.76,
+      "end": 799.2,
+      "text": " first of all see what is class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 799.84,
+      "end": 801.2,
+      "text": " in object oriented programming"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 801.2,
+      "end": 804.08,
+      "text": " we deal with classes and objects"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 804.08,
+      "end": 804.96,
+      "text": " what is class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 804.96,
+      "end": 807.44,
+      "text": " class is a blueprint to create objects"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 807.44,
+      "end": 809.04,
+      "text": " what does it mean"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 809.04,
+      "end": 811.76,
+      "text": " I will explain you with a very simple example"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 811.76,
+      "end": 814.0,
+      "text": " suppose you have to give an exam"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 814.0,
+      "end": 815.68,
+      "text": " and to give that exam"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 815.68,
+      "end": 816.8,
+      "text": " you have to become a form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 816.8,
+      "end": 817.84,
+      "text": " suppose you have to become"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 817.84,
+      "end": 818.72,
+      "text": " an IIT JEE form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 818.72,
+      "end": 820.8,
+      "text": " in that form you will write your name"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 820.8,
+      "end": 823.44,
+      "text": " you will write your email address"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 823.44,
+      "end": 825.12,
+      "text": " you will write many other things"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 825.12,
+      "end": 826.72,
+      "text": " and once you fill this form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 826.72,
+      "end": 828.88,
+      "text": " then this form will be called your form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 828.88,
+      "end": 830.24,
+      "text": " if Shubham filled this form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 830.24,
+      "end": 831.84,
+      "text": " then it will be called Shubham's form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 831.84,
+      "end": 833.84,
+      "text": " and if Rohan filled this form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 833.84,
+      "end": 835.84,
+      "text": " then it will be called Rohan's form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 835.84,
+      "end": 836.96,
+      "text": " so why will it be called"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 836.96,
+      "end": 838.4,
+      "text": " Rohan's form or Shubham's form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 838.4,
+      "end": 839.44,
+      "text": " because it has his name"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 839.44,
+      "end": 841.44,
+      "text": " address and all his details"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 841.44,
+      "end": 843.12,
+      "text": " but when this form was empty"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 843.12,
+      "end": 844.8,
+      "text": " then whose form was this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 844.8,
+      "end": 846.0,
+      "text": " when this form was empty"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 846.0,
+      "end": 847.92,
+      "text": " then this form was not of anyone"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 847.92,
+      "end": 849.36,
+      "text": " it was a blank form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 849.36,
+      "end": 852.4,
+      "text": " that means this was a class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 852.4,
+      "end": 853.44,
+      "text": " if someone filled it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 853.44,
+      "end": 854.8,
+      "text": " then it became an object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 854.8,
+      "end": 857.68,
+      "text": " so in object there is particular information"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 857.68,
+      "end": 859.44,
+      "text": " but class is a blueprint"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 859.44,
+      "end": 861.36,
+      "text": " that means it only has"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 861.36,
+      "end": 862.24,
+      "text": " what things will come"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 862.24,
+      "end": 863.44,
+      "text": " only placeholders are there"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 863.44,
+      "end": 865.04,
+      "text": " you can understand it like this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 865.04,
+      "end": 866.72,
+      "text": " I will explain you with another example"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 866.72,
+      "end": 869.04,
+      "text": " if you travel from Indian railway"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 869.04,
+      "end": 870.0,
+      "text": " then you must know"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 870.0,
+      "end": 872.08,
+      "text": " that there are forms in Indian railway"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 872.08,
+      "end": 873.6,
+      "text": " which you have to fill"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 873.6,
+      "end": 874.56,
+      "text": " so you go"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 874.56,
+      "end": 876.08,
+      "text": " you take a form from Indian railway"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 876.08,
+      "end": 877.76,
+      "text": " you write your name in it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 877.76,
+      "end": 879.36,
+      "text": " when that form is empty"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 879.36,
+      "end": 881.04,
+      "text": " then it is not anyone's form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 881.04,
+      "end": 882.24,
+      "text": " when that form is empty"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 882.24,
+      "end": 883.52,
+      "text": " no one's name is written in it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 883.52,
+      "end": 885.44,
+      "text": " no one's birth number is written in it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 885.44,
+      "end": 889.12,
+      "text": " no one's preferred coach is written in it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 889.12,
+      "end": 890.24,
+      "text": " where are you going from where"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 890.24,
+      "end": 891.36,
+      "text": " this is also not written"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 891.36,
+      "end": 892.96,
+      "text": " but once you fill that form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 892.96,
+      "end": 894.4,
+      "text": " then you put your name"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 894.4,
+      "end": 896.0,
+      "text": " from where you have to go"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 896.0,
+      "end": 896.8,
+      "text": " you put this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 896.8,
+      "end": 898.0,
+      "text": " how many people are traveling"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 898.0,
+      "end": 900.16,
+      "text": " you put their name and their address"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 900.16,
+      "end": 902.24,
+      "text": " finally you fill that form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 902.24,
+      "end": 903.6,
+      "text": " and once you fill that form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 903.6,
+      "end": 905.52,
+      "text": " then it is called your form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 905.52,
+      "end": 908.08,
+      "text": " your form with your information"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 908.08,
+      "end": 909.76,
+      "text": " wherever you have to travel"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 909.76,
+      "end": 911.92,
+      "text": " that information is there in it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 911.92,
+      "end": 914.64,
+      "text": " so the empty form was a class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 914.64,
+      "end": 915.92,
+      "text": " but the filled form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 915.92,
+      "end": 917.28,
+      "text": " became an object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 917.28,
+      "end": 918.4,
+      "text": " so what is class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 918.4,
+      "end": 920.08,
+      "text": " it is a blueprint for creating an object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 920.08,
+      "end": 921.68,
+      "text": " we will make a sample class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 921.68,
+      "end": 923.28,
+      "text": " but this is basically the concept"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 923.36,
+      "end": 925.92,
+      "text": " you can make multiple objects from class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 925.92,
+      "end": 928.4,
+      "text": " the class blueprint is one"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 928.4,
+      "end": 930.88,
+      "text": " and many objects can be made from it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 930.88,
+      "end": 932.64,
+      "text": " the way we have this empty form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 932.64,
+      "end": 934.16,
+      "text": " it has a lot of copies"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 934.16,
+      "end": 935.6,
+      "text": " and someone keeps distributing it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 935.6,
+      "end": 937.2,
+      "text": " at the station"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 937.2,
+      "end": 938.16,
+      "text": " and anyone can take it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 938.16,
+      "end": 939.2,
+      "text": " by filling their train number"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 939.2,
+      "end": 941.04,
+      "text": " with their details"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 941.04,
+      "end": 943.44,
+      "text": " and can convert it into their form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 943.44,
+      "end": 944.48,
+      "text": " so come to your notes"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 944.48,
+      "end": 947.28,
+      "text": " class is a blueprint for creating objects"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 947.28,
+      "end": 948.32,
+      "text": " now see here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 948.32,
+      "end": 950.16,
+      "text": " what is that you had a blank form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 950.16,
+      "end": 952.56,
+      "text": " okay you combined information"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 952.56,
+      "end": 955.12,
+      "text": " and made a valid application"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 955.12,
+      "end": 956.24,
+      "text": " after filling it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 956.24,
+      "end": 958.24,
+      "text": " so what was that blank form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 958.24,
+      "end": 959.84,
+      "text": " in that combines info"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 959.84,
+      "end": 960.96,
+      "text": " to create a valid application"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 960.96,
+      "end": 962.24,
+      "text": " means there will be placeholders in it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 962.24,
+      "end": 963.12,
+      "text": " it would have written"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 963.12,
+      "end": 965.04,
+      "text": " what is your name"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 965.04,
+      "end": 966.08,
+      "text": " what is your birth number"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 966.72,
+      "end": 968.16,
+      "text": " what is your preferred coach"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 968.16,
+      "end": 969.92,
+      "text": " what is your train number"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 969.92,
+      "end": 971.52,
+      "text": " where do you have to go"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 971.52,
+      "end": 973.28,
+      "text": " all this would have been written in the blank form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 973.28,
+      "end": 974.64,
+      "text": " but once it is filled"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 974.64,
+      "end": 975.92,
+      "text": " then what will happen in it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 975.92,
+      "end": 977.2,
+      "text": " that form will be made of railway"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 977.2,
+      "end": 979.44,
+      "text": " similarly if it is a student's JEE form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 979.44,
+      "end": 981.04,
+      "text": " then there will be combined information in it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 981.12,
+      "end": 982.72,
+      "text": " that what information is needed"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 982.72,
+      "end": 984.88,
+      "text": " once that student has filled it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 984.88,
+      "end": 986.96,
+      "text": " then it will become the application of that student"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 986.96,
+      "end": 989.2,
+      "text": " similarly class is a blueprint"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 989.2,
+      "end": 990.32,
+      "text": " in which information is there"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 990.32,
+      "end": 991.52,
+      "text": " to create valid objects"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 991.52,
+      "end": 994.32,
+      "text": " and once we do object instantiation"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 994.32,
+      "end": 995.36,
+      "text": " then the object is made"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 995.36,
+      "end": 997.12,
+      "text": " I will also show you"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 997.12,
+      "end": 998.08,
+      "text": " how this process works"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 998.08,
+      "end": 999.92,
+      "text": " but before that what we will do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 999.92,
+      "end": 1001.28,
+      "text": " we will come to our folder"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1001.28,
+      "end": 1003.68,
+      "text": " here we will make a folder named chapter 10"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1003.68,
+      "end": 1006.0,
+      "text": " and I will open it in VS code"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1006.0,
+      "end": 1007.04,
+      "text": " I will do shift right click"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1007.04,
+      "end": 1008.08,
+      "text": " I will do open with code"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1008.08,
+      "end": 1009.36,
+      "text": " and it will open in VS code"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1009.52,
+      "end": 1011.44,
+      "text": " here the first program I am going to make"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1011.44,
+      "end": 1013.12,
+      "text": " the first program I am going to make"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1013.92,
+      "end": 1015.2,
+      "text": " class.py"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1015.2,
+      "end": 1015.6,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1015.6,
+      "end": 1017.52,
+      "text": " I will show you a basic class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1017.52,
+      "end": 1019.44,
+      "text": " so to make a basic class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1019.44,
+      "end": 1021.52,
+      "text": " we use some syntax like this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1021.52,
+      "end": 1022.96,
+      "text": " so I said class employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1022.96,
+      "end": 1025.68,
+      "text": " now I will write name is equal to"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1025.68,
+      "end": 1027.68,
+      "text": " suppose name is Harry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1027.68,
+      "end": 1028.32,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1028.32,
+      "end": 1030.08,
+      "text": " and suppose I say here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1030.08,
+      "end": 1032.0,
+      "text": " language is equal to"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1032.0,
+      "end": 1033.28,
+      "text": " and I write py"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1033.28,
+      "end": 1035.28,
+      "text": " I write salary is equal to"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1036.48,
+      "end": 1037.52,
+      "text": " I will put one more zero"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1037.52,
+      "end": 1038.64,
+      "text": " what is going in my salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1038.64,
+      "end": 1039.2,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1039.6,
+      "end": 1040.64,
+      "text": " so salary is here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1040.64,
+      "end": 1041.2,
+      "text": " how much"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1041.2,
+      "end": 1042.24,
+      "text": " 12 lakhs"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1042.24,
+      "end": 1043.68,
+      "text": " salary is 12 lakhs"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1043.68,
+      "end": 1044.0,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1044.0,
+      "end": 1044.72,
+      "text": " it is only 12 lakhs"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1044.72,
+      "end": 1045.44,
+      "text": " 3, 2, 5"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1045.44,
+      "end": 1045.84,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1046.56,
+      "end": 1047.2,
+      "text": " great"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1047.2,
+      "end": 1049.04,
+      "text": " now to make an object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1050.0,
+      "end": 1050.96,
+      "text": " what I will do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1050.96,
+      "end": 1051.68,
+      "text": " I will write"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1052.96,
+      "end": 1054.56,
+      "text": " Harry is equal to"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1054.56,
+      "end": 1055.76,
+      "text": " and I will write here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1056.48,
+      "end": 1057.2,
+      "text": " employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1057.68,
+      "end": 1059.12,
+      "text": " so if you print"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1059.12,
+      "end": 1060.24,
+      "text": " harry.name"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1060.24,
+      "end": 1061.92,
+      "text": " and harry.language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1062.56,
+      "end": 1064.4,
+      "text": " then you will get harry and py"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1064.4,
+      "end": 1066.08,
+      "text": " so this is a very basic way"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1066.56,
+      "end": 1067.6,
+      "text": " to make a class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1067.92,
+      "end": 1069.04,
+      "text": " and to make objects"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1069.04,
+      "end": 1069.6,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1069.6,
+      "end": 1071.6,
+      "text": " but we will go ahead"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1071.6,
+      "end": 1073.6,
+      "text": " and understand things in more depth"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1073.6,
+      "end": 1074.16,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1074.16,
+      "end": 1075.6,
+      "text": " so what is an object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1075.6,
+      "end": 1076.88,
+      "text": " here harry is an object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1076.88,
+      "end": 1077.44,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1078.0,
+      "end": 1078.96,
+      "text": " now see here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1078.96,
+      "end": 1080.96,
+      "text": " an object is an instantiation of a class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1080.96,
+      "end": 1082.0,
+      "text": " when class is defined"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1082.0,
+      "end": 1083.28,
+      "text": " a template is defined"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1083.28,
+      "end": 1084.48,
+      "text": " memory is allocated"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1084.48,
+      "end": 1086.16,
+      "text": " only after object instantiation"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1086.16,
+      "end": 1087.76,
+      "text": " when you have defined a class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1087.76,
+      "end": 1089.2,
+      "text": " then a template is defined"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1089.2,
+      "end": 1091.44,
+      "text": " that means we have made an empty form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1091.44,
+      "end": 1094.32,
+      "text": " and until we do object instantiation"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1094.32,
+      "end": 1094.8,
+      "text": " until then"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1094.8,
+      "end": 1096.8,
+      "text": " memory will not be allocated for that object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1096.88,
+      "end": 1098.0,
+      "text": " objects of a given class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1098.0,
+      "end": 1099.68,
+      "text": " can invoke the methods available to it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1099.68,
+      "end": 1101.92,
+      "text": " without revealing the implementation details"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1101.92,
+      "end": 1102.56,
+      "text": " to the user"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1102.56,
+      "end": 1102.8,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1102.8,
+      "end": 1105.36,
+      "text": " so this is called abstraction and encapsulation"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1106.08,
+      "end": 1106.72,
+      "text": " what we do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1106.72,
+      "end": 1108.8,
+      "text": " see identify our problem"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1108.8,
+      "end": 1109.2,
+      "text": " noun"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1109.76,
+      "end": 1110.4,
+      "text": " the class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1111.12,
+      "end": 1111.84,
+      "text": " is an employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1111.84,
+      "end": 1113.04,
+      "text": " and a noun"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1113.04,
+      "end": 1115.52,
+      "text": " adjectives are basically attributes"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1115.52,
+      "end": 1116.48,
+      "text": " like name"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1116.48,
+      "end": 1117.28,
+      "text": " salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1117.28,
+      "end": 1118.96,
+      "text": " and the verbs are methods"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1118.96,
+      "end": 1120.0,
+      "text": " what is the meaning of this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1120.56,
+      "end": 1121.84,
+      "text": " the name of the class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1121.84,
+      "end": 1123.12,
+      "text": " like employee is a class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1123.68,
+      "end": 1124.8,
+      "text": " language can be a class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1124.8,
+      "end": 1126.48,
+      "text": " animal can be a class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1126.72,
+      "end": 1128.08,
+      "text": " so these are usually nouns"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1128.64,
+      "end": 1129.52,
+      "text": " what is the adjective"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1130.16,
+      "end": 1131.2,
+      "text": " our attributes"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1131.2,
+      "end": 1132.56,
+      "text": " means like"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1132.56,
+      "end": 1133.68,
+      "text": " name of the employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1133.68,
+      "end": 1134.8,
+      "text": " age of the employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1134.8,
+      "end": 1135.76,
+      "text": " his salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1135.76,
+      "end": 1137.28,
+      "text": " these are called attributes"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1137.28,
+      "end": 1138.16,
+      "text": " like in this case"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1138.72,
+      "end": 1139.68,
+      "text": " name is an attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1139.68,
+      "end": 1140.56,
+      "text": " language is an attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1140.56,
+      "end": 1141.76,
+      "text": " salary is an attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1141.76,
+      "end": 1143.28,
+      "text": " so basically I have made a class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1143.28,
+      "end": 1144.08,
+      "text": " in which every"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1144.88,
+      "end": 1146.0,
+      "text": " name of the employee will be Harry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1146.0,
+      "end": 1147.44,
+      "text": " language of every employee will be PY"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1147.44,
+      "end": 1148.56,
+      "text": " and salary of every employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1149.2,
+      "end": 1150.0,
+      "text": " will be 12 lakhs"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1150.0,
+      "end": 1151.2,
+      "text": " which ideally we don't need"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1151.2,
+      "end": 1151.84,
+      "text": " I know"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1151.84,
+      "end": 1153.12,
+      "text": " but I have given a very simple example"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1153.12,
+      "end": 1154.16,
+      "text": " of the class to you"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1154.16,
+      "end": 1154.48,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1155.36,
+      "end": 1157.2,
+      "text": " and the verbs are methods"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1157.2,
+      "end": 1158.32,
+      "text": " like get salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1158.32,
+      "end": 1158.96,
+      "text": " increment"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1158.96,
+      "end": 1159.84,
+      "text": " means do something"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1159.84,
+      "end": 1160.8,
+      "text": " doing something means"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1160.8,
+      "end": 1161.6,
+      "text": " running a method"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1161.6,
+      "end": 1161.92,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1162.96,
+      "end": 1164.0,
+      "text": " so now we will talk"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1164.0,
+      "end": 1165.44,
+      "text": " about class attributes"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1165.44,
+      "end": 1167.04,
+      "text": " an attribute that belongs"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1167.04,
+      "end": 1167.6,
+      "text": " to the class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1167.6,
+      "end": 1169.12,
+      "text": " rather than a particular object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1169.12,
+      "end": 1170.16,
+      "text": " is class attributes"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1170.16,
+      "end": 1171.28,
+      "text": " what is the meaning of this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1171.28,
+      "end": 1172.56,
+      "text": " what is the meaning of this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1172.56,
+      "end": 1173.76,
+      "text": " now see here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1173.76,
+      "end": 1174.0,
+      "text": " that"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1174.64,
+      "end": 1175.92,
+      "text": " I have written class employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1175.92,
+      "end": 1177.04,
+      "text": " I have said name is Harry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1177.04,
+      "end": 1177.92,
+      "text": " language is PY"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1177.92,
+      "end": 1178.48,
+      "text": " salary is this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1178.48,
+      "end": 1179.92,
+      "text": " suppose I remove the name Harry from here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1179.92,
+      "end": 1180.24,
+      "text": " because"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1180.88,
+      "end": 1182.56,
+      "text": " why would I want to keep the name Harry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1182.56,
+      "end": 1183.04,
+      "text": " you understand"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1183.04,
+      "end": 1184.88,
+      "text": " means why would every employee's name be Harry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1185.36,
+      "end": 1186.56,
+      "text": " so Harry.language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1186.56,
+      "end": 1187.76,
+      "text": " and Harry.salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1187.76,
+      "end": 1188.48,
+      "text": " I will print"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1188.48,
+      "end": 1188.64,
+      "text": " so"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1189.2,
+      "end": 1189.68,
+      "text": " I have"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1189.68,
+      "end": 1191.04,
+      "text": " every employee's language is PY"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1191.04,
+      "end": 1192.16,
+      "text": " suppose there is a company"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1192.16,
+      "end": 1192.8,
+      "text": " which only works with"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1192.8,
+      "end": 1194.56,
+      "text": " Python programming language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1194.56,
+      "end": 1196.32,
+      "text": " so every employee's"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1196.32,
+      "end": 1197.52,
+      "text": " language will be PY"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1197.52,
+      "end": 1198.08,
+      "text": " and salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1198.08,
+      "end": 1200.16,
+      "text": " suppose I give 12 lakhs to every employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1200.16,
+      "end": 1200.72,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1200.72,
+      "end": 1202.16,
+      "text": " so I have kept that here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1202.16,
+      "end": 1204.08,
+      "text": " so if I make an employee named Harry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1204.08,
+      "end": 1204.8,
+      "text": " in some way"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1204.8,
+      "end": 1206.16,
+      "text": " whose syntax will be something like this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1206.16,
+      "end": 1207.2,
+      "text": " Harry is equal to employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1207.2,
+      "end": 1208.72,
+      "text": " print Harry.language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1208.72,
+      "end": 1209.6,
+      "text": " Harry.salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1209.6,
+      "end": 1209.92,
+      "text": " so I"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1210.32,
+      "end": 1211.36,
+      "text": " Harry's language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1211.36,
+      "end": 1212.48,
+      "text": " which is PY"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1212.48,
+      "end": 1213.52,
+      "text": " and Harry's salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1213.52,
+      "end": 1214.32,
+      "text": " which is 12 lakhs"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1214.32,
+      "end": 1215.2,
+      "text": " I can print that"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1215.2,
+      "end": 1217.04,
+      "text": " suppose I make another employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1217.04,
+      "end": 1218.16,
+      "text": " whose name is Rohan"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1218.72,
+      "end": 1219.68,
+      "text": " and I write"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1219.68,
+      "end": 1221.2,
+      "text": " Rohan is equal to employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1221.76,
+      "end": 1222.72,
+      "text": " something like this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1222.72,
+      "end": 1223.68,
+      "text": " and I print"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1223.68,
+      "end": 1227.68,
+      "text": " Rohan.salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1227.68,
+      "end": 1230.48,
+      "text": " Rohan.language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1230.48,
+      "end": 1231.04,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1231.04,
+      "end": 1232.48,
+      "text": " this time I have printed salary first"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1232.48,
+      "end": 1233.6,
+      "text": " and then language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1233.6,
+      "end": 1234.24,
+      "text": " you see here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1234.88,
+      "end": 1235.52,
+      "text": " it is printed"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1235.52,
+      "end": 1236.08,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1236.08,
+      "end": 1237.6,
+      "text": " so what is this salary and language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1237.6,
+      "end": 1238.48,
+      "text": " class attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1238.48,
+      "end": 1240.32,
+      "text": " because they directly belong to the class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1240.32,
+      "end": 1241.84,
+      "text": " whose name is employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1241.84,
+      "end": 1242.88,
+      "text": " class named employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1242.88,
+      "end": 1243.84,
+      "text": " they belong to"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1244.16,
+      "end": 1245.76,
+      "text": " and language is equal to PY"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1245.76,
+      "end": 1247.12,
+      "text": " salary is equal to 12 lakhs"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1247.12,
+      "end": 1248.08,
+      "text": " is a part of employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1248.08,
+      "end": 1249.04,
+      "text": " and whatever object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1249.04,
+      "end": 1250.08,
+      "text": " will be made from this employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1250.08,
+      "end": 1251.84,
+      "text": " that is, by filling this form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1251.84,
+      "end": 1254.48,
+      "text": " whatever object will be made by filling this form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1255.52,
+      "end": 1256.08,
+      "text": " it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1257.12,
+      "end": 1258.4,
+      "text": " will get language PY"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1258.4,
+      "end": 1259.68,
+      "text": " salary will get 12 lakhs"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1259.68,
+      "end": 1259.92,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1259.92,
+      "end": 1261.36,
+      "text": " so we have made two employees here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1261.36,
+      "end": 1263.52,
+      "text": " so salary and language are class attributes"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1263.52,
+      "end": 1265.44,
+      "text": " because they directly belong to the class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1266.0,
+      "end": 1266.96,
+      "text": " now suppose I want"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1266.96,
+      "end": 1268.96,
+      "text": " that I give a name to my employees"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1269.36,
+      "end": 1270.48,
+      "text": " so I will say"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1270.56,
+      "end": 1272.48,
+      "text": " harry.name is equal to"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1272.48,
+      "end": 1273.84,
+      "text": " it will be right to keep harry like this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1274.48,
+      "end": 1277.44,
+      "text": " rohan.name is equal to"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1277.44,
+      "end": 1279.04,
+      "text": " rohanroro"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1279.04,
+      "end": 1280.32,
+      "text": " it will be right"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1280.32,
+      "end": 1280.88,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1281.6,
+      "end": 1282.8,
+      "text": " and suppose I"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1283.44,
+      "end": 1285.44,
+      "text": " I keep name rohanroro robinson here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1285.44,
+      "end": 1286.24,
+      "text": " so you see"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1286.24,
+      "end": 1287.44,
+      "text": " rohan.name is equal to"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1287.44,
+      "end": 1289.04,
+      "text": " now I can print name too"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1289.04,
+      "end": 1290.4,
+      "text": " so I will write here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1290.4,
+      "end": 1292.8,
+      "text": " print rohan.name"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1292.8,
+      "end": 1293.6,
+      "text": " and here I will write"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1293.6,
+      "end": 1295.2,
+      "text": " print harry.name"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1295.2,
+      "end": 1296.56,
+      "text": " harry.name"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1296.56,
+      "end": 1298.32,
+      "text": " and as soon as I run"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1298.32,
+      "end": 1299.28,
+      "text": " you see here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1299.28,
+      "end": 1301.12,
+      "text": " harry.py 12 lakhs"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1301.12,
+      "end": 1302.96,
+      "text": " rohanroro robinson 12 lakhs py"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1302.96,
+      "end": 1304.96,
+      "text": " because I have printed name here first"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1304.96,
+      "end": 1307.76,
+      "text": " so I can print name here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1307.76,
+      "end": 1309.36,
+      "text": " I can print language and salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1309.36,
+      "end": 1311.12,
+      "text": " now listen carefully to what I am writing here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1311.84,
+      "end": 1312.08,
+      "text": " I"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1313.04,
+      "end": 1314.88,
+      "text": " here name is"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1316.4,
+      "end": 1316.96,
+      "text": " object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1317.68,
+      "end": 1318.32,
+      "text": " attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1319.04,
+      "end": 1319.36,
+      "text": " and"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1320.88,
+      "end": 1323.28,
+      "text": " salary and language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1323.28,
+      "end": 1325.28,
+      "text": " are class attributes"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1325.28,
+      "end": 1329.28,
+      "text": " as they directly belong to the class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1329.28,
+      "end": 1331.28,
+      "text": " to the class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1331.28,
+      "end": 1333.28,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1333.28,
+      "end": 1335.28,
+      "text": " and I will keep this as a comment"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1335.28,
+      "end": 1337.28,
+      "text": " so that it does not show error in my program"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1337.28,
+      "end": 1339.28,
+      "text": " so you can make a comment"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1339.28,
+      "end": 1341.28,
+      "text": " by pressing ctrl forward slash"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1341.28,
+      "end": 1343.28,
+      "text": " ok so what we saw now"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1343.28,
+      "end": 1345.28,
+      "text": " class attributes"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1345.28,
+      "end": 1347.28,
+      "text": " I will put a comment here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1347.28,
+      "end": 1349.28,
+      "text": " as much as I can make it descriptive"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1349.28,
+      "end": 1351.28,
+      "text": " it will be good"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1351.28,
+      "end": 1353.28,
+      "text": " I will write here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1353.28,
+      "end": 1355.28,
+      "text": " instance attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1355.28,
+      "end": 1357.28,
+      "text": " and"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1357.28,
+      "end": 1359.28,
+      "text": " I will copy this and here I will write"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1359.28,
+      "end": 1361.28,
+      "text": " this is an object attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1361.28,
+      "end": 1363.28,
+      "text": " ok this is an object attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1365.28,
+      "end": 1367.28,
+      "text": " ok I hope that's clear"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1367.28,
+      "end": 1369.28,
+      "text": " so here we have object attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1369.28,
+      "end": 1371.28,
+      "text": " or instance attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1371.28,
+      "end": 1373.28,
+      "text": " an attribute that belongs to the instance"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1373.28,
+      "end": 1375.28,
+      "text": " and it's better that I call it instance attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1375.28,
+      "end": 1377.28,
+      "text": " because mostly it is called"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1377.28,
+      "end": 1379.28,
+      "text": " instance attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1379.28,
+      "end": 1381.28,
+      "text": " so here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1381.28,
+      "end": 1383.28,
+      "text": " instance"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1383.28,
+      "end": 1385.28,
+      "text": " attribute so instance attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1385.28,
+      "end": 1387.28,
+      "text": " we saw that we made it directly"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1387.28,
+      "end": 1389.28,
+      "text": " by putting a dot we said harry dot name is equal to harry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1389.28,
+      "end": 1391.28,
+      "text": " ok so this is instance attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1391.28,
+      "end": 1393.28,
+      "text": " instance attributes"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1393.28,
+      "end": 1395.28,
+      "text": " take preference over class attributes during assignment"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1395.28,
+      "end": 1397.28,
+      "text": " and retrieval now see"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1397.28,
+      "end": 1399.28,
+      "text": " this is very important"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1399.28,
+      "end": 1401.28,
+      "text": " so I will do one thing to explain this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1401.28,
+      "end": 1403.28,
+      "text": " I will have to make a file"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1403.28,
+      "end": 1405.28,
+      "text": " tense versus"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1407.28,
+      "end": 1409.28,
+      "text": " class attributes dot py"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1409.28,
+      "end": 1411.28,
+      "text": " ok"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1411.28,
+      "end": 1413.28,
+      "text": " suppose I have an employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1413.28,
+      "end": 1415.28,
+      "text": " ok and I have"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1415.28,
+      "end": 1417.28,
+      "text": " made its language py which is a class attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1417.28,
+      "end": 1419.28,
+      "text": " now suppose"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1419.28,
+      "end": 1421.28,
+      "text": " that I am giving an instance"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1421.28,
+      "end": 1423.28,
+      "text": " attribute I am saying that"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1423.28,
+      "end": 1425.28,
+      "text": " I am giving an instance attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1425.28,
+      "end": 1427.28,
+      "text": " named language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1427.28,
+      "end": 1429.28,
+      "text": " and I am writing javascript"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1429.28,
+      "end": 1431.28,
+      "text": " you will say one minute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1431.28,
+      "end": 1433.28,
+      "text": " you have already"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1433.28,
+      "end": 1435.28,
+      "text": " defined a language attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1435.28,
+      "end": 1437.28,
+      "text": " in the employee class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1437.28,
+      "end": 1439.28,
+      "text": " which is a class attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1439.28,
+      "end": 1441.28,
+      "text": " in that you have written language is equal to python"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1441.28,
+      "end": 1443.28,
+      "text": " why are you making it again"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1443.28,
+      "end": 1445.28,
+      "text": " same name instance attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1445.28,
+      "end": 1447.28,
+      "text": " so I will say my choice"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1447.28,
+      "end": 1449.28,
+      "text": " you should know what will happen"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1449.28,
+      "end": 1451.28,
+      "text": " so if I print harry dot name"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1451.28,
+      "end": 1453.28,
+      "text": " this time then nothing will happen"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1453.28,
+      "end": 1455.28,
+      "text": " I will remove it from here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1455.28,
+      "end": 1457.28,
+      "text": " if I print harry dot salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1457.28,
+      "end": 1459.28,
+      "text": " then it will come 12 lakh"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1459.28,
+      "end": 1461.28,
+      "text": " there is no surprise that it will come 12 lakh"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1461.28,
+      "end": 1463.28,
+      "text": " simple thing is class attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1463.28,
+      "end": 1465.28,
+      "text": " it will get fetched but if I print harry dot language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1465.28,
+      "end": 1467.28,
+      "text": " then javascript will be printed or python"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1467.28,
+      "end": 1469.28,
+      "text": " the answer is javascript"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1469.28,
+      "end": 1471.28,
+      "text": " will be printed"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1471.28,
+      "end": 1473.28,
+      "text": " javascript will be printed because"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1473.28,
+      "end": 1475.28,
+      "text": " instance attribute take preference"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1475.28,
+      "end": 1477.28,
+      "text": " over class attributes during"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1477.28,
+      "end": 1479.28,
+      "text": " assignment and retrieval"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1479.28,
+      "end": 1481.28,
+      "text": " you try to set or get"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1481.28,
+      "end": 1483.28,
+      "text": " you will get"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1483.28,
+      "end": 1485.28,
+      "text": " instance attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1485.28,
+      "end": 1487.28,
+      "text": " so if I do harry dot language is equal to"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1487.28,
+      "end": 1489.28,
+      "text": " then also instance attribute will be set"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1489.28,
+      "end": 1491.28,
+      "text": " if I print harry dot language then first it will see"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1491.28,
+      "end": 1493.28,
+      "text": " that is there an instance attribute or not"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1493.28,
+      "end": 1495.28,
+      "text": " if there is class attribute then it will print"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1495.28,
+      "end": 1497.28,
+      "text": " or class attribute will print"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1497.28,
+      "end": 1499.28,
+      "text": " lets run this program and confirm this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1499.28,
+      "end": 1501.28,
+      "text": " and yeah what I told you"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1501.28,
+      "end": 1503.28,
+      "text": " that happened but if this javascript"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1503.28,
+      "end": 1505.28,
+      "text": " I don't write harry dot language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1505.28,
+      "end": 1507.28,
+      "text": " if I comment it out like this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1507.28,
+      "end": 1509.28,
+      "text": " then what will happen obviously"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1509.28,
+      "end": 1511.28,
+      "text": " python will be printed because"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1511.28,
+      "end": 1513.28,
+      "text": " class attribute is there and"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1513.28,
+      "end": 1515.28,
+      "text": " if instance attribute is not found then class attribute will be there"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1515.28,
+      "end": 1517.28,
+      "text": " ok I hope that makes sense"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1517.28,
+      "end": 1519.28,
+      "text": " that instance attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1519.28,
+      "end": 1521.28,
+      "text": " take preference"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1521.28,
+      "end": 1523.28,
+      "text": " so when looking up for harry dot attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1523.28,
+      "end": 1525.28,
+      "text": " it checks for the following"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1525.28,
+      "end": 1527.28,
+      "text": " is the attribute present in object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1527.28,
+      "end": 1529.28,
+      "text": " then it will see is this attribute present in class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1529.28,
+      "end": 1531.28,
+      "text": " if it is present in object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1531.28,
+      "end": 1533.28,
+      "text": " then it will write in object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1533.28,
+      "end": 1535.28,
+      "text": " if it is present in class then it will write in class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1535.28,
+      "end": 1537.28,
+      "text": " ok self parameter"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1537.28,
+      "end": 1539.28,
+      "text": " what is self parameter"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1539.28,
+      "end": 1541.28,
+      "text": " this thing we need to know"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1541.28,
+      "end": 1543.28,
+      "text": " so what happens whenever we make a method"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1543.28,
+      "end": 1545.28,
+      "text": " whenever we make a method in object oriented"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1545.28,
+      "end": 1547.28,
+      "text": " programming I will make a new file here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1547.28,
+      "end": 1549.28,
+      "text": " and I will write"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1549.28,
+      "end": 1551.28,
+      "text": " self dot py"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1551.28,
+      "end": 1553.28,
+      "text": " now suppose I have an employee class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1553.28,
+      "end": 1555.28,
+      "text": " and I want to make a function"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1555.28,
+      "end": 1557.28,
+      "text": " get info"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1557.28,
+      "end": 1559.28,
+      "text": " so you can put a function in a class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1559.28,
+      "end": 1561.28,
+      "text": " so suppose I put a function"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1561.28,
+      "end": 1563.28,
+      "text": " get info and I print"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1563.28,
+      "end": 1565.28,
+      "text": " a string"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1565.28,
+      "end": 1567.28,
+      "text": " the language is"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1567.28,
+      "end": 1569.28,
+      "text": " and I will write here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1569.28,
+      "end": 1571.28,
+      "text": " language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1571.28,
+      "end": 1573.28,
+      "text": " and I am telling you this is wrong and I will tell you right"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1573.28,
+      "end": 1575.28,
+      "text": " and I will write"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1575.28,
+      "end": 1577.28,
+      "text": " the salary is"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1577.28,
+      "end": 1579.28,
+      "text": " salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1579.28,
+      "end": 1581.28,
+      "text": " now you will see here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1581.28,
+      "end": 1583.28,
+      "text": " that this was"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1583.28,
+      "end": 1585.28,
+      "text": " a class named employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1585.28,
+      "end": 1587.28,
+      "text": " language was python, salary was 12 lakh"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1587.28,
+      "end": 1589.28,
+      "text": " then I did harry is equal to employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1589.28,
+      "end": 1591.28,
+      "text": " changed the language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1591.28,
+      "end": 1593.28,
+      "text": " now suppose you run"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1593.28,
+      "end": 1595.28,
+      "text": " get info, harry dot get info"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1595.28,
+      "end": 1597.28,
+      "text": " so by doing harry dot"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1597.28,
+      "end": 1599.28,
+      "text": " get info what you can do"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1599.28,
+      "end": 1601.28,
+      "text": " you can say that"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1601.28,
+      "end": 1603.28,
+      "text": " harry is an employee class object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1603.28,
+      "end": 1605.28,
+      "text": " so automatically"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1605.28,
+      "end": 1607.28,
+      "text": " language came in harry, salary came in harry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1607.28,
+      "end": 1609.28,
+      "text": " a method came in harry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1609.28,
+      "end": 1611.28,
+      "text": " get info which is harry's own method"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1611.28,
+      "end": 1613.28,
+      "text": " so you can do harry dot get info"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1613.28,
+      "end": 1615.28,
+      "text": " because this method is in harry class"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1615.28,
+      "end": 1617.28,
+      "text": " because we used this template"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1617.28,
+      "end": 1619.28,
+      "text": " and made it, but if I run it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1619.28,
+      "end": 1621.28,
+      "text": " then it will give an error, you can see"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1621.28,
+      "end": 1623.28,
+      "text": " employee dot get info"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1623.28,
+      "end": 1625.28,
+      "text": " takes zero positional arguments"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1625.28,
+      "end": 1627.28,
+      "text": " but one was"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1627.28,
+      "end": 1629.28,
+      "text": " given"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1629.28,
+      "end": 1631.28,
+      "text": " I did not give any argument, so why"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1631.28,
+      "end": 1633.28,
+      "text": " is one was given coming, the story"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1633.28,
+      "end": 1635.28,
+      "text": " is that when you"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1635.28,
+      "end": 1637.28,
+      "text": " say harry dot get info"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1637.28,
+      "end": 1639.28,
+      "text": " it is converted in this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1639.28,
+      "end": 1641.28,
+      "text": " kind of call, employee"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1641.28,
+      "end": 1643.28,
+      "text": " dot get"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1643.28,
+      "end": 1645.28,
+      "text": " info harry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1645.28,
+      "end": 1647.28,
+      "text": " you understand, now by seeing"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1647.28,
+      "end": 1649.28,
+      "text": " this you will know that we"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1649.28,
+      "end": 1651.28,
+      "text": " gave an argument which is not accepted here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1651.28,
+      "end": 1653.28,
+      "text": " so here we accept it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1653.28,
+      "end": 1655.28,
+      "text": " in the name of self, you can accept it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1655.28,
+      "end": 1657.28,
+      "text": " in any name but usually it is done in the name of self"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1657.28,
+      "end": 1659.28,
+      "text": " that means the object on which"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1659.28,
+      "end": 1661.28,
+      "text": " this method is running, so I"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1661.28,
+      "end": 1663.28,
+      "text": " will take the language of that object and"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1663.28,
+      "end": 1665.28,
+      "text": " the salary of that object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1665.28,
+      "end": 1667.28,
+      "text": " and if I run it now"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1667.28,
+      "end": 1669.28,
+      "text": " employee dot get info, I will comment"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1669.28,
+      "end": 1671.28,
+      "text": " the above one, so you can see"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1671.28,
+      "end": 1673.28,
+      "text": " language is javascript, salary is 12 lakh"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1673.28,
+      "end": 1675.28,
+      "text": " and this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1675.28,
+      "end": 1677.28,
+      "text": " exactly the above one does the same"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1677.28,
+      "end": 1679.28,
+      "text": " just one thing to write"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1679.28,
+      "end": 1681.28,
+      "text": " there are two ways, I will say syntactic sugar"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1681.28,
+      "end": 1683.28,
+      "text": " harry dot get info"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1683.28,
+      "end": 1685.28,
+      "text": " it will be converted automatically in this call"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1685.28,
+      "end": 1687.28,
+      "text": " now you are understanding why the error was coming"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1687.28,
+      "end": 1689.28,
+      "text": " that one argument was given, because it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1689.28,
+      "end": 1691.28,
+      "text": " was converting in this and"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1691.28,
+      "end": 1693.28,
+      "text": " we passed the object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1693.28,
+      "end": 1695.28,
+      "text": " named harry in get info"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1695.28,
+      "end": 1697.28,
+      "text": " which we were not accepting here"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1697.28,
+      "end": 1699.28,
+      "text": " so once we accept the object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1699.28,
+      "end": 1701.28,
+      "text": " we can print the language of that object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1701.28,
+      "end": 1703.28,
+      "text": " and the salary of that object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1703.28,
+      "end": 1705.28,
+      "text": " if here harry dot language"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1705.28,
+      "end": 1707.28,
+      "text": " is not javascript then obviously"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1707.28,
+      "end": 1709.28,
+      "text": " the language would be python"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1709.28,
+      "end": 1711.28,
+      "text": " language is python, salary is 12 lakh"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1711.28,
+      "end": 1713.28,
+      "text": " as simple as that, very good"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1713.28,
+      "end": 1715.28,
+      "text": " so we saw how to make methods"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1715.28,
+      "end": 1717.28,
+      "text": " we make any method"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1717.28,
+      "end": 1719.28,
+      "text": " we have to give self"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1719.28,
+      "end": 1721.28,
+      "text": " whether we use it or not"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1721.28,
+      "end": 1723.28,
+      "text": " this is important"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1723.28,
+      "end": 1725.28,
+      "text": " if I make a function"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1725.28,
+      "end": 1727.28,
+      "text": " named greet"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1727.28,
+      "end": 1729.28,
+      "text": " and if I write"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1729.28,
+      "end": 1731.28,
+      "text": " this"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1731.28,
+      "end": 1733.28,
+      "text": " then I have to give self"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1733.28,
+      "end": 1735.28,
+      "text": " if I don't give self"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1735.28,
+      "end": 1737.28,
+      "text": " and I directly say here harry dot greet"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1737.28,
+      "end": 1739.28,
+      "text": " I will show you"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1739.28,
+      "end": 1741.28,
+      "text": " if I say here harry dot greet"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1741.28,
+      "end": 1743.28,
+      "text": " then what will happen"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1743.28,
+      "end": 1745.28,
+      "text": " it will say"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1745.28,
+      "end": 1747.28,
+      "text": " zero positional arguments but one was given"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1747.28,
+      "end": 1749.28,
+      "text": " this happened because"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1749.28,
+      "end": 1751.28,
+      "text": " harry dot greet"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1751.28,
+      "end": 1753.28,
+      "text": " is converted in"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1753.28,
+      "end": 1755.28,
+      "text": " employee dot greet harry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1755.28,
+      "end": 1757.28,
+      "text": " so it is saying that you gave harry"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1757.28,
+      "end": 1759.28,
+      "text": " it was not accepting the argument"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1759.28,
+      "end": 1761.28,
+      "text": " so we have to make it"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1761.28,
+      "end": 1763.28,
+      "text": " like this, then it will"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1763.28,
+      "end": 1765.28,
+      "text": " work properly, now see it is doing good morning"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1765.28,
+      "end": 1767.28,
+      "text": " and it makes sense to put the good"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1767.28,
+      "end": 1769.28,
+      "text": " morning before get info"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1769.28,
+      "end": 1771.28,
+      "text": " very good, it is fun"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1771.28,
+      "end": 1773.28,
+      "text": " things are clear"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1773.28,
+      "end": 1775.28,
+      "text": " that is important"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1775.28,
+      "end": 1777.28,
+      "text": " we have seen that classes are blueprint"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1777.28,
+      "end": 1779.28,
+      "text": " to make objects in classes"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1779.28,
+      "end": 1781.28,
+      "text": " class attributes are like language and salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1781.28,
+      "end": 1783.28,
+      "text": " and we have seen that language and salary"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1783.28,
+      "end": 1785.28,
+      "text": " like class attributes"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1785.28,
+      "end": 1787.28,
+      "text": " we can make instance attributes"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1787.28,
+      "end": 1789.28,
+      "text": " by putting dot, if I write"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1789.28,
+      "end": 1791.28,
+      "text": " harry dot language is equal to javascript"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1791.28,
+      "end": 1793.28,
+      "text": " then it will become an instance attribute"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1793.28,
+      "end": 1795.28,
+      "text": " which will be the property of object"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1795.28,
+      "end": 1797.28,
+      "text": " suppose you have written something in your form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1797.28,
+      "end": 1799.28,
+      "text": " so if you have written something in your form"
+    },
+    {
+      "number": "14",
+      "title": "part14",
+      "start": 1799.28,
+      "end": 1801.28,
+      "text": " then other forms will change"
+    }
+  ],
+  "text": " and this question number 5 is saying repeat program 4 for a list of such words to be censored so what we have to do is earlier there was only one word now we have to do is we have to give a list of censored words and we have to do this for all the words in that list and you see what is the benefit of writing a program properly I will reuse this program and solve problem number 5 this time we don't have a word this time we have words and let's say these are the words let's say these are the two words let's say these are the words donkey, bad and dirty so I will do one thing here I will write donkey here I will write dirty my are very dirty donkey ho okay I wrote this so what I did in this file I wrote these words I wrote dirty, good, everything okay in fact this is dirty so I write this and now what I will do here is I will write for word in words okay so what I will do here I will write for word in words and content new which we are going to generate this time we will say content new is equal to content.replace word okay and here we will not do content new this time in fact content is equal to content.replace so that we update the same variable okay and you see I have updated the same variable and what I am doing this time word and this time I will do something like that I will do this in double quote and I will say into length of word okay means whatever is the length of the word this hash should come as much as possible okay so see this is looking like this I will remove this hash here and as soon as I run this you see all these words are censored and how is this program working basically what we are doing we are taking this list of words and after this we are reading the content of this file then what we are doing for every word we are updating our content string we are saying replace content wherever the word is there put star as much as the length of the word okay we have done a simple thing here then what we did here we said file.txt w f.write content means write this content again so first we replaced the content means we replaced the occurrence of every word with hash into length of word then after this what we did that we wrote it again here okay so I hope you got the point and understood how this program is working now write a program to mine a log file and find out whether it contains python okay so we just have to tell whether there is python in any log file so this is very simple okay so what we have to do suppose we have a log file log.txt now we just have to find out whether there is python in it or not so if I write here lorem 435 let me do one thing I will do html and you should know if you do lorem 435 in html a very big string is generated for you what I will do here I will add python here in the middle okay I added python now what I will do first of all I will read this log file so I will write with open log.txt and I will write as f then I will read f. first okay I will say give me its content content is equal to f.read and then I will write if and I will write python in content then what should I do print yes python is present else print no python is not present okay our very simple here is yes python is present our print is done okay yes python is present and if I remove this python from log.txt if I remove this python if I do this then what will happen no python is not present as you saw so our question is also solved now come to the next question write a program to find out the line number where python is present from question number 6 now you have to find the line number in which line number python is present how will you do that so what will you do you will read the lines one by one okay so I will show you how to do it so we will make it 07 underscore problem 7.py and this time we will not do f.read okay we will write line number here line is equal to 1 line number will be 1 we will start from the first line and we will say line is equal to we will say line is equal to f.readline okay and then what we will do we will say if python in line yes python is present what will be the line number line number will be ours whatever is our line so we will write line here and I will explain to you how this happened okay I will explain it very well don't worry so what we did here printed that python is there and we wrote line number here okay so let's do one thing what we will do that here it can be done in two ways first of all, do readline one by one or lines is equal to f.readlines and then run a for loop so for line in lines okay and here line is equal to 1 do by default line number is equal to 1 line number is equal to 1 and here what we will do after this line number plus equals to 1 so we are looking at each line one by one and if this list is exhausted if this list is exhausted then what we will do if this list is exhausted then we will say no python is not present so we read else with for when else is used when for loop is complete but once we get python and line number then we will break it okay if we break then what will happen if we break else will not work okay remember this when we break then else does not work if the whole loop is running that means loop is exhausted then else is run at the end okay we saw this thing for with else that means if you run for loop and that for is run completely that means if it is run for all lines that means for each value in the list then your else will run when that loop will be exhausted otherwise it will not work else will not work okay else will run when for loop is complete if you break in between then your else will not work with that said let's run it no python is not present is coming but if I go to log.txt and write python here let's say I do this and write python so python is coming in line number 3 let's try to run the program again yes python is present line number actually I had to write line no I printed the whole line I had to write line number so let's run again yes python is present line number is 3 amazing easy peasy lemon squeezy come come back to question number 8 write a program to make a copy of a text file this.txt very simple this.txt is a file we have to make a copy of it 08 underscore problem 8.py so what we will do we will first say with open this.txt as f content is equal to f.read then we will say with open this underscore copy.txt open in w mode as f content is equal to f.write content content is equal to sorry f.write content that's it in this.txt hey I am this I am having a lot of fun I am having fun assume I write anything ok then after this I run it and you see as soon as I run it this copy was made and it has the same content it is simple ok now come back after this 9th question can I write a program to find out whether a file is identical and matches the content of another file so come so we will have two files one file 1 and one file 2 so for 9th question first we make a file ok so what will happen first file will be file 1 then second will be file 2 so we will say file1.txt as f content1 is equal to f.read and we will do the same thing for content2 and we will say that if the contents of file1 and file2 if content1 is equal to content2 then what you do print yes these files are identical otherwise what you will print that they are not identical ok so what else you will do else else you will do no why did I write print no these files are not identical ok so come let's run it so I will do one thing I will compare file.txt with poem.txt and obviously this content is not same file.txt and poem.txt will be same no these files are not identical if I compare this.txt and this.copy that is I say this.txt and here I write this.copy.txt then it will show me yes these files are identical ok it's simple 10th question can I write a program to wipe out the content of a file using python and this is very simple this is very simple question 10 underscore problem10.py how to wipe out a file content should I tell you very simple way very simple way see this see this I will show you I will close others close others see this what I will do here f.write I will blank it's simple in any file f.write I will blank and its content will be wiped see this is in this.copy I will run it's blank this.content I have wiped out ok next question is write a python program to rename a file to renamed by python.txt so first of all we have to bring that file which we have to rename ok so 11th question is p.r.o.b.l.e.m.p.y and here what I will do that there is a file log.txt so here I will do one thing that I will make old.txt I will write here I am old and I will rename this to new.txt ok how can we rename this a very simple way to rename is that what you do that copy the existing file and you rename it by txt and delete this file ok so for this you have to use os module but I will not use os module what I will do first of all I will read the content of this old file and to read the content we have already written a lot of code this is the code to read the content ok so what we will do here we will read the content of old.txt and what we will do that the content of it we will put it in which we will write it in another file renamed by python.txt in this way renamed by python.txt we will do like this renamed by python.txt and we will write the content in it ok and if you want then you use os module or use shutil module and delete it old.txt ok so to do this you have to import shutil which is a module and you can delete the file but for now what I will do here I will make renamed by python.txt in which the same content is there which was in old.txt I am old ok alright so with this our practice set 9 is wrapped now we will move towards chapter number 10 which is object oriented programming I am very excited a very important topic and you will enjoy let's go to chapter number 10 see you there intro so guys today we are going to see object oriented programming what is object oriented programming object oriented programming is a paradigm of programming is a way and we have two types basically approach of programming one is object oriented approach which we are going to see in this chapter and one is functional approach what happens in object oriented approach that we solve the problem by creating an object and this is one of the most popular approaches in programming this is called object oriented programming this concept focuses on using reusable code which is also called dry dry stands for do not repeat yourself means don't repeat use the same thing what is the meaning of this you must have been very confused if you have heard for the first time about object oriented programming but I have come here to clear your confusion so come on guys we understand object oriented programming closely first of all see what is class in object oriented programming we deal with classes and objects what is class class is a blueprint to create objects what does it mean I will explain you with a very simple example suppose you have to give an exam and to give that exam you have to become a form suppose you have to become an IIT JEE form in that form you will write your name you will write your email address you will write many other things and once you fill this form then this form will be called your form if Shubham filled this form then it will be called Shubham's form and if Rohan filled this form then it will be called Rohan's form so why will it be called Rohan's form or Shubham's form because it has his name address and all his details but when this form was empty then whose form was this when this form was empty then this form was not of anyone it was a blank form that means this was a class if someone filled it then it became an object so in object there is particular information but class is a blueprint that means it only has what things will come only placeholders are there you can understand it like this I will explain you with another example if you travel from Indian railway then you must know that there are forms in Indian railway which you have to fill so you go you take a form from Indian railway you write your name in it when that form is empty then it is not anyone's form when that form is empty no one's name is written in it no one's birth number is written in it no one's preferred coach is written in it where are you going from where this is also not written but once you fill that form then you put your name from where you have to go you put this how many people are traveling you put their name and their address finally you fill that form and once you fill that form then it is called your form your form with your information wherever you have to travel that information is there in it so the empty form was a class but the filled form became an object so what is class it is a blueprint for creating an object we will make a sample class but this is basically the concept you can make multiple objects from class the class blueprint is one and many objects can be made from it the way we have this empty form it has a lot of copies and someone keeps distributing it at the station and anyone can take it by filling their train number with their details and can convert it into their form so come to your notes class is a blueprint for creating objects now see here what is that you had a blank form okay you combined information and made a valid application after filling it so what was that blank form in that combines info to create a valid application means there will be placeholders in it it would have written what is your name what is your birth number what is your preferred coach what is your train number where do you have to go all this would have been written in the blank form but once it is filled then what will happen in it that form will be made of railway similarly if it is a student's JEE form then there will be combined information in it that what information is needed once that student has filled it then it will become the application of that student similarly class is a blueprint in which information is there to create valid objects and once we do object instantiation then the object is made I will also show you how this process works but before that what we will do we will come to our folder here we will make a folder named chapter 10 and I will open it in VS code I will do shift right click I will do open with code and it will open in VS code here the first program I am going to make the first program I am going to make class.py ok I will show you a basic class so to make a basic class we use some syntax like this so I said class employee now I will write name is equal to suppose name is Harry ok and suppose I say here language is equal to and I write py I write salary is equal to I will put one more zero what is going in my salary ok so salary is here how much 12 lakhs salary is 12 lakhs ok it is only 12 lakhs 3, 2, 5 ok great now to make an object what I will do I will write Harry is equal to and I will write here employee so if you print harry.name and harry.language then you will get harry and py so this is a very basic way to make a class and to make objects ok but we will go ahead and understand things in more depth ok so what is an object here harry is an object ok now see here an object is an instantiation of a class when class is defined a template is defined memory is allocated only after object instantiation when you have defined a class then a template is defined that means we have made an empty form and until we do object instantiation until then memory will not be allocated for that object objects of a given class can invoke the methods available to it without revealing the implementation details to the user ok so this is called abstraction and encapsulation what we do see identify our problem noun the class is an employee and a noun adjectives are basically attributes like name salary and the verbs are methods what is the meaning of this the name of the class like employee is a class language can be a class animal can be a class so these are usually nouns what is the adjective our attributes means like name of the employee age of the employee his salary these are called attributes like in this case name is an attribute language is an attribute salary is an attribute so basically I have made a class in which every name of the employee will be Harry language of every employee will be PY and salary of every employee will be 12 lakhs which ideally we don't need I know but I have given a very simple example of the class to you ok and the verbs are methods like get salary increment means do something doing something means running a method ok so now we will talk about class attributes an attribute that belongs to the class rather than a particular object is class attributes what is the meaning of this what is the meaning of this now see here that I have written class employee I have said name is Harry language is PY salary is this suppose I remove the name Harry from here because why would I want to keep the name Harry you understand means why would every employee's name be Harry so Harry.language and Harry.salary I will print so I have every employee's language is PY suppose there is a company which only works with Python programming language so every employee's language will be PY and salary suppose I give 12 lakhs to every employee ok so I have kept that here so if I make an employee named Harry in some way whose syntax will be something like this Harry is equal to employee print Harry.language Harry.salary so I Harry's language which is PY and Harry's salary which is 12 lakhs I can print that suppose I make another employee whose name is Rohan and I write Rohan is equal to employee something like this and I print Rohan.salary Rohan.language ok this time I have printed salary first and then language you see here it is printed ok so what is this salary and language class attribute because they directly belong to the class whose name is employee class named employee they belong to and language is equal to PY salary is equal to 12 lakhs is a part of employee and whatever object will be made from this employee that is, by filling this form whatever object will be made by filling this form it will get language PY salary will get 12 lakhs ok so we have made two employees here so salary and language are class attributes because they directly belong to the class now suppose I want that I give a name to my employees so I will say harry.name is equal to it will be right to keep harry like this rohan.name is equal to rohanroro it will be right ok and suppose I I keep name rohanroro robinson here so you see rohan.name is equal to now I can print name too so I will write here print rohan.name and here I will write print harry.name harry.name and as soon as I run you see here harry.py 12 lakhs rohanroro robinson 12 lakhs py because I have printed name here first so I can print name here I can print language and salary now listen carefully to what I am writing here I here name is object attribute and salary and language are class attributes as they directly belong to the class to the class ok and I will keep this as a comment so that it does not show error in my program so you can make a comment by pressing ctrl forward slash ok so what we saw now class attributes I will put a comment here as much as I can make it descriptive it will be good I will write here instance attribute and I will copy this and here I will write this is an object attribute ok this is an object attribute ok I hope that's clear so here we have object attribute or instance attribute an attribute that belongs to the instance and it's better that I call it instance attribute because mostly it is called instance attribute so here instance attribute so instance attribute we saw that we made it directly by putting a dot we said harry dot name is equal to harry ok so this is instance attribute instance attributes take preference over class attributes during assignment and retrieval now see this is very important so I will do one thing to explain this I will have to make a file tense versus class attributes dot py ok suppose I have an employee ok and I have made its language py which is a class attribute now suppose that I am giving an instance attribute I am saying that I am giving an instance attribute named language and I am writing javascript you will say one minute you have already defined a language attribute in the employee class which is a class attribute in that you have written language is equal to python why are you making it again same name instance attribute so I will say my choice you should know what will happen so if I print harry dot name this time then nothing will happen I will remove it from here if I print harry dot salary then it will come 12 lakh there is no surprise that it will come 12 lakh simple thing is class attribute it will get fetched but if I print harry dot language then javascript will be printed or python the answer is javascript will be printed javascript will be printed because instance attribute take preference over class attributes during assignment and retrieval you try to set or get you will get instance attribute so if I do harry dot language is equal to then also instance attribute will be set if I print harry dot language then first it will see that is there an instance attribute or not if there is class attribute then it will print or class attribute will print lets run this program and confirm this and yeah what I told you that happened but if this javascript I don't write harry dot language if I comment it out like this then what will happen obviously python will be printed because class attribute is there and if instance attribute is not found then class attribute will be there ok I hope that makes sense that instance attribute take preference so when looking up for harry dot attribute it checks for the following is the attribute present in object then it will see is this attribute present in class if it is present in object then it will write in object if it is present in class then it will write in class ok self parameter what is self parameter this thing we need to know so what happens whenever we make a method whenever we make a method in object oriented programming I will make a new file here and I will write self dot py now suppose I have an employee class and I want to make a function get info so you can put a function in a class so suppose I put a function get info and I print a string the language is and I will write here language and I am telling you this is wrong and I will tell you right and I will write the salary is salary now you will see here that this was a class named employee language was python, salary was 12 lakh then I did harry is equal to employee changed the language now suppose you run get info, harry dot get info so by doing harry dot get info what you can do you can say that harry is an employee class object so automatically language came in harry, salary came in harry a method came in harry get info which is harry's own method so you can do harry dot get info because this method is in harry class because we used this template and made it, but if I run it then it will give an error, you can see employee dot get info takes zero positional arguments but one was given I did not give any argument, so why is one was given coming, the story is that when you say harry dot get info it is converted in this kind of call, employee dot get info harry you understand, now by seeing this you will know that we gave an argument which is not accepted here so here we accept it in the name of self, you can accept it in any name but usually it is done in the name of self that means the object on which this method is running, so I will take the language of that object and the salary of that object and if I run it now employee dot get info, I will comment the above one, so you can see language is javascript, salary is 12 lakh and this exactly the above one does the same just one thing to write there are two ways, I will say syntactic sugar harry dot get info it will be converted automatically in this call now you are understanding why the error was coming that one argument was given, because it was converting in this and we passed the object named harry in get info which we were not accepting here so once we accept the object we can print the language of that object and the salary of that object if here harry dot language is not javascript then obviously the language would be python language is python, salary is 12 lakh as simple as that, very good so we saw how to make methods we make any method we have to give self whether we use it or not this is important if I make a function named greet and if I write this then I have to give self if I don't give self and I directly say here harry dot greet I will show you if I say here harry dot greet then what will happen it will say zero positional arguments but one was given this happened because harry dot greet is converted in employee dot greet harry so it is saying that you gave harry it was not accepting the argument so we have to make it like this, then it will work properly, now see it is doing good morning and it makes sense to put the good morning before get info very good, it is fun things are clear that is important we have seen that classes are blueprint to make objects in classes class attributes are like language and salary and we have seen that language and salary like class attributes we can make instance attributes by putting dot, if I write harry dot language is equal to javascript then it will become an instance attribute which will be the property of object suppose you have written something in your form so if you have written something in your form then other forms will change"
+}

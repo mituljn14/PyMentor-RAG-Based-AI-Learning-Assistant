@@ -1,0 +1,1433 @@
+{
+  "chunks": [
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 0.0,
+      "end": 12.56,
+      "text": " I can do something like this by not printing it here, I can say b.show, I can run b.show, I can run b.showlanguage, I can run b.printlanguages"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 12.56,
+      "end": 19.2,
+      "text": " because the programmer has all his own methods and properties, this is also called property by the way, if you don't know"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 19.2,
+      "end": 24.96,
+      "text": " there are also for employee and coder, because we have made the programmer, inherited it from both employee and coder"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 24.96,
+      "end": 32.24,
+      "text": " so employee and coder are the father of the programmer, means you can call them as father and mother, so they are the parents"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 32.24,
+      "end": 40.64,
+      "text": " and all their properties are in the programmer, very good, let's run it and here it is saying that programmer has no attribute name"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 40.64,
+      "end": 48.48,
+      "text": " now the problem is that there is no attribute name in the programmer because why did I write name in show language"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 48.48,
+      "end": 57.12,
+      "text": " so I should have written company, so I wrote company and language, so company is here in show language and language is also here"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 57.12,
+      "end": 63.92,
+      "text": " why language is here because it is made by the coder, so now I will run it, so here it is saying self.name, where did I write name"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 63.92,
+      "end": 70.96,
+      "text": " so here also I will write language, so here I will do one thing, name of the employee, I will write self.name and here I will write name is equal to"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 71.52,
+      "end": 76.56,
+      "text": " one thing, I will write default name, actually there was no name, so I was showing error, now this program will run"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 76.56,
+      "end": 81.0,
+      "text": " so here I will run it, there is no salary in it, so I have to write company, I don't have to write anything, I have to write name, company, language,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 81.0,
+      "end": 85.44,
+      "text": "language, language is fine"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 85.44,
+      "end": 89.8,
+      "text": " language is here also, now it will run, so you see here name of the employee is default name and salary is ITC input, I will write company, it will"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 89.8,
+      "end": 94.16,
+      "text": "make some sense"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 94.16,
+      "end": 98.64,
+      "text": " I want to write sensible programs so that you can infer those programs later, so you don't have any problem"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 98.72,
+      "end": 106.32,
+      "text": " so I wrote name of the employee, company, then out of all languages here is your language python, here your print languages function ran"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 106.32,
+      "end": 114.16,
+      "text": " then after this your show language function ran, the name is ITC input and he is good with python language, so we can do it like this"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 114.16,
+      "end": 118.44,
+      "text": " and I hope you understood how multiple inheritance works, then there is multi-level inheritance, that you made child from parent and child one to"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 118.44,
+      "end": 122.72,
+      "text": "child two"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 122.8,
+      "end": 132.96,
+      "text": " like you made programmer from employee and programmer from programmer manager, so you made programmer from employee and manager from programmer"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 132.96,
+      "end": 140.72,
+      "text": " a manager who is programmer himself, he is also employee but he is also manager, so you can do like this and syntax will be similar"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 140.72,
+      "end": 153.2,
+      "text": " so I will show you multilevel inheritance syntax, so if I show you here 03 multilevel inheritance.py, so you see here"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 153.2,
+      "end": 168.24,
+      "text": " class is employee and pass, I will just write syntax and after this we have programmer and after this we have manager"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 168.72,
+      "end": 179.44,
+      "text": " and what I can do, I can say programmer came from employee and manager came from programmer, so what I can do here, I can write a is equal to 1"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 179.44,
+      "end": 188.72,
+      "text": " or I can write b is equal to 2 and here I can write c is equal to 3, if I make an object here, I say o is equal to employee"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 189.44,
+      "end": 201.68,
+      "text": " so if I print o.a, it will print and it will become 1, but if I print o.b, it will show you error, it will say b is not in employee"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 201.68,
+      "end": 216.0,
+      "text": " because b is in programmer, but if I make this thing from programmer and I write print o.a and I write print the attribute"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 216.08,
+      "end": 233.84,
+      "text": " and after this shows an error as there is no a, no b, attribute in employee class, now after this what we will do, we will write here"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 233.84,
+      "end": 250.0,
+      "text": " I will write here o is equal to and I will write programmer and I will write print o.a, o.b, I can do this, if I do o.c, it will show an error"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 250.0,
+      "end": 259.36,
+      "text": " so I will write o.a, o.b, now it will say employee object has no attribute b, so I have to comment this because it is showing an error"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 259.36,
+      "end": 272.8,
+      "text": " so you can see here that it is showing 1, 1, 2, now if I make this thing from manager, so I can do o.a, o.b, o.c, because all three are in this"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 272.8,
+      "end": 280.72,
+      "text": " so you can see 1, 1, 2, 1, 2, 3, and you can add methods and make it more advanced, see the use case, explore things by yourself"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 280.72,
+      "end": 288.16,
+      "text": " so this was our three types of inheritance, now we will talk about super method, what is super method, whenever we call a constructor"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 288.16,
+      "end": 298.08,
+      "text": " so I will show you here, if I write def init and I will print constructor of employee and let's do one thing, let's make a new file and keep things"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 298.08,
+      "end": 308.0,
+      "text": "organized"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 308.0,
+      "end": 316.24,
+      "text": " so I will make a super.py and make a copy of it and keep it like this, just checking this program is running because I have to give this code to you"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 316.24,
+      "end": 324.48,
+      "text": "later and you have to learn a lot from it"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 324.48,
+      "end": 333.0,
+      "text": " so you can see here I have made a constructor and I have said that it is constructor of employee, I will copy it and paste it here and here and I"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 333.0,
+      "end": 341.52,
+      "text": "will write programmer and manager here"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 341.52,
+      "end": 351.84,
+      "text": " now you can see when I am making employee object, I will delete this, when I am making employee object, what will run, then constructor of employee"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 351.84,
+      "end": 362.16,
+      "text": "will run, now you can see when I am making programmer object, then what will run, then programmer constructor will run"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 362.32,
+      "end": 370.67,
+      "text": " and when I am making manager object, then what will run, then constructor of manager will run, but sometimes we want that these two constructors"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 370.67,
+      "end": 379.01,
+      "text": "should run along with manager constructor, so what we will do, suppose I want that whenever manager constructor runs, then its parent constructor"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 379.01,
+      "end": 387.36,
+      "text": "should run, that is programmer constructor should run"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 387.36,
+      "end": 394.78,
+      "text": " so for that we will use super and we will write super.init, super means super class, which means whatever function you want to call of programmer"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 394.78,
+      "end": 402.2,
+      "text": "class and because I want to call its constructor, I will write super.init like this and as soon as I write this, you can see here, programmer will"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 402.2,
+      "end": 409.62,
+      "text": "run, constructor and manager will run, both are running, so basically when this constructor will run, then it will run its parent constructor and"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 409.62,
+      "end": 417.04,
+      "text": "after that it will be parent, constructor of manager, I hope that makes sense"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 417.44,
+      "end": 423.44,
+      "text": " great, amazing, its fun, so this is super keyword, nothing else, you just have to access any method or property of super class in derived class, so"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 423.44,
+      "end": 429.44,
+      "text": "you can do it, great, its fun, now you have to understand this concept carefully, concept of class method, concept of property decorators, concept of"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 429.44,
+      "end": 435.44,
+      "text": "getter and setter"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 435.44,
+      "end": 450.4,
+      "text": " class method is basically a method, you have to access class directly in a method, suppose I make an employee here and I say a is equal to 1, then I"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 450.4,
+      "end": 465.36,
+      "text": "say show and then I say print and I put f string and the value of a is"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 465.44,
+      "end": 475.15,
+      "text": " self.a and I will write self, now you see one thing here, that the class value of a, self.a I have done here, so you see if I say e is equal to"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 475.15,
+      "end": 484.85,
+      "text": "employee, understand my words carefully and I say e.a is equal to 45 and after that I say e.show, so you tell me will it show 1 or 45, tell me in the"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 484.85,
+      "end": 494.56,
+      "text": "comment section, I need two way interaction this time, tell me in the comment section, what will it show?"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 494.56,
+      "end": 504.53,
+      "text": " will it show 45 or 1, what will it show? so you see if I run this, it will show 45, because whenever we write self.a, it shows instance attribute, I"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 504.53,
+      "end": 514.51,
+      "text": "want it to show class value because I have written class attribute here, so if I run this, it will obviously show 45, we all know that, but I want"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 514.51,
+      "end": 524.48,
+      "text": "class attribute here, so if you want class attribute, then what you do is put a decorator here,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 524.72,
+      "end": 534.08,
+      "text": " class method and instead of saying self, you write cls here, so whenever you put a decorator of class method, like we have put static method, what"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 534.08,
+      "end": 543.44,
+      "text": "will happen by putting class method decorator, that your cls will be accessed and it will show class attribute directly, it will not show instance"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 543.44,
+      "end": 552.8,
+      "text": "attribute, so you see if you run this, it is showing 1, this is class method, you can use class attribute directly,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 552.88,
+      "end": 562.4,
+      "text": " so your class method uses cls instead of self, means self is the method on which the object is running and cls means the method on which the object"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 562.4,
+      "end": 571.92,
+      "text": "is running, listen again if you don't understand, now I will come to property decorators and getter and setter, property decorators are very simple, I"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 571.92,
+      "end": 581.44,
+      "text": "will write here 06 underscore property decorators dot py,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 581.52,
+      "end": 591.31,
+      "text": " property decorators are, suppose I have a class employee and there is a class method in this class, I want to set name directly, I can say e.name is"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 591.31,
+      "end": 601.09,
+      "text": "equal to harry and I can also do something like this, print e.name and I want to do this, I want to set my property directly, so what can I do, I can"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 601.09,
+      "end": 610.88,
+      "text": "make a method"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 610.96,
+      "end": 620.05,
+      "text": " and I will tell you what is the use case of this, first understand what is syntax, understand what happens by putting property decorator, then I will"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 620.05,
+      "end": 629.15,
+      "text": "tell you why we do this, now we will understand syntax, I wrote here def name and then I will return here self.name and here I did this, so if I do"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 629.15,
+      "end": 638.24,
+      "text": "e.name is equal to harry, then harry will come in the name and suppose I want to keep my instance property in e.name, so I put a property decorator"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 638.32,
+      "end": 645.58,
+      "text": " and after that I can do something like this, I can do name.setter, I will organize this code, by the way you will get the code very well, so you"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 645.58,
+      "end": 652.84,
+      "text": "don't worry, now if I say e.name is equal to harry and print e.name, then you see what will happen here, I will show you what will happen here, now"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 652.84,
+      "end": 660.1,
+      "text": "see here class attribute of a is 1 and I will print it once, I printed e.name, so here harry is printed, now you can see, now you will say that what"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 660.1,
+      "end": 667.36,
+      "text": "was all this, we directly do e.name harry"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 667.52,
+      "end": 677.04,
+      "text": " and here we can print e.name, suppose I write here e.name is equal to harry khan, I wrote here harry khan and what I want to do here, I want to have"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 677.04,
+      "end": 686.56,
+      "text": "two different instance attributes set, one is my instance attribute set which is first name, so I want my first name to be set, so I can say"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 686.56,
+      "end": 696.08,
+      "text": "self.fname is equal to and I can say here value.split and by space"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 696.16,
+      "end": 705.01,
+      "text": " and its zero, now you will say what is this, I know that, and first name and last name, so what we can do, when we run .split function on any string,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 705.01,
+      "end": 713.87,
+      "text": "I want to take you to apple because I want to keep your understanding very good, so suppose I have a string which is harry khan, if I do a.split by"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 713.87,
+      "end": 722.72,
+      "text": "space here, so what it will do, it will make pieces of strings"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 722.88,
+      "end": 729.42,
+      "text": " in a way that, space where it is, it will make a piece and make a list, now you will understand what it will do, so after harry there was a space,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 729.42,
+      "end": 735.96,
+      "text": "which I gave after split, so it made a list by breaking the space after harry, so what I can do, I can say that the zero of that list, that is the"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 735.96,
+      "end": 742.5,
+      "text": "first element, counting starts from zero, zero index element, set it as first name and set it as last name, so first name harry and last name khan, so"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 742.5,
+      "end": 749.04,
+      "text": "I have done the same here"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 749.36,
+      "end": 756.3,
+      "text": " and here I want that people should not know that I am saving first name and last name separately, for some reason, there can be multiple reasons, one"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 756.3,
+      "end": 763.24,
+      "text": "reason can be that to give convenience to the user that he should write his full name, I don't want to write first name and last name separately, I"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 763.24,
+      "end": 770.18,
+      "text": "will convert it, so I have written here e.name is equal to harry.khan, so if I access e.name, which is not an actual property, but I am just showing"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 770.18,
+      "end": 777.12,
+      "text": "it here, I will do self.fname here"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 777.36,
+      "end": 786.29,
+      "text": " and here let's do one thing, let's return an fstring, and I want you to understand, and here self.elname will come and return an fstring, so you see"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 786.29,
+      "end": 795.23,
+      "text": "as soon as I run it, I have set it here, and here you see harry khan is printed, what will happen if I print fname and elname instead of name, if I"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 795.23,
+      "end": 804.16,
+      "text": "print fname and elname, then both will be printed, harry and khan,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 804.24,
+      "end": 813.65,
+      "text": " but name is not an instance attribute, but I have made an instance attribute which I am making by combining existing instance attributes, so I used"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 813.65,
+      "end": 823.07,
+      "text": "two decorators, one property and one setter, so I said that name is a function which will work, in which some logic will work, but make it feel that"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 823.07,
+      "end": 832.48,
+      "text": "it is a property, that is, the user has printed .name and you run this function and keep the return value here,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 832.8,
+      "end": 839.15,
+      "text": " which was doing when I was printing e.name, and when I do e.name is equal to something, then take that value and set first name and last name, that"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 839.15,
+      "end": 845.49,
+      "text": "is, the user should not know how much effort is being done, the user should just write e.name is equal to this, and here what are we doing, we are"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 845.49,
+      "end": 851.84,
+      "text": "doing so much work, this is the concept of abstraction and encapsulation,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 851.84,
+      "end": 860.08,
+      "text": " encapsulation means that you can't see what the implementation details are, implementation details have been encapsulated, and what does abstraction"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 860.08,
+      "end": 868.32,
+      "text": "mean, so abstraction means that we have hidden the implementation details from the user, and encapsulation means that we have packed a lot of working"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 868.32,
+      "end": 876.56,
+      "text": "components in a particular unit, which is class in this case, class employee, so I hope you have understood what a property decorator is,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 876.72,
+      "end": 885.52,
+      "text": " now we will move towards our next concept, which is operator overloading, and after that we will wrap this chapter, so what is operator overloading,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 885.52,
+      "end": 894.32,
+      "text": "I want to tell you, so I will make a file here, and I will name it operatoroverloading.py,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 894.32,
+      "end": 904.29,
+      "text": " so here we will do, suppose we have a class, and that is number, I have made a class in it, a is equal to 1, b is equal to 2, so there is a number,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 904.29,
+      "end": 914.27,
+      "text": "there are two class attributes, one is 1 and the other is 2, what I can do is that I can make a constructor here, instead of giving these numbers, and"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 914.27,
+      "end": 924.24,
+      "text": "I will say that in this, I will put self.n is equal to n, and I will put a comma here and end it,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 924.32,
+      "end": 933.87,
+      "text": " something like this, so we have written def init, and here we have written self,n, and what we will do, we will make n is equal to number 1, and"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 933.87,
+      "end": 943.41,
+      "text": "suppose we will make m number 2, now if I write here print n plus m, I will show you, if I write here print n plus m, then an error will come, and"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 943.41,
+      "end": 952.96,
+      "text": "that error will say that I don't know what is plus, means tell me what is plus,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 953.12,
+      "end": 963.76,
+      "text": " in python everything is class, in python integer is also a class, all types are class, that is why we get class int, class list, class tuple, and if"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 963.76,
+      "end": 974.4,
+      "text": "we want to customize what is happening on any two operands, then we can overload these methods, what is the meaning of this,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 974.4,
+      "end": 984.05,
+      "text": " I will write underscore underscore add function, which is our function add, what we can do, we can write here self and num, and I can say return self"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 984.05,
+      "end": 993.71,
+      "text": "dot n plus num, and this time if I will do n plus m, then I will get this add, it is saying unsupported operand for plus int and number, and I have to"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 993.71,
+      "end": 1003.36,
+      "text": "do num dot n,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1003.36,
+      "end": 1010.6,
+      "text": " and the number which I am passing here is also a number, so self dot n plus num dot n, and if I run this time, then you see 3 has come, so what I can"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1010.6,
+      "end": 1017.84,
+      "text": "do, that this type of operators plus minus star divide, what can be defined on these, add multiply, write these type of functions, like mul name,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1017.84,
+      "end": 1025.08,
+      "text": "multiply name function, subtract is used, true div is used, what will it divide, floor div, when we will do floor division, what will happen in that,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1025.08,
+      "end": 1032.32,
+      "text": "this is used,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1032.32,
+      "end": 1039.74,
+      "text": " so operators in python can be overloaded using following methods, we also call underscore underscore methods as dunder methods, we also have a method"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1039.74,
+      "end": 1047.16,
+      "text": "underscore underscore string underscore underscore, here this underscore underscore will come, so this starts with underscore underscore, I will fix"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1047.16,
+      "end": 1054.58,
+      "text": "this typo, underscore underscore str underscore underscore, there is a string method which is used to set what gets displayed upon calling a string,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1054.58,
+      "end": 1062.0,
+      "text": "means if I print something, then what will happen, or if I convert an object in str, then what will happen,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1062.0,
+      "end": 1070.4,
+      "text": " I hope you understood this, then underscore underscore len underscore underscore, this defines what will happen if I try to calculate length using"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1070.4,
+      "end": 1078.8,
+      "text": "the len function, so if you run len function on any object, then what will happen, is defined by this underscore underscore len underscore underscore,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1078.8,
+      "end": 1087.2,
+      "text": "I hope that makes sense, and now we will move to chapter 11 practice set, so see you in chapter 11 practice set."
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1092.24,
+      "end": 1101.25,
+      "text": " So guys, it's time to do the practice set of chapter 11, so I will simply make a folder for the practice set of chapter 11, and I will close my"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1101.25,
+      "end": 1110.27,
+      "text": "python folder here, I will open it by pressing shift right click, we will solve the first question, problem 1.py, and the first problem is saying that"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1110.27,
+      "end": 1119.28,
+      "text": "we have to make a class named 2D vector, and after that we have to create a class which represents 3D vector,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1119.36,
+      "end": 1133.24,
+      "text": " so I will make a class 2D vector, and after that I will make a class of 3D vector, so I will use a constructor, and after using the constructor, I"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1133.24,
+      "end": 1147.12,
+      "text": "will write self.i is equal to i, self.j is equal to j,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1147.2,
+      "end": 1161.84,
+      "text": " and after self, I will write i and j, and after that I will make a 3D vector, so I will write 3D vector, i, j and k, and this time I will write k,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1161.84,
+      "end": 1176.48,
+      "text": "and this time I will write j, i, j, and k, and I will set only k, and you will ask why are you setting only k, why not i and j,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1176.56,
+      "end": 1184.53,
+      "text": " and the reason will be that I will use super keyword, I will say super.__init i and j, so what will happen with this, self.i and self.j will be set"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1184.53,
+      "end": 1192.51,
+      "text": "because this function will run, so I am saying that when you will do 3D vector like this, then what should happen, that super.init should be called"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1192.51,
+      "end": 1200.48,
+      "text": "first so that i and j get set, and after that we will set k, I hope that makes sense, okay,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1200.48,
+      "end": 1209.44,
+      "text": " so let's make their objects, so I will make o is equal to 2 dimensional vector, and I will give 1 and 2, and then I will make o2, or I will do one"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1209.44,
+      "end": 1218.4,
+      "text": "thing, I will make it m and n, a and b, b is equal to 3D vector, and I will make it 1, 2, 3, and I will write a show method, so I will write def show"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1218.4,
+      "end": 1227.36,
+      "text": "self,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1227.36,
+      "end": 1241.32,
+      "text": " and I will simply write print the vector is, and I will make an f string, I will write self.ii, after that I will write plus, then I will write j and"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1241.32,
+      "end": 1255.28,
+      "text": "k, so I wrote i, after that I will write j, and after that I will write k, so here write jj, and then write k, okay, great,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1255.28,
+      "end": 1265.04,
+      "text": " so actually there is no need to write k here, because k is not there, so I will do one thing, I will make show method of this and show method of this"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1265.04,
+      "end": 1274.8,
+      "text": "separately, so what we can do, that I did this and I have to remove k from here, okay, so if I run a.show here, and run b.show, so you see here that I"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1274.8,
+      "end": 1284.56,
+      "text": "will run this, so here an error is coming, and it is saying take exactly one argument, and I have made some problem here,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1284.72,
+      "end": 1293.84,
+      "text": " it is saying it takes only one argument, okay, so here the problem I have made is that I have not made 3D vector from 2D vector, I made this mistake,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1293.84,
+      "end": 1302.96,
+      "text": "now I will run this, and you see 1i plus 2j, 1i plus 2j plus 3k, if I make it 5, 2, 3, then it is showing 5, 2, 3, 1i, 2j, and then 5, 2, and 3,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1302.96,
+      "end": 1312.08,
+      "text": "amazing, let's move to the next question, which is"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1312.16,
+      "end": 1319.08,
+      "text": " make a class named pets from animal class, and then further make a dog from pets, okay, so there will be an animal, then pet, then dog, then we have"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1319.08,
+      "end": 1326.0,
+      "text": "to add bark method in dog, so for this I will write 02 underscore problem 2 dot py, and first of all I have to make a class animal, so I will make a"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1326.0,
+      "end": 1332.92,
+      "text": "class named animal, we should always keep the class singular, it is always a good practice that we keep the class singular, so I will write animals"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1332.92,
+      "end": 1339.84,
+      "text": "only, because my problem statement is saying, so I have to make a class named animals,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1340.0,
+      "end": 1346.59,
+      "text": " and after making a class named animals, I have to make a class named pets, so for now I will write pass in this, and then I will make pets, I will"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1346.59,
+      "end": 1353.17,
+      "text": "write pass in this also, then I will make a class, a dog which I will inherit, so I will inherit pets from animals, I have told you that the class"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1353.17,
+      "end": 1359.76,
+      "text": "name should always be singular, but if your problem statement is saying,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1359.76,
+      "end": 1367.04,
+      "text": " then you should keep plural, whatever your problem statement is saying, you should do it, so I have written pass, pass, pass, we know the pass"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1367.04,
+      "end": 1374.32,
+      "text": "keyword, if we want to do something later, if we don't want to do it now, then we use the pass keyword, so you see here pets from class animals, and"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1374.32,
+      "end": 1381.6,
+      "text": "further create a class dog from class pets, okay, dog is singular here, so I have written dog like this, then we have to add a bark method in dog, so"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1381.6,
+      "end": 1388.88,
+      "text": "I will write here def bark, I will write a self,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1389.04,
+      "end": 1397.52,
+      "text": " and I will make a static method, why I will make a static method, I am not making it complicated, I don't want a self here, so I will write here"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1397.52,
+      "end": 1406.0,
+      "text": "bowwow, and this is a static method, I have put a static method decorator, so if I write here d is equal to dog, and I write d.bark, and I run this,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1406.0,
+      "end": 1414.48,
+      "text": "then you see bowwow is coming here,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1414.64,
+      "end": 1421.2,
+      "text": " it was a simple question, we didn't put any implementation details in pets and animals, because our question didn't say, and neither was it so"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1421.2,
+      "end": 1427.76,
+      "text": "necessary, now we have to make a class employee, and add salary and increment properties to it, so let's make a class employee, and let's make a"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1427.76,
+      "end": 1434.32,
+      "text": "salary, and then we will put increment property in it, so what I will do is,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1434.32,
+      "end": 1443.41,
+      "text": " I will write here, class employee, and pass, now what we have to do is, I will make an object of this employee, and I will set its salary, salary is"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1443.41,
+      "end": 1452.51,
+      "text": "equal to, let's say 2,3,4 rupees per day, and add salary and increment properties to it, and I will put an increment property, so there are two ways"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1452.51,
+      "end": 1461.6,
+      "text": "to put increment property,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1461.6,
+      "end": 1468.64,
+      "text": " if I put increment is equal to 1, or let's say I give 80% increment, because it will be too much, let's keep 20%, so I can put something like this,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1468.64,
+      "end": 1475.68,
+      "text": "so if I want to make it as a class property, then I will write it here, but if I want to make it as an instant attribute, then I will write it, I will"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1475.68,
+      "end": 1482.72,
+      "text": "remove it, so I will write it here by dotting e, so it was a simple question, then after this we have to make a salary after increment method with a"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1482.72,
+      "end": 1489.76,
+      "text": "property decorator, with a setter,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1489.92,
+      "end": 1497.89,
+      "text": " which changes the value of increment based on the salary, now this question is interesting, there will be a method named salary after increment, in"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1497.89,
+      "end": 1505.87,
+      "text": "which there will be a property decorator, so I will make a property here, so I will say salary after increment, and I will make it a property, I will"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1505.87,
+      "end": 1513.84,
+      "text": "make it at the rate property, we have already read about property decorators,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1513.84,
+      "end": 1523.81,
+      "text": " that if you write anything by property, then you can return anything, so what I do here, I can return salary plus salary multiplied by increment,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1523.81,
+      "end": 1533.79,
+      "text": "increment divided by 100, understand it like this, and yes I have to write self dot increment, I have to write self dot salary, I will do all that,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1533.79,
+      "end": 1543.76,
+      "text": "there is no tension, so this salary here,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1543.84,
+      "end": 1555.28,
+      "text": " I will write self dot increment, and here also I have to write self, and if I write dot salary after increment, so I will run it, so it is showing me"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1555.28,
+      "end": 1566.72,
+      "text": "salary after increment, very good, now along with this,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1566.72,
+      "end": 1576.43,
+      "text": " we have to put a getter here, if the question is asking, then we will put it, and we have to put a setter here, which changes the value of increment"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1576.43,
+      "end": 1586.13,
+      "text": "based on the salary, so if you say that my salary after increment is 500, then what is the increment, so we have to change the value of increment, so"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1586.13,
+      "end": 1595.84,
+      "text": "I will write here simply at the rate increment dot setter, and I will write here def increment self,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1596.0,
+      "end": 1605.04,
+      "text": " and as I have already told you that you can change any property here, and after that a value will come to you, and what you have is that we have to"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1605.04,
+      "end": 1614.08,
+      "text": "change based on salary, so let me read the question once again, so what we have to do is change the value of increment based on the salary, so this"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1614.08,
+      "end": 1623.12,
+      "text": "value is our salary, now what will be the increment, what will be the increment if our new salary is this much,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1623.2,
+      "end": 1633.48,
+      "text": " so what will be the increment, now what happens is that if I take you to maths, new salary is equal to old salary plus 1 plus increment divided by"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1633.48,
+      "end": 1643.76,
+      "text": "100,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1644.08,
+      "end": 1654.72,
+      "text": " now if I try to get old salary from this formula, so what I will do is new salary divided by old salary minus 1 into 100, now if you do maths, it"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1654.72,
+      "end": 1665.36,
+      "text": "will be equal to increment, and here it will come into 100,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1665.52,
+      "end": 1674.64,
+      "text": " so what will be the increment, so I will take the value of this increment and set the value of this increment, so what I will do is return, I will do"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1674.64,
+      "end": 1683.76,
+      "text": "self dot increment, self dot increment is equal to new salary, which is our salary, and divided by old salary, which is self dot salary, and minus 1,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1683.76,
+      "end": 1692.88,
+      "text": "self dot salary divided by minus 1, I will take this in bracket, and into 100,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1693.04,
+      "end": 1702.88,
+      "text": " so let's see, I have done e dot salary dot increment is 280.8, so e dot salary dot increment is this much, and I will increment this after salary, I"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1702.88,
+      "end": 1712.72,
+      "text": "will increment salary after increment, so if my e dot salary after increment is 280,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1712.72,
+      "end": 1720.72,
+      "text": " so how much increment I have to get, so if I print here, if I print here e dot increment, so you see my increment is 19.65%, if I do 280.8, then it"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1720.72,
+      "end": 1728.72,
+      "text": "will be exact, it will be exact, it is not 19.99, it is 20% increment, so basically I have solved this question, I would like to explain you one more"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1728.72,
+      "end": 1736.72,
+      "text": "time, I have put a property decorator,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1736.72,
+      "end": 1743.88,
+      "text": " that first of all I have made a property named salary after increment, so that I can directly dot it and get it from here, so what will it print, it"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1743.88,
+      "end": 1751.04,
+      "text": "will print salary after increment, this is my salary after increment, then if I give it salary after increment, then it will change the increment,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1751.04,
+      "end": 1758.2,
+      "text": "which I showed you, e dot salary after increment is equal to this, then after that we have printed e dot increment, because it has changed the"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1758.2,
+      "end": 1765.36,
+      "text": "increment property, I hope that makes sense, and now we will come to the next question,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1765.52,
+      "end": 1775.01,
+      "text": " which is, write a class complex to represent complex numbers along with overloaded operators plus and star, which adds and multiplies them, so let's"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1775.01,
+      "end": 1784.51,
+      "text": "do it, so what I will do here, I will do 04 underscore problem 4 dot py, and here I will make a class complex, and here I will make a constructor, now"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1784.51,
+      "end": 1794.0,
+      "text": "you must be thinking why I am removing none, I will tell you about these types in a while,"
+    },
+    {
+      "number": "16",
+      "title": "part16",
+      "start": 1794.0,
+      "end": 1800.08,
+      "text": " so I am removing them, and these are optional, just so that you know, I will tell you what it means in the coming chapters,"
+    }
+  ],
+  "text": " I can do something like this by not printing it here, I can say b.show, I can run b.show, I can run b.showlanguage, I can run b.printlanguages because the programmer has all his own methods and properties, this is also called property by the way, if you don't know there are also for employee and coder, because we have made the programmer, inherited it from both employee and coder so employee and coder are the father of the programmer, means you can call them as father and mother, so they are the parents and all their properties are in the programmer, very good, let's run it and here it is saying that programmer has no attribute name now the problem is that there is no attribute name in the programmer because why did I write name in show language so I should have written company, so I wrote company and language, so company is here in show language and language is also here why language is here because it is made by the coder, so now I will run it, so here it is saying self.name, where did I write name so here also I will write language, so here I will do one thing, name of the employee, I will write self.name and here I will write name is equal to one thing, I will write default name, actually there was no name, so I was showing error, now this program will run so here I will run it, there is no salary in it, so I have to write company, I don't have to write anything, I have to write name, company, language, language, language is fine language is here also, now it will run, so you see here name of the employee is default name and salary is ITC input, I will write company, it will make some sense I want to write sensible programs so that you can infer those programs later, so you don't have any problem so I wrote name of the employee, company, then out of all languages here is your language python, here your print languages function ran then after this your show language function ran, the name is ITC input and he is good with python language, so we can do it like this and I hope you understood how multiple inheritance works, then there is multi-level inheritance, that you made child from parent and child one to child two like you made programmer from employee and programmer from programmer manager, so you made programmer from employee and manager from programmer a manager who is programmer himself, he is also employee but he is also manager, so you can do like this and syntax will be similar so I will show you multilevel inheritance syntax, so if I show you here 03 multilevel inheritance.py, so you see here class is employee and pass, I will just write syntax and after this we have programmer and after this we have manager and what I can do, I can say programmer came from employee and manager came from programmer, so what I can do here, I can write a is equal to 1 or I can write b is equal to 2 and here I can write c is equal to 3, if I make an object here, I say o is equal to employee so if I print o.a, it will print and it will become 1, but if I print o.b, it will show you error, it will say b is not in employee because b is in programmer, but if I make this thing from programmer and I write print o.a and I write print the attribute and after this shows an error as there is no a, no b, attribute in employee class, now after this what we will do, we will write here I will write here o is equal to and I will write programmer and I will write print o.a, o.b, I can do this, if I do o.c, it will show an error so I will write o.a, o.b, now it will say employee object has no attribute b, so I have to comment this because it is showing an error so you can see here that it is showing 1, 1, 2, now if I make this thing from manager, so I can do o.a, o.b, o.c, because all three are in this so you can see 1, 1, 2, 1, 2, 3, and you can add methods and make it more advanced, see the use case, explore things by yourself so this was our three types of inheritance, now we will talk about super method, what is super method, whenever we call a constructor so I will show you here, if I write def init and I will print constructor of employee and let's do one thing, let's make a new file and keep things organized so I will make a super.py and make a copy of it and keep it like this, just checking this program is running because I have to give this code to you later and you have to learn a lot from it so you can see here I have made a constructor and I have said that it is constructor of employee, I will copy it and paste it here and here and I will write programmer and manager here now you can see when I am making employee object, I will delete this, when I am making employee object, what will run, then constructor of employee will run, now you can see when I am making programmer object, then what will run, then programmer constructor will run and when I am making manager object, then what will run, then constructor of manager will run, but sometimes we want that these two constructors should run along with manager constructor, so what we will do, suppose I want that whenever manager constructor runs, then its parent constructor should run, that is programmer constructor should run so for that we will use super and we will write super.init, super means super class, which means whatever function you want to call of programmer class and because I want to call its constructor, I will write super.init like this and as soon as I write this, you can see here, programmer will run, constructor and manager will run, both are running, so basically when this constructor will run, then it will run its parent constructor and after that it will be parent, constructor of manager, I hope that makes sense great, amazing, its fun, so this is super keyword, nothing else, you just have to access any method or property of super class in derived class, so you can do it, great, its fun, now you have to understand this concept carefully, concept of class method, concept of property decorators, concept of getter and setter class method is basically a method, you have to access class directly in a method, suppose I make an employee here and I say a is equal to 1, then I say show and then I say print and I put f string and the value of a is self.a and I will write self, now you see one thing here, that the class value of a, self.a I have done here, so you see if I say e is equal to employee, understand my words carefully and I say e.a is equal to 45 and after that I say e.show, so you tell me will it show 1 or 45, tell me in the comment section, I need two way interaction this time, tell me in the comment section, what will it show? will it show 45 or 1, what will it show? so you see if I run this, it will show 45, because whenever we write self.a, it shows instance attribute, I want it to show class value because I have written class attribute here, so if I run this, it will obviously show 45, we all know that, but I want class attribute here, so if you want class attribute, then what you do is put a decorator here, class method and instead of saying self, you write cls here, so whenever you put a decorator of class method, like we have put static method, what will happen by putting class method decorator, that your cls will be accessed and it will show class attribute directly, it will not show instance attribute, so you see if you run this, it is showing 1, this is class method, you can use class attribute directly, so your class method uses cls instead of self, means self is the method on which the object is running and cls means the method on which the object is running, listen again if you don't understand, now I will come to property decorators and getter and setter, property decorators are very simple, I will write here 06 underscore property decorators dot py, property decorators are, suppose I have a class employee and there is a class method in this class, I want to set name directly, I can say e.name is equal to harry and I can also do something like this, print e.name and I want to do this, I want to set my property directly, so what can I do, I can make a method and I will tell you what is the use case of this, first understand what is syntax, understand what happens by putting property decorator, then I will tell you why we do this, now we will understand syntax, I wrote here def name and then I will return here self.name and here I did this, so if I do e.name is equal to harry, then harry will come in the name and suppose I want to keep my instance property in e.name, so I put a property decorator and after that I can do something like this, I can do name.setter, I will organize this code, by the way you will get the code very well, so you don't worry, now if I say e.name is equal to harry and print e.name, then you see what will happen here, I will show you what will happen here, now see here class attribute of a is 1 and I will print it once, I printed e.name, so here harry is printed, now you can see, now you will say that what was all this, we directly do e.name harry and here we can print e.name, suppose I write here e.name is equal to harry khan, I wrote here harry khan and what I want to do here, I want to have two different instance attributes set, one is my instance attribute set which is first name, so I want my first name to be set, so I can say self.fname is equal to and I can say here value.split and by space and its zero, now you will say what is this, I know that, and first name and last name, so what we can do, when we run .split function on any string, I want to take you to apple because I want to keep your understanding very good, so suppose I have a string which is harry khan, if I do a.split by space here, so what it will do, it will make pieces of strings in a way that, space where it is, it will make a piece and make a list, now you will understand what it will do, so after harry there was a space, which I gave after split, so it made a list by breaking the space after harry, so what I can do, I can say that the zero of that list, that is the first element, counting starts from zero, zero index element, set it as first name and set it as last name, so first name harry and last name khan, so I have done the same here and here I want that people should not know that I am saving first name and last name separately, for some reason, there can be multiple reasons, one reason can be that to give convenience to the user that he should write his full name, I don't want to write first name and last name separately, I will convert it, so I have written here e.name is equal to harry.khan, so if I access e.name, which is not an actual property, but I am just showing it here, I will do self.fname here and here let's do one thing, let's return an fstring, and I want you to understand, and here self.elname will come and return an fstring, so you see as soon as I run it, I have set it here, and here you see harry khan is printed, what will happen if I print fname and elname instead of name, if I print fname and elname, then both will be printed, harry and khan, but name is not an instance attribute, but I have made an instance attribute which I am making by combining existing instance attributes, so I used two decorators, one property and one setter, so I said that name is a function which will work, in which some logic will work, but make it feel that it is a property, that is, the user has printed .name and you run this function and keep the return value here, which was doing when I was printing e.name, and when I do e.name is equal to something, then take that value and set first name and last name, that is, the user should not know how much effort is being done, the user should just write e.name is equal to this, and here what are we doing, we are doing so much work, this is the concept of abstraction and encapsulation, encapsulation means that you can't see what the implementation details are, implementation details have been encapsulated, and what does abstraction mean, so abstraction means that we have hidden the implementation details from the user, and encapsulation means that we have packed a lot of working components in a particular unit, which is class in this case, class employee, so I hope you have understood what a property decorator is, now we will move towards our next concept, which is operator overloading, and after that we will wrap this chapter, so what is operator overloading, I want to tell you, so I will make a file here, and I will name it operatoroverloading.py, so here we will do, suppose we have a class, and that is number, I have made a class in it, a is equal to 1, b is equal to 2, so there is a number, there are two class attributes, one is 1 and the other is 2, what I can do is that I can make a constructor here, instead of giving these numbers, and I will say that in this, I will put self.n is equal to n, and I will put a comma here and end it, something like this, so we have written def init, and here we have written self,n, and what we will do, we will make n is equal to number 1, and suppose we will make m number 2, now if I write here print n plus m, I will show you, if I write here print n plus m, then an error will come, and that error will say that I don't know what is plus, means tell me what is plus, in python everything is class, in python integer is also a class, all types are class, that is why we get class int, class list, class tuple, and if we want to customize what is happening on any two operands, then we can overload these methods, what is the meaning of this, I will write underscore underscore add function, which is our function add, what we can do, we can write here self and num, and I can say return self dot n plus num, and this time if I will do n plus m, then I will get this add, it is saying unsupported operand for plus int and number, and I have to do num dot n, and the number which I am passing here is also a number, so self dot n plus num dot n, and if I run this time, then you see 3 has come, so what I can do, that this type of operators plus minus star divide, what can be defined on these, add multiply, write these type of functions, like mul name, multiply name function, subtract is used, true div is used, what will it divide, floor div, when we will do floor division, what will happen in that, this is used, so operators in python can be overloaded using following methods, we also call underscore underscore methods as dunder methods, we also have a method underscore underscore string underscore underscore, here this underscore underscore will come, so this starts with underscore underscore, I will fix this typo, underscore underscore str underscore underscore, there is a string method which is used to set what gets displayed upon calling a string, means if I print something, then what will happen, or if I convert an object in str, then what will happen, I hope you understood this, then underscore underscore len underscore underscore, this defines what will happen if I try to calculate length using the len function, so if you run len function on any object, then what will happen, is defined by this underscore underscore len underscore underscore, I hope that makes sense, and now we will move to chapter 11 practice set, so see you in chapter 11 practice set. So guys, it's time to do the practice set of chapter 11, so I will simply make a folder for the practice set of chapter 11, and I will close my python folder here, I will open it by pressing shift right click, we will solve the first question, problem 1.py, and the first problem is saying that we have to make a class named 2D vector, and after that we have to create a class which represents 3D vector, so I will make a class 2D vector, and after that I will make a class of 3D vector, so I will use a constructor, and after using the constructor, I will write self.i is equal to i, self.j is equal to j, and after self, I will write i and j, and after that I will make a 3D vector, so I will write 3D vector, i, j and k, and this time I will write k, and this time I will write j, i, j, and k, and I will set only k, and you will ask why are you setting only k, why not i and j, and the reason will be that I will use super keyword, I will say super.__init i and j, so what will happen with this, self.i and self.j will be set because this function will run, so I am saying that when you will do 3D vector like this, then what should happen, that super.init should be called first so that i and j get set, and after that we will set k, I hope that makes sense, okay, so let's make their objects, so I will make o is equal to 2 dimensional vector, and I will give 1 and 2, and then I will make o2, or I will do one thing, I will make it m and n, a and b, b is equal to 3D vector, and I will make it 1, 2, 3, and I will write a show method, so I will write def show self, and I will simply write print the vector is, and I will make an f string, I will write self.ii, after that I will write plus, then I will write j and k, so I wrote i, after that I will write j, and after that I will write k, so here write jj, and then write k, okay, great, so actually there is no need to write k here, because k is not there, so I will do one thing, I will make show method of this and show method of this separately, so what we can do, that I did this and I have to remove k from here, okay, so if I run a.show here, and run b.show, so you see here that I will run this, so here an error is coming, and it is saying take exactly one argument, and I have made some problem here, it is saying it takes only one argument, okay, so here the problem I have made is that I have not made 3D vector from 2D vector, I made this mistake, now I will run this, and you see 1i plus 2j, 1i plus 2j plus 3k, if I make it 5, 2, 3, then it is showing 5, 2, 3, 1i, 2j, and then 5, 2, and 3, amazing, let's move to the next question, which is make a class named pets from animal class, and then further make a dog from pets, okay, so there will be an animal, then pet, then dog, then we have to add bark method in dog, so for this I will write 02 underscore problem 2 dot py, and first of all I have to make a class animal, so I will make a class named animal, we should always keep the class singular, it is always a good practice that we keep the class singular, so I will write animals only, because my problem statement is saying, so I have to make a class named animals, and after making a class named animals, I have to make a class named pets, so for now I will write pass in this, and then I will make pets, I will write pass in this also, then I will make a class, a dog which I will inherit, so I will inherit pets from animals, I have told you that the class name should always be singular, but if your problem statement is saying, then you should keep plural, whatever your problem statement is saying, you should do it, so I have written pass, pass, pass, we know the pass keyword, if we want to do something later, if we don't want to do it now, then we use the pass keyword, so you see here pets from class animals, and further create a class dog from class pets, okay, dog is singular here, so I have written dog like this, then we have to add a bark method in dog, so I will write here def bark, I will write a self, and I will make a static method, why I will make a static method, I am not making it complicated, I don't want a self here, so I will write here bowwow, and this is a static method, I have put a static method decorator, so if I write here d is equal to dog, and I write d.bark, and I run this, then you see bowwow is coming here, it was a simple question, we didn't put any implementation details in pets and animals, because our question didn't say, and neither was it so necessary, now we have to make a class employee, and add salary and increment properties to it, so let's make a class employee, and let's make a salary, and then we will put increment property in it, so what I will do is, I will write here, class employee, and pass, now what we have to do is, I will make an object of this employee, and I will set its salary, salary is equal to, let's say 2,3,4 rupees per day, and add salary and increment properties to it, and I will put an increment property, so there are two ways to put increment property, if I put increment is equal to 1, or let's say I give 80% increment, because it will be too much, let's keep 20%, so I can put something like this, so if I want to make it as a class property, then I will write it here, but if I want to make it as an instant attribute, then I will write it, I will remove it, so I will write it here by dotting e, so it was a simple question, then after this we have to make a salary after increment method with a property decorator, with a setter, which changes the value of increment based on the salary, now this question is interesting, there will be a method named salary after increment, in which there will be a property decorator, so I will make a property here, so I will say salary after increment, and I will make it a property, I will make it at the rate property, we have already read about property decorators, that if you write anything by property, then you can return anything, so what I do here, I can return salary plus salary multiplied by increment, increment divided by 100, understand it like this, and yes I have to write self dot increment, I have to write self dot salary, I will do all that, there is no tension, so this salary here, I will write self dot increment, and here also I have to write self, and if I write dot salary after increment, so I will run it, so it is showing me salary after increment, very good, now along with this, we have to put a getter here, if the question is asking, then we will put it, and we have to put a setter here, which changes the value of increment based on the salary, so if you say that my salary after increment is 500, then what is the increment, so we have to change the value of increment, so I will write here simply at the rate increment dot setter, and I will write here def increment self, and as I have already told you that you can change any property here, and after that a value will come to you, and what you have is that we have to change based on salary, so let me read the question once again, so what we have to do is change the value of increment based on the salary, so this value is our salary, now what will be the increment, what will be the increment if our new salary is this much, so what will be the increment, now what happens is that if I take you to maths, new salary is equal to old salary plus 1 plus increment divided by 100, now if I try to get old salary from this formula, so what I will do is new salary divided by old salary minus 1 into 100, now if you do maths, it will be equal to increment, and here it will come into 100, so what will be the increment, so I will take the value of this increment and set the value of this increment, so what I will do is return, I will do self dot increment, self dot increment is equal to new salary, which is our salary, and divided by old salary, which is self dot salary, and minus 1, self dot salary divided by minus 1, I will take this in bracket, and into 100, so let's see, I have done e dot salary dot increment is 280.8, so e dot salary dot increment is this much, and I will increment this after salary, I will increment salary after increment, so if my e dot salary after increment is 280, so how much increment I have to get, so if I print here, if I print here e dot increment, so you see my increment is 19.65%, if I do 280.8, then it will be exact, it will be exact, it is not 19.99, it is 20% increment, so basically I have solved this question, I would like to explain you one more time, I have put a property decorator, that first of all I have made a property named salary after increment, so that I can directly dot it and get it from here, so what will it print, it will print salary after increment, this is my salary after increment, then if I give it salary after increment, then it will change the increment, which I showed you, e dot salary after increment is equal to this, then after that we have printed e dot increment, because it has changed the increment property, I hope that makes sense, and now we will come to the next question, which is, write a class complex to represent complex numbers along with overloaded operators plus and star, which adds and multiplies them, so let's do it, so what I will do here, I will do 04 underscore problem 4 dot py, and here I will make a class complex, and here I will make a constructor, now you must be thinking why I am removing none, I will tell you about these types in a while, so I am removing them, and these are optional, just so that you know, I will tell you what it means in the coming chapters,"
+}

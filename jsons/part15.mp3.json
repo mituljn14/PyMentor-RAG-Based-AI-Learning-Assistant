@@ -1,0 +1,6053 @@
+{
+  "chunks": [
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 0.0,
+      "end": 5.0,
+      "text": " so class attribute is that which is for every class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 5.0,
+      "end": 8.0,
+      "text": " means whatever object will be made from that class is for that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 8.0,
+      "end": 12.0,
+      "text": " but instance attribute is that which is property of a particular object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 12.0,
+      "end": 17.0,
+      "text": " means you have written something in form of pen and it will not affect other forms"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 17.0,
+      "end": 19.0,
+      "text": " because you have written in your form with pen"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 19.0,
+      "end": 22.0,
+      "text": " you understood, you have come, you understood"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 22.0,
+      "end": 24.0,
+      "text": " let's move ahead, let's take things ahead"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 24.0,
+      "end": 26.0,
+      "text": " we saw self, self means instance of the class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 26.0,
+      "end": 29.0,
+      "text": " it is automatically passed with a function call from an object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 29.0,
+      "end": 32.0,
+      "text": " now see I have written self here, self is a convention"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 32.0,
+      "end": 36.0,
+      "text": " self name is used, if you will make it as slf then no problem"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 36.0,
+      "end": 42.0,
+      "text": " if you will write its name as kk, pp, rr, cr then nothing will happen"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 42.0,
+      "end": 46.0,
+      "text": " just that if you have written cr here then you will do cr.language"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 46.0,
+      "end": 50.0,
+      "text": " but self.language is a bit descriptive that's why we use self"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 50.0,
+      "end": 52.0,
+      "text": " I hope that makes sense"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 52.0,
+      "end": 54.0,
+      "text": " now let's talk about static method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 54.0,
+      "end": 60.0,
+      "text": " now we saw here that there was a function greet"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 60.0,
+      "end": 63.0,
+      "text": " which was doing nothing, just good morning"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 63.0,
+      "end": 65.0,
+      "text": " but I have passed the whole object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 65.0,
+      "end": 69.0,
+      "text": " you will say that object had to be passed because there was an error"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 69.0,
+      "end": 72.0,
+      "text": " that positional argument, what can we do?"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 72.0,
+      "end": 77.0,
+      "text": " we can do, if I want that I don't give self here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 77.0,
+      "end": 79.0,
+      "text": " means I don't pass such a big object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 79.0,
+      "end": 82.0,
+      "text": " then I have to tell that it doesn't take self"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 82.0,
+      "end": 85.0,
+      "text": " means in this function object doesn't work"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 85.0,
+      "end": 90.0,
+      "text": " I don't want language, salary, nothing from object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 90.0,
+      "end": 95.0,
+      "text": " so I will mark greet as static method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 95.0,
+      "end": 97.0,
+      "text": " by putting at the rate"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 97.0,
+      "end": 99.0,
+      "text": " it means that greet is a static method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 99.0,
+      "end": 102.0,
+      "text": " and it doesn't need an object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 102.0,
+      "end": 105.0,
+      "text": " and static method is a decorator"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 105.0,
+      "end": 107.0,
+      "text": " we will talk about decorator later"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 107.0,
+      "end": 111.0,
+      "text": " but for now you understand that we have written static method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 111.0,
+      "end": 113.0,
+      "text": " by which we have marked it as a function"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 113.0,
+      "end": 115.0,
+      "text": " which doesn't take self"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 115.0,
+      "end": 119.0,
+      "text": " means we don't need any property of object in it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 119.0,
+      "end": 122.0,
+      "text": " so static method, we saw what happens"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 122.0,
+      "end": 124.0,
+      "text": " now let's talk about init constructor"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 124.0,
+      "end": 128.0,
+      "text": " init is a special method which is first run as soon as the object is created"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 128.0,
+      "end": 130.0,
+      "text": " init is also called constructor"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 130.0,
+      "end": 134.0,
+      "text": " it takes a self argument and can take other arguments"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 134.0,
+      "end": 136.0,
+      "text": " which you want"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 136.0,
+      "end": 138.0,
+      "text": " so we understand constructor well"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 138.0,
+      "end": 140.0,
+      "text": " and then we will wrap this chapter"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 140.0,
+      "end": 142.0,
+      "text": " I will take a lot of time to explain you in constructor"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 142.0,
+      "end": 145.0,
+      "text": " because it is very important"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 145.0,
+      "end": 147.0,
+      "text": " now see the class we have made till now"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 147.0,
+      "end": 149.0,
+      "text": " we have made class named employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 149.0,
+      "end": 152.0,
+      "text": " we said ok, we will make it as Harry is equal to employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 152.0,
+      "end": 155.0,
+      "text": " then we printed Harry.name"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 155.0,
+      "end": 157.0,
+      "text": " Harry.salary"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 157.0,
+      "end": 159.0,
+      "text": " and there was no name here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 159.0,
+      "end": 161.0,
+      "text": " so let's say I want to set the name"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 161.0,
+      "end": 164.0,
+      "text": " so we were setting Harry.name"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 164.0,
+      "end": 165.0,
+      "text": " like this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 165.0,
+      "end": 169.0,
+      "text": " so I want to set my name in an easier way"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 169.0,
+      "end": 171.0,
+      "text": " what I will do?"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 171.0,
+      "end": 176.0,
+      "text": " instead of giving Harry.name is equal to Harry"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 176.0,
+      "end": 179.0,
+      "text": " I will make a function"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 179.0,
+      "end": 181.0,
+      "text": " and I will name it init"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 181.0,
+      "end": 183.0,
+      "text": " and as soon as I hit enter"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 183.0,
+      "end": 185.0,
+      "text": " it automatically completes the auto"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 185.0,
+      "end": 187.0,
+      "text": " I will write it like this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 187.0,
+      "end": 189.0,
+      "text": " and after writing this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 189.0,
+      "end": 191.0,
+      "text": " I will print"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 191.0,
+      "end": 194.0,
+      "text": " I am creating an object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 194.0,
+      "end": 196.0,
+      "text": " I just wrote I am creating an object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 196.0,
+      "end": 198.0,
+      "text": " so as soon as I run this program"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 198.0,
+      "end": 200.0,
+      "text": " you will see"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 200.0,
+      "end": 202.0,
+      "text": " here there is no Harry.salary"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 202.0,
+      "end": 204.0,
+      "text": " because of which error is coming"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 204.0,
+      "end": 206.0,
+      "text": " so what we will do?"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 206.0,
+      "end": 208.0,
+      "text": " Harry is equal to employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 208.0,
+      "end": 210.0,
+      "text": " I have double y in Harry.salary"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 210.0,
+      "end": 212.0,
+      "text": " now let's run this program"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 212.0,
+      "end": 214.0,
+      "text": " and you see I am creating an object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 214.0,
+      "end": 216.0,
+      "text": " and Harry is coming 12 lakhs"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 216.0,
+      "end": 218.0,
+      "text": " why is Harry 12 lakhs?"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 218.0,
+      "end": 220.0,
+      "text": " because I have printed Harry.name and Harry.salary"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 220.0,
+      "end": 222.0,
+      "text": " ok, this is understandable"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 222.0,
+      "end": 224.0,
+      "text": " but why is this I am creating an object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 224.0,
+      "end": 226.0,
+      "text": " I have just made init"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 226.0,
+      "end": 228.0,
+      "text": " I called get info"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 228.0,
+      "end": 230.0,
+      "text": " but I didn't call init"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 230.0,
+      "end": 232.0,
+      "text": " init is a special method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 232.0,
+      "end": 234.0,
+      "text": " which is called dunder method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 234.0,
+      "end": 236.0,
+      "text": " this method starts with underscore"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 236.0,
+      "end": 238.0,
+      "text": " in python it is called dunder method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 238.0,
+      "end": 240.0,
+      "text": " so I will mark it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 240.0,
+      "end": 242.0,
+      "text": " as a dunder method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 242.0,
+      "end": 244.0,
+      "text": " which is automatically called"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 244.0,
+      "end": 246.0,
+      "text": " dunder method is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 246.0,
+      "end": 248.0,
+      "text": " the method which starts with double underscore"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 248.0,
+      "end": 250.0,
+      "text": " and dunder method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 250.0,
+      "end": 252.0,
+      "text": " will be called automatically"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 252.0,
+      "end": 254.0,
+      "text": " as soon as an object is created"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 254.0,
+      "end": 256.0,
+      "text": " you write h is equal to employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 256.0,
+      "end": 258.0,
+      "text": " dunder method will be called"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 258.0,
+      "end": 260.0,
+      "text": " if you write Rohan is equal to employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 260.0,
+      "end": 262.0,
+      "text": " dunder method will be called"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 262.0,
+      "end": 264.0,
+      "text": " you will see once again I am creating an object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 264.0,
+      "end": 266.0,
+      "text": " ok, so dunder method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 266.0,
+      "end": 268.0,
+      "text": " which is init will be called"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 268.0,
+      "end": 270.0,
+      "text": " all dunder methods will not be called"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 270.0,
+      "end": 272.0,
+      "text": " init dunder method is called whenever"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 272.0,
+      "end": 274.0,
+      "text": " you create a new object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 274.0,
+      "end": 276.0,
+      "text": " so this init will be called"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 276.0,
+      "end": 278.0,
+      "text": " when you create an object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 278.0,
+      "end": 280.0,
+      "text": " ok, I hope I was able to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 280.0,
+      "end": 282.0,
+      "text": " clear things up"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 282.0,
+      "end": 284.0,
+      "text": " I hope you understood"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 284.0,
+      "end": 286.0,
+      "text": " now what happens is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 286.0,
+      "end": 288.0,
+      "text": " I want to not name it harry"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 288.0,
+      "end": 290.0,
+      "text": " it would have been great if I"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 290.0,
+      "end": 292.0,
+      "text": " had told it that I want the name harry"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 292.0,
+      "end": 294.0,
+      "text": " salary is 13 lakh"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 294.0,
+      "end": 296.0,
+      "text": " and"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 296.0,
+      "end": 298.0,
+      "text": " my favorite language"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 298.0,
+      "end": 300.0,
+      "text": " is javascript, let's say I write this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 300.0,
+      "end": 302.0,
+      "text": " here python is written by default"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 302.0,
+      "end": 304.0,
+      "text": " but I want to do javascript, this is class attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 304.0,
+      "end": 306.0,
+      "text": " I want to set instance attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 306.0,
+      "end": 308.0,
+      "text": " which is javascript"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 308.0,
+      "end": 310.0,
+      "text": " I can take any argument"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 310.0,
+      "end": 312.0,
+      "text": " you can see I can do this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 312.0,
+      "end": 314.0,
+      "text": " I can say name salary"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 314.0,
+      "end": 316.0,
+      "text": " language"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 316.0,
+      "end": 318.0,
+      "text": " and I can say"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 318.0,
+      "end": 320.0,
+      "text": " self dot"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 320.0,
+      "end": 322.0,
+      "text": " name is equal to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 322.0,
+      "end": 324.0,
+      "text": " and I will write name"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 324.0,
+      "end": 326.0,
+      "text": " then I will write self dot salary"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 326.0,
+      "end": 328.0,
+      "text": " is equal to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 328.0,
+      "end": 330.0,
+      "text": " salary, then I will write"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 330.0,
+      "end": 332.0,
+      "text": " self dot language is equal to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 332.0,
+      "end": 334.0,
+      "text": " language, ok"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 334.0,
+      "end": 336.0,
+      "text": " so I wrote name, I wrote salary"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 336.0,
+      "end": 338.0,
+      "text": " I wrote language"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 338.0,
+      "end": 340.0,
+      "text": " these three instance attributes"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 340.0,
+      "end": 342.0,
+      "text": " will be set, so if I pass here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 342.0,
+      "end": 344.0,
+      "text": " harry 13 lakh"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 344.0,
+      "end": 346.0,
+      "text": " and javascript, then what will happen"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 346.0,
+      "end": 348.0,
+      "text": " harry dot name will be set"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 348.0,
+      "end": 350.0,
+      "text": " whatever I have passed"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 350.0,
+      "end": 352.0,
+      "text": " harry dot salary will be saved"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 352.0,
+      "end": 354.0,
+      "text": " means instance attribute will come"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 354.0,
+      "end": 356.0,
+      "text": " of salary name, whatever I have passed"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 356.0,
+      "end": 358.0,
+      "text": " harry dot language will come"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 358.0,
+      "end": 360.0,
+      "text": " whatever I have passed, now I have passed language"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 360.0,
+      "end": 362.0,
+      "text": " so language will come, whatever I have passed"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 362.0,
+      "end": 364.0,
+      "text": " javascript will come in language"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 364.0,
+      "end": 366.0,
+      "text": " I have passed 13 lakh"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 366.0,
+      "end": 368.0,
+      "text": " in salary, it will come here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 368.0,
+      "end": 370.0,
+      "text": " I have passed harry"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 370.0,
+      "end": 372.0,
+      "text": " so in name it will come here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 372.0,
+      "end": 374.0,
+      "text": " it is clear, we can understand"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 374.0,
+      "end": 376.0,
+      "text": " things easily"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 376.0,
+      "end": 378.0,
+      "text": " so I will run it and show you"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 378.0,
+      "end": 380.0,
+      "text": " I wrote rohan is equal to employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 380.0,
+      "end": 382.0,
+      "text": " because we have to pass three things"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 382.0,
+      "end": 384.0,
+      "text": " so I will comment it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 384.0,
+      "end": 386.0,
+      "text": " and run it again so that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 386.0,
+      "end": 388.0,
+      "text": " it runs without error, so once you"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 388.0,
+      "end": 390.0,
+      "text": " have done this, you have made init function"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 390.0,
+      "end": 392.0,
+      "text": " then you have to pass these three values"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 392.0,
+      "end": 394.0,
+      "text": " whenever you will make an object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 394.0,
+      "end": 396.0,
+      "text": " so you have run it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 396.0,
+      "end": 398.0,
+      "text": " so you can see I am creating an object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 398.0,
+      "end": 400.0,
+      "text": " which I was printing and"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 400.0,
+      "end": 402.0,
+      "text": " harry and 13 lakh came, 12 lakh"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 402.0,
+      "end": 404.0,
+      "text": " didn't come, if I"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 404.0,
+      "end": 406.0,
+      "text": " print harry dot"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 406.0,
+      "end": 408.0,
+      "text": " language, then you can see harry"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 408.0,
+      "end": 410.0,
+      "text": " will come, 13 lakh will come and after that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 410.0,
+      "end": 412.0,
+      "text": " language will come, javascript"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 412.0,
+      "end": 414.0,
+      "text": " so here harry came"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 414.0,
+      "end": 416.0,
+      "text": " here 13 lakh came and here javascript"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 416.0,
+      "end": 418.0,
+      "text": " came, so these three"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 418.0,
+      "end": 420.0,
+      "text": " came here, harry came"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 420.0,
+      "end": 422.0,
+      "text": " 13 lakh came and javascript"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 422.0,
+      "end": 424.0,
+      "text": " came, I hope that makes sense"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 424.0,
+      "end": 426.0,
+      "text": " so yeah that was"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 426.0,
+      "end": 428.0,
+      "text": " about constructors in python, now we"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 428.0,
+      "end": 430.0,
+      "text": " are going to see practice set of this chapter"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 430.0,
+      "end": 432.0,
+      "text": " and I will see you there"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 436.0,
+      "end": 438.0,
+      "text": " chapter 10 practice set's first"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 438.0,
+      "end": 440.0,
+      "text": " question says, create a class programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 440.0,
+      "end": 442.0,
+      "text": " for storing information of few"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 442.0,
+      "end": 444.0,
+      "text": " programmers working at microsoft"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 444.0,
+      "end": 446.0,
+      "text": " so you have to make a class named programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 446.0,
+      "end": 448.0,
+      "text": " and after that you have to store"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 448.0,
+      "end": 450.0,
+      "text": " information of programmers"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 450.0,
+      "end": 452.0,
+      "text": " working for microsoft"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 452.0,
+      "end": 454.0,
+      "text": " so I am making a folder"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 454.0,
+      "end": 456.0,
+      "text": " named chapter 10 ps"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 456.0,
+      "end": 458.0,
+      "text": " in this we will right click and open with code"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 458.0,
+      "end": 460.0,
+      "text": " and after that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 460.0,
+      "end": 462.0,
+      "text": " we will make a file"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 462.0,
+      "end": 464.0,
+      "text": " 01 underscore"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 464.0,
+      "end": 466.0,
+      "text": " problem1.py"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 466.0,
+      "end": 468.0,
+      "text": " and after that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 468.0,
+      "end": 470.0,
+      "text": " we will make a class programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 470.0,
+      "end": 472.0,
+      "text": " class programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 472.0,
+      "end": 474.0,
+      "text": " and we have to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 474.0,
+      "end": 476.0,
+      "text": " store information of"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 476.0,
+      "end": 478.0,
+      "text": " programmers working at microsoft"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 478.0,
+      "end": 480.0,
+      "text": " so how will I do this problem"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 480.0,
+      "end": 482.0,
+      "text": " I will first"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 482.0,
+      "end": 484.0,
+      "text": " write company is equal to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 484.0,
+      "end": 486.0,
+      "text": " microsoft which will be a class attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 486.0,
+      "end": 488.0,
+      "text": " because every programmer works here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 488.0,
+      "end": 490.0,
+      "text": " in microsoft and because"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 490.0,
+      "end": 492.0,
+      "text": " every programmer is working in microsoft"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 492.0,
+      "end": 494.0,
+      "text": " made from this particular class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 494.0,
+      "end": 496.0,
+      "text": " so I will make it a class attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 496.0,
+      "end": 498.0,
+      "text": " after that I will put a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 498.0,
+      "end": 500.0,
+      "text": " constructor and I will say def init"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 500.0,
+      "end": 502.0,
+      "text": " after putting def init what I will do"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 502.0,
+      "end": 504.0,
+      "text": " that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 504.0,
+      "end": 506.0,
+      "text": " in this their name"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 506.0,
+      "end": 508.0,
+      "text": " name"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 508.0,
+      "end": 510.0,
+      "text": " salary"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 510.0,
+      "end": 512.0,
+      "text": " and pin code"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 512.0,
+      "end": 514.0,
+      "text": " means where they live their pin code"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 514.0,
+      "end": 516.0,
+      "text": " I will store these three things"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 516.0,
+      "end": 518.0,
+      "text": " so I will write here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 518.0,
+      "end": 520.0,
+      "text": " self.name is equal to name"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 520.0,
+      "end": 522.0,
+      "text": " and after that self.salary"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 522.0,
+      "end": 524.0,
+      "text": " is equal to salary"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 524.0,
+      "end": 526.0,
+      "text": " and after that self.pin"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 526.0,
+      "end": 528.0,
+      "text": " is equal to pin"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 528.0,
+      "end": 530.0,
+      "text": " after that I will write"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 530.0,
+      "end": 532.0,
+      "text": " p is equal to programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 532.0,
+      "end": 534.0,
+      "text": " and I will put"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 534.0,
+      "end": 536.0,
+      "text": " harry and after that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 536.0,
+      "end": 538.0,
+      "text": " I will put"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 538.0,
+      "end": 540.0,
+      "text": " 12 lakhs salary and pin code will be"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 540.0,
+      "end": 542.0,
+      "text": " 245001"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 542.0,
+      "end": 544.0,
+      "text": " 245001"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 544.0,
+      "end": 546.0,
+      "text": " so I have a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 546.0,
+      "end": 548.0,
+      "text": " programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 548.0,
+      "end": 550.0,
+      "text": " if I print here p.name"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 550.0,
+      "end": 552.0,
+      "text": " p.salary, p.pin"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 552.0,
+      "end": 554.0,
+      "text": " and p.company"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 554.0,
+      "end": 556.0,
+      "text": " what will be printed"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 556.0,
+      "end": 558.0,
+      "text": " all information will be printed"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 558.0,
+      "end": 560.0,
+      "text": " company will be there, pin code will be there"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 560.0,
+      "end": 562.0,
+      "text": " here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 562.0,
+      "end": 564.0,
+      "text": " harry will be there"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 564.0,
+      "end": 566.0,
+      "text": " whatever money is coming will be there"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 566.0,
+      "end": 568.0,
+      "text": " after that if I write rohan"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 568.0,
+      "end": 570.0,
+      "text": " and I will write rohan"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 570.0,
+      "end": 572.0,
+      "text": " I will copy this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 572.0,
+      "end": 574.0,
+      "text": " and I will write here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 574.0,
+      "end": 576.0,
+      "text": " r r r"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 576.0,
+      "end": 578.0,
+      "text": " r r"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 578.0,
+      "end": 580.0,
+      "text": " and here rohan"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 580.0,
+      "end": 582.0,
+      "text": " and after that I will run this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 582.0,
+      "end": 584.0,
+      "text": " and you can see rohan 12 lakhs"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 584.0,
+      "end": 586.0,
+      "text": " and microsoft came"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 586.0,
+      "end": 588.0,
+      "text": " so in this way we have made a class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 588.0,
+      "end": 590.0,
+      "text": " we are storing programmers"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 590.0,
+      "end": 592.0,
+      "text": " working at microsoft, after that we have to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 592.0,
+      "end": 594.0,
+      "text": " make a class named calculator"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 594.0,
+      "end": 596.0,
+      "text": " capable of finding square, cube and square root of a number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 596.0,
+      "end": 598.0,
+      "text": " so we will make a class named calculator"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 598.0,
+      "end": 600.0,
+      "text": " so I will close"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 600.0,
+      "end": 602.0,
+      "text": " chapter 10 vscode instance"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 602.0,
+      "end": 604.0,
+      "text": " and here I will make"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 604.0,
+      "end": 606.0,
+      "text": " 02 underscore problem"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 606.0,
+      "end": 608.0,
+      "text": " 2.py"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 608.0,
+      "end": 610.0,
+      "text": " what is problem number 2 saying"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 610.0,
+      "end": 612.0,
+      "text": " problem number 2 is asking us to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 612.0,
+      "end": 614.0,
+      "text": " make a class calculator"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 614.0,
+      "end": 616.0,
+      "text": " and what we have to do in this class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 616.0,
+      "end": 618.0,
+      "text": " that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 618.0,
+      "end": 620.0,
+      "text": " we have to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 620.0,
+      "end": 622.0,
+      "text": " make it such that it is capable"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 622.0,
+      "end": 624.0,
+      "text": " of finding square, cube and square root of a number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 624.0,
+      "end": 626.0,
+      "text": " so what I will do first"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 626.0,
+      "end": 628.0,
+      "text": " I will make a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 628.0,
+      "end": 630.0,
+      "text": " constructor and I"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 630.0,
+      "end": 632.0,
+      "text": " in this constructor whatever number is there"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 632.0,
+      "end": 634.0,
+      "text": " I will store it, so I will say n"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 634.0,
+      "end": 636.0,
+      "text": " whatever number is there, give its value"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 636.0,
+      "end": 638.0,
+      "text": " and I will say"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 638.0,
+      "end": 640.0,
+      "text": " self"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 640.0,
+      "end": 642.0,
+      "text": " dot n is equal to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 642.0,
+      "end": 644.0,
+      "text": " n and after doing this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 644.0,
+      "end": 646.0,
+      "text": " I will"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 646.0,
+      "end": 648.0,
+      "text": " write a is equal to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 648.0,
+      "end": 650.0,
+      "text": " calculator"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 650.0,
+      "end": 652.0,
+      "text": " suppose I make a class calculator"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 652.0,
+      "end": 654.0,
+      "text": " and after this I make n"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 654.0,
+      "end": 656.0,
+      "text": " or I make 45"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 656.0,
+      "end": 658.0,
+      "text": " or we take a small number 4"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 658.0,
+      "end": 660.0,
+      "text": " and after writing 4 what I will do"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 660.0,
+      "end": 662.0,
+      "text": " I will make a function here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 662.0,
+      "end": 664.0,
+      "text": " and I will say def"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 664.0,
+      "end": 666.0,
+      "text": " square"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 666.0,
+      "end": 668.0,
+      "text": " self and I am not"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 668.0,
+      "end": 670.0,
+      "text": " returning it, I am just printing it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 670.0,
+      "end": 672.0,
+      "text": " so I will print"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 672.0,
+      "end": 674.0,
+      "text": " n star n"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 674.0,
+      "end": 676.0,
+      "text": " the square is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 676.0,
+      "end": 678.0,
+      "text": " n star n"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 678.0,
+      "end": 680.0,
+      "text": " so I used this f string"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 680.0,
+      "end": 682.0,
+      "text": " and printed it, the square is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 682.0,
+      "end": 684.0,
+      "text": " n self dot n into self"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 684.0,
+      "end": 686.0,
+      "text": " dot n"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 686.0,
+      "end": 688.0,
+      "text": " and here bn will come"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 688.0,
+      "end": 690.0,
+      "text": " so if I do self dot n then I will get value of n"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 690.0,
+      "end": 692.0,
+      "text": " whatever I gave and after this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 692.0,
+      "end": 694.0,
+      "text": " if I do a dot square"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 694.0,
+      "end": 696.0,
+      "text": " then here square of 4"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 696.0,
+      "end": 698.0,
+      "text": " which is 16 will be printed"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 698.0,
+      "end": 700.0,
+      "text": " the square is 16 and you can do"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 700.0,
+      "end": 702.0,
+      "text": " this with any number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 702.0,
+      "end": 704.0,
+      "text": " here we talked about square cube and square root"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 704.0,
+      "end": 706.0,
+      "text": " so we will make"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 706.0,
+      "end": 708.0,
+      "text": " remaining functions"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 708.0,
+      "end": 710.0,
+      "text": " after square we had cube"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 710.0,
+      "end": 712.0,
+      "text": " and after cube we had square root"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 712.0,
+      "end": 714.0,
+      "text": " in cube we will"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 714.0,
+      "end": 716.0,
+      "text": " write self dot n"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 716.0,
+      "end": 718.0,
+      "text": " this is cube, I will make it cube"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 718.0,
+      "end": 720.0,
+      "text": " and here I will do square root"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 720.0,
+      "end": 722.0,
+      "text": " and"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 722.0,
+      "end": 724.0,
+      "text": " how will I get square root here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 724.0,
+      "end": 726.0,
+      "text": " now you will say how will you get square root"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 726.0,
+      "end": 728.0,
+      "text": " so I will do self dot n"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 728.0,
+      "end": 730.0,
+      "text": " and I will do star star 1 by 2"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 730.0,
+      "end": 732.0,
+      "text": " so square root will be"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 732.0,
+      "end": 734.0,
+      "text": " so I will show you"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 734.0,
+      "end": 736.0,
+      "text": " if I do a dot square then what will happen"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 736.0,
+      "end": 738.0,
+      "text": " and if I do a dot cube then what will happen"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 738.0,
+      "end": 740.0,
+      "text": " and if I do a dot square root then what will happen"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 740.0,
+      "end": 742.0,
+      "text": " square root"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 742.0,
+      "end": 744.0,
+      "text": " and here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 744.0,
+      "end": 746.0,
+      "text": " cube"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 746.0,
+      "end": 748.0,
+      "text": " and if I run this then"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 748.0,
+      "end": 750.0,
+      "text": " see 16, 64 and 2.0"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 750.0,
+      "end": 752.0,
+      "text": " which means"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 752.0,
+      "end": 754.0,
+      "text": " that we have made"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 754.0,
+      "end": 756.0,
+      "text": " calculator which is capable of"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 756.0,
+      "end": 758.0,
+      "text": " squaring, cubing and square rooting"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 758.0,
+      "end": 760.0,
+      "text": " question number 3 is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 760.0,
+      "end": 762.0,
+      "text": " create a class with a class attribute a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 762.0,
+      "end": 764.0,
+      "text": " so we have to make a class with a class attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 764.0,
+      "end": 766.0,
+      "text": " a, create an object from it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 766.0,
+      "end": 768.0,
+      "text": " and set a directly using object dot"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 768.0,
+      "end": 770.0,
+      "text": " a is equal to 0"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 770.0,
+      "end": 772.0,
+      "text": " so does this change the class attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 772.0,
+      "end": 774.0,
+      "text": " so the question is very simple"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 774.0,
+      "end": 776.0,
+      "text": " and what we have discussed already"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 776.0,
+      "end": 778.0,
+      "text": " is the same, so what I will do here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 778.0,
+      "end": 780.0,
+      "text": " problem3.py"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 780.0,
+      "end": 782.0,
+      "text": " and here simply"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 782.0,
+      "end": 784.0,
+      "text": " what is the question"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 784.0,
+      "end": 786.0,
+      "text": " so the question is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 786.0,
+      "end": 788.0,
+      "text": " that we have to make a class with"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 788.0,
+      "end": 790.0,
+      "text": " class attribute a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 790.0,
+      "end": 792.0,
+      "text": " so I will make a class with"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 792.0,
+      "end": 794.0,
+      "text": " class attribute a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 794.0,
+      "end": 796.0,
+      "text": " suppose I name it demo"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 796.0,
+      "end": 798.0,
+      "text": " and I name it a is equal to 4"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 798.0,
+      "end": 800.0,
+      "text": " then I make an object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 800.0,
+      "end": 802.0,
+      "text": " o is equal to and I write"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 802.0,
+      "end": 804.0,
+      "text": " demo something like this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 804.0,
+      "end": 806.0,
+      "text": " then I write it directly"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 806.0,
+      "end": 808.0,
+      "text": " o dot a is equal to 1"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 808.0,
+      "end": 810.0,
+      "text": " what is the question asking"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 810.0,
+      "end": 812.0,
+      "text": " does this change the class attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 812.0,
+      "end": 814.0,
+      "text": " it is a very interesting question"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 814.0,
+      "end": 816.0,
+      "text": " we have to make object dot a is equal to 0"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 816.0,
+      "end": 818.0,
+      "text": " so what I will do here is I will make it equal to 0"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 818.0,
+      "end": 820.0,
+      "text": " now if I"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 820.0,
+      "end": 822.0,
+      "text": " print o dot a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 822.0,
+      "end": 824.0,
+      "text": " and"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 824.0,
+      "end": 826.0,
+      "text": " I print o dot a before this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 826.0,
+      "end": 828.0,
+      "text": " first it will be 4 then it will be 0"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 828.0,
+      "end": 830.0,
+      "text": " this is understandable"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 830.0,
+      "end": 832.0,
+      "text": " but the question has confused you"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 832.0,
+      "end": 834.0,
+      "text": " are you getting my point"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 834.0,
+      "end": 836.0,
+      "text": " the question has confused you"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 836.0,
+      "end": 838.0,
+      "text": " that o dot a is being asked"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 838.0,
+      "end": 840.0,
+      "text": " that it was 4 then it became 0"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 840.0,
+      "end": 842.0,
+      "text": " or class attribute is being asked"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 842.0,
+      "end": 844.0,
+      "text": " you see class attribute is being asked"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 844.0,
+      "end": 846.0,
+      "text": " does this change the class attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 846.0,
+      "end": 848.0,
+      "text": " the answer to this is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 848.0,
+      "end": 850.0,
+      "text": " you will think yes but it is no"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 850.0,
+      "end": 852.0,
+      "text": " class attribute has not changed"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 852.0,
+      "end": 854.0,
+      "text": " because if I"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 854.0,
+      "end": 856.0,
+      "text": " instead of o dot a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 856.0,
+      "end": 858.0,
+      "text": " would have printed demo dot a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 858.0,
+      "end": 860.0,
+      "text": " if I would have done something like this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 860.0,
+      "end": 862.0,
+      "text": " demo dot a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 862.0,
+      "end": 864.0,
+      "text": " if I would have printed demo dot a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 864.0,
+      "end": 866.0,
+      "text": " then it would have been 4"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 866.0,
+      "end": 868.0,
+      "text": " which means class attribute has not changed"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 868.0,
+      "end": 870.0,
+      "text": " but an instance attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 870.0,
+      "end": 872.0,
+      "text": " has been set"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 872.0,
+      "end": 874.0,
+      "text": " so when I wrote here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 874.0,
+      "end": 876.0,
+      "text": " o dot a then it is printing"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 876.0,
+      "end": 878.0,
+      "text": " class attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 878.0,
+      "end": 880.0,
+      "text": " class attribute because"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 880.0,
+      "end": 882.0,
+      "text": " instance attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 882.0,
+      "end": 884.0,
+      "text": " is not present"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 884.0,
+      "end": 886.0,
+      "text": " and because instance attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 886.0,
+      "end": 888.0,
+      "text": " was not present class attribute was printed"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 888.0,
+      "end": 890.0,
+      "text": " but later instance"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 890.0,
+      "end": 892.0,
+      "text": " attribute is set"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 892.0,
+      "end": 894.0,
+      "text": " and once"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 894.0,
+      "end": 896.0,
+      "text": " instance attribute is set"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 896.0,
+      "end": 898.0,
+      "text": " then this instance attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 898.0,
+      "end": 900.0,
+      "text": " because interest"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 900.0,
+      "end": 902.0,
+      "text": " sorry instance attribute is present"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 902.0,
+      "end": 904.0,
+      "text": " understood the story"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 904.0,
+      "end": 906.0,
+      "text": " friends"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 906.0,
+      "end": 908.0,
+      "text": " prints the class attribute because instance attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 908.0,
+      "end": 910.0,
+      "text": " is not present"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 910.0,
+      "end": 912.0,
+      "text": " first instance attribute was checked"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 912.0,
+      "end": 914.0,
+      "text": " class attribute was a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 914.0,
+      "end": 916.0,
+      "text": " it was printed"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 916.0,
+      "end": 918.0,
+      "text": " after this we"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 918.0,
+      "end": 920.0,
+      "text": " set instance attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 920.0,
+      "end": 922.0,
+      "text": " when we wrote o dot a is equal to 0"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 922.0,
+      "end": 924.0,
+      "text": " then an instance attribute is set"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 924.0,
+      "end": 926.0,
+      "text": " then when we print o dot a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 926.0,
+      "end": 928.0,
+      "text": " then first instance attribute is checked"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 928.0,
+      "end": 930.0,
+      "text": " it was there so it is 0"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 930.0,
+      "end": 932.0,
+      "text": " but class attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 932.0,
+      "end": 934.0,
+      "text": " is also there it is not printed"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 934.0,
+      "end": 936.0,
+      "text": " and here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 936.0,
+      "end": 938.0,
+      "text": " prints the"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 938.0,
+      "end": 940.0,
+      "text": " class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 940.0,
+      "end": 942.0,
+      "text": " attribute so class attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 942.0,
+      "end": 944.0,
+      "text": " has changed no"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 944.0,
+      "end": 946.0,
+      "text": " the answer is no"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 946.0,
+      "end": 948.0,
+      "text": " very interesting question"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 948.0,
+      "end": 950.0,
+      "text": " add a static method in problem 2 to greet the user with hello"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 950.0,
+      "end": 952.0,
+      "text": " a very simple question"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 952.0,
+      "end": 954.0,
+      "text": " 04 underscore"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 954.0,
+      "end": 956.0,
+      "text": " problem 4 dot py"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 956.0,
+      "end": 958.0,
+      "text": " what is this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 958.0,
+      "end": 960.0,
+      "text": " in question number 2"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 960.0,
+      "end": 962.0,
+      "text": " we have to add a static method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 962.0,
+      "end": 964.0,
+      "text": " we have to add a static method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 964.0,
+      "end": 966.0,
+      "text": " we have to add a static method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 966.0,
+      "end": 968.0,
+      "text": " and we have to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 968.0,
+      "end": 970.0,
+      "text": " write hello"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 970.0,
+      "end": 972.0,
+      "text": " word"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 972.0,
+      "end": 974.0,
+      "text": " ok so if i write"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 974.0,
+      "end": 976.0,
+      "text": " a dot"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 976.0,
+      "end": 978.0,
+      "text": " hello and run it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 978.0,
+      "end": 980.0,
+      "text": " then hello word will come"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 980.0,
+      "end": 982.0,
+      "text": " we don't greet anyone like this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 982.0,
+      "end": 984.0,
+      "text": " i write hello there"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 984.0,
+      "end": 986.0,
+      "text": " ok i am running it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 986.0,
+      "end": 988.0,
+      "text": " and you see hello there came"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 988.0,
+      "end": 990.0,
+      "text": " why did it come"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 990.0,
+      "end": 992.0,
+      "text": " because i have"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 992.0,
+      "end": 994.0,
+      "text": " written a dot hello"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 994.0,
+      "end": 996.0,
+      "text": " so this static method worked"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 996.0,
+      "end": 998.0,
+      "text": " why i have added static method decorator"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 998.0,
+      "end": 1000.0,
+      "text": " because i am not using"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1000.0,
+      "end": 1002.0,
+      "text": " self here because i don't need self"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1002.0,
+      "end": 1004.0,
+      "text": " i don't want to access"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1004.0,
+      "end": 1006.0,
+      "text": " any instance attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1006.0,
+      "end": 1008.0,
+      "text": " so i"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1008.0,
+      "end": 1010.0,
+      "text": " removed self"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1010.0,
+      "end": 1012.0,
+      "text": " cool amazing"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1012.0,
+      "end": 1014.0,
+      "text": " come on guys"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1014.0,
+      "end": 1016.0,
+      "text": " next question"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1016.0,
+      "end": 1018.0,
+      "text": " write a class train which has methods to book a ticket"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1018.0,
+      "end": 1020.0,
+      "text": " get status"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1020.0,
+      "end": 1022.0,
+      "text": " and get fair information of running trains"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1022.0,
+      "end": 1024.0,
+      "text": " under indian railway"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1024.0,
+      "end": 1026.0,
+      "text": " a very easy question"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1026.0,
+      "end": 1028.0,
+      "text": " we will do it in a very simple way"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1028.0,
+      "end": 1030.0,
+      "text": " so i will write here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1030.0,
+      "end": 1032.0,
+      "text": " 05 underscore problem 5"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1032.0,
+      "end": 1034.0,
+      "text": " dot py"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1034.0,
+      "end": 1036.0,
+      "text": " so we will make a class train"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1036.0,
+      "end": 1038.0,
+      "text": " after making a class train"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1038.0,
+      "end": 1040.0,
+      "text": " we will use a method book ticket"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1040.0,
+      "end": 1042.0,
+      "text": " so def book"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1042.0,
+      "end": 1044.0,
+      "text": " self and pass"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1044.0,
+      "end": 1046.0,
+      "text": " ok"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1046.0,
+      "end": 1048.0,
+      "text": " after this what will happen"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1048.0,
+      "end": 1050.0,
+      "text": " get status and get fair information"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1050.0,
+      "end": 1052.0,
+      "text": " so one will be here def get"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1052.0,
+      "end": 1054.0,
+      "text": " status and here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1054.0,
+      "end": 1056.0,
+      "text": " self and pass"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1056.0,
+      "end": 1058.0,
+      "text": " i will write here and one will be"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1058.0,
+      "end": 1060.0,
+      "text": " get fair self"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1060.0,
+      "end": 1062.0,
+      "text": " and here pass"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1062.0,
+      "end": 1064.0,
+      "text": " ok so i have done this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1064.0,
+      "end": 1066.0,
+      "text": " i have added all three methods"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1066.0,
+      "end": 1068.0,
+      "text": " and now what we will do here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1068.0,
+      "end": 1070.0,
+      "text": " we will say that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1070.0,
+      "end": 1072.0,
+      "text": " get status takes a train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1072.0,
+      "end": 1074.0,
+      "text": " train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1074.0,
+      "end": 1076.0,
+      "text": " and here also what we will do"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1076.0,
+      "end": 1078.0,
+      "text": " it also takes a train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1078.0,
+      "end": 1080.0,
+      "text": " it will take a train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1080.0,
+      "end": 1082.0,
+      "text": " and it will also take where it has to go"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1082.0,
+      "end": 1084.0,
+      "text": " it will take from and too"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1084.0,
+      "end": 1086.0,
+      "text": " so i will write fro"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1086.0,
+      "end": 1088.0,
+      "text": " because from is already reserved in python"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1088.0,
+      "end": 1090.0,
+      "text": " whatever keywords are reserved in python"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1090.0,
+      "end": 1092.0,
+      "text": " like def, pass, class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1092.0,
+      "end": 1094.0,
+      "text": " from, because we use from"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1094.0,
+      "end": 1096.0,
+      "text": " to import"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1096.0,
+      "end": 1098.0,
+      "text": " i will tell you in the coming time how to use from"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1098.0,
+      "end": 1100.0,
+      "text": " but from is a reserved keyword in python"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1100.0,
+      "end": 1102.0,
+      "text": " so we can't use it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1102.0,
+      "end": 1104.0,
+      "text": " so i wrote fro and here too"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1104.0,
+      "end": 1106.0,
+      "text": " and passed"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1106.0,
+      "end": 1108.0,
+      "text": " now what i will do here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1108.0,
+      "end": 1110.0,
+      "text": " i will write the logic of this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1110.0,
+      "end": 1112.0,
+      "text": " print ticket is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1112.0,
+      "end": 1114.0,
+      "text": " booked in train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1114.0,
+      "end": 1116.0,
+      "text": " and here i will"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1116.0,
+      "end": 1118.0,
+      "text": " give this thing"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1118.0,
+      "end": 1120.0,
+      "text": " because when you are booking a ticket"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1120.0,
+      "end": 1122.0,
+      "text": " you will give train number from and too"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1122.0,
+      "end": 1124.0,
+      "text": " train number and here i will write"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1124.0,
+      "end": 1126.0,
+      "text": " f string and i will print train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1126.0,
+      "end": 1128.0,
+      "text": " and after this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1128.0,
+      "end": 1130.0,
+      "text": " i will write from"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1130.0,
+      "end": 1132.0,
+      "text": " and fro"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1132.0,
+      "end": 1134.0,
+      "text": " and too"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1134.0,
+      "end": 1136.0,
+      "text": " i will write too"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1136.0,
+      "end": 1138.0,
+      "text": " so train is booked and here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1138.0,
+      "end": 1140.0,
+      "text": " i will give a random number in get fare"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1140.0,
+      "end": 1142.0,
+      "text": " ticket fare"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1142.0,
+      "end": 1144.0,
+      "text": " fare"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1144.0,
+      "end": 1146.0,
+      "text": " in train number this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1146.0,
+      "end": 1148.0,
+      "text": " from ye to ye is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1148.0,
+      "end": 1150.0,
+      "text": " now i will give random dot"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1150.0,
+      "end": 1152.0,
+      "text": " ranint from 0 to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1152.0,
+      "end": 1154.0,
+      "text": " 555 in fact"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1154.0,
+      "end": 1156.0,
+      "text": " i will do one thing from 222 to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1156.0,
+      "end": 1158.0,
+      "text": " 5555"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1158.0,
+      "end": 1160.0,
+      "text": " so we will import random"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1160.0,
+      "end": 1162.0,
+      "text": " import random"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1162.0,
+      "end": 1164.0,
+      "text": " ok after importing random"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1164.0,
+      "end": 1166.0,
+      "text": " i will write random dot ranint"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1166.0,
+      "end": 1168.0,
+      "text": " i can do one more thing"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1168.0,
+      "end": 1170.0,
+      "text": " from random import"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1170.0,
+      "end": 1172.0,
+      "text": " ranint ok"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1172.0,
+      "end": 1174.0,
+      "text": " import"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1174.0,
+      "end": 1176.0,
+      "text": " ranint so i can directly use ranint"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1176.0,
+      "end": 1178.0,
+      "text": " so from keyword"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1178.0,
+      "end": 1180.0,
+      "text": " is used"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1180.0,
+      "end": 1182.0,
+      "text": " i told you in use case"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1182.0,
+      "end": 1184.0,
+      "text": " and now you can see here get status"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1184.0,
+      "end": 1186.0,
+      "text": " if you do train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1186.0,
+      "end": 1188.0,
+      "text": " and i will print here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1188.0,
+      "end": 1190.0,
+      "text": " that this train is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1190.0,
+      "end": 1192.0,
+      "text": " running successfully"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1192.0,
+      "end": 1194.0,
+      "text": " train is running successfully train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1196.0,
+      "end": 1198.0,
+      "text": " this is running successfully"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1198.0,
+      "end": 1200.0,
+      "text": " is running on time"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1200.0,
+      "end": 1202.0,
+      "text": " i will write is running on time"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1202.0,
+      "end": 1204.0,
+      "text": " so now any"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1204.0,
+      "end": 1206.0,
+      "text": " here class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1206.0,
+      "end": 1208.0,
+      "text": " sorry you can make object of train class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1208.0,
+      "end": 1210.0,
+      "text": " you can set train number in that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1210.0,
+      "end": 1212.0,
+      "text": " as an instance attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1212.0,
+      "end": 1214.0,
+      "text": " there are tons of ways to solve this problem"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1214.0,
+      "end": 1216.0,
+      "text": " you can also do that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1216.0,
+      "end": 1218.0,
+      "text": " here you can give a constructor"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1218.0,
+      "end": 1220.0,
+      "text": " and write a train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1220.0,
+      "end": 1222.0,
+      "text": " because this property of train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1222.0,
+      "end": 1224.0,
+      "text": " this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1224.0,
+      "end": 1226.0,
+      "text": " if we give like this it will be better"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1226.0,
+      "end": 1228.0,
+      "text": " and i will write here self dot"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1228.0,
+      "end": 1230.0,
+      "text": " train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1230.0,
+      "end": 1232.0,
+      "text": " is equal to train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1232.0,
+      "end": 1234.0,
+      "text": " and it is not necessary that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1234.0,
+      "end": 1236.0,
+      "text": " these variables are same but we should keep same"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1236.0,
+      "end": 1238.0,
+      "text": " ok so i will"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1238.0,
+      "end": 1240.0,
+      "text": " capital n"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1240.0,
+      "end": 1242.0,
+      "text": " and instead of saying train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1242.0,
+      "end": 1244.0,
+      "text": " here i can do self dot train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1244.0,
+      "end": 1246.0,
+      "text": " because train number is now"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1246.0,
+      "end": 1248.0,
+      "text": " part of self, part of object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1248.0,
+      "end": 1250.0,
+      "text": " so wherever i am using train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1250.0,
+      "end": 1252.0,
+      "text": " i will do self dot train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1252.0,
+      "end": 1254.0,
+      "text": " and i think this is a better way to solve this problem"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1254.0,
+      "end": 1256.0,
+      "text": " because class train is there so its instance"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1256.0,
+      "end": 1258.0,
+      "text": " attribute will be train number"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1258.0,
+      "end": 1260.0,
+      "text": " and after that whatever work will be done"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1260.0,
+      "end": 1262.0,
+      "text": " so i will simply"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1262.0,
+      "end": 1264.0,
+      "text": " write here t is equal to train"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1264.0,
+      "end": 1266.0,
+      "text": " of 12399"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1266.0,
+      "end": 1268.0,
+      "text": " and after that i will write"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1268.0,
+      "end": 1270.0,
+      "text": " t dot book"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1270.0,
+      "end": 1272.0,
+      "text": " i will write here from"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1272.0,
+      "end": 1274.0,
+      "text": " rampur and then i will write delhi"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1274.0,
+      "end": 1276.0,
+      "text": " ok now i will run this and you can see"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1276.0,
+      "end": 1278.0,
+      "text": " here it is writing"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1278.0,
+      "end": 1280.0,
+      "text": " ticket is booked in train number 12399"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1280.0,
+      "end": 1282.0,
+      "text": " from rampur to delhi"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1282.0,
+      "end": 1284.0,
+      "text": " so the way ticket is booked here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1284.0,
+      "end": 1286.0,
+      "text": " we can check other methods"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1286.0,
+      "end": 1288.0,
+      "text": " so lets do it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1288.0,
+      "end": 1290.0,
+      "text": " i have done get status"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1290.0,
+      "end": 1292.0,
+      "text": " and then get fare"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1292.0,
+      "end": 1294.0,
+      "text": " from and to is coming in get fare"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1294.0,
+      "end": 1296.0,
+      "text": " in get status, nothing is coming"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1296.0,
+      "end": 1298.0,
+      "text": " just train number is required"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1298.0,
+      "end": 1300.0,
+      "text": " lets run"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1300.0,
+      "end": 1302.0,
+      "text": " and you can see train number 12399"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1302.0,
+      "end": 1304.0,
+      "text": " is running on time and then ticket fare"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1304.0,
+      "end": 1306.0,
+      "text": " is 1833 which is ok"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1306.0,
+      "end": 1308.0,
+      "text": " actually its expensive"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1308.0,
+      "end": 1310.0,
+      "text": " depends on which"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1310.0,
+      "end": 1312.0,
+      "text": " sleeper or third AC"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1312.0,
+      "end": 1314.0,
+      "text": " which coach fare it is depends on"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1314.0,
+      "end": 1316.0,
+      "text": " but anyways"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1316.0,
+      "end": 1318.0,
+      "text": " you can see here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1318.0,
+      "end": 1320.0,
+      "text": " we have come to next question"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1320.0,
+      "end": 1322.0,
+      "text": " next question is can you change the self parameter"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1322.0,
+      "end": 1324.0,
+      "text": " inside a class or something else say harry"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1324.0,
+      "end": 1326.0,
+      "text": " try changing self to slf or harry"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1326.0,
+      "end": 1328.0,
+      "text": " and see the effects"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1328.0,
+      "end": 1330.0,
+      "text": " for this i will use same program"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1330.0,
+      "end": 1332.0,
+      "text": " so we will make 06 underscore"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1332.0,
+      "end": 1334.0,
+      "text": " problem 6 dot py"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1334.0,
+      "end": 1336.0,
+      "text": " and i will copy"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1336.0,
+      "end": 1338.0,
+      "text": " problem number 5 and paste it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1338.0,
+      "end": 1340.0,
+      "text": " and question is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1340.0,
+      "end": 1342.0,
+      "text": " you are using self here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1342.0,
+      "end": 1344.0,
+      "text": " if you use slf then what will happen"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1344.0,
+      "end": 1346.0,
+      "text": " i told you it will happen or not"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1346.0,
+      "end": 1348.0,
+      "text": " i want you to comment with time stamp"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1348.0,
+      "end": 1350.0,
+      "text": " i want to know from you"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1350.0,
+      "end": 1352.0,
+      "text": " i want you to make two way interaction"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1352.0,
+      "end": 1354.0,
+      "text": " you also comment in comment section"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1354.0,
+      "end": 1356.0,
+      "text": " what will happen if i use slf"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1356.0,
+      "end": 1358.0,
+      "text": " will there be any problem"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1358.0,
+      "end": 1360.0,
+      "text": " the answer is no"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1360.0,
+      "end": 1362.0,
+      "text": " if you are using slf here then you have to use slf here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1362.0,
+      "end": 1364.0,
+      "text": " and when i will run it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1364.0,
+      "end": 1366.0,
+      "text": " you can see nothing happened"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1366.0,
+      "end": 1368.0,
+      "text": " if i will write slf"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1368.0,
+      "end": 1370.0,
+      "text": " to self as harry then what will happen"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1370.0,
+      "end": 1372.0,
+      "text": " if i will write harry dot slf"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1372.0,
+      "end": 1374.0,
+      "text": " see nothing will happen"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1374.0,
+      "end": 1376.0,
+      "text": " but it is not a good practice"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1376.0,
+      "end": 1378.0,
+      "text": " why would you want to write harry in place of self"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1378.0,
+      "end": 1380.0,
+      "text": " readability of program will be spoiled"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1380.0,
+      "end": 1382.0,
+      "text": " but again"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1382.0,
+      "end": 1384.0,
+      "text": " your output will be intact"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1384.0,
+      "end": 1386.0,
+      "text": " there will be no effect in your output"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1386.0,
+      "end": 1388.0,
+      "text": " this is very important for you"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1388.0,
+      "end": 1390.0,
+      "text": " and with that said chapter 10 is wrapped"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1390.0,
+      "end": 1392.0,
+      "text": " i am really very happy"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1392.0,
+      "end": 1394.0,
+      "text": " with the pace we are going and it will be fun"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1394.0,
+      "end": 1396.0,
+      "text": " in chapter 11"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1396.0,
+      "end": 1398.0,
+      "text": " see you all in chapter 11"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1402.0,
+      "end": 1404.0,
+      "text": " so guys today we are going to do chapter 11"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1404.0,
+      "end": 1406.0,
+      "text": " which is inheritance"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1406.0,
+      "end": 1408.0,
+      "text": " and we will talk a little more about oops"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1408.0,
+      "end": 1410.0,
+      "text": " so first of all i will make a folder for you"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1410.0,
+      "end": 1412.0,
+      "text": " of chapter 11"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1412.0,
+      "end": 1414.0,
+      "text": " and by right clicking"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1414.0,
+      "end": 1416.0,
+      "text": " i will open with code"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1416.0,
+      "end": 1418.0,
+      "text": " and here i will tell you about inheritance"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1418.0,
+      "end": 1420.0,
+      "text": " so what is the meaning of inheritance"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1420.0,
+      "end": 1422.0,
+      "text": " inheritance means i will explain to you"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1422.0,
+      "end": 1424.0,
+      "text": " what happens, suppose we have a class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1424.0,
+      "end": 1426.0,
+      "text": " and that is employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1426.0,
+      "end": 1428.0,
+      "text": " and in that class suppose we have"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1428.0,
+      "end": 1430.0,
+      "text": " a lot of information we have some"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1430.0,
+      "end": 1432.0,
+      "text": " show method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1432.0,
+      "end": 1434.0,
+      "text": " which prints"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1434.0,
+      "end": 1436.0,
+      "text": " employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1436.0,
+      "end": 1438.0,
+      "text": " the name is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1438.0,
+      "end": 1440.0,
+      "text": " self.name or the salary is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1440.0,
+      "end": 1442.0,
+      "text": " name.salary"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1442.0,
+      "end": 1444.0,
+      "text": " self.salary"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1444.0,
+      "end": 1446.0,
+      "text": " and the salary is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1446.0,
+      "end": 1448.0,
+      "text": " self.salary"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1448.0,
+      "end": 1450.0,
+      "text": " suppose we have a class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1450.0,
+      "end": 1452.0,
+      "text": " now i want to make a"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1452.0,
+      "end": 1454.0,
+      "text": " programmer class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1454.0,
+      "end": 1456.0,
+      "text": " and i want the same show method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1456.0,
+      "end": 1458.0,
+      "text": " plus some other methods"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1458.0,
+      "end": 1460.0,
+      "text": " i want show method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1460.0,
+      "end": 1462.0,
+      "text": " and show language"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1462.0,
+      "end": 1464.0,
+      "text": " suppose we have a method"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1464.0,
+      "end": 1466.0,
+      "text": " and i will print"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1466.0,
+      "end": 1468.0,
+      "text": " the name is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1468.0,
+      "end": 1470.0,
+      "text": " self.name"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1470.0,
+      "end": 1472.0,
+      "text": " and he is good"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1472.0,
+      "end": 1474.0,
+      "text": " and he is good"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1474.0,
+      "end": 1476.0,
+      "text": " he is good with"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1476.0,
+      "end": 1478.0,
+      "text": " this self.language"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1478.0,
+      "end": 1480.0,
+      "text": " this self.language"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1480.0,
+      "end": 1482.0,
+      "text": " suppose i have"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1482.0,
+      "end": 1484.0,
+      "text": " a new object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1484.0,
+      "end": 1486.0,
+      "text": " attribute which is also called instance attribute"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1486.0,
+      "end": 1488.0,
+      "text": " so here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1488.0,
+      "end": 1490.0,
+      "text": " it will come and i want to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1490.0,
+      "end": 1492.0,
+      "text": " extend it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1492.0,
+      "end": 1494.0,
+      "text": " this method is looking good"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1494.0,
+      "end": 1496.0,
+      "text": " we have taken all the methods of employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1496.0,
+      "end": 1498.0,
+      "text": " and all the properties"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1498.0,
+      "end": 1500.0,
+      "text": " and suppose we have one more thing"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1500.0,
+      "end": 1502.0,
+      "text": " address or company"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1502.0,
+      "end": 1504.0,
+      "text": " suppose we have"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1504.0,
+      "end": 1506.0,
+      "text": " ITC"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1506.0,
+      "end": 1508.0,
+      "text": " now suppose i want the programmer to be ITC info tag"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1508.0,
+      "end": 1510.0,
+      "text": " so what i will do here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1510.0,
+      "end": 1512.0,
+      "text": " i will say"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1512.0,
+      "end": 1514.0,
+      "text": " company is equal to"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1514.0,
+      "end": 1516.0,
+      "text": " ITC info tag"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1516.0,
+      "end": 1518.0,
+      "text": " suppose i make one object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1518.0,
+      "end": 1520.0,
+      "text": " a is equal to employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1520.0,
+      "end": 1522.0,
+      "text": " and i make one object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1522.0,
+      "end": 1524.0,
+      "text": " b is equal to programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1524.0,
+      "end": 1526.0,
+      "text": " programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1526.0,
+      "end": 1528.0,
+      "text": " and if i will print"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1528.0,
+      "end": 1530.0,
+      "text": " a.company and b.company"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1530.0,
+      "end": 1532.0,
+      "text": " so you will see"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1532.0,
+      "end": 1534.0,
+      "text": " one time itc will be printed and one time itc info tag"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1534.0,
+      "end": 1536.0,
+      "text": " will be printed because i changed the company in the other one"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1536.0,
+      "end": 1538.0,
+      "text": " so if i want"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1538.0,
+      "end": 1540.0,
+      "text": " all the methods of a particular class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1540.0,
+      "end": 1542.0,
+      "text": " and instances"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1542.0,
+      "end": 1544.0,
+      "text": " so one way"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1544.0,
+      "end": 1546.0,
+      "text": " is to copy it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1546.0,
+      "end": 1548.0,
+      "text": " now here there is only one method show"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1548.0,
+      "end": 1550.0,
+      "text": " if there are 50 more methods like show"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1550.0,
+      "end": 1552.0,
+      "text": " so what we will do, you will say let's copy paste"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1552.0,
+      "end": 1554.0,
+      "text": " how much code is there, let's select from here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1554.0,
+      "end": 1556.0,
+      "text": " copy and make another class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1556.0,
+      "end": 1558.0,
+      "text": " but if i will copy and"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1558.0,
+      "end": 1560.0,
+      "text": " make 10 classes from one class, listen to me carefully"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1560.0,
+      "end": 1562.0,
+      "text": " i will copy different classes"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1562.0,
+      "end": 1564.0,
+      "text": " from one class and make"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1564.0,
+      "end": 1566.0,
+      "text": " so my biggest challenge is that if i have to change"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1566.0,
+      "end": 1568.0,
+      "text": " later then i have to change all those"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1568.0,
+      "end": 1570.0,
+      "text": " 10 classes and this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1570.0,
+      "end": 1572.0,
+      "text": " process becomes very cumbersome"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1572.0,
+      "end": 1574.0,
+      "text": " and error prone also means"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1574.0,
+      "end": 1576.0,
+      "text": " i can make mistake in changing"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1576.0,
+      "end": 1578.0,
+      "text": " for example if someone"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1578.0,
+      "end": 1580.0,
+      "text": " said to me for some reason here the name is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1580.0,
+      "end": 1582.0,
+      "text": " name of the employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1582.0,
+      "end": 1584.0,
+      "text": " we have to write this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1584.0,
+      "end": 1586.0,
+      "text": " so i have to change that here also"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1586.0,
+      "end": 1588.0,
+      "text": " because i want to keep this show method same"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1588.0,
+      "end": 1590.0,
+      "text": " i want to keep it consistent within classes"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1590.0,
+      "end": 1592.0,
+      "text": " so this method is not good"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1592.0,
+      "end": 1594.0,
+      "text": " instead of doing this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1594.0,
+      "end": 1596.0,
+      "text": " what i will do, i will"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1596.0,
+      "end": 1598.0,
+      "text": " use inheritance, i will say"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1598.0,
+      "end": 1600.0,
+      "text": " programmer is a class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1600.0,
+      "end": 1602.0,
+      "text": " which i am inheriting from employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1602.0,
+      "end": 1604.0,
+      "text": " means whatever was in employee is in programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1604.0,
+      "end": 1606.0,
+      "text": " rest there are many other things"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1606.0,
+      "end": 1608.0,
+      "text": " which i want to change or add"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1608.0,
+      "end": 1610.0,
+      "text": " for example if i do something like this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1610.0,
+      "end": 1612.0,
+      "text": " let's say i"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1612.0,
+      "end": 1614.0,
+      "text": " show you that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1614.0,
+      "end": 1616.0,
+      "text": " what i did here, i inherited programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1616.0,
+      "end": 1618.0,
+      "text": " from employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1618.0,
+      "end": 1620.0,
+      "text": " now if i run this, you can see"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1620.0,
+      "end": 1622.0,
+      "text": " itc, itc info tech is coming, so basically"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1622.0,
+      "end": 1624.0,
+      "text": " the work i was doing in so many lines of code"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1624.0,
+      "end": 1626.0,
+      "text": " i did in so less lines of code"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1626.0,
+      "end": 1628.0,
+      "text": " so whatever i want to change"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1628.0,
+      "end": 1630.0,
+      "text": " i have to do it in one place in employee and rest"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1630.0,
+      "end": 1632.0,
+      "text": " all places will be updated"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1632.0,
+      "end": 1634.0,
+      "text": " rest all places will be updated"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1634.0,
+      "end": 1636.0,
+      "text": " why will it be updated? because we are making"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1636.0,
+      "end": 1638.0,
+      "text": " programmer class from employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1638.0,
+      "end": 1640.0,
+      "text": " and we have made a base class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1640.0,
+      "end": 1642.0,
+      "text": " this is called base class and"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1642.0,
+      "end": 1644.0,
+      "text": " parent class also called it"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1644.0,
+      "end": 1646.0,
+      "text": " and what is this called?"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1646.0,
+      "end": 1648.0,
+      "text": " this is called inherited class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1648.0,
+      "end": 1650.0,
+      "text": " now i come here and show you"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1650.0,
+      "end": 1652.0,
+      "text": " what is base class and derived class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1652.0,
+      "end": 1654.0,
+      "text": " base class means from which we are making"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1654.0,
+      "end": 1656.0,
+      "text": " derived class means which is derived"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1656.0,
+      "end": 1658.0,
+      "text": " inheritance is a way of creating a new class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1658.0,
+      "end": 1660.0,
+      "text": " from an existing class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1660.0,
+      "end": 1662.0,
+      "text": " what is syntax? we saw something like this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1662.0,
+      "end": 1664.0,
+      "text": " write employee in bracket in programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1664.0,
+      "end": 1666.0,
+      "text": " derived class or child class will be made"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1666.0,
+      "end": 1668.0,
+      "text": " we can use the method and attributes"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1668.0,
+      "end": 1670.0,
+      "text": " of employee and programmer object"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1670.0,
+      "end": 1672.0,
+      "text": " means all its methods and attributes will come here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1672.0,
+      "end": 1674.0,
+      "text": " automatically without doing anything"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1674.0,
+      "end": 1676.0,
+      "text": " means you said once make programmer from employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1676.0,
+      "end": 1678.0,
+      "text": " so all methods and attributes"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1678.0,
+      "end": 1680.0,
+      "text": " of employee will come"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1680.0,
+      "end": 1682.0,
+      "text": " automatically in programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1682.0,
+      "end": 1684.0,
+      "text": " if you want to add something else then write here"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1684.0,
+      "end": 1686.0,
+      "text": " write code here like we added"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1686.0,
+      "end": 1688.0,
+      "text": " one more function show language"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1688.0,
+      "end": 1690.0,
+      "text": " show language will not be in employee but in programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1690.0,
+      "end": 1692.0,
+      "text": " because i have made programmer from employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1692.0,
+      "end": 1694.0,
+      "text": " and i have said that all methods"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1694.0,
+      "end": 1696.0,
+      "text": " and attributes of employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1696.0,
+      "end": 1698.0,
+      "text": " i need a show language function in programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1698.0,
+      "end": 1700.0,
+      "text": " so i will tell you"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1700.0,
+      "end": 1702.0,
+      "text": " about types of inheritance"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1702.0,
+      "end": 1704.0,
+      "text": " one is single inheritance means"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1704.0,
+      "end": 1706.0,
+      "text": " derived class is made from base class"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1706.0,
+      "end": 1708.0,
+      "text": " it is simple"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1708.0,
+      "end": 1710.0,
+      "text": " multiple inheritance is there like"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1710.0,
+      "end": 1712.0,
+      "text": " your child class inherits from more than one parent"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1712.0,
+      "end": 1714.0,
+      "text": " like suppose"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1714.0,
+      "end": 1716.0,
+      "text": " i want employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1716.0,
+      "end": 1718.0,
+      "text": " also comes in programmer"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1718.0,
+      "end": 1720.0,
+      "text": " means all methods and attributes of employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1720.0,
+      "end": 1722.0,
+      "text": " comes in programmer and also"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1722.0,
+      "end": 1724.0,
+      "text": " of another class so i will show you"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1724.0,
+      "end": 1726.0,
+      "text": " example of multiple inheritance"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1726.0,
+      "end": 1728.0,
+      "text": " multiple inheritance"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1728.0,
+      "end": 1730.0,
+      "text": " dot py and i will show you"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1730.0,
+      "end": 1732.0,
+      "text": " suppose i have an employee"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1732.0,
+      "end": 1734.0,
+      "text": " class and i have"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1734.0,
+      "end": 1736.0,
+      "text": " a coder class, coder"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1736.0,
+      "end": 1738.0,
+      "text": " can be any coder who codes in his house"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1738.0,
+      "end": 1740.0,
+      "text": " suppose i have"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1740.0,
+      "end": 1742.0,
+      "text": " a function"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1742.0,
+      "end": 1744.0,
+      "text": " and in that"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1744.0,
+      "end": 1746.0,
+      "text": " suppose i have a language"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1746.0,
+      "end": 1748.0,
+      "text": " and by default language is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1748.0,
+      "end": 1750.0,
+      "text": " python for everyone"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1750.0,
+      "end": 1752.0,
+      "text": " for all, by default language is python"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1752.0,
+      "end": 1754.0,
+      "text": " and suppose i write a function"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1754.0,
+      "end": 1756.0,
+      "text": " and i write"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1756.0,
+      "end": 1758.0,
+      "text": " print languages"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1758.0,
+      "end": 1760.0,
+      "text": " and i write"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1760.0,
+      "end": 1762.0,
+      "text": " self and i will print"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1762.0,
+      "end": 1764.0,
+      "text": " and i will write"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1764.0,
+      "end": 1766.0,
+      "text": " f and i will write"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1766.0,
+      "end": 1768.0,
+      "text": " out of all the languages"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1768.0,
+      "end": 1770.0,
+      "text": " here is"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1770.0,
+      "end": 1772.0,
+      "text": " your language"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1772.0,
+      "end": 1774.0,
+      "text": " suppose i have made"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1774.0,
+      "end": 1776.0,
+      "text": " simple one"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1776.0,
+      "end": 1778.0,
+      "text": " self dot language"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1778.0,
+      "end": 1780.0,
+      "text": " i have written simple"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1780.0,
+      "end": 1782.0,
+      "text": " that your language is this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1782.0,
+      "end": 1784.0,
+      "text": " and now i will"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1784.0,
+      "end": 1786.0,
+      "text": " make programmer from both"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1786.0,
+      "end": 1788.0,
+      "text": " employee and coder"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1788.0,
+      "end": 1790.0,
+      "text": " so when i am making from both"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1790.0,
+      "end": 1792.0,
+      "text": " i will use this syntax"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1792.0,
+      "end": 1794.0,
+      "text": " means in programmer all methods and"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1794.0,
+      "end": 1796.0,
+      "text": " properties of coder will be there"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1796.0,
+      "end": 1798.0,
+      "text": " so i will run this"
+    },
+    {
+      "number": "15",
+      "title": "part15",
+      "start": 1798.0,
+      "end": 1800.0,
+      "text": " and you can see itc infotech is coming"
+    }
+  ],
+  "text": " so class attribute is that which is for every class means whatever object will be made from that class is for that but instance attribute is that which is property of a particular object means you have written something in form of pen and it will not affect other forms because you have written in your form with pen you understood, you have come, you understood let's move ahead, let's take things ahead we saw self, self means instance of the class it is automatically passed with a function call from an object now see I have written self here, self is a convention self name is used, if you will make it as slf then no problem if you will write its name as kk, pp, rr, cr then nothing will happen just that if you have written cr here then you will do cr.language but self.language is a bit descriptive that's why we use self I hope that makes sense now let's talk about static method now we saw here that there was a function greet which was doing nothing, just good morning but I have passed the whole object you will say that object had to be passed because there was an error that positional argument, what can we do? we can do, if I want that I don't give self here means I don't pass such a big object then I have to tell that it doesn't take self means in this function object doesn't work I don't want language, salary, nothing from object so I will mark greet as static method by putting at the rate it means that greet is a static method and it doesn't need an object and static method is a decorator we will talk about decorator later but for now you understand that we have written static method by which we have marked it as a function which doesn't take self means we don't need any property of object in it so static method, we saw what happens now let's talk about init constructor init is a special method which is first run as soon as the object is created init is also called constructor it takes a self argument and can take other arguments which you want so we understand constructor well and then we will wrap this chapter I will take a lot of time to explain you in constructor because it is very important now see the class we have made till now we have made class named employee we said ok, we will make it as Harry is equal to employee then we printed Harry.name Harry.salary and there was no name here so let's say I want to set the name so we were setting Harry.name like this so I want to set my name in an easier way what I will do? instead of giving Harry.name is equal to Harry I will make a function and I will name it init and as soon as I hit enter it automatically completes the auto I will write it like this and after writing this I will print I am creating an object I just wrote I am creating an object so as soon as I run this program you will see here there is no Harry.salary because of which error is coming so what we will do? Harry is equal to employee I have double y in Harry.salary now let's run this program and you see I am creating an object and Harry is coming 12 lakhs why is Harry 12 lakhs? because I have printed Harry.name and Harry.salary ok, this is understandable but why is this I am creating an object I have just made init I called get info but I didn't call init init is a special method which is called dunder method this method starts with underscore in python it is called dunder method so I will mark it as a dunder method which is automatically called dunder method is the method which starts with double underscore and dunder method will be called automatically as soon as an object is created you write h is equal to employee dunder method will be called if you write Rohan is equal to employee dunder method will be called you will see once again I am creating an object ok, so dunder method which is init will be called all dunder methods will not be called init dunder method is called whenever you create a new object so this init will be called when you create an object ok, I hope I was able to clear things up I hope you understood now what happens is I want to not name it harry it would have been great if I had told it that I want the name harry salary is 13 lakh and my favorite language is javascript, let's say I write this here python is written by default but I want to do javascript, this is class attribute I want to set instance attribute which is javascript I can take any argument you can see I can do this I can say name salary language and I can say self dot name is equal to and I will write name then I will write self dot salary is equal to salary, then I will write self dot language is equal to language, ok so I wrote name, I wrote salary I wrote language these three instance attributes will be set, so if I pass here harry 13 lakh and javascript, then what will happen harry dot name will be set whatever I have passed harry dot salary will be saved means instance attribute will come of salary name, whatever I have passed harry dot language will come whatever I have passed, now I have passed language so language will come, whatever I have passed javascript will come in language I have passed 13 lakh in salary, it will come here I have passed harry so in name it will come here it is clear, we can understand things easily so I will run it and show you I wrote rohan is equal to employee because we have to pass three things so I will comment it and run it again so that it runs without error, so once you have done this, you have made init function then you have to pass these three values whenever you will make an object so you have run it so you can see I am creating an object which I was printing and harry and 13 lakh came, 12 lakh didn't come, if I print harry dot language, then you can see harry will come, 13 lakh will come and after that language will come, javascript so here harry came here 13 lakh came and here javascript came, so these three came here, harry came 13 lakh came and javascript came, I hope that makes sense so yeah that was about constructors in python, now we are going to see practice set of this chapter and I will see you there chapter 10 practice set's first question says, create a class programmer for storing information of few programmers working at microsoft so you have to make a class named programmer and after that you have to store information of programmers working for microsoft so I am making a folder named chapter 10 ps in this we will right click and open with code and after that we will make a file 01 underscore problem1.py and after that we will make a class programmer class programmer and we have to store information of programmers working at microsoft so how will I do this problem I will first write company is equal to microsoft which will be a class attribute because every programmer works here in microsoft and because every programmer is working in microsoft made from this particular class so I will make it a class attribute after that I will put a constructor and I will say def init after putting def init what I will do that in this their name name salary and pin code means where they live their pin code I will store these three things so I will write here self.name is equal to name and after that self.salary is equal to salary and after that self.pin is equal to pin after that I will write p is equal to programmer and I will put harry and after that I will put 12 lakhs salary and pin code will be 245001 245001 so I have a programmer if I print here p.name p.salary, p.pin and p.company what will be printed all information will be printed company will be there, pin code will be there here harry will be there whatever money is coming will be there after that if I write rohan and I will write rohan I will copy this and I will write here r r r r r and here rohan and after that I will run this and you can see rohan 12 lakhs and microsoft came so in this way we have made a class we are storing programmers working at microsoft, after that we have to make a class named calculator capable of finding square, cube and square root of a number so we will make a class named calculator so I will close chapter 10 vscode instance and here I will make 02 underscore problem 2.py what is problem number 2 saying problem number 2 is asking us to make a class calculator and what we have to do in this class that we have to make it such that it is capable of finding square, cube and square root of a number so what I will do first I will make a constructor and I in this constructor whatever number is there I will store it, so I will say n whatever number is there, give its value and I will say self dot n is equal to n and after doing this I will write a is equal to calculator suppose I make a class calculator and after this I make n or I make 45 or we take a small number 4 and after writing 4 what I will do I will make a function here and I will say def square self and I am not returning it, I am just printing it so I will print n star n the square is n star n so I used this f string and printed it, the square is n self dot n into self dot n and here bn will come so if I do self dot n then I will get value of n whatever I gave and after this if I do a dot square then here square of 4 which is 16 will be printed the square is 16 and you can do this with any number here we talked about square cube and square root so we will make remaining functions after square we had cube and after cube we had square root in cube we will write self dot n this is cube, I will make it cube and here I will do square root and how will I get square root here now you will say how will you get square root so I will do self dot n and I will do star star 1 by 2 so square root will be so I will show you if I do a dot square then what will happen and if I do a dot cube then what will happen and if I do a dot square root then what will happen square root and here cube and if I run this then see 16, 64 and 2.0 which means that we have made calculator which is capable of squaring, cubing and square rooting question number 3 is create a class with a class attribute a so we have to make a class with a class attribute a, create an object from it and set a directly using object dot a is equal to 0 so does this change the class attribute so the question is very simple and what we have discussed already is the same, so what I will do here problem3.py and here simply what is the question so the question is that we have to make a class with class attribute a so I will make a class with class attribute a suppose I name it demo and I name it a is equal to 4 then I make an object o is equal to and I write demo something like this then I write it directly o dot a is equal to 1 what is the question asking does this change the class attribute it is a very interesting question we have to make object dot a is equal to 0 so what I will do here is I will make it equal to 0 now if I print o dot a and I print o dot a before this first it will be 4 then it will be 0 this is understandable but the question has confused you are you getting my point the question has confused you that o dot a is being asked that it was 4 then it became 0 or class attribute is being asked you see class attribute is being asked does this change the class attribute the answer to this is you will think yes but it is no class attribute has not changed because if I instead of o dot a would have printed demo dot a if I would have done something like this demo dot a if I would have printed demo dot a then it would have been 4 which means class attribute has not changed but an instance attribute has been set so when I wrote here o dot a then it is printing class attribute class attribute because instance attribute is not present and because instance attribute was not present class attribute was printed but later instance attribute is set and once instance attribute is set then this instance attribute because interest sorry instance attribute is present understood the story friends prints the class attribute because instance attribute is not present first instance attribute was checked class attribute was a it was printed after this we set instance attribute when we wrote o dot a is equal to 0 then an instance attribute is set then when we print o dot a then first instance attribute is checked it was there so it is 0 but class attribute is also there it is not printed and here prints the class attribute so class attribute has changed no the answer is no very interesting question add a static method in problem 2 to greet the user with hello a very simple question 04 underscore problem 4 dot py what is this in question number 2 we have to add a static method we have to add a static method we have to add a static method and we have to write hello word ok so if i write a dot hello and run it then hello word will come we don't greet anyone like this i write hello there ok i am running it and you see hello there came why did it come because i have written a dot hello so this static method worked why i have added static method decorator because i am not using self here because i don't need self i don't want to access any instance attribute so i removed self cool amazing come on guys next question write a class train which has methods to book a ticket get status and get fair information of running trains under indian railway a very easy question we will do it in a very simple way so i will write here 05 underscore problem 5 dot py so we will make a class train after making a class train we will use a method book ticket so def book self and pass ok after this what will happen get status and get fair information so one will be here def get status and here self and pass i will write here and one will be get fair self and here pass ok so i have done this i have added all three methods and now what we will do here we will say that get status takes a train number train number and here also what we will do it also takes a train number it will take a train number and it will also take where it has to go it will take from and too so i will write fro because from is already reserved in python whatever keywords are reserved in python like def, pass, class from, because we use from to import i will tell you in the coming time how to use from but from is a reserved keyword in python so we can't use it so i wrote fro and here too and passed now what i will do here i will write the logic of this print ticket is booked in train number and here i will give this thing because when you are booking a ticket you will give train number from and too train number and here i will write f string and i will print train number and after this i will write from and fro and too i will write too so train is booked and here i will give a random number in get fare ticket fare fare in train number this from ye to ye is now i will give random dot ranint from 0 to 555 in fact i will do one thing from 222 to 5555 so we will import random import random ok after importing random i will write random dot ranint i can do one more thing from random import ranint ok import ranint so i can directly use ranint so from keyword is used i told you in use case and now you can see here get status if you do train number and i will print here that this train is running successfully train is running successfully train number this is running successfully is running on time i will write is running on time so now any here class sorry you can make object of train class you can set train number in that as an instance attribute there are tons of ways to solve this problem you can also do that here you can give a constructor and write a train number because this property of train number this if we give like this it will be better and i will write here self dot train number is equal to train number and it is not necessary that these variables are same but we should keep same ok so i will capital n and instead of saying train number here i can do self dot train number because train number is now part of self, part of object so wherever i am using train number i will do self dot train number and i think this is a better way to solve this problem because class train is there so its instance attribute will be train number and after that whatever work will be done so i will simply write here t is equal to train of 12399 and after that i will write t dot book i will write here from rampur and then i will write delhi ok now i will run this and you can see here it is writing ticket is booked in train number 12399 from rampur to delhi so the way ticket is booked here we can check other methods so lets do it i have done get status and then get fare from and to is coming in get fare in get status, nothing is coming just train number is required lets run and you can see train number 12399 is running on time and then ticket fare is 1833 which is ok actually its expensive depends on which sleeper or third AC which coach fare it is depends on but anyways you can see here we have come to next question next question is can you change the self parameter inside a class or something else say harry try changing self to slf or harry and see the effects for this i will use same program so we will make 06 underscore problem 6 dot py and i will copy problem number 5 and paste it and question is you are using self here if you use slf then what will happen i told you it will happen or not i want you to comment with time stamp i want to know from you i want you to make two way interaction you also comment in comment section what will happen if i use slf will there be any problem the answer is no if you are using slf here then you have to use slf here and when i will run it you can see nothing happened if i will write slf to self as harry then what will happen if i will write harry dot slf see nothing will happen but it is not a good practice why would you want to write harry in place of self readability of program will be spoiled but again your output will be intact there will be no effect in your output this is very important for you and with that said chapter 10 is wrapped i am really very happy with the pace we are going and it will be fun in chapter 11 see you all in chapter 11 so guys today we are going to do chapter 11 which is inheritance and we will talk a little more about oops so first of all i will make a folder for you of chapter 11 and by right clicking i will open with code and here i will tell you about inheritance so what is the meaning of inheritance inheritance means i will explain to you what happens, suppose we have a class and that is employee and in that class suppose we have a lot of information we have some show method which prints employee the name is self.name or the salary is name.salary self.salary and the salary is self.salary suppose we have a class now i want to make a programmer class and i want the same show method plus some other methods i want show method and show language suppose we have a method and i will print the name is self.name and he is good and he is good he is good with this self.language this self.language suppose i have a new object attribute which is also called instance attribute so here it will come and i want to extend it this method is looking good we have taken all the methods of employee and all the properties and suppose we have one more thing address or company suppose we have ITC now suppose i want the programmer to be ITC info tag so what i will do here i will say company is equal to ITC info tag suppose i make one object a is equal to employee and i make one object b is equal to programmer programmer and if i will print a.company and b.company so you will see one time itc will be printed and one time itc info tag will be printed because i changed the company in the other one so if i want all the methods of a particular class and instances so one way is to copy it now here there is only one method show if there are 50 more methods like show so what we will do, you will say let's copy paste how much code is there, let's select from here copy and make another class but if i will copy and make 10 classes from one class, listen to me carefully i will copy different classes from one class and make so my biggest challenge is that if i have to change later then i have to change all those 10 classes and this process becomes very cumbersome and error prone also means i can make mistake in changing for example if someone said to me for some reason here the name is name of the employee we have to write this so i have to change that here also because i want to keep this show method same i want to keep it consistent within classes so this method is not good instead of doing this what i will do, i will use inheritance, i will say programmer is a class which i am inheriting from employee means whatever was in employee is in programmer rest there are many other things which i want to change or add for example if i do something like this let's say i show you that what i did here, i inherited programmer from employee now if i run this, you can see itc, itc info tech is coming, so basically the work i was doing in so many lines of code i did in so less lines of code so whatever i want to change i have to do it in one place in employee and rest all places will be updated rest all places will be updated why will it be updated? because we are making programmer class from employee and we have made a base class this is called base class and parent class also called it and what is this called? this is called inherited class now i come here and show you what is base class and derived class base class means from which we are making derived class means which is derived inheritance is a way of creating a new class from an existing class what is syntax? we saw something like this write employee in bracket in programmer derived class or child class will be made we can use the method and attributes of employee and programmer object means all its methods and attributes will come here automatically without doing anything means you said once make programmer from employee so all methods and attributes of employee will come automatically in programmer if you want to add something else then write here write code here like we added one more function show language show language will not be in employee but in programmer because i have made programmer from employee and i have said that all methods and attributes of employee i need a show language function in programmer so i will tell you about types of inheritance one is single inheritance means derived class is made from base class it is simple multiple inheritance is there like your child class inherits from more than one parent like suppose i want employee also comes in programmer means all methods and attributes of employee comes in programmer and also of another class so i will show you example of multiple inheritance multiple inheritance dot py and i will show you suppose i have an employee class and i have a coder class, coder can be any coder who codes in his house suppose i have a function and in that suppose i have a language and by default language is python for everyone for all, by default language is python and suppose i write a function and i write print languages and i write self and i will print and i will write f and i will write out of all the languages here is your language suppose i have made simple one self dot language i have written simple that your language is this and now i will make programmer from both employee and coder so when i am making from both i will use this syntax means in programmer all methods and properties of coder will be there so i will run this and you can see itc infotech is coming"
+}

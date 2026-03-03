@@ -1,0 +1,4205 @@
+{
+  "chunks": [
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 0.0,
+      "end": 3.0,
+      "text": " now let's talk about some more advanced slicing techniques"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 3.0,
+      "end": 6.0,
+      "text": " which I have already told you that if nothing is written here then"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 6.0,
+      "end": 9.0,
+      "text": " put zero here, if nothing is written here then what to put"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 9.0,
+      "end": 12.0,
+      "text": " put its length 1,2,3,4,5,6,7 was the length"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 12.0,
+      "end": 15.0,
+      "text": " so here 7 is put, if it is empty here then 7"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 15.0,
+      "end": 18.0,
+      "text": " if it is here then 0, I hope you got the point"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 18.0,
+      "end": 21.0,
+      "text": " now there are some functions of string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 21.0,
+      "end": 24.0,
+      "text": " by using which we can manipulate strings"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 24.0,
+      "end": 27.0,
+      "text": " or we can get some information about them"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 27.0,
+      "end": 30.0,
+      "text": " the first and most important function is len"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 30.0,
+      "end": 33.0,
+      "text": " so what I will do here is 0,3, underscore"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 33.0,
+      "end": 36.0,
+      "text": " and I will write str"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 36.0,
+      "end": 39.0,
+      "text": " functions.py, the first and most important function"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 39.0,
+      "end": 42.0,
+      "text": " is len, which tells you the length of the string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 42.0,
+      "end": 45.0,
+      "text": " so if I have this string and I will print"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 45.0,
+      "end": 48.0,
+      "text": " len of name, then what will happen"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 48.0,
+      "end": 51.0,
+      "text": " that you will get the length of this string which is 5"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 51.0,
+      "end": 54.0,
+      "text": " now see here 5 is printed, means"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 54.0,
+      "end": 57.0,
+      "text": " the length of this string is 5, then there is another method"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 57.0,
+      "end": 60.0,
+      "text": " ends with, which tells you that is this string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 60.0,
+      "end": 63.0,
+      "text": " ending with rry"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 63.0,
+      "end": 66.0,
+      "text": " so here the string which is written will be the variable"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 66.0,
+      "end": 69.0,
+      "text": " like in this case if my name is there then name will come, so what I will do"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 69.0,
+      "end": 72.0,
+      "text": " I will print, I will write name.endswith"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 72.0,
+      "end": 75.0,
+      "text": " and see how good VS code is"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 75.0,
+      "end": 78.0,
+      "text": " recommending you, below it is suggesting things"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 78.0,
+      "end": 81.0,
+      "text": " ends with written rry, so it will show true here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 81.0,
+      "end": 84.0,
+      "text": " so this thing will give me true"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 84.0,
+      "end": 87.0,
+      "text": " because this string harry is ending with rry"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 87.0,
+      "end": 90.0,
+      "text": " rrya is ending with this, no"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 90.0,
+      "end": 93.0,
+      "text": " rrya is not ending with this, so it is false"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 93.0,
+      "end": 96.0,
+      "text": " rrya is ending with this, rrya is not ending with this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 96.0,
+      "end": 99.0,
+      "text": " so you should know this thing"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 99.0,
+      "end": 102.0,
+      "text": " what is endswith, like endswith, there is startswith"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 102.0,
+      "end": 105.0,
+      "text": " startswith"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 105.0,
+      "end": 108.0,
+      "text": " and here ha"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 108.0,
+      "end": 111.0,
+      "text": " if I write ha, then will it give startswith true, now you tell me in the comment"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 111.0,
+      "end": 114.0,
+      "text": " if I write h, then will it give false or true"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 114.0,
+      "end": 117.0,
+      "text": " you are right, it will give false"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 117.0,
+      "end": 120.0,
+      "text": " because H and h are different characters, this function is case sensitive"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 120.0,
+      "end": 123.0,
+      "text": " you should know this thing, so I wrote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 123.0,
+      "end": 126.0,
+      "text": " name.startswith ha, name.endswith"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 126.0,
+      "end": 129.0,
+      "text": " rry, there are many methods of string, like I will tell you"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 129.0,
+      "end": 132.0,
+      "text": " if I write print and I write name."
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 132.0,
+      "end": 135.0,
+      "text": " means I capitalize and I do like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 135.0,
+      "end": 138.0,
+      "text": " so what will happen, it will return capitalize string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 138.0,
+      "end": 141.0,
+      "text": " means if my string is harry"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 141.0,
+      "end": 144.0,
+      "text": " so what it will do, it will capitalize"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 144.0,
+      "end": 147.0,
+      "text": " it will capitalize"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 147.0,
+      "end": 150.0,
+      "text": " if I write harry r, then it will not do anything to r"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 150.0,
+      "end": 153.0,
+      "text": " it will capitalize only h, means first"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 153.0,
+      "end": 156.0,
+      "text": " character will be capitalized, and if you"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 156.0,
+      "end": 159.0,
+      "text": " give something else after space, then it will not do anything, so many people"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 159.0,
+      "end": 162.0,
+      "text": " get confused that does it capitalize every word, no"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 162.0,
+      "end": 165.0,
+      "text": " it does only starting character, there are many methods"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 165.0,
+      "end": 168.0,
+      "text": " of string and we will use chat gpt"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 168.0,
+      "end": 171.0,
+      "text": " you should know this and I will tell you"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 171.0,
+      "end": 174.0,
+      "text": " how we will use chat gpt, what we will do"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 174.0,
+      "end": 177.0,
+      "text": " we will open a new chat in chat gpt"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 177.0,
+      "end": 180.0,
+      "text": " and what we will do here, we will write"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 180.0,
+      "end": 183.0,
+      "text": " give me"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 183.0,
+      "end": 186.0,
+      "text": " most used string functions"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 186.0,
+      "end": 189.0,
+      "text": " in python, yes I know I wrote wrong spelling of functions"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 189.0,
+      "end": 192.0,
+      "text": " but chat gpt will do it, this is beauty"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 192.0,
+      "end": 195.0,
+      "text": " see it told me about len, str"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 195.0,
+      "end": 198.0,
+      "text": " we saw about typecasting, then"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 198.0,
+      "end": 201.0,
+      "text": " if you lower dot, it will come in lower case, if you upper dot, it will come in upper case"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 201.0,
+      "end": 204.0,
+      "text": " if you capitalize dot, it will be capitalized"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 204.0,
+      "end": 207.0,
+      "text": " if you title dot, what it will do"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 207.0,
+      "end": 210.0,
+      "text": " first character of each word, means"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 210.0,
+      "end": 213.0,
+      "text": " like I told you, if I write harry r"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 213.0,
+      "end": 216.0,
+      "text": " it will capitalize a, so like this you"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 216.0,
+      "end": 219.0,
+      "text": " can explore many methods, do you need to remember them"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 219.0,
+      "end": 222.0,
+      "text": " I will say no, you don't need to remember them, I have"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 222.0,
+      "end": 225.0,
+      "text": " put all methods in python handbook for you"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 225.0,
+      "end": 228.0,
+      "text": " which will be useful for you, so here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 228.0,
+      "end": 231.0,
+      "text": " what we will do, I told you string dot capitalize, string dot"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 231.0,
+      "end": 234.0,
+      "text": " find what it does, this function finds a word"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 234.0,
+      "end": 237.0,
+      "text": " and returns the index of first occurrence of"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 237.0,
+      "end": 240.0,
+      "text": " that word in this string, so what it will do, like I wrote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 240.0,
+      "end": 243.0,
+      "text": " hello world and I am searching the word, so what it will do"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 243.0,
+      "end": 246.0,
+      "text": " it will come on index 0, 1, 2, 3, 4, 5"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 246.0,
+      "end": 249.0,
+      "text": " 5 for the white space, it will come on 6, so output will be 6"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 249.0,
+      "end": 252.0,
+      "text": " I hope you got it, now after this we will replace string dot"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 252.0,
+      "end": 255.0,
+      "text": " old word, new word, so the first occurrence of old word"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 255.0,
+      "end": 258.0,
+      "text": " it will replace that, so what string dot"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 258.0,
+      "end": 261.0,
+      "text": " replaces, it replaces all the occurrences, like I"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 261.0,
+      "end": 264.0,
+      "text": " show you, if I show you repl"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 264.0,
+      "end": 267.0,
+      "text": " and I write python here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 267.0,
+      "end": 270.0,
+      "text": " and I write here a is equal to harry is a"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 270.0,
+      "end": 273.0,
+      "text": " good, good boy, now if I write here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 273.0,
+      "end": 276.0,
+      "text": " a dot replace, that replace good"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 276.0,
+      "end": 279.0,
+      "text": " by bad, so it will be bad bad boy"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 279.0,
+      "end": 282.0,
+      "text": " means it takes all the occurrences in account and changes all the occurrences"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 282.0,
+      "end": 285.0,
+      "text": " so you should know this dot replace"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 285.0,
+      "end": 288.0,
+      "text": " function, after this we will talk about escape sequence"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 288.0,
+      "end": 291.0,
+      "text": " characters, what are escape sequence characters"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 291.0,
+      "end": 294.0,
+      "text": " escape sequence characters are special"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 294.0,
+      "end": 297.0,
+      "text": " type of characters in python, by the way before"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 297.0,
+      "end": 300.0,
+      "text": " I tell you escape sequence characters, I want you to"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 300.0,
+      "end": 303.0,
+      "text": " write two methods string in the comment"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 303.0,
+      "end": 306.0,
+      "text": " which I didn't tell you, you can use chart gpt"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 306.0,
+      "end": 309.0,
+      "text": " I am in favor of using chart gpt"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 309.0,
+      "end": 312.0,
+      "text": " people think chart gpt is bad, you won't do it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 312.0,
+      "end": 315.0,
+      "text": " someone else will use it and become more productive than you"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 315.0,
+      "end": 318.0,
+      "text": " that's why I am a person who is the traditional classroom"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 318.0,
+      "end": 321.0,
+      "text": " teachers, I go somewhere"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 321.0,
+      "end": 324.0,
+      "text": " and tell them to use chart gpt, they say don't use chart gpt"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 324.0,
+      "end": 327.0,
+      "text": " because they think you will cheat in exam"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 327.0,
+      "end": 330.0,
+      "text": " I have come here to take you up in the industry"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 330.0,
+      "end": 333.0,
+      "text": " that's why I am saying use chart gpt and"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 333.0,
+      "end": 336.0,
+      "text": " write two functions in the comment, just think if everyone wrote two functions"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 336.0,
+      "end": 339.0,
+      "text": " then how much will we learn including myself"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 339.0,
+      "end": 342.0,
+      "text": " I will also learn by reading your comments, so let's go"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 342.0,
+      "end": 345.0,
+      "text": " everyone write two methods of string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 345.0,
+      "end": 348.0,
+      "text": " ok, let's come back to this escape sequence"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 348.0,
+      "end": 351.0,
+      "text": " characters, what happens is if you want to print a new line in a string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 351.0,
+      "end": 354.0,
+      "text": " I will make a new file here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 354.0,
+      "end": 357.0,
+      "text": " 0 4 underscore escape underscore sequence"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 357.0,
+      "end": 360.0,
+      "text": " dot py, let's say I wrote a is equal to"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 360.0,
+      "end": 363.0,
+      "text": " I wrote harry is a good boy"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 363.0,
+      "end": 366.0,
+      "text": " and after this I want to give a new line"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 366.0,
+      "end": 369.0,
+      "text": " but not a bad boy, let's say I do something like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 369.0,
+      "end": 372.0,
+      "text": " let's say I am a noob and I don't know anything"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 372.0,
+      "end": 375.0,
+      "text": " what I will do is I will try to run this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 375.0,
+      "end": 378.0,
+      "text": " what happened, unterminated string literal"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 378.0,
+      "end": 381.0,
+      "text": " what happened, this is absolutely right"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 381.0,
+      "end": 384.0,
+      "text": " you can't do it like this, if you"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 384.0,
+      "end": 387.0,
+      "text": " made a string using double quote or single quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 387.0,
+      "end": 390.0,
+      "text": " you cannot press enter and expect"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 390.0,
+      "end": 393.0,
+      "text": " that enter to appear in the output, you can't do it like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 393.0,
+      "end": 396.0,
+      "text": " so I want a new line after boy"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 396.0,
+      "end": 399.0,
+      "text": " you can use escape sequence character"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 399.0,
+      "end": 402.0,
+      "text": " you can use backslash which is above your enter"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 402.0,
+      "end": 405.0,
+      "text": " this is your backslash, if you can see"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 405.0,
+      "end": 408.0,
+      "text": " this button, can you see this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 408.0,
+      "end": 411.0,
+      "text": " this is backslash, I will show you by lifting it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 411.0,
+      "end": 414.0,
+      "text": " so this is backslash, we pressed this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 414.0,
+      "end": 417.0,
+      "text": " and after backslash you press n, backslash n"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 417.0,
+      "end": 420.0,
+      "text": " is a special character which is manipulated in new line"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 420.0,
+      "end": 423.0,
+      "text": " so starting from backslash"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 423.0,
+      "end": 426.0,
+      "text": " we have some escape sequence characters"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 426.0,
+      "end": 429.0,
+      "text": " which have a special meaning, here backslash n"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 429.0,
+      "end": 432.0,
+      "text": " means put a new line, so I will run this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 432.0,
+      "end": 435.0,
+      "text": " now see a new line came here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 435.0,
+      "end": 438.0,
+      "text": " if I put a new line after bat, will there be a new line"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 438.0,
+      "end": 441.0,
+      "text": " yes, harry is a good boy but not a bad boy"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 441.0,
+      "end": 444.0,
+      "text": " and see a new line came here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 444.0,
+      "end": 447.0,
+      "text": " and a space came here, because new line has space and then boy"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 447.0,
+      "end": 450.0,
+      "text": " and then this got printed, did you see"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 450.0,
+      "end": 453.0,
+      "text": " how amazing this escape sequence character is, are there more escape sequence characters"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 453.0,
+      "end": 456.0,
+      "text": " yes, like there is a backslash t escape sequence character"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 456.0,
+      "end": 459.0,
+      "text": " which gives the space as much as tab"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 460.0,
+      "end": 463.0,
+      "text": " we have more escape sequence characters"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 463.0,
+      "end": 466.0,
+      "text": " and you should know that escape sequence characters"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 466.0,
+      "end": 469.0,
+      "text": " hold special meaning in your program"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 469.0,
+      "end": 472.0,
+      "text": " for example, if I want to put a double quote in double quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 472.0,
+      "end": 475.0,
+      "text": " how will I do it, suppose I want to put boy in double quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 475.0,
+      "end": 478.0,
+      "text": " if I put double quote here, python will get confused"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 478.0,
+      "end": 481.0,
+      "text": " python will ask where is your string ending"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 481.0,
+      "end": 484.0,
+      "text": " and where is your double quote, it won't know"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 484.0,
+      "end": 487.0,
+      "text": " python will say this is your string ending double quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 488.0,
+      "end": 491.0,
+      "text": " or if you want to print this double quote, you can print it any time"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 491.0,
+      "end": 494.0,
+      "text": " if I run this, there will be an error"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 494.0,
+      "end": 497.0,
+      "text": " but if I want this double quote to come here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 497.0,
+      "end": 500.0,
+      "text": " then I will write backslash double quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 500.0,
+      "end": 503.0,
+      "text": " backslash double quote will be manipulated as double quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 503.0,
+      "end": 506.0,
+      "text": " python will read it as a double quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 506.0,
+      "end": 509.0,
+      "text": " and if I run this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 509.0,
+      "end": 512.0,
+      "text": " but not a bad boy, double quote came here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 512.0,
+      "end": 515.0,
+      "text": " as I wanted, did you see this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 516.0,
+      "end": 519.0,
+      "text": " and you saw here harry is a good boy but not a bad boy"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 519.0,
+      "end": 522.0,
+      "text": " double quote came here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 522.0,
+      "end": 525.0,
+      "text": " I love the way python is designed, now if I talk about single quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 525.0,
+      "end": 528.0,
+      "text": " then I can write single quote like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 528.0,
+      "end": 531.0,
+      "text": " but if I made this string with single quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 531.0,
+      "end": 534.0,
+      "text": " I will show you by writing single quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 534.0,
+      "end": 537.0,
+      "text": " now if I run this, single quote came"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 537.0,
+      "end": 540.0,
+      "text": " but you know that in python, I told you that you can make this string with single quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 540.0,
+      "end": 543.0,
+      "text": " so if I make this string with single quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 543.0,
+      "end": 546.0,
+      "text": " then how will I know that this is single quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 546.0,
+      "end": 549.0,
+      "text": " or this is single quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 549.0,
+      "end": 552.0,
+      "text": " which you are expecting, so same thing"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 552.0,
+      "end": 555.0,
+      "text": " single quote will come from backslash single quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 555.0,
+      "end": 558.0,
+      "text": " so this was our escape sequence characters"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 558.0,
+      "end": 561.0,
+      "text": " so I want to request you guys"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 561.0,
+      "end": 564.0,
+      "text": " go to chat gpt and bring some more escape sequence characters"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 564.0,
+      "end": 567.0,
+      "text": " like I showed you guys"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 567.0,
+      "end": 570.0,
+      "text": " escape sequence characters of single quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 570.0,
+      "end": 573.0,
+      "text": " backslash t tab, backslash n newline"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 573.0,
+      "end": 576.0,
+      "text": " backslash backslash, literal backslash"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 576.0,
+      "end": 579.0,
+      "text": " if you have to use backslash literally then you will use backslash backslash"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 579.0,
+      "end": 582.0,
+      "text": " I want you guys to go to chat gpt and tell me one or two more escape sequence characters"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 582.0,
+      "end": 585.0,
+      "text": " although this is enough"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 585.0,
+      "end": 588.0,
+      "text": " in fact more than enough escape sequence characters"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 588.0,
+      "end": 591.0,
+      "text": " but go and explore yourself"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 591.0,
+      "end": 594.0,
+      "text": " I will tell you guys, by using your AI"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 594.0,
+      "end": 597.0,
+      "text": " the power to make yourself productive will increase"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 597.0,
+      "end": 600.0,
+      "text": " so let's move to chapter 3 practice set"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 600.0,
+      "end": 603.0,
+      "text": " but before that I want to request you guys"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 603.0,
+      "end": 606.0,
+      "text": " to like this video and comment below"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 606.0,
+      "end": 609.0,
+      "text": " this python course is helpful"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 609.0,
+      "end": 612.0,
+      "text": " and I will give you guys one by one"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 612.0,
+      "end": 615.0,
+      "text": " if you guys write like this then I will know that you have come this far"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 615.0,
+      "end": 618.0,
+      "text": " and you have completed this course so far"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 618.0,
+      "end": 621.0,
+      "text": " so please like and comment, I will feel good"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 621.0,
+      "end": 624.0,
+      "text": " music"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 624.0,
+      "end": 627.0,
+      "text": " so guys it's fun"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 627.0,
+      "end": 630.0,
+      "text": " let's set chapter 3 practice"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 630.0,
+      "end": 633.0,
+      "text": " and make some ambience before setting practice"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 633.0,
+      "end": 636.0,
+      "text": " so I will make a folder for chapter 3 practice set"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 636.0,
+      "end": 639.0,
+      "text": " and I will shift right click that folder and open it in VS code"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 639.0,
+      "end": 642.0,
+      "text": " I will make a new file"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 642.0,
+      "end": 645.0,
+      "text": " 01 underscore problem1.py"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 645.0,
+      "end": 648.0,
+      "text": " first question is"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 648.0,
+      "end": 651.0,
+      "text": " to display a user entered name followed by good afternoon"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 651.0,
+      "end": 654.0,
+      "text": " so what we have to do is"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 654.0,
+      "end": 657.0,
+      "text": " we have to ask user to tell us his name"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 657.0,
+      "end": 660.0,
+      "text": " so we will input enter your name"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 660.0,
+      "end": 663.0,
+      "text": " we asked user and that name came in name variable"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 663.0,
+      "end": 666.0,
+      "text": " now we will print"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 666.0,
+      "end": 669.0,
+      "text": " and we will say good afternoon"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 669.0,
+      "end": 672.0,
+      "text": " and then we will write name"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 672.0,
+      "end": 675.0,
+      "text": " now I will tell you guys a new way to write name"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 675.0,
+      "end": 678.0,
+      "text": " which is a new method in python, python 3.6 onwards"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 678.0,
+      "end": 681.0,
+      "text": " it's called f strings"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 681.0,
+      "end": 684.0,
+      "text": " you write f here and you marked it as f string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 684.0,
+      "end": 687.0,
+      "text": " and you can use variables in this string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 687.0,
+      "end": 690.0,
+      "text": " by putting curly bracket like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 690.0,
+      "end": 693.0,
+      "text": " if you have written f here and good afternoon"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 693.0,
+      "end": 696.0,
+      "text": " and if you have written name here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 696.0,
+      "end": 699.0,
+      "text": " then name variable value will come here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 699.0,
+      "end": 702.0,
+      "text": " and good afternoon will be printed like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 702.0,
+      "end": 705.0,
+      "text": " but the condition is that you have marked it as f string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 705.0,
+      "end": 708.0,
+      "text": " earlier when f string was not there"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 708.0,
+      "end": 711.0,
+      "text": " people used to use format function and sometimes they used to do this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 711.0,
+      "end": 714.0,
+      "text": " which they didn't have to do"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 714.0,
+      "end": 717.0,
+      "text": " because they didn't know how to do it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 717.0,
+      "end": 720.0,
+      "text": " they used to do concatenation like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 720.0,
+      "end": 723.0,
+      "text": " then they wrote plus and then they wrote double quote"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 723.0,
+      "end": 726.0,
+      "text": " you understand how big problem it is"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 726.0,
+      "end": 729.0,
+      "text": " you wrote one string and then you wrote plus"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 729.0,
+      "end": 732.0,
+      "text": " there is no need to do this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 732.0,
+      "end": 735.0,
+      "text": " so if I run this program and I will write my name"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 735.0,
+      "end": 738.0,
+      "text": " then you see good afternoon harry"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 738.0,
+      "end": 741.0,
+      "text": " if you want you can put comma here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 741.0,
+      "end": 744.0,
+      "text": " yes you have to write f if you are using f string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 744.0,
+      "end": 747.0,
+      "text": " because if you don't write f then it will not know that you want f string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 747.0,
+      "end": 750.0,
+      "text": " and it will be printed like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 750.0,
+      "end": 753.0,
+      "text": " I have seen this kind of errors in applications"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 753.0,
+      "end": 756.0,
+      "text": " and I understand that he has tried to make f string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 756.0,
+      "end": 759.0,
+      "text": " and variable name comes sometimes it comes like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 759.0,
+      "end": 762.0,
+      "text": " but again we will put f now"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 762.0,
+      "end": 765.0,
+      "text": " we are not that kind of developer we will write very clean code"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 765.0,
+      "end": 768.0,
+      "text": " let's move to next question"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 768.0,
+      "end": 771.0,
+      "text": " our next question is to write a program"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 771.0,
+      "end": 774.0,
+      "text": " which will fill name and date in this letter"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 774.0,
+      "end": 777.0,
+      "text": " how will we do it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 777.0,
+      "end": 780.0,
+      "text": " first of all we will make a file"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 780.0,
+      "end": 783.0,
+      "text": " 02 underscore and here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 783.0,
+      "end": 786.0,
+      "text": " problem2.py and here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 786.0,
+      "end": 789.0,
+      "text": " letter is equal to dear name"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 789.0,
+      "end": 792.0,
+      "text": " you are selected"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 792.0,
+      "end": 795.0,
+      "text": " you are selected and then date"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 795.0,
+      "end": 798.0,
+      "text": " what I will do is print"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 798.0,
+      "end": 801.0,
+      "text": " and I will do letter.replace"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 801.0,
+      "end": 804.0,
+      "text": " I will say do this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 804.0,
+      "end": 807.0,
+      "text": " replace name with this thing"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 807.0,
+      "end": 810.0,
+      "text": " what you do replace it with name"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 810.0,
+      "end": 813.0,
+      "text": " which is harry"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 813.0,
+      "end": 816.0,
+      "text": " this will return a string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 816.0,
+      "end": 819.0,
+      "text": " this will return a string and what I will do"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 819.0,
+      "end": 822.0,
+      "text": " I will replace this too"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 822.0,
+      "end": 825.0,
+      "text": " I will write dot replace"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 825.0,
+      "end": 828.0,
+      "text": " now you will say what have you done"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 828.0,
+      "end": 831.0,
+      "text": " I will explain it again"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 831.0,
+      "end": 834.0,
+      "text": " and here we will write"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 834.0,
+      "end": 837.0,
+      "text": " 24 september"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 837.0,
+      "end": 840.0,
+      "text": " ok"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 840.0,
+      "end": 843.0,
+      "text": " 2050"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 843.0,
+      "end": 846.0,
+      "text": " we will run it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 846.0,
+      "end": 849.0,
+      "text": " and you see"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 849.0,
+      "end": 852.0,
+      "text": " if you want you can write like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 852.0,
+      "end": 855.0,
+      "text": " and now you see"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 855.0,
+      "end": 858.0,
+      "text": " dear harry you are selected 24 september 2050"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 858.0,
+      "end": 861.0,
+      "text": " you can remove this space too"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 861.0,
+      "end": 864.0,
+      "text": " what happened"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 864.0,
+      "end": 867.0,
+      "text": " first I said that this letter string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 867.0,
+      "end": 870.0,
+      "text": " now this is a string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 870.0,
+      "end": 873.0,
+      "text": " then I said replace date with this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 873.0,
+      "end": 876.0,
+      "text": " so that string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 876.0,
+      "end": 879.0,
+      "text": " I replaced date with this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 879.0,
+      "end": 882.0,
+      "text": " if I don't write this replace"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 882.0,
+      "end": 885.0,
+      "text": " and print it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 885.0,
+      "end": 888.0,
+      "text": " then date is written like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 888.0,
+      "end": 891.0,
+      "text": " but what I did"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 891.0,
+      "end": 894.0,
+      "text": " I said replace string with this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 894.0,
+      "end": 897.0,
+      "text": " dot replace function"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 897.0,
+      "end": 900.0,
+      "text": " you can do chaining"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 900.0,
+      "end": 903.0,
+      "text": " I hope you got the point"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 903.0,
+      "end": 906.0,
+      "text": " I hope you understood how to do chaining"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 906.0,
+      "end": 909.0,
+      "text": " next question"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 909.0,
+      "end": 912.0,
+      "text": " how will you do double space in a string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 912.0,
+      "end": 915.0,
+      "text": " this is an interesting problem"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 915.0,
+      "end": 918.0,
+      "text": " problem 3.py"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 918.0,
+      "end": 921.0,
+      "text": " and what we have to do"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 921.0,
+      "end": 924.0,
+      "text": " is good double space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 924.0,
+      "end": 927.0,
+      "text": " and I have to detect this double space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 927.0,
+      "end": 930.0,
+      "text": " how will I do"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 930.0,
+      "end": 933.0,
+      "text": " name.find"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 933.0,
+      "end": 936.0,
+      "text": " what is index find"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 936.0,
+      "end": 939.0,
+      "text": " I took a substring"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 939.0,
+      "end": 942.0,
+      "text": " and when I run it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 942.0,
+      "end": 945.0,
+      "text": " it will give me index"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 945.0,
+      "end": 948.0,
+      "text": " and if I put double space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 948.0,
+      "end": 951.0,
+      "text": " now if I put double space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 951.0,
+      "end": 954.0,
+      "text": " it will give me 15"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 954.0,
+      "end": 957.0,
+      "text": " which means"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 957.0,
+      "end": 960.0,
+      "text": " it is telling me that there is double space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 960.0,
+      "end": 963.0,
+      "text": " so this is a double space detection program"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 963.0,
+      "end": 966.0,
+      "text": " which is telling me if there is double space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 966.0,
+      "end": 969.0,
+      "text": " if it is minus 1 then it is not double space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 969.0,
+      "end": 972.0,
+      "text": " and if it is not minus 1"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 972.0,
+      "end": 975.0,
+      "text": " then it is double space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 975.0,
+      "end": 978.0,
+      "text": " and this double space detection"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 978.0,
+      "end": 981.0,
+      "text": " returns this substring index"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 981.0,
+      "end": 984.0,
+      "text": " in this parent string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 984.0,
+      "end": 987.0,
+      "text": " what does it mean"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 987.0,
+      "end": 990.0,
+      "text": " it means if I write here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 990.0,
+      "end": 993.0,
+      "text": " GOO"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 993.0,
+      "end": 996.0,
+      "text": " it will tell me that in this string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 996.0,
+      "end": 999.0,
+      "text": " 012345678910"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 999.0,
+      "end": 1002.0,
+      "text": " 11 is coming"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1002.0,
+      "end": 1005.0,
+      "text": " so it will say that your GOO is on 11th index"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1005.0,
+      "end": 1008.0,
+      "text": " similarly double space is on which index"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1008.0,
+      "end": 1011.0,
+      "text": " if it is there then it will tell"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1011.0,
+      "end": 1014.0,
+      "text": " and if it is not there then it returns minus 1"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1014.0,
+      "end": 1017.0,
+      "text": " so string method is find"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1017.0,
+      "end": 1020.0,
+      "text": " which returns minus 1 if it didn't get occurrence"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1020.0,
+      "end": 1023.0,
+      "text": " and index returns if it got substring"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1023.0,
+      "end": 1026.0,
+      "text": " so in this case substring is double space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1026.0,
+      "end": 1029.0,
+      "text": " and if double space is there then it will come"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1029.0,
+      "end": 1032.0,
+      "text": " if it is minus 1 then it is not double space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1032.0,
+      "end": 1035.0,
+      "text": " and if it is not minus 1 then it is double space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1035.0,
+      "end": 1038.0,
+      "text": " so this is a double space detector"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1038.0,
+      "end": 1041.0,
+      "text": " I hope you understood"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1041.0,
+      "end": 1044.0,
+      "text": " now it is saying that replace the double space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1044.0,
+      "end": 1047.0,
+      "text": " from problem 3 with single spaces"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1047.0,
+      "end": 1050.0,
+      "text": " I will copy problem 3"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1050.0,
+      "end": 1053.0,
+      "text": " and write problem4"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1053.0,
+      "end": 1056.0,
+      "text": " problem4.py"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1056.0,
+      "end": 1059.0,
+      "text": " and here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1059.0,
+      "end": 1062.0,
+      "text": " I have to replace"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1062.0,
+      "end": 1065.0,
+      "text": " so I will replace double space with single space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1065.0,
+      "end": 1068.0,
+      "text": " and this is a function which will replace double space with single space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1068.0,
+      "end": 1071.0,
+      "text": " so double space is gone"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1071.0,
+      "end": 1074.0,
+      "text": " where double space was there is single space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1074.0,
+      "end": 1077.0,
+      "text": " easy peasy lemon squeezy"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1077.0,
+      "end": 1080.0,
+      "text": " I hope you understood"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1080.0,
+      "end": 1083.0,
+      "text": " we used simple method"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1083.0,
+      "end": 1086.0,
+      "text": " strings are immutable"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1086.0,
+      "end": 1089.0,
+      "text": " if you used method on string then original string will be there"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1089.0,
+      "end": 1092.0,
+      "text": " if I print name"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1092.0,
+      "end": 1095.0,
+      "text": " then it will be same"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1095.0,
+      "end": 1098.0,
+      "text": " so name string will not change"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1098.0,
+      "end": 1101.0,
+      "text": " this is very important"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1101.0,
+      "end": 1104.0,
+      "text": " name string is not changed"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1104.0,
+      "end": 1107.0,
+      "text": " it is a new string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1107.0,
+      "end": 1110.0,
+      "text": " name string is not changed"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1110.0,
+      "end": 1113.0,
+      "text": " so this function makes a new string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1113.0,
+      "end": 1116.0,
+      "text": " and prints it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1116.0,
+      "end": 1119.0,
+      "text": " this is called immutability of strings"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1119.0,
+      "end": 1122.0,
+      "text": " I want to emphasize"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1122.0,
+      "end": 1125.0,
+      "text": " strings are immutable"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1125.0,
+      "end": 1128.0,
+      "text": " which means"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1128.0,
+      "end": 1131.0,
+      "text": " you cannot change them"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1131.0,
+      "end": 1134.0,
+      "text": " by executing or running functions"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1134.0,
+      "end": 1137.0,
+      "text": " on them"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1137.0,
+      "end": 1140.0,
+      "text": " if you run function on list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1140.0,
+      "end": 1143.0,
+      "text": " then original list will be changed"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1143.0,
+      "end": 1146.0,
+      "text": " not string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1146.0,
+      "end": 1149.0,
+      "text": " I hope I am able to explain you all"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1149.0,
+      "end": 1152.0,
+      "text": " so we have done 4th question"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1152.0,
+      "end": 1155.0,
+      "text": " now we will do 5th question"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1155.0,
+      "end": 1158.0,
+      "text": " write a program to format the following letter"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1158.0,
+      "end": 1161.0,
+      "text": " this letter is not formatted properly"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1161.0,
+      "end": 1164.0,
+      "text": " we have to format it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1164.0,
+      "end": 1167.0,
+      "text": " I am writing it as letter"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1167.0,
+      "end": 1170.0,
+      "text": " I am writing it as letter"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1170.0,
+      "end": 1173.0,
+      "text": " because strings are usually started with small letter"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1173.0,
+      "end": 1176.0,
+      "text": " not capital letter"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1176.0,
+      "end": 1179.0,
+      "text": " we will study it later"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1179.0,
+      "end": 1182.0,
+      "text": " so how will I format it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1182.0,
+      "end": 1185.0,
+      "text": " if I print it like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1185.0,
+      "end": 1188.0,
+      "text": " it is not looking good"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1188.0,
+      "end": 1191.0,
+      "text": " dear harry this python course is nice thanks"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1191.0,
+      "end": 1194.0,
+      "text": " I want a space after comma"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1194.0,
+      "end": 1197.0,
+      "text": " sorry new line"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1197.0,
+      "end": 1200.0,
+      "text": " I will add new line from backslash n"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1200.0,
+      "end": 1203.0,
+      "text": " I want a new line here also"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1203.0,
+      "end": 1206.0,
+      "text": " backslash n"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1206.0,
+      "end": 1209.0,
+      "text": " I want backslash t"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1209.0,
+      "end": 1212.0,
+      "text": " I used some escape sequence characters"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1212.0,
+      "end": 1215.0,
+      "text": " and see how it is formatted"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1215.0,
+      "end": 1218.0,
+      "text": " I have given an indentation"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1218.0,
+      "end": 1221.0,
+      "text": " and this python course is nice"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1221.0,
+      "end": 1224.0,
+      "text": " I have given this space"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1224.0,
+      "end": 1227.0,
+      "text": " with backslash t"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1227.0,
+      "end": 1230.0,
+      "text": " and new line"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1230.0,
+      "end": 1233.0,
+      "text": " and that wraps up chapter 3 practice set"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1233.0,
+      "end": 1236.0,
+      "text": " I hope you are enjoying"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1236.0,
+      "end": 1239.0,
+      "text": " do tell me in the comment section"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1239.0,
+      "end": 1242.0,
+      "text": " I will give heart to all your comments"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1242.0,
+      "end": 1245.0,
+      "text": " you will get notification"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1245.0,
+      "end": 1248.0,
+      "text": " if you tell me this course is helpful"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1248.0,
+      "end": 1251.0,
+      "text": " I will give you a heart"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1251.0,
+      "end": 1254.0,
+      "text": " now we will move to chapter 4"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1254.0,
+      "end": 1257.0,
+      "text": " let's go"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1257.0,
+      "end": 1260.0,
+      "text": " so guys I am so happy"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1260.0,
+      "end": 1263.0,
+      "text": " that we have reached chapter 4"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1263.0,
+      "end": 1266.0,
+      "text": " I will close chapter 3 vscode instance"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1266.0,
+      "end": 1269.0,
+      "text": " and right click on shift"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1269.0,
+      "end": 1272.0,
+      "text": " and open chapter 4 vscode instance"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1272.0,
+      "end": 1275.0,
+      "text": " I will create a new file"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1275.0,
+      "end": 1278.0,
+      "text": " and name it 01 list.py"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1278.0,
+      "end": 1281.0,
+      "text": " what is list and what is double python"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1281.0,
+      "end": 1284.0,
+      "text": " in any programming language"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1284.0,
+      "end": 1287.0,
+      "text": " if you want to store many"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1287.0,
+      "end": 1290.0,
+      "text": " elements like 1"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1290.0,
+      "end": 1293.0,
+      "text": " you use list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1293.0,
+      "end": 1296.0,
+      "text": " in python programming this collection is called list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1296.0,
+      "end": 1299.0,
+      "text": " and we will use list to store things"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1299.0,
+      "end": 1302.0,
+      "text": " list in the simplest form"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1302.0,
+      "end": 1305.0,
+      "text": " is container to store a set of values"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1305.0,
+      "end": 1308.0,
+      "text": " of any data type"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1308.0,
+      "end": 1311.0,
+      "text": " friends is equal to apple akash rohan 7 or false"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1311.0,
+      "end": 1314.0,
+      "text": " I will write friends and here will be apple"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1314.0,
+      "end": 1317.0,
+      "text": " and after this orange"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1317.0,
+      "end": 1320.0,
+      "text": " and after this I wrote 5"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1320.0,
+      "end": 1323.0,
+      "text": " and then I wrote 345.06"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1323.0,
+      "end": 1326.0,
+      "text": " and then I wrote false and then I wrote akash"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1326.0,
+      "end": 1329.0,
+      "text": " and then I wrote rohan"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1329.0,
+      "end": 1332.0,
+      "text": " so now see this is a list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1332.0,
+      "end": 1335.0,
+      "text": " and in the list there are different types of data types"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1335.0,
+      "end": 1338.0,
+      "text": " there are different types of data types"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1338.0,
+      "end": 1341.0,
+      "text": " there are different types of data types"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1341.0,
+      "end": 1344.0,
+      "text": " and if I write here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1344.0,
+      "end": 1347.0,
+      "text": " friends and then I write here 0"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1347.0,
+      "end": 1350.0,
+      "text": " so you see as soon as I run it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1350.0,
+      "end": 1353.0,
+      "text": " friends 0 will be printed"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1353.0,
+      "end": 1356.0,
+      "text": " and if I write here friends"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1356.0,
+      "end": 1359.0,
+      "text": " I have a string here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1359.0,
+      "end": 1362.0,
+      "text": " I will show you in apple"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1362.0,
+      "end": 1365.0,
+      "text": " so if I write here python"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1365.0,
+      "end": 1368.0,
+      "text": " and I write here a is equal to"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1368.0,
+      "end": 1371.0,
+      "text": " which I have always used as an example"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1371.0,
+      "end": 1374.0,
+      "text": " and now if I show you a0"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1374.0,
+      "end": 1377.0,
+      "text": " and if I write here a5"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1377.0,
+      "end": 1380.0,
+      "text": " so here error is coming"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1380.0,
+      "end": 1383.0,
+      "text": " so if I write here a2"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1383.0,
+      "end": 1386.0,
+      "text": " so r is coming and if I write here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1386.0,
+      "end": 1389.0,
+      "text": " a3 so r is coming again"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1389.0,
+      "end": 1392.0,
+      "text": " so here we will do"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1392.0,
+      "end": 1395.0,
+      "text": " if a3 is equal to"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1395.0,
+      "end": 1398.0,
+      "text": " if I want to change it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1398.0,
+      "end": 1401.0,
+      "text": " if I want to do ya"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1401.0,
+      "end": 1404.0,
+      "text": " so see this error is coming"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1404.0,
+      "end": 1407.0,
+      "text": " and this concept is really very important"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1407.0,
+      "end": 1410.0,
+      "text": " str object does not support item assignment"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1410.0,
+      "end": 1413.0,
+      "text": " it is saying that you can't do item assignment like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1413.0,
+      "end": 1416.0,
+      "text": " you can't change the string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1416.0,
+      "end": 1419.0,
+      "text": " remember I told you that strings are immutable"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1419.0,
+      "end": 1422.0,
+      "text": " you can't do this kind of change in the string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1422.0,
+      "end": 1425.0,
+      "text": " you can make a new string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1425.0,
+      "end": 1428.0,
+      "text": " from a string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1428.0,
+      "end": 1431.0,
+      "text": " but you can't do changes in the existing string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1431.0,
+      "end": 1434.0,
+      "text": " can you do this in the list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1434.0,
+      "end": 1437.0,
+      "text": " so if I want to change in the list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1437.0,
+      "end": 1440.0,
+      "text": " so I can do it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1440.0,
+      "end": 1443.0,
+      "text": " so if I say change friend0"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1443.0,
+      "end": 1446.0,
+      "text": " and say grapes"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1446.0,
+      "end": 1449.0,
+      "text": " so this will happen, this will not give an error"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1449.0,
+      "end": 1452.0,
+      "text": " in the example of string this thing was giving an error"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1452.0,
+      "end": 1455.0,
+      "text": " but if I do it again"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1455.0,
+      "end": 1458.0,
+      "text": " so you see here this time"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1458.0,
+      "end": 1461.0,
+      "text": " instead of apples grapes will come"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1461.0,
+      "end": 1464.0,
+      "text": " so here you see"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1464.0,
+      "end": 1467.0,
+      "text": " we can change in a list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1467.0,
+      "end": 1470.0,
+      "text": " which means that lists are mutable"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1470.0,
+      "end": 1473.0,
+      "text": " here I write big and say"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1473.0,
+      "end": 1476.0,
+      "text": " unlike strings"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1476.0,
+      "end": 1479.0,
+      "text": " strings are immutable"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1479.0,
+      "end": 1482.0,
+      "text": " lists are"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1482.0,
+      "end": 1485.0,
+      "text": " mutable"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1485.0,
+      "end": 1488.0,
+      "text": " means you can change the list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1488.0,
+      "end": 1491.0,
+      "text": " so here you see"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1491.0,
+      "end": 1494.0,
+      "text": " list is a container to store a set of values"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1494.0,
+      "end": 1497.0,
+      "text": " if you want to store different values"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1497.0,
+      "end": 1500.0,
+      "text": " so you can do it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1500.0,
+      "end": 1503.0,
+      "text": " now you see a list can be indexed just like a string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1503.0,
+      "end": 1506.0,
+      "text": " a list can be indexed like a string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1506.0,
+      "end": 1509.0,
+      "text": " so here you see"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1509.0,
+      "end": 1512.0,
+      "text": " as I told you that in a string we do 0,1,2,3"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1512.0,
+      "end": 1515.0,
+      "text": " and start from 0"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1515.0,
+      "end": 1518.0,
+      "text": " 1,2,3,4,5,6"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1518.0,
+      "end": 1521.0,
+      "text": " so if I do 6"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1521.0,
+      "end": 1524.0,
+      "text": " so I will get Rohan"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1524.0,
+      "end": 1527.0,
+      "text": " so I can count this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1527.0,
+      "end": 1530.0,
+      "text": " and access the values like I was able to do in strings"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1530.0,
+      "end": 1533.0,
+      "text": " so index starts from 0"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1533.0,
+      "end": 1536.0,
+      "text": " one change we saw in the list was that"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1536.0,
+      "end": 1539.0,
+      "text": " you can store any type of data"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1539.0,
+      "end": 1542.0,
+      "text": " and you can change, string can't change, list can change"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1542.0,
+      "end": 1545.0,
+      "text": " you can add items in the list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1545.0,
+      "end": 1548.0,
+      "text": " you can remove items from the list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1548.0,
+      "end": 1551.0,
+      "text": " you can put items in the middle of the list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1551.0,
+      "end": 1554.0,
+      "text": " it is mutable, fully flexible, can be changed"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1554.0,
+      "end": 1557.0,
+      "text": " so we saw this thing"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1557.0,
+      "end": 1560.0,
+      "text": " we can do the slicing of the list just like we saw the slicing of the string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1560.0,
+      "end": 1563.0,
+      "text": " means if I do something like this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1563.0,
+      "end": 1566.0,
+      "text": " print friends"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1566.0,
+      "end": 1569.0,
+      "text": " and I will say start from 1 and go to 4"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1569.0,
+      "end": 1572.0,
+      "text": " so orange will come 1,2,3"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1572.0,
+      "end": 1575.0,
+      "text": " and 4 will not come"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1575.0,
+      "end": 1578.0,
+      "text": " so orange will come 5,3,45.06"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1578.0,
+      "end": 1581.0,
+      "text": " so just like we saw in indexing"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1581.0,
+      "end": 1584.0,
+      "text": " in strings, indexing works in list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1584.0,
+      "end": 1587.0,
+      "text": " so friends 1,4 I wrote here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1587.0,
+      "end": 1590.0,
+      "text": " so the output is this, easy peasy lemon squeezy"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1590.0,
+      "end": 1593.0,
+      "text": " now I want to show you that there are some methods of list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1593.0,
+      "end": 1596.0,
+      "text": " which change the list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1596.0,
+      "end": 1599.0,
+      "text": " now I told you that there are methods of string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1599.0,
+      "end": 1602.0,
+      "text": " but all the methods of string used to make a new string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1602.0,
+      "end": 1605.0,
+      "text": " means if you used any method of string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1605.0,
+      "end": 1608.0,
+      "text": " then that method used to return a new string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1608.0,
+      "end": 1611.0,
+      "text": " in this case what will happen, the list will change"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1611.0,
+      "end": 1614.0,
+      "text": " means I don't need to print"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1614.0,
+      "end": 1617.0,
+      "text": " here if you see the example, I will open my chapter 3 again"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1617.0,
+      "end": 1620.0,
+      "text": " and I will show you again in VS code"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1620.0,
+      "end": 1623.0,
+      "text": " the code we wrote, see when we used the methods of string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1623.0,
+      "end": 1626.0,
+      "text": " so we printed it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1626.0,
+      "end": 1629.0,
+      "text": " means when I was writing name.endswithrrr"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1629.0,
+      "end": 1632.0,
+      "text": " or I was saying name.capitalize"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1632.0,
+      "end": 1635.0,
+      "text": " so a new string was returning"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1635.0,
+      "end": 1638.0,
+      "text": " this can't change the name because string is immutable"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1638.0,
+      "end": 1641.0,
+      "text": " this can't be changed, name is equal to harry"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1641.0,
+      "end": 1644.0,
+      "text": " if I say it, then name will be harry"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1644.0,
+      "end": 1647.0,
+      "text": " but if I will run any function on name"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1647.0,
+      "end": 1650.0,
+      "text": " like I used capitalize, then it will make a new string"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1650.0,
+      "end": 1653.0,
+      "text": " in the case of list, things are a little different"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1653.0,
+      "end": 1656.0,
+      "text": " and understanding this difference is very important"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1656.0,
+      "end": 1659.0,
+      "text": " in the case of list, what is the difference"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1659.0,
+      "end": 1662.0,
+      "text": " that the list will change this"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1662.0,
+      "end": 1665.0,
+      "text": " now I will show you the list methods"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1665.0,
+      "end": 1668.0,
+      "text": " I will write here, 02 list methods.py"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1668.0,
+      "end": 1671.0,
+      "text": " I will take the example of this list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1671.0,
+      "end": 1674.0,
+      "text": " so if I print the list like this, then I will see it"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1674.0,
+      "end": 1677.0,
+      "text": " now I will show you any method"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1677.0,
+      "end": 1680.0,
+      "text": " like I say friends.append"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1680.0,
+      "end": 1683.0,
+      "text": " append is a method which at the end of the list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1683.0,
+      "end": 1686.0,
+      "text": " does insertion, so I will show you"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1686.0,
+      "end": 1689.0,
+      "text": " how it does insertion, like I want to insert a string named harry"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1689.0,
+      "end": 1692.0,
+      "text": " at the end of this list after rohan"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1692.0,
+      "end": 1695.0,
+      "text": " so I will do friends.append harry"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1695.0,
+      "end": 1698.0,
+      "text": " and after that when I will print my list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1698.0,
+      "end": 1701.0,
+      "text": " because it is changing my list, this fundamental difference is very important"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1701.0,
+      "end": 1704.0,
+      "text": " if you run any method on string, string will not change"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1704.0,
+      "end": 1707.0,
+      "text": " if you run method on string, then the list will change"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1707.0,
+      "end": 1710.0,
+      "text": " if you run method on string, then a new value is written"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1710.0,
+      "end": 1713.0,
+      "text": " if you run any function on list, then the list itself changes"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1713.0,
+      "end": 1716.0,
+      "text": " this is the concept of mutability and immutability"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1716.0,
+      "end": 1719.0,
+      "text": " that the list is mutable, the string is immutable"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1719.0,
+      "end": 1722.0,
+      "text": " you cannot change it, with that said"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1722.0,
+      "end": 1725.0,
+      "text": " I will run this program and you see harry at the end"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1725.0,
+      "end": 1728.0,
+      "text": " append, append means in English"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1728.0,
+      "end": 1731.0,
+      "text": " to stick at the end, append means to join"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1731.0,
+      "end": 1734.0,
+      "text": " so I have joined at the end of this list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1734.0,
+      "end": 1737.0,
+      "text": " what are the other important methods, there is a sort method"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1737.0,
+      "end": 1740.0,
+      "text": " reverse method, append method, insert method"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1740.0,
+      "end": 1743.0,
+      "text": " these are all methods which change your list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1743.0,
+      "end": 1746.0,
+      "text": " like sort method, it will sort the list of numbers"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1746.0,
+      "end": 1749.0,
+      "text": " so let's say I have a list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1749.0,
+      "end": 1752.0,
+      "text": " I will remove these print statements from here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1752.0,
+      "end": 1755.0,
+      "text": " I will leave it like this, let's say I have a list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1755.0,
+      "end": 1758.0,
+      "text": " l1 of numbers, in which I have"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1758.0,
+      "end": 1761.0,
+      "text": " some numbers, let's say I will make it 1"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1761.0,
+      "end": 1764.0,
+      "text": " and if I write here l1.sort"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1764.0,
+      "end": 1767.0,
+      "text": " and after that I print l1, then you will see"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1767.0,
+      "end": 1770.0,
+      "text": " that my list will be sorted"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1770.0,
+      "end": 1773.0,
+      "text": " in increasing order, my list is sorted"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1773.0,
+      "end": 1776.0,
+      "text": " so if I want to sort my list, then what I will do"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1776.0,
+      "end": 1779.0,
+      "text": " I will run l1.sort and my existing list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1779.0,
+      "end": 1782.0,
+      "text": " will change and will be sorted"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1782.0,
+      "end": 1785.0,
+      "text": " so I hope you understood this, the next method"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1785.0,
+      "end": 1788.0,
+      "text": " is reverse, your list will be reversed"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1788.0,
+      "end": 1791.0,
+      "text": " so if I had not run sort and run l1.reverse"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1791.0,
+      "end": 1794.0,
+      "text": " then the content of your list"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1794.0,
+      "end": 1797.0,
+      "text": " will be reversed, you can see here"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1797.0,
+      "end": 1800.0,
+      "text": " where my list was starting, 134, 62"
+    },
+    {
+      "number": "4",
+      "title": "part4",
+      "start": 1800.0,
+      "end": 1803.0,
+      "text": " and here it is"
+    }
+  ],
+  "text": " now let's talk about some more advanced slicing techniques which I have already told you that if nothing is written here then put zero here, if nothing is written here then what to put put its length 1,2,3,4,5,6,7 was the length so here 7 is put, if it is empty here then 7 if it is here then 0, I hope you got the point now there are some functions of string by using which we can manipulate strings or we can get some information about them the first and most important function is len so what I will do here is 0,3, underscore and I will write str functions.py, the first and most important function is len, which tells you the length of the string so if I have this string and I will print len of name, then what will happen that you will get the length of this string which is 5 now see here 5 is printed, means the length of this string is 5, then there is another method ends with, which tells you that is this string ending with rry so here the string which is written will be the variable like in this case if my name is there then name will come, so what I will do I will print, I will write name.endswith and see how good VS code is recommending you, below it is suggesting things ends with written rry, so it will show true here so this thing will give me true because this string harry is ending with rry rrya is ending with this, no rrya is not ending with this, so it is false rrya is ending with this, rrya is not ending with this so you should know this thing what is endswith, like endswith, there is startswith startswith and here ha if I write ha, then will it give startswith true, now you tell me in the comment if I write h, then will it give false or true you are right, it will give false because H and h are different characters, this function is case sensitive you should know this thing, so I wrote name.startswith ha, name.endswith rry, there are many methods of string, like I will tell you if I write print and I write name. means I capitalize and I do like this so what will happen, it will return capitalize string means if my string is harry so what it will do, it will capitalize it will capitalize if I write harry r, then it will not do anything to r it will capitalize only h, means first character will be capitalized, and if you give something else after space, then it will not do anything, so many people get confused that does it capitalize every word, no it does only starting character, there are many methods of string and we will use chat gpt you should know this and I will tell you how we will use chat gpt, what we will do we will open a new chat in chat gpt and what we will do here, we will write give me most used string functions in python, yes I know I wrote wrong spelling of functions but chat gpt will do it, this is beauty see it told me about len, str we saw about typecasting, then if you lower dot, it will come in lower case, if you upper dot, it will come in upper case if you capitalize dot, it will be capitalized if you title dot, what it will do first character of each word, means like I told you, if I write harry r it will capitalize a, so like this you can explore many methods, do you need to remember them I will say no, you don't need to remember them, I have put all methods in python handbook for you which will be useful for you, so here what we will do, I told you string dot capitalize, string dot find what it does, this function finds a word and returns the index of first occurrence of that word in this string, so what it will do, like I wrote hello world and I am searching the word, so what it will do it will come on index 0, 1, 2, 3, 4, 5 5 for the white space, it will come on 6, so output will be 6 I hope you got it, now after this we will replace string dot old word, new word, so the first occurrence of old word it will replace that, so what string dot replaces, it replaces all the occurrences, like I show you, if I show you repl and I write python here and I write here a is equal to harry is a good, good boy, now if I write here a dot replace, that replace good by bad, so it will be bad bad boy means it takes all the occurrences in account and changes all the occurrences so you should know this dot replace function, after this we will talk about escape sequence characters, what are escape sequence characters escape sequence characters are special type of characters in python, by the way before I tell you escape sequence characters, I want you to write two methods string in the comment which I didn't tell you, you can use chart gpt I am in favor of using chart gpt people think chart gpt is bad, you won't do it someone else will use it and become more productive than you that's why I am a person who is the traditional classroom teachers, I go somewhere and tell them to use chart gpt, they say don't use chart gpt because they think you will cheat in exam I have come here to take you up in the industry that's why I am saying use chart gpt and write two functions in the comment, just think if everyone wrote two functions then how much will we learn including myself I will also learn by reading your comments, so let's go everyone write two methods of string ok, let's come back to this escape sequence characters, what happens is if you want to print a new line in a string I will make a new file here 0 4 underscore escape underscore sequence dot py, let's say I wrote a is equal to I wrote harry is a good boy and after this I want to give a new line but not a bad boy, let's say I do something like this let's say I am a noob and I don't know anything what I will do is I will try to run this what happened, unterminated string literal what happened, this is absolutely right you can't do it like this, if you made a string using double quote or single quote you cannot press enter and expect that enter to appear in the output, you can't do it like this so I want a new line after boy you can use escape sequence character you can use backslash which is above your enter this is your backslash, if you can see this button, can you see this this is backslash, I will show you by lifting it so this is backslash, we pressed this and after backslash you press n, backslash n is a special character which is manipulated in new line so starting from backslash we have some escape sequence characters which have a special meaning, here backslash n means put a new line, so I will run this now see a new line came here if I put a new line after bat, will there be a new line yes, harry is a good boy but not a bad boy and see a new line came here and a space came here, because new line has space and then boy and then this got printed, did you see how amazing this escape sequence character is, are there more escape sequence characters yes, like there is a backslash t escape sequence character which gives the space as much as tab we have more escape sequence characters and you should know that escape sequence characters hold special meaning in your program for example, if I want to put a double quote in double quote how will I do it, suppose I want to put boy in double quote if I put double quote here, python will get confused python will ask where is your string ending and where is your double quote, it won't know python will say this is your string ending double quote or if you want to print this double quote, you can print it any time if I run this, there will be an error but if I want this double quote to come here then I will write backslash double quote backslash double quote will be manipulated as double quote python will read it as a double quote and if I run this but not a bad boy, double quote came here as I wanted, did you see this and you saw here harry is a good boy but not a bad boy double quote came here I love the way python is designed, now if I talk about single quote then I can write single quote like this but if I made this string with single quote I will show you by writing single quote now if I run this, single quote came but you know that in python, I told you that you can make this string with single quote so if I make this string with single quote then how will I know that this is single quote or this is single quote which you are expecting, so same thing single quote will come from backslash single quote so this was our escape sequence characters so I want to request you guys go to chat gpt and bring some more escape sequence characters like I showed you guys escape sequence characters of single quote backslash t tab, backslash n newline backslash backslash, literal backslash if you have to use backslash literally then you will use backslash backslash I want you guys to go to chat gpt and tell me one or two more escape sequence characters although this is enough in fact more than enough escape sequence characters but go and explore yourself I will tell you guys, by using your AI the power to make yourself productive will increase so let's move to chapter 3 practice set but before that I want to request you guys to like this video and comment below this python course is helpful and I will give you guys one by one if you guys write like this then I will know that you have come this far and you have completed this course so far so please like and comment, I will feel good music so guys it's fun let's set chapter 3 practice and make some ambience before setting practice so I will make a folder for chapter 3 practice set and I will shift right click that folder and open it in VS code I will make a new file 01 underscore problem1.py first question is to display a user entered name followed by good afternoon so what we have to do is we have to ask user to tell us his name so we will input enter your name we asked user and that name came in name variable now we will print and we will say good afternoon and then we will write name now I will tell you guys a new way to write name which is a new method in python, python 3.6 onwards it's called f strings you write f here and you marked it as f string and you can use variables in this string by putting curly bracket like this if you have written f here and good afternoon and if you have written name here then name variable value will come here and good afternoon will be printed like this but the condition is that you have marked it as f string earlier when f string was not there people used to use format function and sometimes they used to do this which they didn't have to do because they didn't know how to do it they used to do concatenation like this then they wrote plus and then they wrote double quote you understand how big problem it is you wrote one string and then you wrote plus there is no need to do this so if I run this program and I will write my name then you see good afternoon harry if you want you can put comma here yes you have to write f if you are using f string because if you don't write f then it will not know that you want f string and it will be printed like this I have seen this kind of errors in applications and I understand that he has tried to make f string and variable name comes sometimes it comes like this but again we will put f now we are not that kind of developer we will write very clean code let's move to next question our next question is to write a program which will fill name and date in this letter how will we do it first of all we will make a file 02 underscore and here problem2.py and here letter is equal to dear name you are selected you are selected and then date what I will do is print and I will do letter.replace I will say do this replace name with this thing what you do replace it with name which is harry this will return a string this will return a string and what I will do I will replace this too I will write dot replace now you will say what have you done I will explain it again and here we will write 24 september ok 2050 we will run it and you see if you want you can write like this and now you see dear harry you are selected 24 september 2050 you can remove this space too what happened first I said that this letter string now this is a string then I said replace date with this so that string I replaced date with this if I don't write this replace and print it then date is written like this but what I did I said replace string with this dot replace function you can do chaining I hope you got the point I hope you understood how to do chaining next question how will you do double space in a string this is an interesting problem problem 3.py and what we have to do is good double space and I have to detect this double space how will I do name.find what is index find I took a substring and when I run it it will give me index and if I put double space now if I put double space it will give me 15 which means it is telling me that there is double space so this is a double space detection program which is telling me if there is double space if it is minus 1 then it is not double space and if it is not minus 1 then it is double space and this double space detection returns this substring index in this parent string what does it mean it means if I write here GOO it will tell me that in this string 012345678910 11 is coming so it will say that your GOO is on 11th index similarly double space is on which index if it is there then it will tell and if it is not there then it returns minus 1 so string method is find which returns minus 1 if it didn't get occurrence and index returns if it got substring so in this case substring is double space and if double space is there then it will come if it is minus 1 then it is not double space and if it is not minus 1 then it is double space so this is a double space detector I hope you understood now it is saying that replace the double space from problem 3 with single spaces I will copy problem 3 and write problem4 problem4.py and here I have to replace so I will replace double space with single space and this is a function which will replace double space with single space so double space is gone where double space was there is single space easy peasy lemon squeezy I hope you understood we used simple method strings are immutable if you used method on string then original string will be there if I print name then it will be same so name string will not change this is very important name string is not changed it is a new string name string is not changed so this function makes a new string and prints it this is called immutability of strings I want to emphasize strings are immutable which means you cannot change them by executing or running functions on them if you run function on list then original list will be changed not string I hope I am able to explain you all so we have done 4th question now we will do 5th question write a program to format the following letter this letter is not formatted properly we have to format it I am writing it as letter I am writing it as letter because strings are usually started with small letter not capital letter we will study it later so how will I format it if I print it like this it is not looking good dear harry this python course is nice thanks I want a space after comma sorry new line I will add new line from backslash n I want a new line here also backslash n I want backslash t I used some escape sequence characters and see how it is formatted I have given an indentation and this python course is nice I have given this space with backslash t and new line and that wraps up chapter 3 practice set I hope you are enjoying do tell me in the comment section I will give heart to all your comments you will get notification if you tell me this course is helpful I will give you a heart now we will move to chapter 4 let's go so guys I am so happy that we have reached chapter 4 I will close chapter 3 vscode instance and right click on shift and open chapter 4 vscode instance I will create a new file and name it 01 list.py what is list and what is double python in any programming language if you want to store many elements like 1 you use list in python programming this collection is called list and we will use list to store things list in the simplest form is container to store a set of values of any data type friends is equal to apple akash rohan 7 or false I will write friends and here will be apple and after this orange and after this I wrote 5 and then I wrote 345.06 and then I wrote false and then I wrote akash and then I wrote rohan so now see this is a list and in the list there are different types of data types there are different types of data types there are different types of data types and if I write here friends and then I write here 0 so you see as soon as I run it friends 0 will be printed and if I write here friends I have a string here I will show you in apple so if I write here python and I write here a is equal to which I have always used as an example and now if I show you a0 and if I write here a5 so here error is coming so if I write here a2 so r is coming and if I write here a3 so r is coming again so here we will do if a3 is equal to if I want to change it if I want to do ya so see this error is coming and this concept is really very important str object does not support item assignment it is saying that you can't do item assignment like this you can't change the string remember I told you that strings are immutable you can't do this kind of change in the string you can make a new string from a string but you can't do changes in the existing string can you do this in the list so if I want to change in the list so I can do it so if I say change friend0 and say grapes so this will happen, this will not give an error in the example of string this thing was giving an error but if I do it again so you see here this time instead of apples grapes will come so here you see we can change in a list which means that lists are mutable here I write big and say unlike strings strings are immutable lists are mutable means you can change the list so here you see list is a container to store a set of values if you want to store different values so you can do it now you see a list can be indexed just like a string a list can be indexed like a string so here you see as I told you that in a string we do 0,1,2,3 and start from 0 1,2,3,4,5,6 so if I do 6 so I will get Rohan so I can count this and access the values like I was able to do in strings so index starts from 0 one change we saw in the list was that you can store any type of data and you can change, string can't change, list can change you can add items in the list you can remove items from the list you can put items in the middle of the list it is mutable, fully flexible, can be changed so we saw this thing we can do the slicing of the list just like we saw the slicing of the string means if I do something like this print friends and I will say start from 1 and go to 4 so orange will come 1,2,3 and 4 will not come so orange will come 5,3,45.06 so just like we saw in indexing in strings, indexing works in list so friends 1,4 I wrote here so the output is this, easy peasy lemon squeezy now I want to show you that there are some methods of list which change the list now I told you that there are methods of string but all the methods of string used to make a new string means if you used any method of string then that method used to return a new string in this case what will happen, the list will change means I don't need to print here if you see the example, I will open my chapter 3 again and I will show you again in VS code the code we wrote, see when we used the methods of string so we printed it means when I was writing name.endswithrrr or I was saying name.capitalize so a new string was returning this can't change the name because string is immutable this can't be changed, name is equal to harry if I say it, then name will be harry but if I will run any function on name like I used capitalize, then it will make a new string in the case of list, things are a little different and understanding this difference is very important in the case of list, what is the difference that the list will change this now I will show you the list methods I will write here, 02 list methods.py I will take the example of this list so if I print the list like this, then I will see it now I will show you any method like I say friends.append append is a method which at the end of the list does insertion, so I will show you how it does insertion, like I want to insert a string named harry at the end of this list after rohan so I will do friends.append harry and after that when I will print my list because it is changing my list, this fundamental difference is very important if you run any method on string, string will not change if you run method on string, then the list will change if you run method on string, then a new value is written if you run any function on list, then the list itself changes this is the concept of mutability and immutability that the list is mutable, the string is immutable you cannot change it, with that said I will run this program and you see harry at the end append, append means in English to stick at the end, append means to join so I have joined at the end of this list what are the other important methods, there is a sort method reverse method, append method, insert method these are all methods which change your list like sort method, it will sort the list of numbers so let's say I have a list I will remove these print statements from here I will leave it like this, let's say I have a list l1 of numbers, in which I have some numbers, let's say I will make it 1 and if I write here l1.sort and after that I print l1, then you will see that my list will be sorted in increasing order, my list is sorted so if I want to sort my list, then what I will do I will run l1.sort and my existing list will change and will be sorted so I hope you understood this, the next method is reverse, your list will be reversed so if I had not run sort and run l1.reverse then the content of your list will be reversed, you can see here where my list was starting, 134, 62 and here it is"
+}

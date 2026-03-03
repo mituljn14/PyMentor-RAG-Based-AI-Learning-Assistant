@@ -1,0 +1,6284 @@
+{
+  "chunks": [
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 0.0,
+      "end": 1.36,
+      "text": " files, okay?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1.36,
+      "end": 4.68,
+      "text": " a file is data stored in a storage device"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 4.68,
+      "end": 7.76,
+      "text": " a python program can talk to the file by reading content from it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 7.76,
+      "end": 9.4,
+      "text": " and writing content to it, okay?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 9.4,
+      "end": 14.12,
+      "text": " so here you can see that a python program can talk to a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 14.12,
+      "end": 17.52,
+      "text": " by reading content from it, or we can read from a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 17.52,
+      "end": 19.52,
+      "text": " or we can write on a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 19.52,
+      "end": 21.92,
+      "text": " okay? or we can read from a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 21.92,
+      "end": 24.4,
+      "text": " or we can write on a file, okay?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 24.4,
+      "end": 26.4,
+      "text": " so this is what we are going to see in this chapter"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 26.4,
+      "end": 29.32,
+      "text": " that how reading and writing works in a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 29.44,
+      "end": 30.72,
+      "text": " so there are two types of files"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 30.72,
+      "end": 32.96,
+      "text": " text files and binary files in general"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 32.96,
+      "end": 35.32,
+      "text": " text files are those which we can open in VS Code"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 35.32,
+      "end": 36.6,
+      "text": " and we can see its content"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 36.6,
+      "end": 39.08,
+      "text": " .py file is also a text file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 39.08,
+      "end": 43.64,
+      "text": " because we write it with the help of textual character, okay?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 43.64,
+      "end": 46.56,
+      "text": " so how will you read the file?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 46.56,
+      "end": 49.4,
+      "text": " so there is a very simple way to read the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 49.4,
+      "end": 51.4,
+      "text": " if I write file.txt here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 51.4,
+      "end": 54.2,
+      "text": " and write here this is a good boy"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 54.2,
+      "end": 54.88,
+      "text": " okay?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 54.88,
+      "end": 57.2,
+      "text": " here I write Harry is a good boy, why should I write this?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 57.2,
+      "end": 58.92,
+      "text": " I wrote Harry is a good boy"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 58.92,
+      "end": 62.72,
+      "text": " so to read the file I will write f is equal to open"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 62.72,
+      "end": 65.72,
+      "text": " and here I will write file.txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 65.72,
+      "end": 67.52,
+      "text": " and after this what I will do?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 67.52,
+      "end": 71.4,
+      "text": " I will write here data is equal to f.read"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 71.4,
+      "end": 73.4,
+      "text": " I will print the data"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 73.4,
+      "end": 75.4,
+      "text": " and I will do f.close"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 75.4,
+      "end": 76.2,
+      "text": " okay?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 76.2,
+      "end": 78.2,
+      "text": " I will run this program"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 78.2,
+      "end": 80.92,
+      "text": " and you can see that Harry is a good boy output has come"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 80.92,
+      "end": 83.32,
+      "text": " that means we have read this file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 83.32,
+      "end": 84.32,
+      "text": " so what is open?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 84.32,
+      "end": 86.32,
+      "text": " open is a built-in function in python"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 86.32,
+      "end": 88.72,
+      "text": " which helps in opening files"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 88.72,
+      "end": 90.72,
+      "text": " what happens with f.read?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 90.72,
+      "end": 92.72,
+      "text": " f.read basically"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 92.72,
+      "end": 94.72,
+      "text": " helps in reading our files"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 94.72,
+      "end": 95.72,
+      "text": " okay?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 95.72,
+      "end": 97.72,
+      "text": " so as soon as I run f.read"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 97.72,
+      "end": 99.72,
+      "text": " so whatever file is opened in f"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 99.72,
+      "end": 101.12,
+      "text": " its content will come in data"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 101.12,
+      "end": 102.72,
+      "text": " then I printed the data"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 102.72,
+      "end": 105.32,
+      "text": " and this term is very important f.close"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 105.32,
+      "end": 107.72,
+      "text": " whenever we open a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 107.72,
+      "end": 109.72,
+      "text": " it's our duty to close it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 109.72,
+      "end": 112.12,
+      "text": " if you close it then basically you"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 112.12,
+      "end": 113.72,
+      "text": " are telling the computer that"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 113.72,
+      "end": 116.52,
+      "text": " computer ji I have taken whatever I wanted from this file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 116.52,
+      "end": 118.52,
+      "text": " now you close it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 118.52,
+      "end": 120.32,
+      "text": " like you have a fridge in your house"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 120.32,
+      "end": 121.32,
+      "text": " you open the fridge"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 121.32,
+      "end": 123.32,
+      "text": " you take out a cold water bottle"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 123.32,
+      "end": 124.52,
+      "text": " you drink water"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 124.52,
+      "end": 126.12,
+      "text": " you put the bottle inside"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 126.12,
+      "end": 127.52,
+      "text": " you close the fridge right?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 127.52,
+      "end": 128.52,
+      "text": " you do right?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 128.52,
+      "end": 130.52,
+      "text": " you have to close f.close too"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 130.52,
+      "end": 132.52,
+      "text": " because you close the fridge"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 132.52,
+      "end": 134.52,
+      "text": " and you have to close f.close too"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 134.52,
+      "end": 137.52,
+      "text": " so that that file does not remain open"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 137.52,
+      "end": 139.52,
+      "text": " later if someone"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 139.52,
+      "end": 142.52,
+      "text": " or if someone else wants to access that file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 142.52,
+      "end": 143.12,
+      "text": " then they can do it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 143.12,
+      "end": 145.12,
+      "text": " so f.close is a good practice"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 145.12,
+      "end": 147.12,
+      "text": " if you don't do f.close"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 147.12,
+      "end": 148.12,
+      "text": " then it will work but"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 148.12,
+      "end": 150.12,
+      "text": " we should put the habit of f.close"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 150.12,
+      "end": 152.12,
+      "text": " why should we put?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 152.12,
+      "end": 154.12,
+      "text": " because once we have accessed the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 154.12,
+      "end": 155.12,
+      "text": " our work is done"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 155.12,
+      "end": 157.12,
+      "text": " so we want to give a signal to the computer"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 157.12,
+      "end": 158.12,
+      "text": " that our work is done"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 158.12,
+      "end": 160.12,
+      "text": " we are not reading this file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 160.12,
+      "end": 162.12,
+      "text": " this file is not open in our program"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 162.12,
+      "end": 163.12,
+      "text": " ok?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 163.12,
+      "end": 164.12,
+      "text": " good"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 164.12,
+      "end": 166.12,
+      "text": " I hope you understood this thing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 166.12,
+      "end": 168.12,
+      "text": " let's come back"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 168.12,
+      "end": 170.12,
+      "text": " I told you about two types of files in notes"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 170.12,
+      "end": 172.12,
+      "text": " one is text files"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 172.12,
+      "end": 174.12,
+      "text": " one is binary files"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 174.12,
+      "end": 176.12,
+      "text": " now in python we have"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 176.12,
+      "end": 177.12,
+      "text": " built-in functions"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 177.12,
+      "end": 179.12,
+      "text": " one of them is open"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 179.12,
+      "end": 181.12,
+      "text": " which is a built-in function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 181.12,
+      "end": 182.12,
+      "text": " it takes two parameters"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 182.12,
+      "end": 183.12,
+      "text": " it takes the name of a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 183.12,
+      "end": 184.12,
+      "text": " it takes a mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 184.12,
+      "end": 185.12,
+      "text": " here you see"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 185.12,
+      "end": 186.12,
+      "text": " I did not give the mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 186.12,
+      "end": 188.12,
+      "text": " I just gave the name of the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 188.12,
+      "end": 189.12,
+      "text": " and the reason for that is"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 189.12,
+      "end": 191.12,
+      "text": " in open function by default"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 191.12,
+      "end": 192.12,
+      "text": " the mode is read"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 192.12,
+      "end": 193.12,
+      "text": " it is r"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 193.12,
+      "end": 194.12,
+      "text": " r for read"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 194.12,
+      "end": 195.12,
+      "text": " if I have to write the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 195.12,
+      "end": 197.12,
+      "text": " then I have to write w by putting a comma"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 197.12,
+      "end": 199.12,
+      "text": " but if I write r here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 199.12,
+      "end": 201.12,
+      "text": " then by default it is r"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 201.12,
+      "end": 203.12,
+      "text": " there is no use of writing it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 203.12,
+      "end": 204.12,
+      "text": " if you want to open a file in read mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 204.12,
+      "end": 205.12,
+      "text": " you have to open the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 205.12,
+      "end": 206.12,
+      "text": " directly open and write the name of the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 206.12,
+      "end": 208.12,
+      "text": " and your file will open"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 208.12,
+      "end": 210.12,
+      "text": " so this was the basic of the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 210.12,
+      "end": 211.12,
+      "text": " ok?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 211.12,
+      "end": 213.12,
+      "text": " and we have a file named file.txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 213.12,
+      "end": 215.12,
+      "text": " now I will teach you how to write a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 215.12,
+      "end": 216.12,
+      "text": " ok?"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 216.12,
+      "end": 219.12,
+      "text": " file underscore write dot p o m"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 219.12,
+      "end": 220.12,
+      "text": " how to write in a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 220.12,
+      "end": 222.12,
+      "text": " suppose I have a string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 222.12,
+      "end": 224.12,
+      "text": " and that is st is equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 224.12,
+      "end": 226.12,
+      "text": " hey harry you are amazing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 226.12,
+      "end": 228.12,
+      "text": " this string could be as long as you want"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 228.12,
+      "end": 230.12,
+      "text": " what I will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 230.12,
+      "end": 231.12,
+      "text": " I will write in a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 231.12,
+      "end": 233.12,
+      "text": " so I will keep the name of that file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 233.12,
+      "end": 234.12,
+      "text": " my file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 234.12,
+      "end": 235.12,
+      "text": " so what I will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 235.12,
+      "end": 236.12,
+      "text": " I will write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 236.12,
+      "end": 241.12,
+      "text": " f is equal to open my file dot txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 241.12,
+      "end": 243.12,
+      "text": " and this time I will open it in write mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 243.12,
+      "end": 245.12,
+      "text": " w means write mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 245.12,
+      "end": 246.12,
+      "text": " write mode means"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 246.12,
+      "end": 249.12,
+      "text": " that I want to write in this file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 249.12,
+      "end": 251.12,
+      "text": " I will hit enter"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 251.12,
+      "end": 252.12,
+      "text": " I will hit enter"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 252.12,
+      "end": 253.12,
+      "text": " f is equal to open"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 253.12,
+      "end": 255.12,
+      "text": " I wrote my file dot txt write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 255.12,
+      "end": 259.12,
+      "text": " now I will use f dot write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 259.12,
+      "end": 261.12,
+      "text": " and I will give a string named st"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 261.12,
+      "end": 264.12,
+      "text": " and after this I will close f dot"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 264.12,
+      "end": 266.12,
+      "text": " so I took a string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 266.12,
+      "end": 268.12,
+      "text": " I opened a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 268.12,
+      "end": 269.12,
+      "text": " gave the name of that file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 269.12,
+      "end": 271.12,
+      "text": " opened in write mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 271.12,
+      "end": 273.12,
+      "text": " used f dot write function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 273.12,
+      "end": 274.12,
+      "text": " gave a string to it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 274.12,
+      "end": 276.12,
+      "text": " f dot write takes a string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 276.12,
+      "end": 279.12,
+      "text": " whatever you want to write a string in this file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 279.12,
+      "end": 281.12,
+      "text": " you write it in f dot write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 281.12,
+      "end": 283.12,
+      "text": " and then I closed this file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 283.12,
+      "end": 285.12,
+      "text": " so first I opened the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 285.12,
+      "end": 286.12,
+      "text": " then I wrote in the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 286.12,
+      "end": 287.12,
+      "text": " then closed the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 287.12,
+      "end": 289.12,
+      "text": " now as soon as I run this program"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 289.12,
+      "end": 292.12,
+      "text": " you will see that my file dot txt is created"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 292.12,
+      "end": 293.12,
+      "text": " if you will do the video little bit back"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 293.12,
+      "end": 294.12,
+      "text": " then you will know that"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 294.12,
+      "end": 296.12,
+      "text": " my file dot txt is just created"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 296.12,
+      "end": 298.12,
+      "text": " let's open it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 298.12,
+      "end": 300.12,
+      "text": " wow, in this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 300.12,
+      "end": 302.12,
+      "text": " hey harry you are amazing came"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 302.12,
+      "end": 304.12,
+      "text": " it means that we are able to write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 304.12,
+      "end": 306.12,
+      "text": " successfully in this file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 306.12,
+      "end": 308.12,
+      "text": " ok, I hope you are enjoying"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 308.12,
+      "end": 310.12,
+      "text": " and you got to know how to read and write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 310.12,
+      "end": 311.12,
+      "text": " in the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 311.12,
+      "end": 313.12,
+      "text": " so the most important thing if there is anything"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 313.12,
+      "end": 315.12,
+      "text": " that is to read and write in the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 315.12,
+      "end": 317.12,
+      "text": " ok, so in any file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 317.12,
+      "end": 319.12,
+      "text": " we use read and write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 319.12,
+      "end": 321.12,
+      "text": " of these two functions"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 321.12,
+      "end": 323.12,
+      "text": " there are some other functions"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 323.12,
+      "end": 325.12,
+      "text": " related to the file like readline"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 325.12,
+      "end": 327.12,
+      "text": " readline is a function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 327.12,
+      "end": 329.12,
+      "text": " readline is also a function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 329.12,
+      "end": 330.12,
+      "text": " readline is also a function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 330.12,
+      "end": 331.12,
+      "text": " what does readline do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 331.12,
+      "end": 333.12,
+      "text": " it reads your lines one by one"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 333.12,
+      "end": 335.12,
+      "text": " for example I have a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 335.12,
+      "end": 337.12,
+      "text": " I do one thing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 337.12,
+      "end": 339.12,
+      "text": " I make it with the name"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 339.12,
+      "end": 341.12,
+      "text": " 03 underscore more file functions"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 341.12,
+      "end": 343.12,
+      "text": " and here what I will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 343.12,
+      "end": 345.12,
+      "text": " I will take a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 345.12,
+      "end": 347.12,
+      "text": " suppose I have a file dot txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 347.12,
+      "end": 349.12,
+      "text": " in which there are multiple lines"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 349.12,
+      "end": 351.12,
+      "text": " I am a second line"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 351.12,
+      "end": 353.12,
+      "text": " I do it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 353.12,
+      "end": 355.12,
+      "text": " now I will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 355.12,
+      "end": 357.12,
+      "text": " toggle screen cast mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 357.12,
+      "end": 359.12,
+      "text": " this is amazing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 359.12,
+      "end": 361.12,
+      "text": " I do it, I write twinkle"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 361.12,
+      "end": 363.12,
+      "text": " twinkle"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 363.12,
+      "end": 365.12,
+      "text": " I am not able to write the spelling of twinkle"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 365.12,
+      "end": 367.12,
+      "text": " little star"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 367.12,
+      "end": 369.12,
+      "text": " ok, I am not able to write the spelling of twinkle"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 369.12,
+      "end": 371.12,
+      "text": " ok, I am not able to write the spelling of twinkle"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 371.12,
+      "end": 373.12,
+      "text": " otherwise I will get comments"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 373.12,
+      "end": 375.12,
+      "text": " that you don't know"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 375.12,
+      "end": 377.12,
+      "text": " now what I will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 377.12,
+      "end": 379.12,
+      "text": " I will write f is equal to open"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 379.12,
+      "end": 381.12,
+      "text": " which file was it, file dot txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 381.12,
+      "end": 383.12,
+      "text": " write it in double quotes"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 383.12,
+      "end": 385.12,
+      "text": " write file dot txt in double quotes"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 385.12,
+      "end": 387.12,
+      "text": " file dot txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 387.12,
+      "end": 389.12,
+      "text": " and we"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 389.12,
+      "end": 391.12,
+      "text": " are opening it in read mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 391.12,
+      "end": 393.12,
+      "text": " so I don't need to write r"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 393.12,
+      "end": 395.12,
+      "text": " now if I write lines is equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 395.12,
+      "end": 397.12,
+      "text": " f dot readlines"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 397.12,
+      "end": 399.12,
+      "text": " so readlines"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 399.12,
+      "end": 401.12,
+      "text": " returns a list"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 401.12,
+      "end": 403.12,
+      "text": " which is a list of our lines"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 403.12,
+      "end": 405.12,
+      "text": " I will show you"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 405.12,
+      "end": 407.12,
+      "text": " if I print lines"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 407.12,
+      "end": 409.12,
+      "text": " and type of lines"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 409.12,
+      "end": 411.12,
+      "text": " then you will see that it is a list"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 411.12,
+      "end": 413.12,
+      "text": " then if I close f dot"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 413.12,
+      "end": 415.12,
+      "text": " then it becomes our duty"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 415.12,
+      "end": 417.12,
+      "text": " now I will run this program"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 417.12,
+      "end": 419.12,
+      "text": " and you will see a list"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 419.12,
+      "end": 421.12,
+      "text": " Harry is a good boy backslash n"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 421.12,
+      "end": 423.12,
+      "text": " Harry I am a second line"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 423.12,
+      "end": 425.12,
+      "text": " backslash n"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 425.12,
+      "end": 427.12,
+      "text": " amazing backslash n"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 427.12,
+      "end": 429.12,
+      "text": " twinkle twinkle little star"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 429.12,
+      "end": 431.12,
+      "text": " finally it came"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 431.12,
+      "end": 433.12,
+      "text": " class list is written"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 433.12,
+      "end": 435.12,
+      "text": " so you should know this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 435.12,
+      "end": 437.12,
+      "text": " we have closed f dot"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 437.12,
+      "end": 439.12,
+      "text": " and we have"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 439.12,
+      "end": 441.12,
+      "text": " f dot readlines function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 441.12,
+      "end": 443.12,
+      "text": " but what is f dot readline function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 443.12,
+      "end": 445.12,
+      "text": " f dot readline function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 445.12,
+      "end": 447.12,
+      "text": " the more you run it, the more your lines will be read"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 447.12,
+      "end": 449.12,
+      "text": " I will show you"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 449.12,
+      "end": 451.12,
+      "text": " how it works, I will write line1"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 451.12,
+      "end": 453.12,
+      "text": " is equal to f dot readline"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 453.12,
+      "end": 455.12,
+      "text": " and I will print line"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 455.12,
+      "end": 457.12,
+      "text": " and I will copy it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 457.12,
+      "end": 459.12,
+      "text": " and paste it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 459.12,
+      "end": 461.12,
+      "text": " so that you can"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 461.12,
+      "end": 463.12,
+      "text": " get this code later"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 463.12,
+      "end": 465.12,
+      "text": " but now you can see line1 is equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 465.12,
+      "end": 467.12,
+      "text": " f dot readline, now I can print"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 467.12,
+      "end": 469.12,
+      "text": " line1 and type of line1"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 469.12,
+      "end": 471.12,
+      "text": " similarly I will"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 471.12,
+      "end": 473.12,
+      "text": " do the same thing with line2"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 473.12,
+      "end": 475.12,
+      "text": " and line3"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 475.12,
+      "end": 477.12,
+      "text": " so I will do this with line2"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 477.12,
+      "end": 479.12,
+      "text": " and with line3"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 479.12,
+      "end": 481.12,
+      "text": " and you can see"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 481.12,
+      "end": 483.12,
+      "text": " I will get line2 and line3"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 483.12,
+      "end": 485.12,
+      "text": " so once I run this function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 485.12,
+      "end": 487.12,
+      "text": " so Harry is a good boy"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 487.12,
+      "end": 489.12,
+      "text": " I am a second line"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 489.12,
+      "end": 491.12,
+      "text": " this is amazing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 491.12,
+      "end": 493.12,
+      "text": " but after this is amazing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 493.12,
+      "end": 495.12,
+      "text": " there is no line"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 495.12,
+      "end": 497.12,
+      "text": " actually there is twinkle twinkle little star"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 497.12,
+      "end": 499.12,
+      "text": " so let's print it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 499.12,
+      "end": 501.12,
+      "text": " so I will do line4"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 501.12,
+      "end": 503.12,
+      "text": " is equal to line4"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 503.12,
+      "end": 505.12,
+      "text": " and type of line4"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 505.12,
+      "end": 507.12,
+      "text": " string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 507.12,
+      "end": 509.12,
+      "text": " twinkle twinkle little star"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 509.12,
+      "end": 511.12,
+      "text": " class string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 511.12,
+      "end": 513.12,
+      "text": " but"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 513.12,
+      "end": 515.12,
+      "text": " if I do line5"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 515.12,
+      "end": 517.12,
+      "text": " I will replicate it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 517.12,
+      "end": 519.12,
+      "text": " then what will happen"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 519.12,
+      "end": 521.12,
+      "text": " if I will write line5"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 521.12,
+      "end": 523.12,
+      "text": " so I will do line5"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 523.12,
+      "end": 525.12,
+      "text": " by pressing alt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 525.12,
+      "end": 527.12,
+      "text": " I am using multi cursor functionality"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 527.12,
+      "end": 529.12,
+      "text": " I will run it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 529.12,
+      "end": 531.12,
+      "text": " and you can see nothing came"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 531.12,
+      "end": 533.12,
+      "text": " nothing came, if I am"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 533.12,
+      "end": 535.12,
+      "text": " printing line5 then nothing is coming"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 535.12,
+      "end": 537.12,
+      "text": " basically an empty string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 537.12,
+      "end": 539.12,
+      "text": " is coming, so if I"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 539.12,
+      "end": 541.12,
+      "text": " print line equals to equals to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 541.12,
+      "end": 543.12,
+      "text": " then you can see"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 543.12,
+      "end": 545.12,
+      "text": " an empty string is coming"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 545.12,
+      "end": 547.12,
+      "text": " so here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 547.12,
+      "end": 549.12,
+      "text": " our read line keeps on reading"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 549.12,
+      "end": 551.12,
+      "text": " till"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 551.12,
+      "end": 553.12,
+      "text": " an empty string comes"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 553.12,
+      "end": 555.12,
+      "text": " means all lines are not finished"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 555.12,
+      "end": 557.12,
+      "text": " so if I have to do this in loop"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 557.12,
+      "end": 559.12,
+      "text": " then how will I do it, this is a cumbersome process"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 559.12,
+      "end": 561.12,
+      "text": " so I can do this in while loop"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 561.12,
+      "end": 563.12,
+      "text": " I can say while f.readline"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 563.12,
+      "end": 565.12,
+      "text": " is equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 565.12,
+      "end": 567.12,
+      "text": " equal to what"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 567.12,
+      "end": 569.12,
+      "text": " I will do one thing, I will say"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 569.12,
+      "end": 571.12,
+      "text": " line is equal to f.readline"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 571.12,
+      "end": 573.12,
+      "text": " you have read one line"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 573.12,
+      "end": 575.12,
+      "text": " now you will say"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 575.12,
+      "end": 577.12,
+      "text": " while line is not"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 577.12,
+      "end": 579.12,
+      "text": " equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 579.12,
+      "end": 581.12,
+      "text": " an empty string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 581.12,
+      "end": 583.12,
+      "text": " print the line"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 583.12,
+      "end": 585.12,
+      "text": " print the line"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 585.12,
+      "end": 587.12,
+      "text": " and then line is equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 587.12,
+      "end": 589.12,
+      "text": " f.readline"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 589.12,
+      "end": 591.12,
+      "text": " and you see, line will be printed till"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 591.12,
+      "end": 593.12,
+      "text": " all lines are not"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 593.12,
+      "end": 595.12,
+      "text": " printed"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 595.12,
+      "end": 597.12,
+      "text": " so eventually what will happen"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 597.12,
+      "end": 599.12,
+      "text": " when all lines are finished"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 599.12,
+      "end": 601.12,
+      "text": " then line is"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 601.12,
+      "end": 603.12,
+      "text": " equal to single quote"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 603.12,
+      "end": 605.12,
+      "text": " and line is equal to f.readline"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 605.12,
+      "end": 607.12,
+      "text": " and I hope you"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 607.12,
+      "end": 609.12,
+      "text": " understood this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 609.12,
+      "end": 611.12,
+      "text": " now you see here modes of"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 611.12,
+      "end": 613.12,
+      "text": " opening a file, r open"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 613.12,
+      "end": 615.12,
+      "text": " for reading, w open"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 615.12,
+      "end": 617.12,
+      "text": " for writing, a open for appending"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 617.12,
+      "end": 619.12,
+      "text": " now what is appending"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 619.12,
+      "end": 621.12,
+      "text": " we have seen read and write, read means"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 621.12,
+      "end": 623.12,
+      "text": " you want to read a file, write means"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 623.12,
+      "end": 625.12,
+      "text": " you want to insert some data in a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 625.12,
+      "end": 627.12,
+      "text": " what is a, what is"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 627.12,
+      "end": 629.12,
+      "text": " appending, appending"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 629.12,
+      "end": 631.12,
+      "text": " means you want to add something at the end of a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 631.12,
+      "end": 633.12,
+      "text": " that is called append"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 633.12,
+      "end": 635.12,
+      "text": " like we saw append in list"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 635.12,
+      "end": 637.12,
+      "text": " append means add something"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 637.12,
+      "end": 639.12,
+      "text": " at the end of a particular thing, so if I"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 639.12,
+      "end": 641.12,
+      "text": " open any file in append mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 641.12,
+      "end": 643.12,
+      "text": " I will show you here, 0 4"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 643.12,
+      "end": 645.12,
+      "text": " underscore append dot p y"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 645.12,
+      "end": 647.12,
+      "text": " so the way I was writing in file, if I"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 647.12,
+      "end": 649.12,
+      "text": " open any file in append mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 649.12,
+      "end": 651.12,
+      "text": " and I will make it a, then what will happen"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 651.12,
+      "end": 653.12,
+      "text": " that it will be inserted at the end of that file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 653.12,
+      "end": 655.12,
+      "text": " now in my file dot txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 655.12,
+      "end": 657.12,
+      "text": " what is there, just once"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 657.12,
+      "end": 659.12,
+      "text": " hey harry you are amazing is written"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 659.12,
+      "end": 661.12,
+      "text": " if I run this program, then at the end of it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 661.12,
+      "end": 663.12,
+      "text": " same thing will be added"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 663.12,
+      "end": 665.12,
+      "text": " and as many times I run it, it will be added"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 665.12,
+      "end": 667.12,
+      "text": " and see I have added it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 667.12,
+      "end": 669.12,
+      "text": " so as many times"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 669.12,
+      "end": 671.12,
+      "text": " I run it, it will be added"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 671.12,
+      "end": 673.12,
+      "text": " and it will be added"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 673.12,
+      "end": 675.12,
+      "text": " so I hope you understood this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 675.12,
+      "end": 677.12,
+      "text": " append function, what is append mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 677.12,
+      "end": 679.12,
+      "text": " sorry not function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 679.12,
+      "end": 681.12,
+      "text": " what is append mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 681.12,
+      "end": 683.12,
+      "text": " this is a mode to add at the end of a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 683.12,
+      "end": 685.12,
+      "text": " then we have"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 685.12,
+      "end": 687.12,
+      "text": " to update, there is a plus mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 687.12,
+      "end": 689.12,
+      "text": " then we have rb mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 689.12,
+      "end": 691.12,
+      "text": " read in binary, then rt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 691.12,
+      "end": 693.12,
+      "text": " read in text, which is"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 693.12,
+      "end": 695.12,
+      "text": " also the default mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 695.12,
+      "end": 697.12,
+      "text": " so if you write rb, it will be read in binary"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 697.12,
+      "end": 699.12,
+      "text": " if you write rt, it will be read in text"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 699.12,
+      "end": 701.12,
+      "text": " we saw how"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 701.12,
+      "end": 703.12,
+      "text": " files are written in python"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 703.12,
+      "end": 705.12,
+      "text": " and this is what I have written"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 705.12,
+      "end": 707.12,
+      "text": " now with statement"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 707.12,
+      "end": 709.12,
+      "text": " is a very good concept"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 709.12,
+      "end": 711.12,
+      "text": " I will tell you what is with statement"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 711.12,
+      "end": 713.12,
+      "text": " and we will use with statement only"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 713.12,
+      "end": 715.12,
+      "text": " with dot py"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 715.12,
+      "end": 717.12,
+      "text": " now what is with statement"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 717.12,
+      "end": 719.12,
+      "text": " suppose I have a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 719.12,
+      "end": 721.12,
+      "text": " I will open it from open, I will say"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 721.12,
+      "end": 723.12,
+      "text": " file dot txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 723.12,
+      "end": 725.12,
+      "text": " print f dot read"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 725.12,
+      "end": 727.12,
+      "text": " and then f dot close"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 727.12,
+      "end": 729.12,
+      "text": " this f dot close burden"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 729.12,
+      "end": 731.12,
+      "text": " is very heavy"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 731.12,
+      "end": 733.12,
+      "text": " now you will say, do f dot close"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 733.12,
+      "end": 735.12,
+      "text": " why don't you want to do f dot close"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 735.12,
+      "end": 737.12,
+      "text": " do your responsibility, yes I will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 737.12,
+      "end": 739.12,
+      "text": " f dot close, but if there was a way"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 739.12,
+      "end": 741.12,
+      "text": " which would"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 741.12,
+      "end": 743.12,
+      "text": " do the same thing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 743.12,
+      "end": 745.12,
+      "text": " and at the same time I don't have to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 745.12,
+      "end": 747.12,
+      "text": " do f dot close"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 747.12,
+      "end": 749.12,
+      "text": " then how good it would be"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 749.12,
+      "end": 751.12,
+      "text": " and this is a way with statement"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 751.12,
+      "end": 753.12,
+      "text": " the same"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 753.12,
+      "end": 755.12,
+      "text": " can be written using"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 755.12,
+      "end": 757.12,
+      "text": " with statement"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 757.12,
+      "end": 759.12,
+      "text": " like this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 761.12,
+      "end": 763.12,
+      "text": " how"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 763.12,
+      "end": 765.12,
+      "text": " you write here with open"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 765.12,
+      "end": 767.12,
+      "text": " file dot txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 767.12,
+      "end": 769.12,
+      "text": " file dot txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 769.12,
+      "end": 771.12,
+      "text": " as f"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 771.12,
+      "end": 773.12,
+      "text": " and you write here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 773.12,
+      "end": 775.12,
+      "text": " f dot read"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 775.12,
+      "end": 777.12,
+      "text": " print it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 777.12,
+      "end": 779.12,
+      "text": " or do the same thing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 779.12,
+      "end": 781.12,
+      "text": " and you don't have to close the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 781.12,
+      "end": 783.12,
+      "text": " I will write here at the end"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 783.12,
+      "end": 785.12,
+      "text": " you don't have to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 785.12,
+      "end": 787.12,
+      "text": " explicitly"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 787.12,
+      "end": 789.12,
+      "text": " close the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 789.12,
+      "end": 791.12,
+      "text": " you don't have to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 791.12,
+      "end": 793.12,
+      "text": " close the file, it will be done automatically"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 793.12,
+      "end": 795.12,
+      "text": " this is the magic of with"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 795.12,
+      "end": 797.12,
+      "text": " you can write this code like this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 797.12,
+      "end": 799.12,
+      "text": " and sometimes we have to write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 799.12,
+      "end": 801.12,
+      "text": " a lot of code between f is equal to open and f dot close"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 801.12,
+      "end": 803.12,
+      "text": " so you will write that code"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 803.12,
+      "end": 805.12,
+      "text": " inside the with statement"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 805.12,
+      "end": 807.12,
+      "text": " the rule is the same, indent the python colon"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 807.12,
+      "end": 809.12,
+      "text": " and you have come inside the with statement"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 809.12,
+      "end": 811.12,
+      "text": " and as soon as you will come out of the with statement"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 811.12,
+      "end": 813.12,
+      "text": " your file will be closed automatically"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 813.12,
+      "end": 815.12,
+      "text": " so this is an amazing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 815.12,
+      "end": 817.12,
+      "text": " tool"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 817.12,
+      "end": 819.12,
+      "text": " this is a syntactic sugar"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 819.12,
+      "end": 821.12,
+      "text": " it automatically closes the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 821.12,
+      "end": 823.12,
+      "text": " amazing stuff"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 823.12,
+      "end": 825.12,
+      "text": " the best way to open and close"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 825.12,
+      "end": 827.12,
+      "text": " the file automatically"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 827.12,
+      "end": 829.12,
+      "text": " is with with statement"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 829.12,
+      "end": 831.12,
+      "text": " so I have written the code here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 831.12,
+      "end": 833.12,
+      "text": " now we will move to the practice set of chapter 9"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 833.12,
+      "end": 835.12,
+      "text": " in which we will practice"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 835.12,
+      "end": 837.12,
+      "text": " and we will see"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 837.12,
+      "end": 839.12,
+      "text": " how we deal with files"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 839.12,
+      "end": 841.12,
+      "text": " I have designed some good problems for you"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 841.12,
+      "end": 843.12,
+      "text": " so let's move on"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 843.12,
+      "end": 845.12,
+      "text": " to chapter 9 practice set now"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 849.12,
+      "end": 851.12,
+      "text": " alright guys now we will move"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 851.12,
+      "end": 853.12,
+      "text": " to the practice set of chapter 9"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 853.12,
+      "end": 855.12,
+      "text": " in which we will see the questions of file io"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 855.12,
+      "end": 857.12,
+      "text": " so I have made"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 857.12,
+      "end": 859.12,
+      "text": " some amazing questions for you"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 859.12,
+      "end": 861.12,
+      "text": " so the first question of file io"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 861.12,
+      "end": 863.12,
+      "text": " is here on your computer screen"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 863.12,
+      "end": 865.12,
+      "text": " write a program to read the text"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 865.12,
+      "end": 867.12,
+      "text": " from a given file poems dot txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 867.12,
+      "end": 869.12,
+      "text": " and find out whether it contains"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 869.12,
+      "end": 871.12,
+      "text": " the word twinkle"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 871.12,
+      "end": 873.12,
+      "text": " so we have to make a file called poems dot txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 873.12,
+      "end": 875.12,
+      "text": " shift right click and open this folder"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 875.12,
+      "end": 877.12,
+      "text": " in vs code and here I will make a new file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 877.12,
+      "end": 879.12,
+      "text": " so we have a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 879.12,
+      "end": 881.12,
+      "text": " poem dot txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 883.12,
+      "end": 885.12,
+      "text": " and in poem dot txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 885.12,
+      "end": 887.12,
+      "text": " it is written twinkle"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 887.12,
+      "end": 889.12,
+      "text": " twinkle little"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 889.12,
+      "end": 891.12,
+      "text": " star"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 891.12,
+      "end": 893.12,
+      "text": " how are you"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 893.12,
+      "end": 895.12,
+      "text": " my brothers"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 895.12,
+      "end": 897.12,
+      "text": " now what we will do is"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 897.12,
+      "end": 899.12,
+      "text": " we will read this first"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 899.12,
+      "end": 901.12,
+      "text": " I will open this first"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 901.12,
+      "end": 903.12,
+      "text": " poem dot txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 903.12,
+      "end": 905.12,
+      "text": " and after this what I will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 905.12,
+      "end": 907.12,
+      "text": " I will write f dot read"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 907.12,
+      "end": 909.12,
+      "text": " and after this I will close f dot"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 909.12,
+      "end": 911.12,
+      "text": " this means"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 911.12,
+      "end": 913.12,
+      "text": " I will say this is the last time when I"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 913.12,
+      "end": 915.12,
+      "text": " open this file with the help of f"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 915.12,
+      "end": 917.12,
+      "text": " I will use with only"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 917.12,
+      "end": 919.12,
+      "text": " that is the correct way in fact the easiest way and the best way"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 919.12,
+      "end": 921.12,
+      "text": " to open a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 921.12,
+      "end": 923.12,
+      "text": " so I will try to use with only"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 923.12,
+      "end": 925.12,
+      "text": " but for now I have done c is equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 925.12,
+      "end": 927.12,
+      "text": " content is equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 927.12,
+      "end": 929.12,
+      "text": " then I will write if"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 929.12,
+      "end": 931.12,
+      "text": " twinkle in"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 931.12,
+      "end": 933.12,
+      "text": " wait a minute twinkle is a string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 933.12,
+      "end": 935.12,
+      "text": " in content"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 935.12,
+      "end": 937.12,
+      "text": " and I will make it content"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 937.12,
+      "end": 939.12,
+      "text": " means content of this file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 939.12,
+      "end": 941.12,
+      "text": " so what we did is we opened this file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 941.12,
+      "end": 943.12,
+      "text": " read the content of this file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 943.12,
+      "end": 945.12,
+      "text": " then we are saying that if twinkle"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 945.12,
+      "end": 947.12,
+      "text": " is present in this content then print"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 947.12,
+      "end": 949.12,
+      "text": " twinkle is"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 949.12,
+      "end": 951.12,
+      "text": " present in the"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 951.12,
+      "end": 953.12,
+      "text": " content otherwise what we will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 953.12,
+      "end": 955.12,
+      "text": " I will do one thing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 955.12,
+      "end": 957.12,
+      "text": " the twinkle is"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 957.12,
+      "end": 959.12,
+      "text": " present in the content otherwise"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 959.12,
+      "end": 961.12,
+      "text": " I will say else"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 963.12,
+      "end": 965.12,
+      "text": " the twinkle is"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 965.12,
+      "end": 967.12,
+      "text": " not present in the content"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 967.12,
+      "end": 969.12,
+      "text": " is not in the content so we"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 969.12,
+      "end": 971.12,
+      "text": " have to twinkle"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 971.12,
+      "end": 973.12,
+      "text": " it is present on content"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 973.12,
+      "end": 975.12,
+      "text": " after this if twinkle"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 975.12,
+      "end": 977.12,
+      "text": " is not present on content so"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 977.12,
+      "end": 979.12,
+      "text": " come let's see"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 979.12,
+      "end": 981.12,
+      "text": " is the twinkle present in the content"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 981.12,
+      "end": 983.12,
+      "text": " because it is in the content"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 983.12,
+      "end": 987.12,
+      "text": " if I do something like this instead of twinkle"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 987.12,
+      "end": 989.12,
+      "text": " and now if I run this program"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 989.12,
+      "end": 991.12,
+      "text": " then see the word twinkle is not present in the content"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 991.12,
+      "end": 995.12,
+      "text": " but let's change it to twinkle twinkle little star"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 995.12,
+      "end": 997.12,
+      "text": " so you got the point"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 997.12,
+      "end": 999.12,
+      "text": " if twinkle word will be there"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 999.12,
+      "end": 1001.12,
+      "text": " then it will show otherwise it won't"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1001.12,
+      "end": 1003.12,
+      "text": " it's a very simple thing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1003.12,
+      "end": 1005.12,
+      "text": " come back to VS code"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1005.12,
+      "end": 1007.12,
+      "text": " and in pdf the next question is"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1007.12,
+      "end": 1009.12,
+      "text": " game function in a program"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1009.12,
+      "end": 1011.12,
+      "text": " lets a user play a game"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1011.12,
+      "end": 1013.12,
+      "text": " and returns the score as an integer"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1013.12,
+      "end": 1015.12,
+      "text": " you need to read a file highscore.txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1015.12,
+      "end": 1017.12,
+      "text": " which is either blank or contains"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1017.12,
+      "end": 1019.12,
+      "text": " the previous highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1019.12,
+      "end": 1021.12,
+      "text": " you need to write a program to update the highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1021.12,
+      "end": 1023.12,
+      "text": " whenever the game function breaks the highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1023.12,
+      "end": 1025.12,
+      "text": " so what you have to do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1025.12,
+      "end": 1027.12,
+      "text": " what this game function will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1027.12,
+      "end": 1029.12,
+      "text": " that a user will"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1029.12,
+      "end": 1031.12,
+      "text": " help to play a game"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1031.12,
+      "end": 1033.12,
+      "text": " and returns the score as an integer"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1033.12,
+      "end": 1035.12,
+      "text": " then what you have to do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1035.12,
+      "end": 1037.12,
+      "text": " in this highscore file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1037.12,
+      "end": 1039.12,
+      "text": " either you have to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1039.12,
+      "end": 1041.12,
+      "text": " save the score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1041.12,
+      "end": 1043.12,
+      "text": " or"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1043.12,
+      "end": 1045.12,
+      "text": " or you have to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1045.12,
+      "end": 1047.12,
+      "text": " compare the previous highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1047.12,
+      "end": 1049.12,
+      "text": " and update the new one"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1049.12,
+      "end": 1051.12,
+      "text": " so let's do one thing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1051.12,
+      "end": 1053.12,
+      "text": " that we make a game function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1053.12,
+      "end": 1055.12,
+      "text": " so come"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1055.12,
+      "end": 1057.12,
+      "text": " let me show you how to do this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1057.12,
+      "end": 1059.12,
+      "text": " problem2.py"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1059.12,
+      "end": 1061.12,
+      "text": " and here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1061.12,
+      "end": 1063.12,
+      "text": " we will make a game function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1063.12,
+      "end": 1065.12,
+      "text": " and after making the game function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1065.12,
+      "end": 1067.12,
+      "text": " what we will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1067.12,
+      "end": 1069.12,
+      "text": " it lets a user play a game and returns the score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1069.12,
+      "end": 1071.12,
+      "text": " as an integer"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1071.12,
+      "end": 1073.12,
+      "text": " so what I will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1073.12,
+      "end": 1075.12,
+      "text": " I will generate a random number"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1075.12,
+      "end": 1077.12,
+      "text": " so I will write import random"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1077.12,
+      "end": 1079.12,
+      "text": " and I will write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1079.12,
+      "end": 1081.12,
+      "text": " return random"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1081.12,
+      "end": 1083.12,
+      "text": " dot randint"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1083.12,
+      "end": 1085.12,
+      "text": " and randint takes two"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1085.12,
+      "end": 1087.12,
+      "text": " integers"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1087.12,
+      "end": 1089.12,
+      "text": " and gives a number between them"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1089.12,
+      "end": 1091.12,
+      "text": " so I will give a number between 1 and 62"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1091.12,
+      "end": 1093.12,
+      "text": " now what we have to do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1093.12,
+      "end": 1095.12,
+      "text": " you need to read"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1095.12,
+      "end": 1097.12,
+      "text": " a file highscore.txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1097.12,
+      "end": 1099.12,
+      "text": " which is either blank or contains the previous highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1099.12,
+      "end": 1101.12,
+      "text": " you need to write a program to update the highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1101.12,
+      "end": 1103.12,
+      "text": " whenever the game breaks the highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1103.12,
+      "end": 1105.12,
+      "text": " so what we will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1105.12,
+      "end": 1107.12,
+      "text": " we will make the user play the game"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1107.12,
+      "end": 1109.12,
+      "text": " so what we will do here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1109.12,
+      "end": 1111.12,
+      "text": " we will print you are playing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1111.12,
+      "end": 1113.12,
+      "text": " are playing the game"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1113.12,
+      "end": 1115.12,
+      "text": " and here I will write your score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1117.12,
+      "end": 1119.12,
+      "text": " I will print"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1119.12,
+      "end": 1121.12,
+      "text": " and here I will write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1121.12,
+      "end": 1123.12,
+      "text": " your score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1123.12,
+      "end": 1125.12,
+      "text": " I will print your score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1125.12,
+      "end": 1127.12,
+      "text": " and I will take this in a variable"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1127.12,
+      "end": 1129.12,
+      "text": " called score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1129.12,
+      "end": 1131.12,
+      "text": " so it is simple"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1131.12,
+      "end": 1133.12,
+      "text": " we have to print score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1133.12,
+      "end": 1135.12,
+      "text": " so what we have done"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1135.12,
+      "end": 1137.12,
+      "text": " you are playing the game"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1137.12,
+      "end": 1139.12,
+      "text": " now what we have to do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1139.12,
+      "end": 1141.12,
+      "text": " if our score is greater than"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1141.12,
+      "end": 1143.12,
+      "text": " highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1143.12,
+      "end": 1145.12,
+      "text": " then we have to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1145.12,
+      "end": 1147.12,
+      "text": " write this highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1147.12,
+      "end": 1149.12,
+      "text": " to the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1149.12,
+      "end": 1151.12,
+      "text": " so what we will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1151.12,
+      "end": 1153.12,
+      "text": " we will write highscore in the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1153.12,
+      "end": 1155.12,
+      "text": " but we have to make a highscore.txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1155.12,
+      "end": 1157.12,
+      "text": " which is blank"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1157.12,
+      "end": 1159.12,
+      "text": " so what we will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1159.12,
+      "end": 1161.12,
+      "text": " first we will write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1161.12,
+      "end": 1163.12,
+      "text": " if highscore is greater than"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1163.12,
+      "end": 1165.12,
+      "text": " highscore or"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1165.12,
+      "end": 1167.12,
+      "text": " or highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1167.12,
+      "end": 1169.12,
+      "text": " is equal to equal to blank"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1169.12,
+      "end": 1171.12,
+      "text": " is equal to equal to blank"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1171.12,
+      "end": 1173.12,
+      "text": " so what we will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1173.12,
+      "end": 1175.12,
+      "text": " we will write highscore in the file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1175.12,
+      "end": 1177.12,
+      "text": " so what we have, game function will run"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1177.12,
+      "end": 1179.12,
+      "text": " it will print you are playing the game"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1179.12,
+      "end": 1181.12,
+      "text": " and a random score will be generated"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1181.12,
+      "end": 1183.12,
+      "text": " then we will fetch"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1183.12,
+      "end": 1185.12,
+      "text": " fetch the highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1185.12,
+      "end": 1187.12,
+      "text": " so what we will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1187.12,
+      "end": 1189.12,
+      "text": " with open"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1189.12,
+      "end": 1191.12,
+      "text": " and highscore.txt as"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1191.12,
+      "end": 1193.12,
+      "text": " f and we will say"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1193.12,
+      "end": 1195.12,
+      "text": " highscore is equal to f.tread"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1195.12,
+      "end": 1197.12,
+      "text": " so highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1197.12,
+      "end": 1199.12,
+      "text": " will be a string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1199.12,
+      "end": 1201.12,
+      "text": " then we will say"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1201.12,
+      "end": 1203.12,
+      "text": " score is greater than int of highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1203.12,
+      "end": 1205.12,
+      "text": " if score is greater than"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1205.12,
+      "end": 1207.12,
+      "text": " let's do one thing, let's treat highscore as f.treat"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1207.12,
+      "end": 1209.12,
+      "text": " and we will say if highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1209.12,
+      "end": 1211.12,
+      "text": " is equal to equal to blank"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1211.12,
+      "end": 1213.12,
+      "text": " then what we will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1213.12,
+      "end": 1215.12,
+      "text": " that highscore is equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1215.12,
+      "end": 1217.12,
+      "text": " int of highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1217.12,
+      "end": 1219.12,
+      "text": " now see what we are doing here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1219.12,
+      "end": 1221.12,
+      "text": " try to understand this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1221.12,
+      "end": 1223.12,
+      "text": " what we have done, game function will run"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1223.12,
+      "end": 1225.12,
+      "text": " it will print you are"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1225.12,
+      "end": 1227.12,
+      "text": " playing the game then after this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1227.12,
+      "end": 1229.12,
+      "text": " a random integer will be generated in score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1229.12,
+      "end": 1231.12,
+      "text": " between 1 and 62"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1231.12,
+      "end": 1233.12,
+      "text": " after this what we are doing, by reading this file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1233.12,
+      "end": 1235.12,
+      "text": " we are taking its highscore as an integer"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1235.12,
+      "end": 1237.12,
+      "text": " first we have read its content"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1237.12,
+      "end": 1239.12,
+      "text": " then we said if it is empty"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1239.12,
+      "end": 1241.12,
+      "text": " then highscore is equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1241.12,
+      "end": 1243.12,
+      "text": " zero, let's do one thing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1243.12,
+      "end": 1245.12,
+      "text": " if it is not empty then highscore is zero"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1245.12,
+      "end": 1247.12,
+      "text": " if highscore is not equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1247.12,
+      "end": 1249.12,
+      "text": " blank then highscore will be this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1249.12,
+      "end": 1251.12,
+      "text": " otherwise what will happen, otherwise highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1251.12,
+      "end": 1253.12,
+      "text": " is equal to zero"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1253.12,
+      "end": 1255.12,
+      "text": " so if highscore is zero then any score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1255.12,
+      "end": 1257.12,
+      "text": " will not be greater than zero because we are generating"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1257.12,
+      "end": 1259.12,
+      "text": " between 1 and 62"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1259.12,
+      "end": 1261.12,
+      "text": " any number between 1 and 62 will be greater than zero"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1261.12,
+      "end": 1263.12,
+      "text": " so"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1263.12,
+      "end": 1265.12,
+      "text": " if score is greater than highscore then we will write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1265.12,
+      "end": 1267.12,
+      "text": " we will use this kind of thing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1267.12,
+      "end": 1269.12,
+      "text": " and we will say"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1269.12,
+      "end": 1271.12,
+      "text": " withopenhighscore.txt, this time we will"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1271.12,
+      "end": 1273.12,
+      "text": " open it in write mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1273.12,
+      "end": 1275.12,
+      "text": " and we will say f.write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1275.12,
+      "end": 1277.12,
+      "text": " highscore, f.write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1277.12,
+      "end": 1279.12,
+      "text": " highscore, ok"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1279.12,
+      "end": 1281.12,
+      "text": " so we have done withopenhighscore.txt w"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1281.12,
+      "end": 1283.12,
+      "text": " as f.write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1283.12,
+      "end": 1285.12,
+      "text": " highscore, we will write this string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1285.12,
+      "end": 1287.12,
+      "text": " highscore in highscore.txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1287.12,
+      "end": 1289.12,
+      "text": " ok, i hope you got the point"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1289.12,
+      "end": 1291.12,
+      "text": " and it will be replaced, append will not be"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1291.12,
+      "end": 1293.12,
+      "text": " replaced, here is 62"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1293.12,
+      "end": 1295.12,
+      "text": " and here is one highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1295.12,
+      "end": 1297.12,
+      "text": " and we made 10 highscore so"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1297.12,
+      "end": 1299.12,
+      "text": " 10 will be here, so that thing will be automatically"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1299.12,
+      "end": 1301.12,
+      "text": " done, i hope you got the point"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1301.12,
+      "end": 1303.12,
+      "text": " ok, your score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1303.12,
+      "end": 1305.12,
+      "text": " is here, now let's run it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1305.12,
+      "end": 1307.12,
+      "text": " here is the error"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1307.12,
+      "end": 1309.12,
+      "text": " right argument must be string not integer"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1309.12,
+      "end": 1311.12,
+      "text": " so we have to convert it in str"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1311.12,
+      "end": 1313.12,
+      "text": " because your"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1313.12,
+      "end": 1315.12,
+      "text": " write function"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1315.12,
+      "end": 1317.12,
+      "text": " takes a string, so let's try"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1317.12,
+      "end": 1319.12,
+      "text": " again, your score is 43"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1319.12,
+      "end": 1321.12,
+      "text": " 43 is here, no 43 is not"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1321.12,
+      "end": 1323.12,
+      "text": " here, so this is"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1323.12,
+      "end": 1325.12,
+      "text": " a problem, we have to write score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1325.12,
+      "end": 1327.12,
+      "text": " not highscore, if the score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1327.12,
+      "end": 1329.12,
+      "text": " is bigger than highscore, then new highscore will be this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1329.12,
+      "end": 1331.12,
+      "text": " ok, so"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1331.12,
+      "end": 1333.12,
+      "text": " we have to write score here, i will explain"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1333.12,
+      "end": 1335.12,
+      "text": " this program once more, but let me check"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1335.12,
+      "end": 1337.12,
+      "text": " if it is running or not, here is 4"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1337.12,
+      "end": 1339.12,
+      "text": " now i will generate the second"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1339.12,
+      "end": 1341.12,
+      "text": " 14 is here, so see"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1341.12,
+      "end": 1343.12,
+      "text": " 14 is here, i am running"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1343.12,
+      "end": 1345.12,
+      "text": " again, 45 is here, so this time"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1345.12,
+      "end": 1347.12,
+      "text": " 45 is highscore, so 45 is here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1347.12,
+      "end": 1349.12,
+      "text": " i am running again, 29 is"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1349.12,
+      "end": 1351.12,
+      "text": " smaller than 45, so 45 is highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1351.12,
+      "end": 1353.12,
+      "text": " are you seeing this, 45"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1353.12,
+      "end": 1355.12,
+      "text": " is here, so"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1355.12,
+      "end": 1357.12,
+      "text": " see what we have done here, i am explaining"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1357.12,
+      "end": 1359.12,
+      "text": " we have made a function named game"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1359.12,
+      "end": 1361.12,
+      "text": " which is printing you are playing the game"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1361.12,
+      "end": 1363.12,
+      "text": " we have generated a score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1363.12,
+      "end": 1365.12,
+      "text": " between 1 to 62, a random integer"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1365.12,
+      "end": 1367.12,
+      "text": " and after that we"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1367.12,
+      "end": 1369.12,
+      "text": " opened this file and took the content"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1369.12,
+      "end": 1371.12,
+      "text": " inside it, we said that if this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1371.12,
+      "end": 1373.12,
+      "text": " file is empty, then"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1373.12,
+      "end": 1375.12,
+      "text": " highscore is 0, and if"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1375.12,
+      "end": 1377.12,
+      "text": " there is something in it, then convert it into an integer"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1377.12,
+      "end": 1379.12,
+      "text": " and assume it to be highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1379.12,
+      "end": 1381.12,
+      "text": " like it has 42, 72"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1381.12,
+      "end": 1383.12,
+      "text": " see when we read f. it comes in the form of a string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1383.12,
+      "end": 1385.12,
+      "text": " so we have to convert it into an integer"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1385.12,
+      "end": 1387.12,
+      "text": " so here you can see"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1387.12,
+      "end": 1389.12,
+      "text": " we have converted it into an integer"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1389.12,
+      "end": 1391.12,
+      "text": " highscore and highscore is equal to int highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1391.12,
+      "end": 1393.12,
+      "text": " means convert highscore into its integer counterpart"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1393.12,
+      "end": 1395.12,
+      "text": " ok, so this is a"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1395.12,
+      "end": 1397.12,
+      "text": " valid statement, let me tell you"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1397.12,
+      "end": 1399.12,
+      "text": " then we printed the score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1399.12,
+      "end": 1401.12,
+      "text": " and we said that if your score"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1401.12,
+      "end": 1403.12,
+      "text": " is bigger than highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1403.12,
+      "end": 1405.12,
+      "text": " then write this highscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1405.12,
+      "end": 1407.12,
+      "text": " in highscore.txt file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1407.12,
+      "end": 1409.12,
+      "text": " as a string, because if you write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1409.12,
+      "end": 1411.12,
+      "text": " then you will do it as a string, I hope"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1411.12,
+      "end": 1413.12,
+      "text": " I have explained it well to you and you"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1413.12,
+      "end": 1415.12,
+      "text": " understood it, if not then I will say"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1415.12,
+      "end": 1417.12,
+      "text": " to see this question again and try to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1417.12,
+      "end": 1419.12,
+      "text": " code it yourself, I am moving"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1419.12,
+      "end": 1421.12,
+      "text": " to the next question which says"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1421.12,
+      "end": 1423.12,
+      "text": " write a program to generate multiplication tables"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1423.12,
+      "end": 1425.12,
+      "text": " from 2 to 20 and write it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1425.12,
+      "end": 1427.12,
+      "text": " to different files, place"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1427.12,
+      "end": 1429.12,
+      "text": " these files in a folder for a"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1429.12,
+      "end": 1431.12,
+      "text": " 13 year old, now see"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1431.12,
+      "end": 1433.12,
+      "text": " we have to write mountains from 2 to 20"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1433.12,
+      "end": 1435.12,
+      "text": " this is a very good problem, it will be fun"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1435.12,
+      "end": 1437.12,
+      "text": " to do this, suppose there is a kid"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1437.12,
+      "end": 1439.12,
+      "text": " his book is lost"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1439.12,
+      "end": 1441.12,
+      "text": " he used to remember from a book that his table is"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1441.12,
+      "end": 1443.12,
+      "text": " lost, he says that my book is lost"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1443.12,
+      "end": 1445.12,
+      "text": " I don't have a table from 2 to 20"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1445.12,
+      "end": 1447.12,
+      "text": " so we will generate it from python"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1447.12,
+      "end": 1449.12,
+      "text": " so what we will do first, we will write a for loop"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1449.12,
+      "end": 1451.12,
+      "text": " for i in range"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1451.12,
+      "end": 1453.12,
+      "text": " 1 to 21, sorry"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1453.12,
+      "end": 1455.12,
+      "text": " 2 to 21"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1455.12,
+      "end": 1457.12,
+      "text": " this for loop will go from 2 to 20"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1457.12,
+      "end": 1459.12,
+      "text": " now what we will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1459.12,
+      "end": 1461.12,
+      "text": " we will make a function from generate table"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1461.12,
+      "end": 1463.12,
+      "text": " and we will say give it i"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1463.12,
+      "end": 1465.12,
+      "text": " now what is generate table, it will be a"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1465.12,
+      "end": 1467.12,
+      "text": " function which will take an integer"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1467.12,
+      "end": 1469.12,
+      "text": " and generate the table"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1469.12,
+      "end": 1471.12,
+      "text": " and write it in files, so I will write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1471.12,
+      "end": 1473.12,
+      "text": " def generate table"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1473.12,
+      "end": 1475.12,
+      "text": " i, not i, I will make it n"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1475.12,
+      "end": 1477.12,
+      "text": " ok, n, any number"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1477.12,
+      "end": 1479.12,
+      "text": " table will generate, for i"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1479.12,
+      "end": 1481.12,
+      "text": " in range n"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1481.12,
+      "end": 1483.12,
+      "text": " ok, what we will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1483.12,
+      "end": 1485.12,
+      "text": " I will make it 1 to n"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1485.12,
+      "end": 1487.12,
+      "text": " plus 1, from 1 to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1487.12,
+      "end": 1489.12,
+      "text": " 11, so it goes from 1 to 10"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1489.12,
+      "end": 1491.12,
+      "text": " and I will"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1491.12,
+      "end": 1493.12,
+      "text": " table is equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1493.12,
+      "end": 1495.12,
+      "text": " I will make a string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1495.12,
+      "end": 1497.12,
+      "text": " table is equal to, now I will say table"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1497.12,
+      "end": 1499.12,
+      "text": " plus equals to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1499.12,
+      "end": 1501.12,
+      "text": " I will add an f string in it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1501.12,
+      "end": 1503.12,
+      "text": " and I will say table"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1503.12,
+      "end": 1505.12,
+      "text": " plus equals to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1505.12,
+      "end": 1507.12,
+      "text": " in this I will put n"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1507.12,
+      "end": 1509.12,
+      "text": " and I will put multiply by"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1509.12,
+      "end": 1511.12,
+      "text": " then I will put i, then I will put"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1511.12,
+      "end": 1513.12,
+      "text": " is equal to n multiply by"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1513.12,
+      "end": 1515.12,
+      "text": " i, then I will put a backslash n"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1515.12,
+      "end": 1517.12,
+      "text": " then when this string will be complete"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1517.12,
+      "end": 1519.12,
+      "text": " then what I will do, I will add this string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1519.12,
+      "end": 1521.12,
+      "text": " in a file, I will say"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1521.12,
+      "end": 1523.12,
+      "text": " with open"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1523.12,
+      "end": 1525.12,
+      "text": " and I will make a file in a folder named table"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1525.12,
+      "end": 1527.12,
+      "text": " I will make a folder named tables"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1527.12,
+      "end": 1529.12,
+      "text": " so from here you make a folder"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1529.12,
+      "end": 1531.12,
+      "text": " if you don't know, you make a file from here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1531.12,
+      "end": 1533.12,
+      "text": " and make a folder from here, so a folder will be made"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1533.12,
+      "end": 1535.12,
+      "text": " and here also this folder will be made, this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1535.12,
+      "end": 1537.12,
+      "text": " file system is in sync"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1537.12,
+      "end": 1539.12,
+      "text": " what is seen in vs code, it is happening here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1539.12,
+      "end": 1541.12,
+      "text": " so this is the meaning of"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1541.12,
+      "end": 1543.12,
+      "text": " doing all this in vs code"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1543.12,
+      "end": 1545.12,
+      "text": " table slash and I will write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1545.12,
+      "end": 1547.12,
+      "text": " table underscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1547.12,
+      "end": 1549.12,
+      "text": " and here I will write i"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1549.12,
+      "end": 1551.12,
+      "text": " like this, table slash"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1551.12,
+      "end": 1553.12,
+      "text": " table underscore i, so let's make f string"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1553.12,
+      "end": 1555.12,
+      "text": " so this table underscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1555.12,
+      "end": 1557.12,
+      "text": " i means table of"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1557.12,
+      "end": 1559.12,
+      "text": " n, sorry not i, n"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1559.12,
+      "end": 1561.12,
+      "text": " table of whatever number will come here, its table"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1561.12,
+      "end": 1563.12,
+      "text": " will be seen here, then what we are doing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1563.12,
+      "end": 1565.12,
+      "text": " we are opening this file and"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1565.12,
+      "end": 1567.12,
+      "text": " writing table in it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1567.12,
+      "end": 1569.12,
+      "text": " and"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1569.12,
+      "end": 1571.12,
+      "text": " we have to write it as f, we have to write the syntax properly"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1571.12,
+      "end": 1573.12,
+      "text": " and as soon as I will run it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1573.12,
+      "end": 1575.12,
+      "text": " you can see it is saying"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1575.12,
+      "end": 1577.12,
+      "text": " table, ok I have made a folder named tables"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1577.12,
+      "end": 1579.12,
+      "text": " so I will make it as tables, I will run it again"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1581.12,
+      "end": 1583.12,
+      "text": " and here it is saying no search file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1583.12,
+      "end": 1585.12,
+      "text": " or directory, ok so I have to open it in right mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1585.12,
+      "end": 1587.12,
+      "text": " I have made one more mistake, I have to open it in w mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1587.12,
+      "end": 1589.12,
+      "text": " and now see"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1589.12,
+      "end": 1591.12,
+      "text": " as soon as I will run it"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1591.12,
+      "end": 1593.12,
+      "text": " my tables are generated, are you seeing this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1593.12,
+      "end": 1595.12,
+      "text": " see this, now I have to do one thing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1595.12,
+      "end": 1597.12,
+      "text": " I have to put .txt here also so that"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1597.12,
+      "end": 1599.12,
+      "text": " extension will be fixed, so I will delete this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1599.12,
+      "end": 1601.12,
+      "text": " folder and"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1601.12,
+      "end": 1603.12,
+      "text": " generate it again, I will"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1603.12,
+      "end": 1605.12,
+      "text": " make the folder of tables manually"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1607.12,
+      "end": 1609.12,
+      "text": " tables and as soon as I will run"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1609.12,
+      "end": 1611.12,
+      "text": " this program you can see"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1611.12,
+      "end": 1613.12,
+      "text": " inside this I have generated tables"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1613.12,
+      "end": 1615.12,
+      "text": " are these tables ok or not, let's check"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1615.12,
+      "end": 1617.12,
+      "text": " table of 15 is ok"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1619.12,
+      "end": 1621.12,
+      "text": " table of 18 is also ok, let's see table of 17"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1621.12,
+      "end": 1623.12,
+      "text": " 17 is also ok"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1623.12,
+      "end": 1625.12,
+      "text": " and here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1625.12,
+      "end": 1627.12,
+      "text": " this is also ok and"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1627.12,
+      "end": 1629.12,
+      "text": " let's see this is also ok"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1629.12,
+      "end": 1631.12,
+      "text": " so this is good, I am enjoying"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1631.12,
+      "end": 1633.12,
+      "text": " so you can give this to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1633.12,
+      "end": 1635.12,
+      "text": " some 13 year old"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1635.12,
+      "end": 1637.12,
+      "text": " so now no one can make any excuse"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1637.12,
+      "end": 1639.12,
+      "text": " that our tables are over"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1639.12,
+      "end": 1641.12,
+      "text": " now see"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1641.12,
+      "end": 1643.12,
+      "text": " a file contains the word donkey multiple times"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1643.12,
+      "end": 1645.12,
+      "text": " you need to write a program which will replace this word"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1645.12,
+      "end": 1647.12,
+      "text": " with this, so let's do this question"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1647.12,
+      "end": 1649.12,
+      "text": " in this there is donkey word"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1649.12,
+      "end": 1651.12,
+      "text": " what we have to do is replace it with this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1651.12,
+      "end": 1653.12,
+      "text": " so now what we will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1653.12,
+      "end": 1655.12,
+      "text": " first of all we will make a file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1655.12,
+      "end": 1657.12,
+      "text": " and close this folder"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1657.12,
+      "end": 1659.12,
+      "text": " 04 underscore"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1659.12,
+      "end": 1661.12,
+      "text": " problem"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1661.12,
+      "end": 1663.12,
+      "text": " 4.py"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1663.12,
+      "end": 1665.12,
+      "text": " and after this what we will do is"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1665.12,
+      "end": 1667.12,
+      "text": " write word"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1667.12,
+      "end": 1669.12,
+      "text": " is equal to and"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1669.12,
+      "end": 1671.12,
+      "text": " we will write this ok"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1671.12,
+      "end": 1673.12,
+      "text": " and I will make it here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1673.12,
+      "end": 1675.12,
+      "text": " file.txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1677.12,
+      "end": 1679.12,
+      "text": " not a"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1679.12,
+      "end": 1681.12,
+      "text": " I have written this here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1681.12,
+      "end": 1683.12,
+      "text": " donkey is a nice donkey but not a bad donkey"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1683.12,
+      "end": 1685.12,
+      "text": " now what I will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1685.12,
+      "end": 1687.12,
+      "text": " I will say with open"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1687.12,
+      "end": 1689.12,
+      "text": " file.txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1689.12,
+      "end": 1691.12,
+      "text": " and what I am doing"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1691.12,
+      "end": 1693.12,
+      "text": " file.txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1693.12,
+      "end": 1695.12,
+      "text": " and I am opening this in read mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1695.12,
+      "end": 1697.12,
+      "text": " and I will write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1697.12,
+      "end": 1699.12,
+      "text": " r as f"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1699.12,
+      "end": 1701.12,
+      "text": " then what I will write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1701.12,
+      "end": 1703.12,
+      "text": " content is equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1703.12,
+      "end": 1705.12,
+      "text": " and I will write f.read"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1705.12,
+      "end": 1707.12,
+      "text": " so I have read the content of this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1707.12,
+      "end": 1709.12,
+      "text": " now I will write content new is equal to"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1709.12,
+      "end": 1711.12,
+      "text": " content.replace"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1711.12,
+      "end": 1713.12,
+      "text": " and what I will do"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1713.12,
+      "end": 1715.12,
+      "text": " I will replace"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1715.12,
+      "end": 1717.12,
+      "text": " donkey with"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1717.12,
+      "end": 1719.12,
+      "text": " 1"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1719.12,
+      "end": 1721.12,
+      "text": " 2,3,4,5,6"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1721.12,
+      "end": 1723.12,
+      "text": " I will replace it with this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1723.12,
+      "end": 1725.12,
+      "text": " and after that what I will do in write mode"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1725.12,
+      "end": 1727.12,
+      "text": " I will say write it again in this file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1727.12,
+      "end": 1729.12,
+      "text": " f.write"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1729.12,
+      "end": 1731.12,
+      "text": " and here I will"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1731.12,
+      "end": 1733.12,
+      "text": " write content ok"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1733.12,
+      "end": 1735.12,
+      "text": " something like this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1735.12,
+      "end": 1737.12,
+      "text": " so now see what I have done first of all I have done word is equal to donkey"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1737.12,
+      "end": 1739.12,
+      "text": " and I will make it word here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1739.12,
+      "end": 1741.12,
+      "text": " then I"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1741.12,
+      "end": 1743.12,
+      "text": " read the content of this file"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1743.12,
+      "end": 1745.12,
+      "text": " I said what is in this file content"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1745.12,
+      "end": 1747.12,
+      "text": " it should be read then after that"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1747.12,
+      "end": 1749.12,
+      "text": " I generated a new content in which I replaced"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1749.12,
+      "end": 1751.12,
+      "text": " word with this and"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1751.12,
+      "end": 1753.12,
+      "text": " finally I"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1753.12,
+      "end": 1755.12,
+      "text": " write it again in file.txt"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1755.12,
+      "end": 1757.12,
+      "text": " so let's run this program"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1757.12,
+      "end": 1759.12,
+      "text": " and here it is saying txtr"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1759.12,
+      "end": 1761.12,
+      "text": " txtr"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1761.12,
+      "end": 1763.12,
+      "text": " there is something wrong"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1763.12,
+      "end": 1765.12,
+      "text": " I did not put comma here so I had to put comma here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1765.12,
+      "end": 1767.12,
+      "text": " I will run it like this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1767.12,
+      "end": 1769.12,
+      "text": " I have to put comma here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1769.12,
+      "end": 1771.12,
+      "text": " so I will run it like this"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1771.12,
+      "end": 1773.12,
+      "text": " you can see here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1773.12,
+      "end": 1775.12,
+      "text": " that"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1775.12,
+      "end": 1777.12,
+      "text": " this is not done"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1777.12,
+      "end": 1779.12,
+      "text": " let me see what is the issue here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1779.12,
+      "end": 1781.12,
+      "text": " I will run it again I wrote"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1781.12,
+      "end": 1783.12,
+      "text": " f.write content new"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1783.12,
+      "end": 1785.12,
+      "text": " I did content by mistake"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1785.12,
+      "end": 1787.12,
+      "text": " now I will run it and see here"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1787.12,
+      "end": 1789.12,
+      "text": " our work is done"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1789.12,
+      "end": 1791.12,
+      "text": " so you have to be very careful"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1791.12,
+      "end": 1793.12,
+      "text": " you will make small mistakes"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1793.12,
+      "end": 1795.12,
+      "text": " I did a mistake here I had to write content new"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1795.12,
+      "end": 1797.12,
+      "text": " so you have to be very alert"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1797.12,
+      "end": 1799.12,
+      "text": " while coding"
+    },
+    {
+      "number": "13",
+      "title": "part13",
+      "start": 1799.12,
+      "end": 1801.12,
+      "text": " let's move to next question"
+    }
+  ],
+  "text": " files, okay? a file is data stored in a storage device a python program can talk to the file by reading content from it and writing content to it, okay? so here you can see that a python program can talk to a file by reading content from it, or we can read from a file or we can write on a file okay? or we can read from a file or we can write on a file, okay? so this is what we are going to see in this chapter that how reading and writing works in a file so there are two types of files text files and binary files in general text files are those which we can open in VS Code and we can see its content .py file is also a text file because we write it with the help of textual character, okay? so how will you read the file? so there is a very simple way to read the file if I write file.txt here and write here this is a good boy okay? here I write Harry is a good boy, why should I write this? I wrote Harry is a good boy so to read the file I will write f is equal to open and here I will write file.txt and after this what I will do? I will write here data is equal to f.read I will print the data and I will do f.close okay? I will run this program and you can see that Harry is a good boy output has come that means we have read this file so what is open? open is a built-in function in python which helps in opening files what happens with f.read? f.read basically helps in reading our files okay? so as soon as I run f.read so whatever file is opened in f its content will come in data then I printed the data and this term is very important f.close whenever we open a file it's our duty to close it if you close it then basically you are telling the computer that computer ji I have taken whatever I wanted from this file now you close it like you have a fridge in your house you open the fridge you take out a cold water bottle you drink water you put the bottle inside you close the fridge right? you do right? you have to close f.close too because you close the fridge and you have to close f.close too so that that file does not remain open later if someone or if someone else wants to access that file then they can do it so f.close is a good practice if you don't do f.close then it will work but we should put the habit of f.close why should we put? because once we have accessed the file our work is done so we want to give a signal to the computer that our work is done we are not reading this file this file is not open in our program ok? good I hope you understood this thing let's come back I told you about two types of files in notes one is text files one is binary files now in python we have built-in functions one of them is open which is a built-in function it takes two parameters it takes the name of a file it takes a mode here you see I did not give the mode I just gave the name of the file and the reason for that is in open function by default the mode is read it is r r for read if I have to write the file then I have to write w by putting a comma but if I write r here then by default it is r there is no use of writing it if you want to open a file in read mode you have to open the file directly open and write the name of the file and your file will open so this was the basic of the file ok? and we have a file named file.txt now I will teach you how to write a file ok? file underscore write dot p o m how to write in a file suppose I have a string and that is st is equal to hey harry you are amazing this string could be as long as you want what I will do I will write in a file so I will keep the name of that file my file so what I will do I will write f is equal to open my file dot txt and this time I will open it in write mode w means write mode write mode means that I want to write in this file I will hit enter I will hit enter f is equal to open I wrote my file dot txt write now I will use f dot write and I will give a string named st and after this I will close f dot so I took a string I opened a file gave the name of that file opened in write mode used f dot write function gave a string to it f dot write takes a string whatever you want to write a string in this file you write it in f dot write and then I closed this file so first I opened the file then I wrote in the file then closed the file now as soon as I run this program you will see that my file dot txt is created if you will do the video little bit back then you will know that my file dot txt is just created let's open it wow, in this hey harry you are amazing came it means that we are able to write successfully in this file ok, I hope you are enjoying and you got to know how to read and write in the file so the most important thing if there is anything that is to read and write in the file ok, so in any file we use read and write of these two functions there are some other functions related to the file like readline readline is a function readline is also a function readline is also a function what does readline do it reads your lines one by one for example I have a file I do one thing I make it with the name 03 underscore more file functions and here what I will do I will take a file suppose I have a file dot txt in which there are multiple lines I am a second line I do it now I will do toggle screen cast mode this is amazing I do it, I write twinkle twinkle I am not able to write the spelling of twinkle little star ok, I am not able to write the spelling of twinkle ok, I am not able to write the spelling of twinkle otherwise I will get comments that you don't know now what I will do I will write f is equal to open which file was it, file dot txt write it in double quotes write file dot txt in double quotes file dot txt and we are opening it in read mode so I don't need to write r now if I write lines is equal to f dot readlines so readlines returns a list which is a list of our lines I will show you if I print lines and type of lines then you will see that it is a list then if I close f dot then it becomes our duty now I will run this program and you will see a list Harry is a good boy backslash n Harry I am a second line backslash n amazing backslash n twinkle twinkle little star finally it came class list is written so you should know this we have closed f dot and we have f dot readlines function but what is f dot readline function f dot readline function the more you run it, the more your lines will be read I will show you how it works, I will write line1 is equal to f dot readline and I will print line and I will copy it and paste it so that you can get this code later but now you can see line1 is equal to f dot readline, now I can print line1 and type of line1 similarly I will do the same thing with line2 and line3 so I will do this with line2 and with line3 and you can see I will get line2 and line3 so once I run this function so Harry is a good boy I am a second line this is amazing but after this is amazing there is no line actually there is twinkle twinkle little star so let's print it so I will do line4 is equal to line4 and type of line4 string twinkle twinkle little star class string but if I do line5 I will replicate it then what will happen if I will write line5 so I will do line5 by pressing alt I am using multi cursor functionality I will run it and you can see nothing came nothing came, if I am printing line5 then nothing is coming basically an empty string is coming, so if I print line equals to equals to then you can see an empty string is coming so here our read line keeps on reading till an empty string comes means all lines are not finished so if I have to do this in loop then how will I do it, this is a cumbersome process so I can do this in while loop I can say while f.readline is equal to equal to what I will do one thing, I will say line is equal to f.readline you have read one line now you will say while line is not equal to an empty string print the line print the line and then line is equal to f.readline and you see, line will be printed till all lines are not printed so eventually what will happen when all lines are finished then line is equal to single quote and line is equal to f.readline and I hope you understood this now you see here modes of opening a file, r open for reading, w open for writing, a open for appending now what is appending we have seen read and write, read means you want to read a file, write means you want to insert some data in a file what is a, what is appending, appending means you want to add something at the end of a file that is called append like we saw append in list append means add something at the end of a particular thing, so if I open any file in append mode I will show you here, 0 4 underscore append dot p y so the way I was writing in file, if I open any file in append mode and I will make it a, then what will happen that it will be inserted at the end of that file now in my file dot txt what is there, just once hey harry you are amazing is written if I run this program, then at the end of it same thing will be added and as many times I run it, it will be added and see I have added it so as many times I run it, it will be added and it will be added so I hope you understood this append function, what is append mode sorry not function what is append mode this is a mode to add at the end of a file then we have to update, there is a plus mode then we have rb mode read in binary, then rt read in text, which is also the default mode so if you write rb, it will be read in binary if you write rt, it will be read in text we saw how files are written in python and this is what I have written now with statement is a very good concept I will tell you what is with statement and we will use with statement only with dot py now what is with statement suppose I have a file I will open it from open, I will say file dot txt print f dot read and then f dot close this f dot close burden is very heavy now you will say, do f dot close why don't you want to do f dot close do your responsibility, yes I will do f dot close, but if there was a way which would do the same thing and at the same time I don't have to do f dot close then how good it would be and this is a way with statement the same can be written using with statement like this how you write here with open file dot txt file dot txt as f and you write here f dot read print it or do the same thing and you don't have to close the file I will write here at the end you don't have to explicitly close the file you don't have to close the file, it will be done automatically this is the magic of with you can write this code like this and sometimes we have to write a lot of code between f is equal to open and f dot close so you will write that code inside the with statement the rule is the same, indent the python colon and you have come inside the with statement and as soon as you will come out of the with statement your file will be closed automatically so this is an amazing tool this is a syntactic sugar it automatically closes the file amazing stuff the best way to open and close the file automatically is with with statement so I have written the code here now we will move to the practice set of chapter 9 in which we will practice and we will see how we deal with files I have designed some good problems for you so let's move on to chapter 9 practice set now alright guys now we will move to the practice set of chapter 9 in which we will see the questions of file io so I have made some amazing questions for you so the first question of file io is here on your computer screen write a program to read the text from a given file poems dot txt and find out whether it contains the word twinkle so we have to make a file called poems dot txt shift right click and open this folder in vs code and here I will make a new file so we have a file poem dot txt and in poem dot txt it is written twinkle twinkle little star how are you my brothers now what we will do is we will read this first I will open this first poem dot txt and after this what I will do I will write f dot read and after this I will close f dot this means I will say this is the last time when I open this file with the help of f I will use with only that is the correct way in fact the easiest way and the best way to open a file so I will try to use with only but for now I have done c is equal to content is equal to then I will write if twinkle in wait a minute twinkle is a string in content and I will make it content means content of this file so what we did is we opened this file read the content of this file then we are saying that if twinkle is present in this content then print twinkle is present in the content otherwise what we will do I will do one thing the twinkle is present in the content otherwise I will say else the twinkle is not present in the content is not in the content so we have to twinkle it is present on content after this if twinkle is not present on content so come let's see is the twinkle present in the content because it is in the content if I do something like this instead of twinkle and now if I run this program then see the word twinkle is not present in the content but let's change it to twinkle twinkle little star so you got the point if twinkle word will be there then it will show otherwise it won't it's a very simple thing come back to VS code and in pdf the next question is game function in a program lets a user play a game and returns the score as an integer you need to read a file highscore.txt which is either blank or contains the previous highscore you need to write a program to update the highscore whenever the game function breaks the highscore so what you have to do what this game function will do that a user will help to play a game and returns the score as an integer then what you have to do in this highscore file either you have to save the score or or you have to compare the previous highscore and update the new one so let's do one thing that we make a game function so come let me show you how to do this problem2.py and here we will make a game function and after making the game function what we will do it lets a user play a game and returns the score as an integer so what I will do I will generate a random number so I will write import random and I will write return random dot randint and randint takes two integers and gives a number between them so I will give a number between 1 and 62 now what we have to do you need to read a file highscore.txt which is either blank or contains the previous highscore you need to write a program to update the highscore whenever the game breaks the highscore so what we will do we will make the user play the game so what we will do here we will print you are playing are playing the game and here I will write your score I will print and here I will write your score I will print your score and I will take this in a variable called score so it is simple we have to print score so what we have done you are playing the game now what we have to do if our score is greater than highscore then we have to write this highscore to the file so what we will do we will write highscore in the file but we have to make a highscore.txt which is blank so what we will do first we will write if highscore is greater than highscore or or highscore is equal to equal to blank is equal to equal to blank so what we will do we will write highscore in the file so what we have, game function will run it will print you are playing the game and a random score will be generated then we will fetch fetch the highscore so what we will do with open and highscore.txt as f and we will say highscore is equal to f.tread so highscore will be a string then we will say score is greater than int of highscore if score is greater than let's do one thing, let's treat highscore as f.treat and we will say if highscore is equal to equal to blank then what we will do that highscore is equal to int of highscore now see what we are doing here try to understand this what we have done, game function will run it will print you are playing the game then after this a random integer will be generated in score between 1 and 62 after this what we are doing, by reading this file we are taking its highscore as an integer first we have read its content then we said if it is empty then highscore is equal to zero, let's do one thing if it is not empty then highscore is zero if highscore is not equal to blank then highscore will be this otherwise what will happen, otherwise highscore is equal to zero so if highscore is zero then any score will not be greater than zero because we are generating between 1 and 62 any number between 1 and 62 will be greater than zero so if score is greater than highscore then we will write we will use this kind of thing and we will say withopenhighscore.txt, this time we will open it in write mode and we will say f.write highscore, f.write highscore, ok so we have done withopenhighscore.txt w as f.write highscore, we will write this string highscore in highscore.txt ok, i hope you got the point and it will be replaced, append will not be replaced, here is 62 and here is one highscore and we made 10 highscore so 10 will be here, so that thing will be automatically done, i hope you got the point ok, your score is here, now let's run it here is the error right argument must be string not integer so we have to convert it in str because your write function takes a string, so let's try again, your score is 43 43 is here, no 43 is not here, so this is a problem, we have to write score not highscore, if the score is bigger than highscore, then new highscore will be this ok, so we have to write score here, i will explain this program once more, but let me check if it is running or not, here is 4 now i will generate the second 14 is here, so see 14 is here, i am running again, 45 is here, so this time 45 is highscore, so 45 is here i am running again, 29 is smaller than 45, so 45 is highscore are you seeing this, 45 is here, so see what we have done here, i am explaining we have made a function named game which is printing you are playing the game we have generated a score between 1 to 62, a random integer and after that we opened this file and took the content inside it, we said that if this file is empty, then highscore is 0, and if there is something in it, then convert it into an integer and assume it to be highscore like it has 42, 72 see when we read f. it comes in the form of a string so we have to convert it into an integer so here you can see we have converted it into an integer highscore and highscore is equal to int highscore means convert highscore into its integer counterpart ok, so this is a valid statement, let me tell you then we printed the score and we said that if your score is bigger than highscore then write this highscore in highscore.txt file as a string, because if you write then you will do it as a string, I hope I have explained it well to you and you understood it, if not then I will say to see this question again and try to code it yourself, I am moving to the next question which says write a program to generate multiplication tables from 2 to 20 and write it to different files, place these files in a folder for a 13 year old, now see we have to write mountains from 2 to 20 this is a very good problem, it will be fun to do this, suppose there is a kid his book is lost he used to remember from a book that his table is lost, he says that my book is lost I don't have a table from 2 to 20 so we will generate it from python so what we will do first, we will write a for loop for i in range 1 to 21, sorry 2 to 21 this for loop will go from 2 to 20 now what we will do we will make a function from generate table and we will say give it i now what is generate table, it will be a function which will take an integer and generate the table and write it in files, so I will write def generate table i, not i, I will make it n ok, n, any number table will generate, for i in range n ok, what we will do I will make it 1 to n plus 1, from 1 to 11, so it goes from 1 to 10 and I will table is equal to I will make a string table is equal to, now I will say table plus equals to I will add an f string in it and I will say table plus equals to in this I will put n and I will put multiply by then I will put i, then I will put is equal to n multiply by i, then I will put a backslash n then when this string will be complete then what I will do, I will add this string in a file, I will say with open and I will make a file in a folder named table I will make a folder named tables so from here you make a folder if you don't know, you make a file from here and make a folder from here, so a folder will be made and here also this folder will be made, this file system is in sync what is seen in vs code, it is happening here so this is the meaning of doing all this in vs code table slash and I will write table underscore and here I will write i like this, table slash table underscore i, so let's make f string so this table underscore i means table of n, sorry not i, n table of whatever number will come here, its table will be seen here, then what we are doing we are opening this file and writing table in it and we have to write it as f, we have to write the syntax properly and as soon as I will run it you can see it is saying table, ok I have made a folder named tables so I will make it as tables, I will run it again and here it is saying no search file or directory, ok so I have to open it in right mode I have made one more mistake, I have to open it in w mode and now see as soon as I will run it my tables are generated, are you seeing this see this, now I have to do one thing I have to put .txt here also so that extension will be fixed, so I will delete this folder and generate it again, I will make the folder of tables manually tables and as soon as I will run this program you can see inside this I have generated tables are these tables ok or not, let's check table of 15 is ok table of 18 is also ok, let's see table of 17 17 is also ok and here this is also ok and let's see this is also ok so this is good, I am enjoying so you can give this to some 13 year old so now no one can make any excuse that our tables are over now see a file contains the word donkey multiple times you need to write a program which will replace this word with this, so let's do this question in this there is donkey word what we have to do is replace it with this so now what we will do first of all we will make a file and close this folder 04 underscore problem 4.py and after this what we will do is write word is equal to and we will write this ok and I will make it here file.txt not a I have written this here donkey is a nice donkey but not a bad donkey now what I will do I will say with open file.txt and what I am doing file.txt and I am opening this in read mode and I will write r as f then what I will write content is equal to and I will write f.read so I have read the content of this now I will write content new is equal to content.replace and what I will do I will replace donkey with 1 2,3,4,5,6 I will replace it with this and after that what I will do in write mode I will say write it again in this file f.write and here I will write content ok something like this so now see what I have done first of all I have done word is equal to donkey and I will make it word here then I read the content of this file I said what is in this file content it should be read then after that I generated a new content in which I replaced word with this and finally I write it again in file.txt so let's run this program and here it is saying txtr txtr there is something wrong I did not put comma here so I had to put comma here I will run it like this I have to put comma here so I will run it like this you can see here that this is not done let me see what is the issue here I will run it again I wrote f.write content new I did content by mistake now I will run it and see here our work is done so you have to be very careful you will make small mistakes I did a mistake here I had to write content new so you have to be very alert while coding let's move to next question"
+}

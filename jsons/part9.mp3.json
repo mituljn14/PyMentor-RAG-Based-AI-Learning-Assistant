@@ -1,0 +1,4352 @@
+{
+  "chunks": [
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 0.0,
+      "end": 1.32,
+      "text": " by the way, you have to remember"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1.32,
+      "end": 4.44,
+      "text": " when we used to write 1, 6, it used to have 1, 2, 5"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 4.44,
+      "end": 7.4,
+      "text": " so if I print and write i here"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 7.4,
+      "end": 11.12,
+      "text": " then what will happen, the value of i will come from 1 to 5"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 11.12,
+      "end": 12.8,
+      "text": " and what does this range function do?"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 12.8,
+      "end": 15.8,
+      "text": " see 1, 2, 3, 4, 5, it printed exactly the same thing"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 15.8,
+      "end": 17.8,
+      "text": " now come back to the PDF"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 17.8,
+      "end": 20.68,
+      "text": " sometimes we want to repeat a set of statements in our program"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 20.68,
+      "end": 23.24,
+      "text": " like we have to print numbers from 1 to 1000"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 23.24,
+      "end": 26.76,
+      "text": " loops make it easy for the programmer to do this work"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 26.76,
+      "end": 28.44,
+      "text": " we have two types of loops"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 28.44,
+      "end": 30.44,
+      "text": " one is a while loop and the other is a for loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 30.44,
+      "end": 32.44,
+      "text": " the loop I showed you was a for loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 32.44,
+      "end": 34.44,
+      "text": " we will talk about it in detail"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 34.44,
+      "end": 37.24,
+      "text": " but I just wanted to give you an introduction to it"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 37.24,
+      "end": 40.24,
+      "text": " so let's start without wasting time"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 40.24,
+      "end": 42.24,
+      "text": " with while loops"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 42.24,
+      "end": 44.24,
+      "text": " so while loops.py"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 44.24,
+      "end": 46.24,
+      "text": " .py is an extension, a python file"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 46.24,
+      "end": 49.52,
+      "text": " now we will come back to our PDF"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 49.52,
+      "end": 51.52,
+      "text": " what is a while loop?"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 51.52,
+      "end": 53.52,
+      "text": " while loop and for loop are two different types of loops"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 53.52,
+      "end": 55.52,
+      "text": " we talked about this"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 55.52,
+      "end": 57.52,
+      "text": " so are they different? which one is better?"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 57.6,
+      "end": 61.28,
+      "text": " both are different ways of doing the same thing"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 61.28,
+      "end": 63.28,
+      "text": " which one to use when?"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 63.28,
+      "end": 65.28,
+      "text": " I will teach you all in this chapter"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 65.28,
+      "end": 67.28,
+      "text": " so first learn the while loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 67.28,
+      "end": 69.28,
+      "text": " suppose I have a variable i"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 69.28,
+      "end": 71.28,
+      "text": " its value is 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 71.28,
+      "end": 73.28,
+      "text": " listen carefully"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 73.28,
+      "end": 75.28,
+      "text": " I will write while"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 75.28,
+      "end": 77.28,
+      "text": " and I will write condition"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 77.28,
+      "end": 79.28,
+      "text": " suppose I write i is less than 6"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 79.28,
+      "end": 81.28,
+      "text": " I will enter a colon"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 81.28,
+      "end": 83.28,
+      "text": " see it is indented"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 83.28,
+      "end": 85.28,
+      "text": " it means I have entered the while loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 85.28,
+      "end": 87.28,
+      "text": " and now"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 87.28,
+      "end": 89.28,
+      "text": " if I write print i"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 89.28,
+      "end": 91.28,
+      "text": " then what will happen?"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 91.28,
+      "end": 93.28,
+      "text": " i's value is 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 93.28,
+      "end": 95.28,
+      "text": " condition will check"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 95.28,
+      "end": 97.28,
+      "text": " so while loop is executed when condition is true"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 97.28,
+      "end": 99.28,
+      "text": " what is the condition in this case?"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 99.28,
+      "end": 101.28,
+      "text": " 1 is less than 6 is true"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 101.28,
+      "end": 103.28,
+      "text": " so it will come in the while loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 103.28,
+      "end": 105.28,
+      "text": " it will print i which has value 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 105.28,
+      "end": 107.28,
+      "text": " and after this I will write"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 107.28,
+      "end": 109.28,
+      "text": " i plus equals to 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 109.28,
+      "end": 111.28,
+      "text": " which means what should I do to i's value?"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 111.28,
+      "end": 113.28,
+      "text": " I should make i's value 2"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 113.28,
+      "end": 115.28,
+      "text": " so i's value was 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 115.28,
+      "end": 117.28,
+      "text": " so I will write control"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 117.28,
+      "end": 119.28,
+      "text": " which means our program is running"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 119.28,
+      "end": 121.28,
+      "text": " check 1 less than 6 was true"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 121.28,
+      "end": 123.28,
+      "text": " it will print"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 123.28,
+      "end": 125.28,
+      "text": " 1 will be printed in console"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 125.28,
+      "end": 127.28,
+      "text": " it will be 2"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 127.28,
+      "end": 129.28,
+      "text": " i's value is 2"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 129.28,
+      "end": 131.28,
+      "text": " while because it is a loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 131.28,
+      "end": 133.28,
+      "text": " so it will check the condition"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 133.28,
+      "end": 135.28,
+      "text": " listen carefully"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 135.28,
+      "end": 137.28,
+      "text": " once it is executed with 1 value"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 137.28,
+      "end": 139.28,
+      "text": " then it will have"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 139.28,
+      "end": 141.28,
+      "text": " value 2"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 141.28,
+      "end": 143.28,
+      "text": " it will come back"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 143.28,
+      "end": 145.28,
+      "text": " then it will run"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 145.28,
+      "end": 147.28,
+      "text": " then it will come back"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 147.28,
+      "end": 149.28,
+      "text": " then it will run"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 149.28,
+      "end": 151.28,
+      "text": " then it will come back"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 151.28,
+      "end": 153.28,
+      "text": " and then it will run"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 153.28,
+      "end": 155.28,
+      "text": " and it will run"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 155.28,
+      "end": 157.28,
+      "text": " and it will run till condition is true"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 157.28,
+      "end": 159.28,
+      "text": " if condition is always true"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 159.28,
+      "end": 161.28,
+      "text": " then it will become an infinite while loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 161.28,
+      "end": 163.28,
+      "text": " which we don't need in ideal scenario"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 163.28,
+      "end": 165.28,
+      "text": " but you can see"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 165.28,
+      "end": 167.28,
+      "text": " what will be the output of this program"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 167.28,
+      "end": 169.28,
+      "text": " I will do one thing"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 169.28,
+      "end": 171.28,
+      "text": " I will write here"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 171.28,
+      "end": 173.28,
+      "text": " I am just telling you what will be the output"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 173.28,
+      "end": 175.28,
+      "text": " to make you understand"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 175.28,
+      "end": 177.28,
+      "text": " I will use triple single quote"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 177.28,
+      "end": 179.28,
+      "text": " and toggle the screen cast mode"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 179.28,
+      "end": 181.28,
+      "text": " so that when I do such operations"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 181.28,
+      "end": 183.28,
+      "text": " you don't ask me how I am doing"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 183.28,
+      "end": 185.28,
+      "text": " you can see which key is pressing"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 185.28,
+      "end": 187.28,
+      "text": " now you can see"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 187.28,
+      "end": 189.28,
+      "text": " when i's value was 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 189.28,
+      "end": 191.28,
+      "text": " then this condition was true"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 191.28,
+      "end": 193.28,
+      "text": " print i means 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 193.28,
+      "end": 195.28,
+      "text": " i's value is 2"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 195.28,
+      "end": 197.28,
+      "text": " 2 less than 6 is true"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 197.28,
+      "end": 199.28,
+      "text": " so 2 will be printed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 199.28,
+      "end": 201.28,
+      "text": " so this will be printed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 201.28,
+      "end": 203.28,
+      "text": " then i's value will be 3"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 203.28,
+      "end": 205.28,
+      "text": " will 3 less than 6?"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 205.28,
+      "end": 207.28,
+      "text": " yes, print i will be"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 207.28,
+      "end": 209.28,
+      "text": " print 3 should be removed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 209.28,
+      "end": 211.28,
+      "text": " then it will be 4"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 211.28,
+      "end": 213.28,
+      "text": " then condition is true"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 213.28,
+      "end": 215.28,
+      "text": " is 4 less than 6?"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 215.28,
+      "end": 217.28,
+      "text": " yes, 4 value will be printed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 217.28,
+      "end": 219.28,
+      "text": " now it is 5"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 219.28,
+      "end": 221.28,
+      "text": " is 5 less than 6?"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 221.28,
+      "end": 223.28,
+      "text": " now it is 5"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 223.28,
+      "end": 225.28,
+      "text": " now it is 6"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 225.28,
+      "end": 227.28,
+      "text": " 6 less than 6?"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 227.28,
+      "end": 233.28,
+      "text": " it doesn't happen, that's why on 6 less than 6 this loop will not execute"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 233.28,
+      "end": 237.28,
+      "text": " this loop will exit, means it will come out of the control loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 237.28,
+      "end": 242.28,
+      "text": " and this loop's execution will end and our output will come 1,2,3,4,5"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 242.28,
+      "end": 246.28,
+      "text": " so the work I did with for loop, the same work is done with while loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 246.28,
+      "end": 251.28,
+      "text": " so what will while loop do, it will check the condition once, it will execute all the masala inside"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 251.28,
+      "end": 254.28,
+      "text": " it will check the condition again, if it is true then it will check again"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 254.28,
+      "end": 259.28,
+      "text": " again everything will be executed, it will check the condition again and so on"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 259.28,
+      "end": 262.28,
+      "text": " till the condition is false"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 262.28,
+      "end": 270.28,
+      "text": " one thing important in while loop is that you have to make the condition false here"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 270.28,
+      "end": 274.28,
+      "text": " otherwise your while loop will never exit, means whatever you are checking in the condition"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 274.28,
+      "end": 279.28,
+      "text": " somehow you have to alter it in the while loop, like in this case we changed the value of i"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 279.28,
+      "end": 289.28,
+      "text": " and eventually our i value became less than 6, means greater than equal to 6, less than 6 became false"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 289.28,
+      "end": 293.28,
+      "text": " basically I will say that our condition became false eventually"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 293.28,
+      "end": 297.28,
+      "text": " eventually our while condition became false, because of which our while loop exited"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 297.28,
+      "end": 302.28,
+      "text": " I hope that is clear now, I hope you understood, now come back to the notes"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 302.28,
+      "end": 307.28,
+      "text": " I have written it for you with a lot of love, this block will keep on executing until condition is true"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 307.28,
+      "end": 312.28,
+      "text": " I am just telling you guys to know about the while loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 312.28,
+      "end": 317.36,
+      "text": " in while loop the condition is checked first, if it evaluates to the true, the body of the loop is executed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 317.36,
+      "end": 322.36,
+      "text": " otherwise not, if the loop enters the process of condition check and execution"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 322.36,
+      "end": 324.92,
+      "text": " here condition is being checked"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 324.92,
+      "end": 327.92,
+      "text": " then execution is being done"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 327.92,
+      "end": 330.92,
+      "text": " then condition is being checked"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 330.92,
+      "end": 333.92,
+      "text": " then execution is being done"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 333.92,
+      "end": 336.92,
+      "text": " and so on"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 336.92,
+      "end": 339.94,
+      "text": " until the condition becomes false"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 339.94,
+      "end": 342.94,
+      "text": " quick quiz for you, write a program to print 1 to 50 using a while loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 342.94,
+      "end": 344.6,
+      "text": " which i have already done"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 345.12,
+      "end": 348.12,
+      "text": " so what will we do here, we will do 51"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 348.12,
+      "end": 349.2,
+      "text": " 51"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 349.6,
+      "end": 352.6,
+      "text": " so if we do 51, then values from 1 to 50 will be printed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 352.6,
+      "end": 354.6,
+      "text": " its simple"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 354.6,
+      "end": 357.6,
+      "text": " because when i's value is 51, then nothing will be printed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 357.6,
+      "end": 360.6,
+      "text": " i's value will be printed only when it is 50"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 360.6,
+      "end": 363.6,
+      "text": " so this loop will keep on running, first i's value will be 1, then 2, 3, 4"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 363.6,
+      "end": 366.6,
+      "text": " all the way till when value is 50, then also condition will be true"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 366.6,
+      "end": 369.6,
+      "text": " and when 50 is 1, then also condition will be false"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 369.6,
+      "end": 372.6,
+      "text": " so i hope this thing is clear for you"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 372.6,
+      "end": 375.6,
+      "text": " now i will give you"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 375.6,
+      "end": 378.6,
+      "text": " quick quiz, i want you to solve it yourself"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 379.0,
+      "end": 382.0,
+      "text": " now here we have given an example"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 382.0,
+      "end": 385.0,
+      "text": " that we have to print harry 5 times, so what we did"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 385.0,
+      "end": 388.0,
+      "text": " we made i's value 0, while i's value less than 5, we printed harry"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 388.0,
+      "end": 391.0,
+      "text": " i's equal to i plus 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 391.0,
+      "end": 394.0,
+      "text": " which is same as writing i plus equals to 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 394.0,
+      "end": 397.0,
+      "text": " you can write i's equal to i plus 1, i will also write it for you"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 397.0,
+      "end": 400.0,
+      "text": " so that you can keep on learning, i's equal to"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 400.0,
+      "end": 403.0,
+      "text": " i plus 1, you can also write it"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 403.0,
+      "end": 406.0,
+      "text": " now here is another quick quiz, write a program to print"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 406.0,
+      "end": 409.0,
+      "text": " the content of a list using while loops"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 409.0,
+      "end": 412.0,
+      "text": " how will you do content of a list using while loops, come i will show you"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 412.0,
+      "end": 415.0,
+      "text": " so here i will do"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 415.0,
+      "end": 418.0,
+      "text": " 03 underscore list"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 418.0,
+      "end": 421.0,
+      "text": " using while dot py"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 421.0,
+      "end": 424.0,
+      "text": " so i have a list which has some numbers"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 424.0,
+      "end": 427.0,
+      "text": " one is 1, one is harry, one is false"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 427.0,
+      "end": 430.0,
+      "text": " then after this is this"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 430.0,
+      "end": 433.0,
+      "text": " then after this is rohan, then after this is shubham"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 433.0,
+      "end": 436.0,
+      "text": " then after this is shubhi"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 436.0,
+      "end": 439.0,
+      "text": " now what i want is to print it using while loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 439.0,
+      "end": 442.0,
+      "text": " so i will do i's equal to 0 while"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 442.0,
+      "end": 445.0,
+      "text": " i is less than length of"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 445.0,
+      "end": 448.0,
+      "text": " l and plus 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 448.0,
+      "end": 451.0,
+      "text": " why i did plus 1, i will tell you now"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 451.0,
+      "end": 454.0,
+      "text": " now what i will do, i will write print and i will write"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 454.0,
+      "end": 457.0,
+      "text": " li and i will do this and as soon as i run this"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 457.0,
+      "end": 460.0,
+      "text": " and i's equal to i plus 1 is very important"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 460.0,
+      "end": 463.0,
+      "text": " if i didn't write that, it will go to infinite loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 463.0,
+      "end": 466.0,
+      "text": " so now see what happened, list index is out of range"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 466.0,
+      "end": 469.0,
+      "text": " in fact i should have done length of l"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 469.0,
+      "end": 472.0,
+      "text": " because it will start from 0 and go to length of l minus 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 472.0,
+      "end": 475.0,
+      "text": " so my bad, i should have done it like this and see here"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 475.0,
+      "end": 478.0,
+      "text": " it has printed it"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 478.0,
+      "end": 481.0,
+      "text": " so it has printed it, you can see here"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 481.0,
+      "end": 484.0,
+      "text": " and it must have printed 1 also, i will run it again"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 484.0,
+      "end": 487.0,
+      "text": " you can see 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 488.0,
+      "end": 491.0,
+      "text": " it has printed all these values"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 491.0,
+      "end": 494.0,
+      "text": " why it has printed all values, let's understand step by step"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 494.0,
+      "end": 497.0,
+      "text": " i's value was 0 first"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 497.0,
+      "end": 500.0,
+      "text": " so i's value was 0, i is less than length of"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 500.0,
+      "end": 503.0,
+      "text": " l, what is the length of this list, 1,2,3,4,5,6,7"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 503.0,
+      "end": 506.0,
+      "text": " this list length is 7"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 506.0,
+      "end": 509.0,
+      "text": " less than 7 is 0, so here it will print l0"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 509.0,
+      "end": 512.0,
+      "text": " then i's value will be 1, then it will print l1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 512.0,
+      "end": 515.0,
+      "text": " then l2, then l3, then l4, then l5"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 516.0,
+      "end": 519.0,
+      "text": " then l6, then when i's value will be 7"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 519.0,
+      "end": 522.0,
+      "text": " 7 less than 7 is false"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 522.0,
+      "end": 525.0,
+      "text": " and our while loop will exit"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 525.0,
+      "end": 528.0,
+      "text": " because of which this while loop will exit"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 528.0,
+      "end": 531.0,
+      "text": " and we will finally"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 531.0,
+      "end": 534.0,
+      "text": " get this list content"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 534.0,
+      "end": 537.0,
+      "text": " i hope that was easy, i hope you understood"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 537.0,
+      "end": 540.0,
+      "text": " we will print a list content"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 540.0,
+      "end": 543.0,
+      "text": " using while loops"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 543.0,
+      "end": 546.0,
+      "text": " this is the brother of while loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 546.0,
+      "end": 549.0,
+      "text": " i say while loop's brother because"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 549.0,
+      "end": 552.0,
+      "text": " whatever can be done with while loop can be done with for loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 552.0,
+      "end": 555.0,
+      "text": " so let's do 04 underscore"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 555.0,
+      "end": 558.0,
+      "text": " underscore for underscore loops.py"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 558.0,
+      "end": 561.0,
+      "text": " and it is very similar"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 561.0,
+      "end": 564.0,
+      "text": " we will write for i in range"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 564.0,
+      "end": 567.0,
+      "text": " and whatever number we will write in range, let's say we wrote 4"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 567.0,
+      "end": 570.0,
+      "text": " so it will automatically make it 0,4"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 570.0,
+      "end": 573.0,
+      "text": " so it will go from 0 to 3, so i will show you by printing i"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 573.0,
+      "end": 576.0,
+      "text": " and i will show you what it is, it printed 0,1,2,3"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 576.0,
+      "end": 579.0,
+      "text": " so basically what range function does"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 579.0,
+      "end": 582.0,
+      "text": " it generates numbers from 0 to"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 582.0,
+      "end": 585.0,
+      "text": " n-1 on the fly, so you will do for i in range"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 585.0,
+      "end": 588.0,
+      "text": " so what is the meaning of range 4, in range 4"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 588.0,
+      "end": 591.0,
+      "text": " 0,1,2,3 will be there, so"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 591.0,
+      "end": 594.0,
+      "text": " it goes from 0 to n-1, so if i show you"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 594.0,
+      "end": 597.0,
+      "text": " range function, so range function in python is used"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 597.0,
+      "end": 600.0,
+      "text": " to generate a sequence of numbers, we can also"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 600.0,
+      "end": 603.0,
+      "text": " specify the start, stop and step size"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 603.0,
+      "end": 606.0,
+      "text": " as we have already seen, where we have seen?"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 606.0,
+      "end": 609.0,
+      "text": " in string slicing, so you can explore this step size"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 609.0,
+      "end": 612.0,
+      "text": " what is step size, but i want to show you"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 612.0,
+      "end": 615.0,
+      "text": " quickly in rappel about step size, so if i write here"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 615.0,
+      "end": 618.0,
+      "text": " python and i write here for i"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 618.0,
+      "end": 621.0,
+      "text": " in range and i write here 0 to"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 621.0,
+      "end": 624.0,
+      "text": " 100 and i write here 4's step"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 624.0,
+      "end": 627.0,
+      "text": " and i write here shift enter, press tab"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 627.0,
+      "end": 630.0,
+      "text": " and write print i, hit enter"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 630.0,
+      "end": 633.0,
+      "text": " so see what it did, it started from 0"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 633.0,
+      "end": 636.0,
+      "text": " then it made 4, then made 8, so if i make 4 of step size"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 636.0,
+      "end": 639.0,
+      "text": " so what will happen, first of all you take numbers from 0 to 100"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 639.0,
+      "end": 642.0,
+      "text": " then start from 0, 1,2,3,4"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 642.0,
+      "end": 645.0,
+      "text": " like i told you earlier, like we"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 645.0,
+      "end": 648.0,
+      "text": " saw in string slicing chapter, exactly like that"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 648.0,
+      "end": 651.0,
+      "text": " you have to jump, so i will tell you the meaning of jumping"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 651.0,
+      "end": 654.0,
+      "text": " so i will make a new file, say i have 0,1,2,3,4"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 654.0,
+      "end": 657.0,
+      "text": " 5,6,7,8,9, so first of all"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 657.0,
+      "end": 660.0,
+      "text": " 0 colon 100, all the way till 100"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 660.0,
+      "end": 663.0,
+      "text": " write 0, 1,2,3,4"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 663.0,
+      "end": 666.0,
+      "text": " write 4, 1,2,3,4,8"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 666.0,
+      "end": 669.0,
+      "text": " exactly like that, 0,4,8,12"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 669.0,
+      "end": 672.0,
+      "text": " i have already told you in string slicing, so i am closing it"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 672.0,
+      "end": 675.0,
+      "text": " but i hope you have seen string slicing chapter"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 675.0,
+      "end": 678.0,
+      "text": " in which i told you about step size, so you can"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 678.0,
+      "end": 681.0,
+      "text": " give step size in change function, which is very good"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 681.0,
+      "end": 684.0,
+      "text": " so for loop is used to iterate through a sequence like"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 684.0,
+      "end": 687.0,
+      "text": " list, tuple or string, you can put for loop in string"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 687.0,
+      "end": 690.0,
+      "text": " you can put it in list, you can put it in tuple"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 690.0,
+      "end": 693.0,
+      "text": " i will show you how easily you can"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 693.0,
+      "end": 696.0,
+      "text": " iterate a list content"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 696.0,
+      "end": 699.0,
+      "text": " for loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 699.0,
+      "end": 702.0,
+      "text": " iterate.py"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 702.0,
+      "end": 705.0,
+      "text": " so say i have a list which has some numbers"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 705.0,
+      "end": 708.0,
+      "text": " say 1,4,6,2,3,4"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 708.0,
+      "end": 711.0,
+      "text": " again 6 and 7,6,4"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 711.0,
+      "end": 714.0,
+      "text": " if i write for i in l and print i"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 714.0,
+      "end": 717.0,
+      "text": " so all the elements of this list will be printed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 717.0,
+      "end": 718.0,
+      "text": " one by one"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 718.56,
+      "end": 721.56,
+      "text": " see this, 1,4,6,2,3,4,6"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 721.56,
+      "end": 724.56,
+      "text": " and 7,6,4, what is happening is"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 724.56,
+      "end": 727.0,
+      "text": " all the numbers are printed one by one"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 727.56,
+      "end": 730.56,
+      "text": " if i write i in l"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 730.56,
+      "end": 733.56,
+      "text": " now if i do the same thing with tuple"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 733.56,
+      "end": 736.56,
+      "text": " if i write tuple and make a tuple"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 736.56,
+      "end": 739.56,
+      "text": " say i start with 6,2,3,1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 739.56,
+      "end": 742.56,
+      "text": " 75,1,2,2 and i"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 742.56,
+      "end": 745.56,
+      "text": " print i by for i in t"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 745.56,
+      "end": 748.56,
+      "text": " then you will see all the numbers will be printed one by one"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 748.56,
+      "end": 751.56,
+      "text": " 6,2,3,1,75,1,2,2"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 751.56,
+      "end": 754.56,
+      "text": " and this output is of upper one, so if i for once"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 754.56,
+      "end": 755.56,
+      "text": " just"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 756.56,
+      "end": 759.56,
+      "text": " comment out upper one, so you see 6,2,3,1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 759.56,
+      "end": 762.56,
+      "text": " 75,1,2,2 are here and all these 4"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 762.56,
+      "end": 765.56,
+      "text": " are in this tuple, so in this tuple there are 6,2,3,1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 765.56,
+      "end": 768.56,
+      "text": " 75,1,2,2 and for i in t"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 768.56,
+      "end": 771.56,
+      "text": " if i am doing print i, so all the elements are"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 771.56,
+      "end": 774.56,
+      "text": " printed one by one, i hope i was able to"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 774.56,
+      "end": 777.56,
+      "text": " explain you properly that how you can iterate"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 777.56,
+      "end": 780.56,
+      "text": " i have already written in notes that you can iterate tuple list"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 780.56,
+      "end": 783.56,
+      "text": " even string, so i will give you an example"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 783.56,
+      "end": 786.56,
+      "text": " of string and i will"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 786.56,
+      "end": 789.56,
+      "text": " write for i in s and print i"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 789.56,
+      "end": 792.56,
+      "text": " and i will comment this out and you see"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 792.56,
+      "end": 795.56,
+      "text": " as i will write this, you see h,a,r,r,y"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 795.56,
+      "end": 798.56,
+      "text": " is written here, so characters will come one by one"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 798.56,
+      "end": 801.56,
+      "text": " h will come, then a will come, then r will come, then r will come"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 801.56,
+      "end": 804.56,
+      "text": " and y will come as values of i, so for i in s"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 804.56,
+      "end": 807.56,
+      "text": " i will do, so once h will come, then a will come, then r will come"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 807.56,
+      "end": 810.56,
+      "text": " then r will come, then y will come and we basically"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 810.56,
+      "end": 813.56,
+      "text": " are iterating the string, so i"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 813.56,
+      "end": 816.56,
+      "text": " will do one thing here, i will give some"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 816.56,
+      "end": 819.56,
+      "text": " headings here, so as you can see"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 819.56,
+      "end": 822.56,
+      "text": " this is for loops with tuples, this is for loops with list"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 822.56,
+      "end": 825.56,
+      "text": " and this is for loops with strings, i hope"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 825.56,
+      "end": 828.56,
+      "text": " you understood this thing properly, so this example is for list"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 828.56,
+      "end": 831.56,
+      "text": " for tuple and for string, good"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 831.56,
+      "end": 834.56,
+      "text": " now i have already told you about range function"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 834.56,
+      "end": 837.56,
+      "text": " you guys explore step size of range function, i have already"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 837.56,
+      "end": 840.56,
+      "text": " told you step size, now i have an example of range function"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 840.56,
+      "end": 843.56,
+      "text": " which i have already given you, for i in range 0 to"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 843.56,
+      "end": 846.56,
+      "text": " 7, so it will go from 0 to 6"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 846.56,
+      "end": 849.56,
+      "text": " it will go from 0 to 6"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 849.56,
+      "end": 852.56,
+      "text": " now here a very important concept"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 852.56,
+      "end": 855.56,
+      "text": " which is taught very less and very less people know it and"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 855.56,
+      "end": 858.56,
+      "text": " you can become different by knowing it, that is for loop with else"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 858.56,
+      "end": 861.56,
+      "text": " with for loop, an else statement"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 861.56,
+      "end": 864.56,
+      "text": " can be used, an optional else can be used"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 864.56,
+      "end": 867.56,
+      "text": " which will do what"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 867.56,
+      "end": 870.56,
+      "text": " i will show you what it will do, so basically assume we have a list"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 870.56,
+      "end": 873.56,
+      "text": " i have said for item in l, print item"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 873.56,
+      "end": 876.56,
+      "text": " so what will happen, when it will exit for loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 876.56,
+      "end": 879.56,
+      "text": " then it will execute else, so with this"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 879.56,
+      "end": 882.56,
+      "text": " example i will explain you for loop with else"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 882.56,
+      "end": 885.56,
+      "text": " so basically what happens, for loop will run till"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 885.56,
+      "end": 888.56,
+      "text": " it will get values, for loop will run till"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 888.56,
+      "end": 891.56,
+      "text": " it will get values"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 891.56,
+      "end": 894.56,
+      "text": " and once it stops getting values"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 894.56,
+      "end": 897.56,
+      "text": " then what it will do, then it will execute else"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 897.56,
+      "end": 900.56,
+      "text": " i will indent it properly, it is not indented properly"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 900.56,
+      "end": 903.56,
+      "text": " so i will indent it properly"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 903.56,
+      "end": 906.56,
+      "text": " and you can see here"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 906.56,
+      "end": 909.56,
+      "text": " my list was 178, for item in l"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 909.56,
+      "end": 912.56,
+      "text": " and i did print item, then i did else"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 912.56,
+      "end": 915.56,
+      "text": " and did print done, this is printed when the loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 915.56,
+      "end": 918.56,
+      "text": " exhausts, so see what will happen"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 918.56,
+      "end": 921.56,
+      "text": " for item in l i did and did print item, so first one print"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 921.56,
+      "end": 924.56,
+      "text": " then 7 print and then 8 print"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 924.56,
+      "end": 927.56,
+      "text": " and finally when there is no value left to print"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 927.56,
+      "end": 930.56,
+      "text": " then what it will do, it will print"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 930.56,
+      "end": 933.56,
+      "text": " print done, so this thing will be printed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 933.56,
+      "end": 936.56,
+      "text": " so if i run this program, then what will happen"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 936.56,
+      "end": 939.56,
+      "text": " first one print, then 7 print, then 8 print, finally"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 939.56,
+      "end": 942.56,
+      "text": " it was trying to print next value, but it couldn't"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 942.56,
+      "end": 945.56,
+      "text": " because for loop was exhausted and that's why"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 945.56,
+      "end": 948.56,
+      "text": " it entered in else and printed done"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 948.56,
+      "end": 951.56,
+      "text": " so when we use for loop with else"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 951.56,
+      "end": 954.56,
+      "text": " for loop will enter in else when"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 954.56,
+      "end": 957.56,
+      "text": " it will exhaust, when it will exhaust"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 957.56,
+      "end": 960.56,
+      "text": " i hope you understood this thing"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 960.56,
+      "end": 963.56,
+      "text": " so for loop with else is asked a lot in interview"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 963.56,
+      "end": 966.56,
+      "text": " is it used in programs, i will say"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 966.56,
+      "end": 969.56,
+      "text": " if i talk about practical programs, then it is used very less"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 969.56,
+      "end": 972.56,
+      "text": " for loop with else, but yes interviewer can ask you"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 972.56,
+      "end": 975.56,
+      "text": " to use for loop with else"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 975.56,
+      "end": 976.56,
+      "text": " tell me this"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 977.06,
+      "end": 980.06,
+      "text": " so that you get trapped and then"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 980.06,
+      "end": 983.06,
+      "text": " you can do this, so interviewer can do this"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 983.06,
+      "end": 984.06,
+      "text": " with you"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 984.56,
+      "end": 987.56,
+      "text": " now we will talk about break, continue and pass"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 987.56,
+      "end": 990.56,
+      "text": " statements, what is break"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 990.56,
+      "end": 993.56,
+      "text": " break is used to come out of the loop when encountered"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 993.56,
+      "end": 996.56,
+      "text": " it exits abruptly"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 996.56,
+      "end": 999.56,
+      "text": " abruptly exits this program"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 999.56,
+      "end": 1002.56,
+      "text": " like suppose we have a for loop which is running from 0 to"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1002.56,
+      "end": 1005.56,
+      "text": " 80, printing things"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1005.56,
+      "end": 1008.56,
+      "text": " i will tell you break, continue and pass"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1009.06,
+      "end": 1012.06,
+      "text": " break and continue.py"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1012.06,
+      "end": 1015.06,
+      "text": " suppose i have a function"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1015.06,
+      "end": 1018.06,
+      "text": " for i in range 100"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1018.06,
+      "end": 1021.06,
+      "text": " i have printed i here, so you will say"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1021.06,
+      "end": 1024.06,
+      "text": " yes, it will print from 0 to 99, what to do"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1024.06,
+      "end": 1027.06,
+      "text": " i will tell you what is break, if i say"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1027.06,
+      "end": 1030.06,
+      "text": " for i in range 100"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1030.06,
+      "end": 1033.06,
+      "text": " you keep printing values one by one"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1033.06,
+      "end": 1036.06,
+      "text": " but if i value"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1036.06,
+      "end": 1039.06,
+      "text": " 34, then you"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1039.06,
+      "end": 1042.06,
+      "text": " break from here, means print from 0 to"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1042.06,
+      "end": 1045.06,
+      "text": " 33, i value i got 34"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1045.06,
+      "end": 1048.06,
+      "text": " similarly run this break"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1048.06,
+      "end": 1051.06,
+      "text": " what is the meaning of break"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1051.06,
+      "end": 1054.06,
+      "text": " exit the loop right now"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1054.06,
+      "end": 1057.06,
+      "text": " forget everything and exit the loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1057.06,
+      "end": 1060.06,
+      "text": " what is break, forget everything and exit the loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1060.06,
+      "end": 1063.06,
+      "text": " so if i run this, you will see"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1063.06,
+      "end": 1066.06,
+      "text": " that it printed from 0 to 33"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1066.06,
+      "end": 1069.06,
+      "text": " because break means"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1069.06,
+      "end": 1072.06,
+      "text": " forget everything and exit the loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1072.06,
+      "end": 1075.06,
+      "text": " forget everything, so i hope"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1075.06,
+      "end": 1078.06,
+      "text": " you understood what is break"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1078.06,
+      "end": 1081.06,
+      "text": " i in range 100, i equals to 34"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1081.06,
+      "end": 1084.06,
+      "text": " exit the loop right now"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1084.06,
+      "end": 1087.06,
+      "text": " there is a continue, it is similar"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1087.06,
+      "end": 1090.06,
+      "text": " but understand the difference between both"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1090.06,
+      "end": 1093.06,
+      "text": " exit this loop and forget it"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1093.06,
+      "end": 1096.06,
+      "text": " but continue says forget this"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1096.06,
+      "end": 1099.06,
+      "text": " skip this iteration"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1099.06,
+      "end": 1102.06,
+      "text": " skip this iteration"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1102.06,
+      "end": 1105.06,
+      "text": " what is iteration, i value is 0, that is an iteration"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1105.06,
+      "end": 1108.06,
+      "text": " i value is 1, that is an iteration, 2, 3, 4, 5"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1108.06,
+      "end": 1111.06,
+      "text": " till 99, that is an iteration"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1111.06,
+      "end": 1114.06,
+      "text": " so here from 0 to 99, every value is an"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1114.06,
+      "end": 1117.06,
+      "text": " iteration, so what will happen, if i say"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1117.06,
+      "end": 1120.06,
+      "text": " if i value is 34, then continue, so what will it do"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1120.06,
+      "end": 1123.06,
+      "text": " it will say i value is 0, this is false"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1123.06,
+      "end": 1126.06,
+      "text": " so it will print i, i value is 1, this is false"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1126.06,
+      "end": 1129.06,
+      "text": " it will print i, i value is 3, 4, 5, 6"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1129.06,
+      "end": 1132.06,
+      "text": " 7, 8, 9, it will go all the way till"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1132.06,
+      "end": 1135.06,
+      "text": " till 33, so what will it do"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1135.06,
+      "end": 1138.06,
+      "text": " it will print till 33, as soon as"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1138.06,
+      "end": 1141.06,
+      "text": " i value is 34, it will see continue"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1141.06,
+      "end": 1144.06,
+      "text": " it will not execute the code below, it will run for"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1144.06,
+      "end": 1147.06,
+      "text": " 35, continue means"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1147.06,
+      "end": 1150.06,
+      "text": " skip that particular iteration, that is"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1150.06,
+      "end": 1153.06,
+      "text": " in this loop, this iteration"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1153.06,
+      "end": 1156.06,
+      "text": " the part that was executed till now, it was executed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1156.06,
+      "end": 1159.06,
+      "text": " but it should not be below this, now directly the value"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1159.06,
+      "end": 1162.06,
+      "text": " what to do, for the next value, you go"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1162.06,
+      "end": 1165.06,
+      "text": " what to do, for the next value, you go"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1165.06,
+      "end": 1168.06,
+      "text": " so here what will happen, continue means for the next value"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1168.06,
+      "end": 1171.06,
+      "text": " so what will it do, i value was 34, this will not run"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1171.06,
+      "end": 1174.06,
+      "text": " because we have continued in 34, it will run for 35"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1174.06,
+      "end": 1177.06,
+      "text": " so i will show you, it will skip 34"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1177.06,
+      "end": 1180.06,
+      "text": " so if you see it closely, 31, 32, 33"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1180.06,
+      "end": 1183.06,
+      "text": " skipped 34"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1183.06,
+      "end": 1186.06,
+      "text": " then 35, so as soon as continue is seen"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1186.06,
+      "end": 1189.06,
+      "text": " it skips that particular iteration"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1189.06,
+      "end": 1192.06,
+      "text": " but break is seen, it exits the loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1192.06,
+      "end": 1195.06,
+      "text": " break means that from now till later, no value will run"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1195.06,
+      "end": 1198.06,
+      "text": " means loop's story is over, loop is killed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1198.06,
+      "end": 1201.06,
+      "text": " break statement, but what does continue do"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1201.06,
+      "end": 1204.06,
+      "text": " continue says, for this value"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1204.06,
+      "end": 1207.06,
+      "text": " for the remaining masala, do not execute"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1207.06,
+      "end": 1210.06,
+      "text": " execute the next iteration"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1210.06,
+      "end": 1213.06,
+      "text": " like i value was 34, below that"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1213.06,
+      "end": 1216.06,
+      "text": " whatever is below continue, do not execute that, work for 35"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1216.06,
+      "end": 1219.06,
+      "text": " then i value will be 35, this will be false"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1219.06,
+      "end": 1222.06,
+      "text": " then 36, this will be false, so continue is seen"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1222.06,
+      "end": 1225.06,
+      "text": " so that iteration is skipped, break is seen, so loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1225.06,
+      "end": 1228.06,
+      "text": " is skipped, we will do questions of break and continue"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1228.06,
+      "end": 1231.06,
+      "text": " so if i come back to notes, continue"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1231.06,
+      "end": 1234.06,
+      "text": " is used to stop the current iteration of the loop and continue"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1234.06,
+      "end": 1237.06,
+      "text": " with the next one, it instructs the program to skip this"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1237.06,
+      "end": 1240.06,
+      "text": " iteration, continue means skip this iteration"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1240.06,
+      "end": 1243.06,
+      "text": " and what does break mean, exit the loop now, it instructs"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1243.06,
+      "end": 1246.06,
+      "text": " the program to exit the loop now, and what is the instruction here"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1246.06,
+      "end": 1249.06,
+      "text": " skip this iteration, i told you from 0 to 80"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1249.06,
+      "end": 1252.06,
+      "text": " if we break on i value 3, then what will happen"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1252.06,
+      "end": 1255.06,
+      "text": " i value 1,2,3 will be printed, but as soon as break is seen, it will exit"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1255.06,
+      "end": 1258.06,
+      "text": " from this loop, what will happen here, i value is 2"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1258.06,
+      "end": 1261.06,
+      "text": " so iteration will be skipped, 2, 3 and 4"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1261.06,
+      "end": 1264.06,
+      "text": " will run here, so i request you"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1264.06,
+      "end": 1267.06,
+      "text": " to run this in your computers"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1267.06,
+      "end": 1270.06,
+      "text": " do not see it like a movie"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1270.06,
+      "end": 1273.06,
+      "text": " seriously, do not see it like a movie, ok"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1273.06,
+      "end": 1276.06,
+      "text": " let's talk about pass, sometimes what we do"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1276.06,
+      "end": 1279.06,
+      "text": " sometimes we simply do not want to do anything"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1279.06,
+      "end": 1282.06,
+      "text": " so if i want"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1282.06,
+      "end": 1285.06,
+      "text": " this is my for loop, let me show you"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1285.06,
+      "end": 1288.06,
+      "text": " 08 underscore pass dot p"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1288.06,
+      "end": 1291.06,
+      "text": " let's say i say for i in range"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1291.06,
+      "end": 1294.06,
+      "text": " 645 colon"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1294.06,
+      "end": 1297.06,
+      "text": " now i want to do this later, let me write another while loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1297.06,
+      "end": 1300.06,
+      "text": " while i is less than 45"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1300.06,
+      "end": 1303.06,
+      "text": " let's say i want to do this later, or i do it now"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1303.06,
+      "end": 1306.06,
+      "text": " print i and then"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1306.06,
+      "end": 1309.06,
+      "text": " i plus equals to 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1309.06,
+      "end": 1312.06,
+      "text": " plus equals to 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1312.06,
+      "end": 1315.06,
+      "text": " i equals to 0"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1315.06,
+      "end": 1318.06,
+      "text": " now i think this is not working, and this will work"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1318.06,
+      "end": 1321.06,
+      "text": " but as soon as i run, i get an error"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1321.06,
+      "end": 1324.06,
+      "text": " indentation error, it is asking what is your indentation"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1324.06,
+      "end": 1327.06,
+      "text": " what are you doing, here you see"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1327.06,
+      "end": 1330.06,
+      "text": " you left half incomplete for loop, complete it"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1330.06,
+      "end": 1333.06,
+      "text": " but i say i will do it later, i want to leave it"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1333.06,
+      "end": 1336.06,
+      "text": " i want to see its output, i want to leave it"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1336.06,
+      "end": 1339.06,
+      "text": " for this python has given a convenience keyword"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1339.06,
+      "end": 1342.06,
+      "text": " which is pass, python says write pass"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1342.06,
+      "end": 1345.06,
+      "text": " it means you will work here later, run"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1345.06,
+      "end": 1348.06,
+      "text": " see it worked, from 0 to 44"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1348.06,
+      "end": 1351.06,
+      "text": " the output of our while loop came"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1351.06,
+      "end": 1354.06,
+      "text": " so we write pass, so if i tell you what is pass"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1354.06,
+      "end": 1357.06,
+      "text": " pass is a null statement in python, it instructs to do nothing"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1357.06,
+      "end": 1360.06,
+      "text": " if you will not write pass, then error will come"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1360.06,
+      "end": 1363.06,
+      "text": " if you will write pass, then it means do nothing"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1363.06,
+      "end": 1366.06,
+      "text": " so this statement will be skipped"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1366.06,
+      "end": 1369.06,
+      "text": " without pass the program will throw an error"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1369.06,
+      "end": 1372.06,
+      "text": " now we will see some questions, because loops are very strong"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1372.06,
+      "end": 1375.06,
+      "text": " and what a great code is being made"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1375.06,
+      "end": 1378.06,
+      "text": " i am really happy with myself, such a great explanation"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1378.06,
+      "end": 1381.06,
+      "text": " of things, i am enjoying it"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1381.06,
+      "end": 1384.06,
+      "text": " and i am very excited that how much you will enjoy"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1384.06,
+      "end": 1387.06,
+      "text": " when this video will be published, and tell me in the comment section"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1387.06,
+      "end": 1390.06,
+      "text": " i really like it when you give feedback"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1390.06,
+      "end": 1393.06,
+      "text": " i will meet you in chapter 7 practice set"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1393.06,
+      "end": 1396.06,
+      "text": " music"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1396.06,
+      "end": 1399.06,
+      "text": " music"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1399.06,
+      "end": 1402.06,
+      "text": " so guys now we will move towards chapter 7 practice set"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1402.06,
+      "end": 1405.06,
+      "text": " i have made a folder in the name of chapter 7 ps"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1405.06,
+      "end": 1408.06,
+      "text": " and i will right click and close this folder"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1408.06,
+      "end": 1411.06,
+      "text": " then right click and open this folder in vs code"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1411.06,
+      "end": 1414.06,
+      "text": " first question is of practice set 7"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1414.06,
+      "end": 1417.06,
+      "text": " write a program to print multiplication table of a given number"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1417.06,
+      "end": 1420.06,
+      "text": " using for loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1420.06,
+      "end": 1423.06,
+      "text": " very simple problem, i will make a file"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1423.06,
+      "end": 1426.06,
+      "text": " and after this i will write"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1426.06,
+      "end": 1429.06,
+      "text": " let n is equal to input"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1429.06,
+      "end": 1432.06,
+      "text": " and i will write enter a number"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1432.06,
+      "end": 1435.06,
+      "text": " colon space"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1435.06,
+      "end": 1438.06,
+      "text": " and after this i will write for i in range"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1438.06,
+      "end": 1441.06,
+      "text": " i will go from 1 to 11"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1441.06,
+      "end": 1444.06,
+      "text": " and after this i will get 1 to 10"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1444.06,
+      "end": 1447.06,
+      "text": " because it goes from this number to n-1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1447.06,
+      "end": 1450.06,
+      "text": " so i will write print and i will use f string"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1450.06,
+      "end": 1453.06,
+      "text": " i have already told you what is f string"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1453.06,
+      "end": 1456.06,
+      "text": " f string is basically you put f here"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1456.06,
+      "end": 1459.06,
+      "text": " and write normal string and now you can use variables in this string"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1459.06,
+      "end": 1462.06,
+      "text": " so you can write here n"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1462.06,
+      "end": 1465.06,
+      "text": " and after this we will write multiply by"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1465.06,
+      "end": 1468.06,
+      "text": " and we will write i is equal to"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1468.06,
+      "end": 1471.06,
+      "text": " multiply by i"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1471.06,
+      "end": 1474.06,
+      "text": " so whatever value it will be, it will come"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1474.06,
+      "end": 1477.06,
+      "text": " so let's see this number is asking me"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1477.06,
+      "end": 1480.06,
+      "text": " so i want to write 7 so it gave me table of 7"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1480.06,
+      "end": 1483.06,
+      "text": " but again i made the same mistake about which we were talking in this course"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1483.06,
+      "end": 1486.06,
+      "text": " whenever we are talking about integer then you have to do int input"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1486.06,
+      "end": 1489.06,
+      "text": " this is your duty you have to do"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1489.06,
+      "end": 1492.06,
+      "text": " if i write 7 here then the right table of 7 will be printed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1492.06,
+      "end": 1495.06,
+      "text": " so you have seen here"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1495.06,
+      "end": 1498.06,
+      "text": " this is python"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1498.06,
+      "end": 1501.06,
+      "text": " this is not you and me who will make mistake"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1501.06,
+      "end": 1504.06,
+      "text": " so this is our problem number 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1504.06,
+      "end": 1507.06,
+      "text": " let's see problem 2"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1507.06,
+      "end": 1510.06,
+      "text": " write a program to greet all the persons names stored in a list"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1510.06,
+      "end": 1513.06,
+      "text": " L which starts with S"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1513.06,
+      "end": 1516.06,
+      "text": " now it is saying that basically this is your list"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1516.06,
+      "end": 1519.06,
+      "text": " you have to greet only the person"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1519.06,
+      "end": 1522.06,
+      "text": " whose name starts with S"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1522.06,
+      "end": 1525.06,
+      "text": " so what i will do here"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1525.06,
+      "end": 1528.06,
+      "text": " i will write for name in L"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1528.06,
+      "end": 1531.06,
+      "text": " and i will write"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1531.06,
+      "end": 1534.06,
+      "text": " if name.starts"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1534.06,
+      "end": 1537.06,
+      "text": " with S"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1537.06,
+      "end": 1540.06,
+      "text": " print"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1540.06,
+      "end": 1543.06,
+      "text": " hello name and i have to make it as f string"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1543.06,
+      "end": 1546.06,
+      "text": " and i will run this so what will happen"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1546.06,
+      "end": 1549.06,
+      "text": " hello soham, hello sachin"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1549.06,
+      "end": 1552.06,
+      "text": " soham, hello sachin, hello rahul"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1552.06,
+      "end": 1555.06,
+      "text": " now how i made this"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1555.06,
+      "end": 1558.06,
+      "text": " i said for all names in this list"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1558.06,
+      "end": 1561.06,
+      "text": " for name in L"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1561.06,
+      "end": 1564.06,
+      "text": " one by one name will be harry, soham, sachin and rahul"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1564.06,
+      "end": 1567.06,
+      "text": " i said if name.starts with S"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1567.06,
+      "end": 1570.06,
+      "text": " then print hello and name"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1570.06,
+      "end": 1573.06,
+      "text": " means if name.starts with S"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1573.06,
+      "end": 1576.06,
+      "text": " then you have to greet it"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1576.06,
+      "end": 1579.06,
+      "text": " soham, sachin was greeted"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1579.06,
+      "end": 1582.06,
+      "text": " harry and rahul were not greeted"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1582.06,
+      "end": 1585.06,
+      "text": " so question number 3 is saying"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1585.06,
+      "end": 1588.06,
+      "text": " to do problem 1 with while loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1588.06,
+      "end": 1591.06,
+      "text": " so i will do problem number 3"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1591.06,
+      "end": 1594.06,
+      "text": " with while loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1594.06,
+      "end": 1597.06,
+      "text": " so first of all"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1597.06,
+      "end": 1600.06,
+      "text": " i will write this code as it is"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1600.06,
+      "end": 1603.06,
+      "text": " i will say i is equal to 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1603.06,
+      "end": 1606.06,
+      "text": " and i will simply"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1606.06,
+      "end": 1609.06,
+      "text": " i plus equals to 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1609.06,
+      "end": 1612.06,
+      "text": " so i value will start with 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1612.06,
+      "end": 1615.06,
+      "text": " and finally our table will be printed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1615.06,
+      "end": 1618.06,
+      "text": " so basically this is a basic conversion"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1618.06,
+      "end": 1621.06,
+      "text": " from for loop to while loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1621.06,
+      "end": 1624.06,
+      "text": " i will write 8 and table will be printed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1624.06,
+      "end": 1627.06,
+      "text": " i said take a value from user"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1627.06,
+      "end": 1630.06,
+      "text": " then i is equal to 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1630.06,
+      "end": 1633.06,
+      "text": " then while i is less than 11"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1633.06,
+      "end": 1636.06,
+      "text": " means from 1 to 10"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1636.06,
+      "end": 1639.06,
+      "text": " you print the table and in every iteration of loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1639.06,
+      "end": 1642.06,
+      "text": " increment i value"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1642.06,
+      "end": 1645.06,
+      "text": " increment i value in every iteration of loop"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1645.06,
+      "end": 1648.06,
+      "text": " so this is very important"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1648.06,
+      "end": 1651.06,
+      "text": " i think amazing"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1651.06,
+      "end": 1654.06,
+      "text": " good stuff, come back"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1654.06,
+      "end": 1657.06,
+      "text": " and here we will write a program to print following star pattern"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1657.06,
+      "end": 1660.06,
+      "text": " but before that write a program to find"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1660.06,
+      "end": 1663.06,
+      "text": " whether a given number is prime or not"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1663.06,
+      "end": 1666.06,
+      "text": " so what happens to declare a prime number"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1666.06,
+      "end": 1669.06,
+      "text": " what we have to do"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1669.06,
+      "end": 1672.06,
+      "text": " i will write 04 underscore problem 4.py"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1672.06,
+      "end": 1675.06,
+      "text": " so any number is prime number when it is dividing 1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1675.06,
+      "end": 1678.06,
+      "text": " or it is dividing itself"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1678.06,
+      "end": 1681.06,
+      "text": " so to check this we will take number as an input from user"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1681.06,
+      "end": 1684.06,
+      "text": " so here n is equal to int enter number"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1684.06,
+      "end": 1687.06,
+      "text": " so we will write for i in range from 1 to n"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1687.06,
+      "end": 1690.06,
+      "text": " and we will write"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1690.06,
+      "end": 1693.06,
+      "text": " if i percent"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1693.06,
+      "end": 1696.06,
+      "text": " sorry if n percent i"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1696.06,
+      "end": 1699.06,
+      "text": " is equal to equal to 0 means it is dividing"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1699.06,
+      "end": 1702.06,
+      "text": " from any number so we will write print"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1702.06,
+      "end": 1705.06,
+      "text": " and number is not prime"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1705.06,
+      "end": 1708.06,
+      "text": " and i will not include 1 here i will start from 2"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1708.06,
+      "end": 1711.06,
+      "text": " and here i will write only n because"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1711.06,
+      "end": 1714.06,
+      "text": " it will be checked till n-1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1714.06,
+      "end": 1717.06,
+      "text": " whether this number is prime or not"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1717.06,
+      "end": 1720.06,
+      "text": " now here i will show you one thing"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1720.06,
+      "end": 1723.06,
+      "text": " number is not prime"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1723.06,
+      "end": 1726.06,
+      "text": " now i want to break it"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1726.06,
+      "end": 1729.06,
+      "text": " because if it is divided from 2 to n-1"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1729.06,
+      "end": 1732.06,
+      "text": " from any number then this number is not prime"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1732.06,
+      "end": 1735.06,
+      "text": " so i will break it"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1735.06,
+      "end": 1738.06,
+      "text": " i don't need to divide from other numbers"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1738.06,
+      "end": 1741.06,
+      "text": " so i will write number is not prime"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1741.06,
+      "end": 1744.06,
+      "text": " so i will run it and if i write 4 here then number is not prime"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1744.06,
+      "end": 1747.06,
+      "text": " if i write 5 then 5 is prime number"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1747.06,
+      "end": 1750.06,
+      "text": " so if i write 5 then nothing will be printed"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1750.06,
+      "end": 1753.06,
+      "text": " so i will do one thing if this for loop is complete"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1753.06,
+      "end": 1756.06,
+      "text": " so what i will do is i will write else"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1756.06,
+      "end": 1759.06,
+      "text": " and i will write print"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1759.06,
+      "end": 1762.06,
+      "text": " number is prime"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1762.06,
+      "end": 1765.06,
+      "text": " now see what happens"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1765.06,
+      "end": 1768.06,
+      "text": " but if i write 8 here then number is not prime"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1768.06,
+      "end": 1771.06,
+      "text": " is 2 prime number"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1771.06,
+      "end": 1774.06,
+      "text": " yes it is 2 prime number so if i write 2 here"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1774.06,
+      "end": 1777.06,
+      "text": " then number is prime"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1777.06,
+      "end": 1780.06,
+      "text": " so prime numbers are those factors"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1780.06,
+      "end": 1783.06,
+      "text": " in which either 1 comes or number comes"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1783.06,
+      "end": 1786.06,
+      "text": " so 2 is also a prime number and i will show you"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1786.06,
+      "end": 1789.06,
+      "text": " as soon as i run it i will put any number here"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1789.06,
+      "end": 1792.06,
+      "text": " if i put 565 then it is not prime because it is divided from 5"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1792.06,
+      "end": 1795.06,
+      "text": " if i put 1 then it is showing 1 as prime"
+    },
+    {
+      "number": "9",
+      "title": "part9",
+      "start": 1795.06,
+      "end": 1798.06,
+      "text": " if i put 3 then it is showing 3 as prime"
+    }
+  ],
+  "text": " by the way, you have to remember when we used to write 1, 6, it used to have 1, 2, 5 so if I print and write i here then what will happen, the value of i will come from 1 to 5 and what does this range function do? see 1, 2, 3, 4, 5, it printed exactly the same thing now come back to the PDF sometimes we want to repeat a set of statements in our program like we have to print numbers from 1 to 1000 loops make it easy for the programmer to do this work we have two types of loops one is a while loop and the other is a for loop the loop I showed you was a for loop we will talk about it in detail but I just wanted to give you an introduction to it so let's start without wasting time with while loops so while loops.py .py is an extension, a python file now we will come back to our PDF what is a while loop? while loop and for loop are two different types of loops we talked about this so are they different? which one is better? both are different ways of doing the same thing which one to use when? I will teach you all in this chapter so first learn the while loop suppose I have a variable i its value is 1 listen carefully I will write while and I will write condition suppose I write i is less than 6 I will enter a colon see it is indented it means I have entered the while loop and now if I write print i then what will happen? i's value is 1 condition will check so while loop is executed when condition is true what is the condition in this case? 1 is less than 6 is true so it will come in the while loop it will print i which has value 1 and after this I will write i plus equals to 1 which means what should I do to i's value? I should make i's value 2 so i's value was 1 so I will write control which means our program is running check 1 less than 6 was true it will print 1 will be printed in console it will be 2 i's value is 2 while because it is a loop so it will check the condition listen carefully once it is executed with 1 value then it will have value 2 it will come back then it will run then it will come back then it will run then it will come back and then it will run and it will run and it will run till condition is true if condition is always true then it will become an infinite while loop which we don't need in ideal scenario but you can see what will be the output of this program I will do one thing I will write here I am just telling you what will be the output to make you understand I will use triple single quote and toggle the screen cast mode so that when I do such operations you don't ask me how I am doing you can see which key is pressing now you can see when i's value was 1 then this condition was true print i means 1 i's value is 2 2 less than 6 is true so 2 will be printed so this will be printed then i's value will be 3 will 3 less than 6? yes, print i will be print 3 should be removed then it will be 4 then condition is true is 4 less than 6? yes, 4 value will be printed now it is 5 is 5 less than 6? now it is 5 now it is 6 6 less than 6? it doesn't happen, that's why on 6 less than 6 this loop will not execute this loop will exit, means it will come out of the control loop and this loop's execution will end and our output will come 1,2,3,4,5 so the work I did with for loop, the same work is done with while loop so what will while loop do, it will check the condition once, it will execute all the masala inside it will check the condition again, if it is true then it will check again again everything will be executed, it will check the condition again and so on till the condition is false one thing important in while loop is that you have to make the condition false here otherwise your while loop will never exit, means whatever you are checking in the condition somehow you have to alter it in the while loop, like in this case we changed the value of i and eventually our i value became less than 6, means greater than equal to 6, less than 6 became false basically I will say that our condition became false eventually eventually our while condition became false, because of which our while loop exited I hope that is clear now, I hope you understood, now come back to the notes I have written it for you with a lot of love, this block will keep on executing until condition is true I am just telling you guys to know about the while loop in while loop the condition is checked first, if it evaluates to the true, the body of the loop is executed otherwise not, if the loop enters the process of condition check and execution here condition is being checked then execution is being done then condition is being checked then execution is being done and so on until the condition becomes false quick quiz for you, write a program to print 1 to 50 using a while loop which i have already done so what will we do here, we will do 51 51 so if we do 51, then values from 1 to 50 will be printed its simple because when i's value is 51, then nothing will be printed i's value will be printed only when it is 50 so this loop will keep on running, first i's value will be 1, then 2, 3, 4 all the way till when value is 50, then also condition will be true and when 50 is 1, then also condition will be false so i hope this thing is clear for you now i will give you quick quiz, i want you to solve it yourself now here we have given an example that we have to print harry 5 times, so what we did we made i's value 0, while i's value less than 5, we printed harry i's equal to i plus 1 which is same as writing i plus equals to 1 you can write i's equal to i plus 1, i will also write it for you so that you can keep on learning, i's equal to i plus 1, you can also write it now here is another quick quiz, write a program to print the content of a list using while loops how will you do content of a list using while loops, come i will show you so here i will do 03 underscore list using while dot py so i have a list which has some numbers one is 1, one is harry, one is false then after this is this then after this is rohan, then after this is shubham then after this is shubhi now what i want is to print it using while loop so i will do i's equal to 0 while i is less than length of l and plus 1 why i did plus 1, i will tell you now now what i will do, i will write print and i will write li and i will do this and as soon as i run this and i's equal to i plus 1 is very important if i didn't write that, it will go to infinite loop so now see what happened, list index is out of range in fact i should have done length of l because it will start from 0 and go to length of l minus 1 so my bad, i should have done it like this and see here it has printed it so it has printed it, you can see here and it must have printed 1 also, i will run it again you can see 1 it has printed all these values why it has printed all values, let's understand step by step i's value was 0 first so i's value was 0, i is less than length of l, what is the length of this list, 1,2,3,4,5,6,7 this list length is 7 less than 7 is 0, so here it will print l0 then i's value will be 1, then it will print l1 then l2, then l3, then l4, then l5 then l6, then when i's value will be 7 7 less than 7 is false and our while loop will exit because of which this while loop will exit and we will finally get this list content i hope that was easy, i hope you understood we will print a list content using while loops this is the brother of while loop i say while loop's brother because whatever can be done with while loop can be done with for loop so let's do 04 underscore underscore for underscore loops.py and it is very similar we will write for i in range and whatever number we will write in range, let's say we wrote 4 so it will automatically make it 0,4 so it will go from 0 to 3, so i will show you by printing i and i will show you what it is, it printed 0,1,2,3 so basically what range function does it generates numbers from 0 to n-1 on the fly, so you will do for i in range so what is the meaning of range 4, in range 4 0,1,2,3 will be there, so it goes from 0 to n-1, so if i show you range function, so range function in python is used to generate a sequence of numbers, we can also specify the start, stop and step size as we have already seen, where we have seen? in string slicing, so you can explore this step size what is step size, but i want to show you quickly in rappel about step size, so if i write here python and i write here for i in range and i write here 0 to 100 and i write here 4's step and i write here shift enter, press tab and write print i, hit enter so see what it did, it started from 0 then it made 4, then made 8, so if i make 4 of step size so what will happen, first of all you take numbers from 0 to 100 then start from 0, 1,2,3,4 like i told you earlier, like we saw in string slicing chapter, exactly like that you have to jump, so i will tell you the meaning of jumping so i will make a new file, say i have 0,1,2,3,4 5,6,7,8,9, so first of all 0 colon 100, all the way till 100 write 0, 1,2,3,4 write 4, 1,2,3,4,8 exactly like that, 0,4,8,12 i have already told you in string slicing, so i am closing it but i hope you have seen string slicing chapter in which i told you about step size, so you can give step size in change function, which is very good so for loop is used to iterate through a sequence like list, tuple or string, you can put for loop in string you can put it in list, you can put it in tuple i will show you how easily you can iterate a list content for loop iterate.py so say i have a list which has some numbers say 1,4,6,2,3,4 again 6 and 7,6,4 if i write for i in l and print i so all the elements of this list will be printed one by one see this, 1,4,6,2,3,4,6 and 7,6,4, what is happening is all the numbers are printed one by one if i write i in l now if i do the same thing with tuple if i write tuple and make a tuple say i start with 6,2,3,1 75,1,2,2 and i print i by for i in t then you will see all the numbers will be printed one by one 6,2,3,1,75,1,2,2 and this output is of upper one, so if i for once just comment out upper one, so you see 6,2,3,1 75,1,2,2 are here and all these 4 are in this tuple, so in this tuple there are 6,2,3,1 75,1,2,2 and for i in t if i am doing print i, so all the elements are printed one by one, i hope i was able to explain you properly that how you can iterate i have already written in notes that you can iterate tuple list even string, so i will give you an example of string and i will write for i in s and print i and i will comment this out and you see as i will write this, you see h,a,r,r,y is written here, so characters will come one by one h will come, then a will come, then r will come, then r will come and y will come as values of i, so for i in s i will do, so once h will come, then a will come, then r will come then r will come, then y will come and we basically are iterating the string, so i will do one thing here, i will give some headings here, so as you can see this is for loops with tuples, this is for loops with list and this is for loops with strings, i hope you understood this thing properly, so this example is for list for tuple and for string, good now i have already told you about range function you guys explore step size of range function, i have already told you step size, now i have an example of range function which i have already given you, for i in range 0 to 7, so it will go from 0 to 6 it will go from 0 to 6 now here a very important concept which is taught very less and very less people know it and you can become different by knowing it, that is for loop with else with for loop, an else statement can be used, an optional else can be used which will do what i will show you what it will do, so basically assume we have a list i have said for item in l, print item so what will happen, when it will exit for loop then it will execute else, so with this example i will explain you for loop with else so basically what happens, for loop will run till it will get values, for loop will run till it will get values and once it stops getting values then what it will do, then it will execute else i will indent it properly, it is not indented properly so i will indent it properly and you can see here my list was 178, for item in l and i did print item, then i did else and did print done, this is printed when the loop exhausts, so see what will happen for item in l i did and did print item, so first one print then 7 print and then 8 print and finally when there is no value left to print then what it will do, it will print print done, so this thing will be printed so if i run this program, then what will happen first one print, then 7 print, then 8 print, finally it was trying to print next value, but it couldn't because for loop was exhausted and that's why it entered in else and printed done so when we use for loop with else for loop will enter in else when it will exhaust, when it will exhaust i hope you understood this thing so for loop with else is asked a lot in interview is it used in programs, i will say if i talk about practical programs, then it is used very less for loop with else, but yes interviewer can ask you to use for loop with else tell me this so that you get trapped and then you can do this, so interviewer can do this with you now we will talk about break, continue and pass statements, what is break break is used to come out of the loop when encountered it exits abruptly abruptly exits this program like suppose we have a for loop which is running from 0 to 80, printing things i will tell you break, continue and pass break and continue.py suppose i have a function for i in range 100 i have printed i here, so you will say yes, it will print from 0 to 99, what to do i will tell you what is break, if i say for i in range 100 you keep printing values one by one but if i value 34, then you break from here, means print from 0 to 33, i value i got 34 similarly run this break what is the meaning of break exit the loop right now forget everything and exit the loop what is break, forget everything and exit the loop so if i run this, you will see that it printed from 0 to 33 because break means forget everything and exit the loop forget everything, so i hope you understood what is break i in range 100, i equals to 34 exit the loop right now there is a continue, it is similar but understand the difference between both exit this loop and forget it but continue says forget this skip this iteration skip this iteration what is iteration, i value is 0, that is an iteration i value is 1, that is an iteration, 2, 3, 4, 5 till 99, that is an iteration so here from 0 to 99, every value is an iteration, so what will happen, if i say if i value is 34, then continue, so what will it do it will say i value is 0, this is false so it will print i, i value is 1, this is false it will print i, i value is 3, 4, 5, 6 7, 8, 9, it will go all the way till till 33, so what will it do it will print till 33, as soon as i value is 34, it will see continue it will not execute the code below, it will run for 35, continue means skip that particular iteration, that is in this loop, this iteration the part that was executed till now, it was executed but it should not be below this, now directly the value what to do, for the next value, you go what to do, for the next value, you go so here what will happen, continue means for the next value so what will it do, i value was 34, this will not run because we have continued in 34, it will run for 35 so i will show you, it will skip 34 so if you see it closely, 31, 32, 33 skipped 34 then 35, so as soon as continue is seen it skips that particular iteration but break is seen, it exits the loop break means that from now till later, no value will run means loop's story is over, loop is killed break statement, but what does continue do continue says, for this value for the remaining masala, do not execute execute the next iteration like i value was 34, below that whatever is below continue, do not execute that, work for 35 then i value will be 35, this will be false then 36, this will be false, so continue is seen so that iteration is skipped, break is seen, so loop is skipped, we will do questions of break and continue so if i come back to notes, continue is used to stop the current iteration of the loop and continue with the next one, it instructs the program to skip this iteration, continue means skip this iteration and what does break mean, exit the loop now, it instructs the program to exit the loop now, and what is the instruction here skip this iteration, i told you from 0 to 80 if we break on i value 3, then what will happen i value 1,2,3 will be printed, but as soon as break is seen, it will exit from this loop, what will happen here, i value is 2 so iteration will be skipped, 2, 3 and 4 will run here, so i request you to run this in your computers do not see it like a movie seriously, do not see it like a movie, ok let's talk about pass, sometimes what we do sometimes we simply do not want to do anything so if i want this is my for loop, let me show you 08 underscore pass dot p let's say i say for i in range 645 colon now i want to do this later, let me write another while loop while i is less than 45 let's say i want to do this later, or i do it now print i and then i plus equals to 1 plus equals to 1 i equals to 0 now i think this is not working, and this will work but as soon as i run, i get an error indentation error, it is asking what is your indentation what are you doing, here you see you left half incomplete for loop, complete it but i say i will do it later, i want to leave it i want to see its output, i want to leave it for this python has given a convenience keyword which is pass, python says write pass it means you will work here later, run see it worked, from 0 to 44 the output of our while loop came so we write pass, so if i tell you what is pass pass is a null statement in python, it instructs to do nothing if you will not write pass, then error will come if you will write pass, then it means do nothing so this statement will be skipped without pass the program will throw an error now we will see some questions, because loops are very strong and what a great code is being made i am really happy with myself, such a great explanation of things, i am enjoying it and i am very excited that how much you will enjoy when this video will be published, and tell me in the comment section i really like it when you give feedback i will meet you in chapter 7 practice set music music so guys now we will move towards chapter 7 practice set i have made a folder in the name of chapter 7 ps and i will right click and close this folder then right click and open this folder in vs code first question is of practice set 7 write a program to print multiplication table of a given number using for loop very simple problem, i will make a file and after this i will write let n is equal to input and i will write enter a number colon space and after this i will write for i in range i will go from 1 to 11 and after this i will get 1 to 10 because it goes from this number to n-1 so i will write print and i will use f string i have already told you what is f string f string is basically you put f here and write normal string and now you can use variables in this string so you can write here n and after this we will write multiply by and we will write i is equal to multiply by i so whatever value it will be, it will come so let's see this number is asking me so i want to write 7 so it gave me table of 7 but again i made the same mistake about which we were talking in this course whenever we are talking about integer then you have to do int input this is your duty you have to do if i write 7 here then the right table of 7 will be printed so you have seen here this is python this is not you and me who will make mistake so this is our problem number 1 let's see problem 2 write a program to greet all the persons names stored in a list L which starts with S now it is saying that basically this is your list you have to greet only the person whose name starts with S so what i will do here i will write for name in L and i will write if name.starts with S print hello name and i have to make it as f string and i will run this so what will happen hello soham, hello sachin soham, hello sachin, hello rahul now how i made this i said for all names in this list for name in L one by one name will be harry, soham, sachin and rahul i said if name.starts with S then print hello and name means if name.starts with S then you have to greet it soham, sachin was greeted harry and rahul were not greeted so question number 3 is saying to do problem 1 with while loop so i will do problem number 3 with while loop so first of all i will write this code as it is i will say i is equal to 1 and i will simply i plus equals to 1 so i value will start with 1 and finally our table will be printed so basically this is a basic conversion from for loop to while loop i will write 8 and table will be printed i said take a value from user then i is equal to 1 then while i is less than 11 means from 1 to 10 you print the table and in every iteration of loop increment i value increment i value in every iteration of loop so this is very important i think amazing good stuff, come back and here we will write a program to print following star pattern but before that write a program to find whether a given number is prime or not so what happens to declare a prime number what we have to do i will write 04 underscore problem 4.py so any number is prime number when it is dividing 1 or it is dividing itself so to check this we will take number as an input from user so here n is equal to int enter number so we will write for i in range from 1 to n and we will write if i percent sorry if n percent i is equal to equal to 0 means it is dividing from any number so we will write print and number is not prime and i will not include 1 here i will start from 2 and here i will write only n because it will be checked till n-1 whether this number is prime or not now here i will show you one thing number is not prime now i want to break it because if it is divided from 2 to n-1 from any number then this number is not prime so i will break it i don't need to divide from other numbers so i will write number is not prime so i will run it and if i write 4 here then number is not prime if i write 5 then 5 is prime number so if i write 5 then nothing will be printed so i will do one thing if this for loop is complete so what i will do is i will write else and i will write print number is prime now see what happens but if i write 8 here then number is not prime is 2 prime number yes it is 2 prime number so if i write 2 here then number is prime so prime numbers are those factors in which either 1 comes or number comes so 2 is also a prime number and i will show you as soon as i run it i will put any number here if i put 565 then it is not prime because it is divided from 5 if i put 1 then it is showing 1 as prime if i put 3 then it is showing 3 as prime"
+}

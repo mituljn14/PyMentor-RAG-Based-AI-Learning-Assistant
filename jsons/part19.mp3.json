@@ -1,0 +1,1419 @@
+{
+  "chunks": [
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 0.0,
+      "end": 6.14,
+      "text": " 2007 is installed in one virtual machine and Microsoft Word is installed in another machine"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 6.4,
+      "end": 10.08,
+      "text": " So what you can do here is the same thing in virtual environment"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 10.4,
+      "end": 17.36,
+      "text": " You make a virtual environment in which all your packages are there and that means it is not from your global interpreter"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 17.52,
+      "end": 23.48,
+      "text": " Means your python installation, the python we have installed, a copy of that installation will be made"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 23.48,
+      "end": 31.44,
+      "text": " And in that copy we will install different versions of the package and the main python of that copy will not make any sense"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 31.64,
+      "end": 33.24,
+      "text": " I hope I could explain this thing"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 33.48,
+      "end": 35.56,
+      "text": " We will be able to make an isolated environment"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 36.44,
+      "end": 40.92,
+      "text": " So what we have to do here is getting requirements to build wheel, it is still running"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 41.32,
+      "end": 43.4,
+      "text": " And I guess it is running"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 43.56,
+      "end": 46.96,
+      "text": " So I will wait for it, it will be completed or I can cancel it if I want"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 46.96,
+      "end": 50.0,
+      "text": " And I will directly install virtualenv here"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 50.84,
+      "end": 57.88,
+      "text": " virtualenv, so virtualenv is a package that is being installed now, you can see virtualenv has been installed"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 58.16,
+      "end": 62.44,
+      "text": " Now I will write virtualenv here and I will name it env"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 63.12,
+      "end": 70.68,
+      "text": " I can name my environment anything, I have kept env here, it is asking me that you have created a new environment"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 70.92,
+      "end": 75.04,
+      "text": " Do you want to select it for this folder, I will say yes I want to do it, so I have done yes here"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 75.08,
+      "end": 80.88,
+      "text": " So you can see here it is showing me that a new virtual environment has been created using 3.1, 2.3"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 81.2,
+      "end": 86.2,
+      "text": " And a folder will be created here, you can see a folder named env has been created"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 86.48,
+      "end": 92.84,
+      "text": " In which there is lib, scripts, basically a python isolated environment has been created here"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 93.16,
+      "end": 97.04,
+      "text": " Which you can use and you can put any version in it"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 97.04,
+      "end": 100.92,
+      "text": " Now what I will do is I will come here where these two files are made, you can see our python file is made and an env folder is created in which our"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 100.92,
+      "end": 104.8,
+      "text": "environment is"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 105.04,
+      "end": 109.04,
+      "text": " I will shift right and open in terminal and you can see what I can do here"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 109.24,
+      "end": 114.32,
+      "text": " I will activate this virtual environment, so if I write here pip install pandas"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 114.68,
+      "end": 119.96,
+      "text": " And I hit enter, so you can see the requirement is already satisfied here, it is telling me that look"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 120.2,
+      "end": 126.16,
+      "text": " Pandas are already installed in your computer, if I do equals to equals to 1.5.2"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 126.16,
+      "end": 135.16,
+      "text": " If I want to install 1.5.2 pandas, then it will download 1.5.2 and install it in my global python installation"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 135.4,
+      "end": 144.28,
+      "text": " But now I want to work in 1.5.1 or any lower version"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 144.56,
+      "end": 150.6,
+      "text": " So for that I will install that pandas in this environment, I will show you how we can do this"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 150.68,
+      "end": 156.96,
+      "text": " So I let it finish and once it is finished, then we will activate this virtual environment"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 157.2,
+      "end": 164.92,
+      "text": " So you see here that once we install the virtual environment package and after that if we make a new virtual environment"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 165.12,
+      "end": 171.04,
+      "text": " Then we can activate that virtual environment, I will tell you how to activate that virtual environment"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 171.28,
+      "end": 175.5,
+      "text": " What is a virtual environment? It is an environment which is same as a system interpreter but is isolated from the other python environments on the"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 175.5,
+      "end": 179.72,
+      "text": "system"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 179.84,
+      "end": 185.84,
+      "text": " So the python you have installed, it becomes a different copy of your python installation, so let's see if it is finished or not"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 186.08,
+      "end": 193.72,
+      "text": " It is still building the wheel, so guys it really took a while, it took a little time and here you can see that it has uninstalled"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 193.96,
+      "end": 202.92,
+      "text": " Pandas 2.2.2 and it is installing 1.5.2, now what I will do here, I will activate this virtual environment and to activate it"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 203.12,
+      "end": 217.52,
+      "text": " I will simply type here .slashenv, I will press tab and I will press scripts and I will type activate.ps1 and I will press enter"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 217.72,
+      "end": 222.16,
+      "text": " And you see here in bracket it is writing env which means that the environment is activated"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 222.4,
+      "end": 228.92,
+      "text": " Now when I am running VS code, then this env will not come in the bracket but because I have already done venv here"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 228.92,
+      "end": 235.92,
+      "text": " So all my packages will be installed in the virtual environment, so you have to remember this thing, env does not show VS code here"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 236.16,
+      "end": 244.16,
+      "text": " Now I will come back here and I will install any pip, let's say I have installed pip here and I have written pandas here and I have hit enter"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 244.4,
+      "end": 253.6,
+      "text": " So what will happen is that the latest version of pandas 2.2.2 will be installed here and here you can see 1.5.2 which is installed in my global"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 254.6,
+      "end": 267.6,
+      "text": " So I am installing it here in the virtual environment and if I import pandas and I print the version of pandas, then you see how I can print it"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 267.6,
+      "end": 275.6,
+      "text": " So I am waiting for it to be installed and if I write python here and I write import pandas and I write pandas.__version__, then you see 2.2.2 is"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 275.6,
+      "end": 283.6,
+      "text": "showing because I am in the virtual environment"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 283.6,
+      "end": 290.6,
+      "text": " Now if I write exit here and I run exit and I write exit again which will make me exit from this terminal itself, now I can write deactivate and"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 290.6,
+      "end": 297.6,
+      "text": "activate the virtual environment"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 297.6,
+      "end": 312.1,
+      "text": " Now if I write python here and I write import pandas, you saw that 2.2.2 was there earlier but if I write pandas.__version__, then 1.5.2 is showing"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 312.1,
+      "end": 326.6,
+      "text": "which means I can install different versions of pandas in my global python and in this virtual environment"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 327.6,
+      "end": 335.1,
+      "text": " I hope that makes sense, now we will come back here and we will listen about pip freeze command, now if I want to know which packages are installed"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 335.1,
+      "end": 342.6,
+      "text": "in my python installation, then I will run pip freeze command"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 342.6,
+      "end": 351.6,
+      "text": " Now if I write pip freeze, then it will list all the packages, as you can see my virtual environment is already active because whenever you activate"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 351.6,
+      "end": 360.6,
+      "text": "the virtual environment in escode, then your env is not shown in the bracket"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 360.6,
+      "end": 371.6,
+      "text": " Now if I open the terminal and I run pip freeze, then you can see the pandas version is shown here and I have installed many more packages, pandas"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 371.6,
+      "end": 382.6,
+      "text": "where are you? I know you can see pandas but I can't see it, 1.5.2 or 2.2.2, this is my virtual environment and this is my global python"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 382.6,
+      "end": 391.27,
+      "text": " Now if I want to write this in a file, then I can run this command pip freeze requirement.txt, it's a good practice that we take all our important"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 391.27,
+      "end": 399.93,
+      "text": "packages in requirements.txt file, so as soon as I hit enter, you can see requirements.txt is created, now to recreate this virtual environment, I"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 399.93,
+      "end": 408.6,
+      "text": "have to write pip install-r requirements.txt"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 408.6,
+      "end": 417.6,
+      "text": " Now if I hit enter, then all these packages will be installed one by one in any virtual environment, so whenever we make a python project, then we"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 417.6,
+      "end": 426.6,
+      "text": "run pip freeze command and make the requirements.txt file, the benefit of this is that all the python packages are stored in the requirements.txt file"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 426.6,
+      "end": 435.6,
+      "text": "and then using that information, we can recreate that environment by writing pip install-r requirements.txt"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 435.6,
+      "end": 448.6,
+      "text": " Now let's see about lambda function, lambda functions are some functions which we make using the help of lambda keyword, I want to show you that if I"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 448.6,
+      "end": 461.6,
+      "text": "want to make a function called square, then I can make it in two ways, I make a function here by the name of 0 2 underscore lambda.py"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 462.6,
+      "end": 475.6,
+      "text": " So I can say that square is a function which takes n and returns n into n and if I print square of 5, then the square of 5 will be printed here, but"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 475.6,
+      "end": 488.6,
+      "text": "I can also make it like a variable by doing something like this, I can say that square is equal to lambda which will take x and return x into x"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 488.6,
+      "end": 495.85,
+      "text": " and if I run this, then you will see that it will also give 25, so lambda function is a way to create a function using an expression, so function is"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 495.85,
+      "end": 503.1,
+      "text": "in the form of an expression, like you see here square is equal to lambda x colon x star x is written, so here we can also make it by giving lambda"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 503.1,
+      "end": 510.35,
+      "text": "and arguments, so I have given a comma b comma c and return a plus b plus c, so in a way this is a shortcut to make functions in a single line and to"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 510.35,
+      "end": 517.6,
+      "text": "make functions in a single line,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 518.6,
+      "end": 525.27,
+      "text": " so you can make a variable which is a function, so guys the next topic is join method which is a very simple thing, I will show you how the join"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 525.27,
+      "end": 531.93,
+      "text": "method works, so the join method works for strings and what you have to do is that suppose I have a string and I have a string called a is equal to"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 531.93,
+      "end": 538.6,
+      "text": "Harry,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 538.6,
+      "end": 547.93,
+      "text": " and let us say I have a list, I have a string list, I have Harry and I have Rohan and let's keep one more Shubham in it, now if I want to join these"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 547.93,
+      "end": 557.27,
+      "text": "three with a dash, then I will write here final is equal to I will write dash and I will write dot join and I will write a and if I print final, then"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 557.27,
+      "end": 566.6,
+      "text": "what will happen that these three names will be joined by dash,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 566.6,
+      "end": 573.85,
+      "text": " now if I want these to be joined with double colon instead of dash, then I will write double colon and they will be joined with double colon in a way"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 573.85,
+      "end": 581.1,
+      "text": "that means double colon will come in between them and they will be joined and make a final new string, so this was the join, now I will move on to the"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 581.1,
+      "end": 588.35,
+      "text": "next topic and I will tell you about the format, see now f string has come, so this much of format is not used, but in some old source codes you will"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 588.35,
+      "end": 595.6,
+      "text": "get to see the syntax of the format for which you should learn the format that how it works,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 596.6,
+      "end": 603.85,
+      "text": " so what you should do to learn the format, I will show you something like this, I will copy and show you how it works, so let's make a new program,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 603.85,
+      "end": 611.1,
+      "text": "format.py, so let's say I have a string, I have made a string like this and I will say dot format and I will say argument one, argument two, so if I"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 611.1,
+      "end": 618.35,
+      "text": "assign a string to it and print this string, then what will happen that where I have given the first bracket, Harry will come and where I have given"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 618.35,
+      "end": 625.6,
+      "text": "the second bracket, boy will come, so Harry is a good boy output will be like this,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 626.6,
+      "end": 634.93,
+      "text": " now if I want my boy to come here and my Harry to come here, then I can do numbering here, by default this numbering looks like this that zeroth"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 634.93,
+      "end": 643.27,
+      "text": "argument means Harry will come here and the first argument will come here, but if I want my Harry to come here and my boy to come here, then I can do"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 643.27,
+      "end": 651.6,
+      "text": "this and I will run it, then boy is a good Harry, its output will be like this,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 651.6,
+      "end": 661.1,
+      "text": " this was used earlier, now the format function is used very less since the f string has come, python 3.6 onwards, next topic I will move towards"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 661.1,
+      "end": 670.6,
+      "text": "which is map, filter and reduce, the first function is map, what does map do, it applies a particular function to all the items in an input list,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 670.6,
+      "end": 682.6,
+      "text": " suppose I have a function, a lambda function, which is doing a square, so I will show you how map works, so first of all I make a file with the name"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 682.6,
+      "end": 694.6,
+      "text": "filter reduce.py, so suppose I have a list in which there are some numbers 1,2,3,4,5 and I want to make a square list of it,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 695.6,
+      "end": 707.1,
+      "text": " so first of all I will make a function with the name square, I will say this is a lambda function which takes x and returns x into x, and after this"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 707.1,
+      "end": 718.6,
+      "text": "we will do square is equal to lambda x, x into x, now here we will use the map function to get the squared list,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 718.6,
+      "end": 731.1,
+      "text": " so here you can see how you can do it, you can write map function and give input list, so if I write sqlist is equal to map and I give square and I"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 731.1,
+      "end": 743.6,
+      "text": "give l and then I print my sqlist, so what will happen, I will get the squared list,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 743.6,
+      "end": 750.27,
+      "text": " so here I am getting map object at this way and if I want to get its values, then I have to convert it into a list, so if I want to print it, then I"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 750.27,
+      "end": 756.93,
+      "text": "have to print it in this way, list and sqlist have to be done like this so that it can be converted into a list, so now see it has been converted into"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 756.93,
+      "end": 763.6,
+      "text": "a squared list,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 763.6,
+      "end": 772.6,
+      "text": " by default if you want to iterate its elements, then you can do it with for loop, for item in and after that whatever sqlist is there, you can write"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 772.6,
+      "end": 781.6,
+      "text": "it and your work will be done, I hope you understood how map is used, so here I will write map example, so we use map, if we want to run a function"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 781.6,
+      "end": 790.6,
+      "text": "for all the elements, then we can run it,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 790.6,
+      "end": 804.6,
+      "text": " filter basically filters, now we will see the example of filter, filter example is very simple, we will make a function and write even and if even"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 804.6,
+      "end": 818.6,
+      "text": "function is n divided by 2, then what will it do, if n is divided by 2, then we will do return true,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 818.6,
+      "end": 826.93,
+      "text": " otherwise we will do return false, and here we don't need to put else, because if it is in if, then it will be return anyways and if it is not in if,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 826.93,
+      "end": 835.27,
+      "text": "then it will be false, so it is already false, now what I want here is that I get even numbers from a list, so what I will do, I will write print list"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 835.27,
+      "end": 843.6,
+      "text": "and I am making a list with the name only even,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 843.6,
+      "end": 851.27,
+      "text": " I am making a list with the name only even, I will write filter and filter takes the first argument which is function and it will be even and after"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 851.27,
+      "end": 858.93,
+      "text": "that it takes the second argument list, so from my list I will get only even numbers which are 2 and 4, I hope that makes sense, now we will see"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 858.93,
+      "end": 866.6,
+      "text": "reduce function example,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 866.6,
+      "end": 881.1,
+      "text": " and to give the example of reduce function, I will make a function which is sum and it will sum a and b and I will return a plus b, I could have made"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 881.1,
+      "end": 895.6,
+      "text": "lambda function also but I chose this, now I will write print reduce and I will write l, now you have to import reduce function from func tool module,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 896.6,
+      "end": 905.6,
+      "text": " now what we will do here, we will import reduce from func tool import reduce and here the first argument of reduce is function, which you want to"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 905.6,
+      "end": 914.6,
+      "text": "reduce and the second argument is list, so I will write sum, l, so as soon as I will write sum, l, then this sum function will run on l by 2 by 2, I"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 914.6,
+      "end": 923.6,
+      "text": "will tell that it will run by 2 by 2, like it will run on 1 and 2 first,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 923.6,
+      "end": 932.27,
+      "text": " then it will run on 3 and then it will run on 4 and then it will run on 5, for example here we are talking about sum which sums a and b, so here we"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 932.27,
+      "end": 940.93,
+      "text": "will run on 1 and 2, so 3 will come, then 3 and 3 will become 6, then 6 and 4 will become 10 and 10 and 5 will become 15, so the output of this"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 940.93,
+      "end": 949.6,
+      "text": "program will be 15 and you see here 15 is the output of reduce,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 949.6,
+      "end": 956.35,
+      "text": " to explain this I will take you to this diagram, for example we have a list 1, 2, 3, 4, 1, 2, 3, 4 we have numbers, first sum will run on 1 and 2 and"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 956.35,
+      "end": 963.1,
+      "text": "this list will reduce and it will become like this 3, 3 and 4, then it will run on 3 and 3 which will be 6 and 4, then it will run on 6 and 4 and it"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 963.1,
+      "end": 969.85,
+      "text": "will become 10, if it would have been multiplied then what would have happened, 2 and 1 would have been multiplied, then it would have been multiplied"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 969.85,
+      "end": 976.6,
+      "text": "by 3, then it would have been multiplied by 4,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 976.6,
+      "end": 985.93,
+      "text": " then 2 into 3 would have been 6 and 6 into 4 would have been 24, so if I multiply this, if I make a multiply function, I will say multiply is equal"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 985.93,
+      "end": 995.27,
+      "text": "to lambda and I will write x, y and return x multiplied by y and if I give mul instead of sum which is multiply, then what will come here, 120 will"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 995.27,
+      "end": 1004.6,
+      "text": "come, why is 120 coming because it has 1, 2, 3, 4, 5, 2 into 1 is 2,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1004.6,
+      "end": 1017.6,
+      "text": " 2 into 3 is 6, 4 into 5 is 120, I hope that makes sense and this wraps up chapter number 13 and I will see you in chapter number 13 practice set."
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1017.6,
+      "end": 1024.35,
+      "text": " So guys I have made a folder for chapter 13 practice set and I will solve the first problem here, in fact the first problem is very simple, we have"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1024.35,
+      "end": 1031.1,
+      "text": "to create virtual environments in this, so what I will do is simply pip install virtualenv and then we have to create two virtual environments, so to"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1031.1,
+      "end": 1037.85,
+      "text": "solve this problem, I will open my terminal here because there are many things in VS code that I have not been able to do, so I will open my terminal"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1037.85,
+      "end": 1044.6,
+      "text": "here."
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1044.6,
+      "end": 1053.93,
+      "text": " Because many things are managed in VS code by Python extension, so I try to do a lot of raw things and what I will do here is make a virtualenv env1,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1053.93,
+      "end": 1063.27,
+      "text": "which made my env1 and I will make an env2, which made my env2, so these are the two environments that I have made, now what I will do to activate any"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1063.27,
+      "end": 1072.6,
+      "text": "of these two, I will write env1, press the tab, then I will write scripts, then I will write activate.ps1, which will activate my env1"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1072.6,
+      "end": 1079.85,
+      "text": " and what I will do in this, I will pip install, the question is that what you have to do, you have to install some packages in the previous virtual"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1079.85,
+      "end": 1087.1,
+      "text": "environment, so what I did, pip install pandas and then pip install pyjoke and after this I can do pip install other things too, but I keep only two,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1087.1,
+      "end": 1094.35,
+      "text": "I keep pandas and I keep pyjoke, once pandas is installed, I will pip install pyjoke, I am waiting for pandas to be installed, so here our pandas is"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1094.35,
+      "end": 1101.6,
+      "text": "installed,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1102.6,
+      "end": 1109.93,
+      "text": " now I will pip install pyjoke and my pyjoke is also installed, now what I will do, I will write pip freeze and in this way I will generate"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1109.93,
+      "end": 1117.27,
+      "text": "requirements.txt file, so that my requirements.txt file will be created here, after this I will activate my other environment and for that I will have"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1117.27,
+      "end": 1124.6,
+      "text": "to deactivate my env1, I will hit enter, env1 is deactivated,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1132.6,
+      "end": 1140.93,
+      "text": " I will have to write ps1 like this and in env2 I will have to write pip install-r requirements.txt, so that all these modules that were installed"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1140.93,
+      "end": 1149.27,
+      "text": "here in env1 will also come in env2, so now see all my packages are being installed in env2, pandas is being installed, pyjoke will also be installed,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1149.27,
+      "end": 1157.6,
+      "text": "so our first question is done,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1157.6,
+      "end": 1166.6,
+      "text": " so I will also check once by importing those packages so that you know that it is actually working, so I will write python here in apple, I will"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1166.6,
+      "end": 1175.6,
+      "text": "write import pandas and you see import pandas is working, which means that our pandas is installed in env2, now the second question is to write a"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1175.6,
+      "end": 1184.6,
+      "text": "program to import name, marks and phone number of a student and format it using format function like this,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1184.6,
+      "end": 1199.1,
+      "text": " so name, marks and phone number, I have to take these three things, so I will write 02 underscore problem2.py and I will enter name is equal to"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1199.1,
+      "end": 1213.6,
+      "text": "input, name marks is equal to int input, I will enter marks and after this I will do phone number,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1214.6,
+      "end": 1223.27,
+      "text": " so I have imported these three things and what I will do is I will print f string, but not f string, we have to use format function, so I will do s"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1223.27,
+      "end": 1231.93,
+      "text": "is equal to and I will copy this string, I have got a habit of f string, means things become so easy with f string, but again now we have to use"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1231.93,
+      "end": 1240.6,
+      "text": "format function, so we will obey the instruction of the question, so what I will do here, I will say that name of the student is,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1240.6,
+      "end": 1250.27,
+      "text": " here name will come, then his marks are, whatever marks will be there, then whatever phone number will be there, it will come here and I will write"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1250.27,
+      "end": 1259.93,
+      "text": "dot format, I don't have to write zero here, I pressed it by mistake, dot format and I will write here name, marks and phone and after this I will"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1259.93,
+      "end": 1269.6,
+      "text": "print it to see if it is actually done correctly or not, run it and after running it, I will write Harry in name,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1270.6,
+      "end": 1279.27,
+      "text": " I will write 100 in 100 and I will write random number in phone number, don't call it, name of the student is Harry, his marks are 100, phone number"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1279.27,
+      "end": 1287.93,
+      "text": "is 2242628210, it has become a number, don't call it, it is a random number, now what we will do is, we will do the next question, list contains a"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1287.93,
+      "end": 1296.6,
+      "text": "multiplication table of 7, write a program to convert it to a string of same numbers,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1296.6,
+      "end": 1310.1,
+      "text": " so multiplication table of 7, we have to convert it to a string, so what I will do here, 03 underscore problem3 dot py, so I will write here table is"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1310.1,
+      "end": 1323.6,
+      "text": "equal to 7 into i, 7 into i, for i in range 1 to 11,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1323.6,
+      "end": 1332.93,
+      "text": " and here it will become our table, with the help of list comprehension, table of 7 will be made and what I have to do then, I have to write a program"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1332.93,
+      "end": 1342.27,
+      "text": "to convert it to a string, so what I will do, I will write this and I will write backslash n and I will write dot format, because I have to make a"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1342.27,
+      "end": 1351.6,
+      "text": "vertical string and I will write table here, and this will be my s is equal to and I will write print s and when I print s, then you see that here,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1351.6,
+      "end": 1360.6,
+      "text": " sorry not dot format, I had to join dot here, I am sorry about that, so I had to join, so I will join and you see here, as soon as I do this, it is"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1360.6,
+      "end": 1369.6,
+      "text": "saying that we need int found string, so what we will do here, we will make our table, we will make it a string, because your join function, what it"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1369.6,
+      "end": 1378.6,
+      "text": "will do, it needs a string, it needs a string list and you have to do it yourself,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1378.6,
+      "end": 1385.6,
+      "text": " so if you join backslash n dot like this, then you have to convert it to a string, so I will run it, so you see a vertical table has been made here,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1385.6,
+      "end": 1392.6,
+      "text": "7, 7, 14, 21, 28, 35 and so on, now the fourth problem is that you have to filter a list of numbers which are divisible by 5, so what I will do"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1392.6,
+      "end": 1399.6,
+      "text": "simply,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1400.6,
+      "end": 1413.6,
+      "text": " I will make a method here, and I will give it an n, and here I will simply say that if your n is percent 5, then return true, otherwise we will"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1413.6,
+      "end": 1426.6,
+      "text": "return false,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1426.6,
+      "end": 1440.1,
+      "text": " and here I will write a is equal to 1, 2, and here I will write anything, and here 55, I have taken some numbers, now I will say that f is equal to"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1440.1,
+      "end": 1453.6,
+      "text": "list filter and our first function will be divisible by 5 and a,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1453.6,
+      "end": 1462.1,
+      "text": " and if I print f, then only the items in f will be divisible by 5, because I have made a function that returns true when divisible by n5, and after"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1462.1,
+      "end": 1470.6,
+      "text": "that I ran the filter function, gave that function and gave this list, so we saw how the filter function works already,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1470.6,
+      "end": 1480.6,
+      "text": " the next question is asking us to write a program that will remove the maximum number in a list, so I will make 05 underscore problem 5.py, and I"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1480.6,
+      "end": 1490.6,
+      "text": "will use this list, I have put some big items in it, so it looks a little right,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1490.6,
+      "end": 1503.1,
+      "text": " so I will give 1, 2, and after that I will give 65, and the biggest item from this will tell me, so I will make a greater function, and I will say"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1503.1,
+      "end": 1515.6,
+      "text": "that if a is greater than b, then return a, otherwise return b,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1515.6,
+      "end": 1528.1,
+      "text": " so I have made a simple function, now I will make it l, I will write print reduce, and I will have to import reduce, as I have already told you, from"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1528.1,
+      "end": 1540.6,
+      "text": "func tools import reduce, and the first argument of reduce is function, so I will give greater and then l,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1540.6,
+      "end": 1551.6,
+      "text": " so it will tell me which one is greater, so it will compare these two, one will be 1, one will be 1, one will be 1, one will be 1, one will be 1, one"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1551.6,
+      "end": 1562.6,
+      "text": "will be 1, and 65 will be 65, so it will tell me the greater number by comparing these two,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1562.6,
+      "end": 1574.6,
+      "text": " so it will compare these two, and it will tell me the greater number by comparing these two, so I hope you understood, if I make this greater, then"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1574.6,
+      "end": 1586.6,
+      "text": "it will give me 5553, as you can see,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1586.6,
+      "end": 1595.93,
+      "text": " next question is, run pip freeze for the system interpreter, take the contents and create a similar virtual environment, so we have to run pip"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1595.93,
+      "end": 1605.27,
+      "text": "freeze, so I will simply come to this folder, right click and open in terminal, and I will write pip freeze requirements.txt, and here"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1605.27,
+      "end": 1614.6,
+      "text": "requirements.txt will be created,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1614.6,
+      "end": 1629.1,
+      "text": " so if I show you, then requirements.txt file is created, now I will create a new virtual environment, so I will write virtualenv, and I will name it"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1629.1,
+      "end": 1643.6,
+      "text": "harry, and after creating harryenv, I will write .harryenv, .slash harryenv, .slash harryenv, and then scripts, then activate.ps1,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1643.6,
+      "end": 1654.1,
+      "text": " so it is activated, and after activating, I will run pip install-r requirements.txt, and all my requirements will be installed one by one, so it will"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1654.1,
+      "end": 1664.6,
+      "text": "be installed like this, and finally it will succeed,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1664.6,
+      "end": 1679.1,
+      "text": " now I will explore flask module and create a web server, so I will write the commands that I have run, so it will be easy, so the first command that"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1679.1,
+      "end": 1693.6,
+      "text": "I run was, I will copy and paste it, and I think it should be useful,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1694.6,
+      "end": 1704.1,
+      "text": " so I will write it like this, and I will write two commands, so I will write it like this, and you can run it on your computer, so these are the two"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1704.1,
+      "end": 1713.6,
+      "text": "commands that you have to run, and I will comment them too, to show that this is not a python program, you have to run it on terminal,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1713.6,
+      "end": 1724.1,
+      "text": " and it is installing, and it has installed all my packages, and I have already done this, n1, n2, harryenv, I had made all these virtual"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1724.1,
+      "end": 1734.6,
+      "text": "environments, now there are a lot of files in virtual environments, if you inspect it, you will get a lot of things, python has a complete copy in it,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1735.6,
+      "end": 1745.1,
+      "text": " so now I will explore flask module, and for this I have to go to the internet, so I will write flask module, and you see here, welcome to flask, so"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1745.1,
+      "end": 1754.6,
+      "text": "first I have to do pip install flask, and flask will be installed automatically,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1754.6,
+      "end": 1763.93,
+      "text": " and here I will do 07 underscore problem 7.py, and here I will make a very basic server of flask, so I will click on a minimal application, see there"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1763.93,
+      "end": 1773.27,
+      "text": "is a minimal application in quick start, I will copy it, and after copying, I will read the instructions to run it, so see there are instructions to"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1773.27,
+      "end": 1782.6,
+      "text": "run it, flask minus minus app, hello run, you have to run it,"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1782.6,
+      "end": 1791.1,
+      "text": " and after doing this, your work will be done, now you see this app.py, I will tell you another way to run it, you can find out from the documentation"
+    },
+    {
+      "number": "19",
+      "title": "part19",
+      "start": 1791.1,
+      "end": 1799.6,
+      "text": "that you can run it here, you can run app.run, so we made an app,"
+    }
+  ],
+  "text": " 2007 is installed in one virtual machine and Microsoft Word is installed in another machine So what you can do here is the same thing in virtual environment You make a virtual environment in which all your packages are there and that means it is not from your global interpreter Means your python installation, the python we have installed, a copy of that installation will be made And in that copy we will install different versions of the package and the main python of that copy will not make any sense I hope I could explain this thing We will be able to make an isolated environment So what we have to do here is getting requirements to build wheel, it is still running And I guess it is running So I will wait for it, it will be completed or I can cancel it if I want And I will directly install virtualenv here virtualenv, so virtualenv is a package that is being installed now, you can see virtualenv has been installed Now I will write virtualenv here and I will name it env I can name my environment anything, I have kept env here, it is asking me that you have created a new environment Do you want to select it for this folder, I will say yes I want to do it, so I have done yes here So you can see here it is showing me that a new virtual environment has been created using 3.1, 2.3 And a folder will be created here, you can see a folder named env has been created In which there is lib, scripts, basically a python isolated environment has been created here Which you can use and you can put any version in it Now what I will do is I will come here where these two files are made, you can see our python file is made and an env folder is created in which our environment is I will shift right and open in terminal and you can see what I can do here I will activate this virtual environment, so if I write here pip install pandas And I hit enter, so you can see the requirement is already satisfied here, it is telling me that look Pandas are already installed in your computer, if I do equals to equals to 1.5.2 If I want to install 1.5.2 pandas, then it will download 1.5.2 and install it in my global python installation But now I want to work in 1.5.1 or any lower version So for that I will install that pandas in this environment, I will show you how we can do this So I let it finish and once it is finished, then we will activate this virtual environment So you see here that once we install the virtual environment package and after that if we make a new virtual environment Then we can activate that virtual environment, I will tell you how to activate that virtual environment What is a virtual environment? It is an environment which is same as a system interpreter but is isolated from the other python environments on the system So the python you have installed, it becomes a different copy of your python installation, so let's see if it is finished or not It is still building the wheel, so guys it really took a while, it took a little time and here you can see that it has uninstalled Pandas 2.2.2 and it is installing 1.5.2, now what I will do here, I will activate this virtual environment and to activate it I will simply type here .slashenv, I will press tab and I will press scripts and I will type activate.ps1 and I will press enter And you see here in bracket it is writing env which means that the environment is activated Now when I am running VS code, then this env will not come in the bracket but because I have already done venv here So all my packages will be installed in the virtual environment, so you have to remember this thing, env does not show VS code here Now I will come back here and I will install any pip, let's say I have installed pip here and I have written pandas here and I have hit enter So what will happen is that the latest version of pandas 2.2.2 will be installed here and here you can see 1.5.2 which is installed in my global So I am installing it here in the virtual environment and if I import pandas and I print the version of pandas, then you see how I can print it So I am waiting for it to be installed and if I write python here and I write import pandas and I write pandas.__version__, then you see 2.2.2 is showing because I am in the virtual environment Now if I write exit here and I run exit and I write exit again which will make me exit from this terminal itself, now I can write deactivate and activate the virtual environment Now if I write python here and I write import pandas, you saw that 2.2.2 was there earlier but if I write pandas.__version__, then 1.5.2 is showing which means I can install different versions of pandas in my global python and in this virtual environment I hope that makes sense, now we will come back here and we will listen about pip freeze command, now if I want to know which packages are installed in my python installation, then I will run pip freeze command Now if I write pip freeze, then it will list all the packages, as you can see my virtual environment is already active because whenever you activate the virtual environment in escode, then your env is not shown in the bracket Now if I open the terminal and I run pip freeze, then you can see the pandas version is shown here and I have installed many more packages, pandas where are you? I know you can see pandas but I can't see it, 1.5.2 or 2.2.2, this is my virtual environment and this is my global python Now if I want to write this in a file, then I can run this command pip freeze requirement.txt, it's a good practice that we take all our important packages in requirements.txt file, so as soon as I hit enter, you can see requirements.txt is created, now to recreate this virtual environment, I have to write pip install-r requirements.txt Now if I hit enter, then all these packages will be installed one by one in any virtual environment, so whenever we make a python project, then we run pip freeze command and make the requirements.txt file, the benefit of this is that all the python packages are stored in the requirements.txt file and then using that information, we can recreate that environment by writing pip install-r requirements.txt Now let's see about lambda function, lambda functions are some functions which we make using the help of lambda keyword, I want to show you that if I want to make a function called square, then I can make it in two ways, I make a function here by the name of 0 2 underscore lambda.py So I can say that square is a function which takes n and returns n into n and if I print square of 5, then the square of 5 will be printed here, but I can also make it like a variable by doing something like this, I can say that square is equal to lambda which will take x and return x into x and if I run this, then you will see that it will also give 25, so lambda function is a way to create a function using an expression, so function is in the form of an expression, like you see here square is equal to lambda x colon x star x is written, so here we can also make it by giving lambda and arguments, so I have given a comma b comma c and return a plus b plus c, so in a way this is a shortcut to make functions in a single line and to make functions in a single line, so you can make a variable which is a function, so guys the next topic is join method which is a very simple thing, I will show you how the join method works, so the join method works for strings and what you have to do is that suppose I have a string and I have a string called a is equal to Harry, and let us say I have a list, I have a string list, I have Harry and I have Rohan and let's keep one more Shubham in it, now if I want to join these three with a dash, then I will write here final is equal to I will write dash and I will write dot join and I will write a and if I print final, then what will happen that these three names will be joined by dash, now if I want these to be joined with double colon instead of dash, then I will write double colon and they will be joined with double colon in a way that means double colon will come in between them and they will be joined and make a final new string, so this was the join, now I will move on to the next topic and I will tell you about the format, see now f string has come, so this much of format is not used, but in some old source codes you will get to see the syntax of the format for which you should learn the format that how it works, so what you should do to learn the format, I will show you something like this, I will copy and show you how it works, so let's make a new program, format.py, so let's say I have a string, I have made a string like this and I will say dot format and I will say argument one, argument two, so if I assign a string to it and print this string, then what will happen that where I have given the first bracket, Harry will come and where I have given the second bracket, boy will come, so Harry is a good boy output will be like this, now if I want my boy to come here and my Harry to come here, then I can do numbering here, by default this numbering looks like this that zeroth argument means Harry will come here and the first argument will come here, but if I want my Harry to come here and my boy to come here, then I can do this and I will run it, then boy is a good Harry, its output will be like this, this was used earlier, now the format function is used very less since the f string has come, python 3.6 onwards, next topic I will move towards which is map, filter and reduce, the first function is map, what does map do, it applies a particular function to all the items in an input list, suppose I have a function, a lambda function, which is doing a square, so I will show you how map works, so first of all I make a file with the name filter reduce.py, so suppose I have a list in which there are some numbers 1,2,3,4,5 and I want to make a square list of it, so first of all I will make a function with the name square, I will say this is a lambda function which takes x and returns x into x, and after this we will do square is equal to lambda x, x into x, now here we will use the map function to get the squared list, so here you can see how you can do it, you can write map function and give input list, so if I write sqlist is equal to map and I give square and I give l and then I print my sqlist, so what will happen, I will get the squared list, so here I am getting map object at this way and if I want to get its values, then I have to convert it into a list, so if I want to print it, then I have to print it in this way, list and sqlist have to be done like this so that it can be converted into a list, so now see it has been converted into a squared list, by default if you want to iterate its elements, then you can do it with for loop, for item in and after that whatever sqlist is there, you can write it and your work will be done, I hope you understood how map is used, so here I will write map example, so we use map, if we want to run a function for all the elements, then we can run it, filter basically filters, now we will see the example of filter, filter example is very simple, we will make a function and write even and if even function is n divided by 2, then what will it do, if n is divided by 2, then we will do return true, otherwise we will do return false, and here we don't need to put else, because if it is in if, then it will be return anyways and if it is not in if, then it will be false, so it is already false, now what I want here is that I get even numbers from a list, so what I will do, I will write print list and I am making a list with the name only even, I am making a list with the name only even, I will write filter and filter takes the first argument which is function and it will be even and after that it takes the second argument list, so from my list I will get only even numbers which are 2 and 4, I hope that makes sense, now we will see reduce function example, and to give the example of reduce function, I will make a function which is sum and it will sum a and b and I will return a plus b, I could have made lambda function also but I chose this, now I will write print reduce and I will write l, now you have to import reduce function from func tool module, now what we will do here, we will import reduce from func tool import reduce and here the first argument of reduce is function, which you want to reduce and the second argument is list, so I will write sum, l, so as soon as I will write sum, l, then this sum function will run on l by 2 by 2, I will tell that it will run by 2 by 2, like it will run on 1 and 2 first, then it will run on 3 and then it will run on 4 and then it will run on 5, for example here we are talking about sum which sums a and b, so here we will run on 1 and 2, so 3 will come, then 3 and 3 will become 6, then 6 and 4 will become 10 and 10 and 5 will become 15, so the output of this program will be 15 and you see here 15 is the output of reduce, to explain this I will take you to this diagram, for example we have a list 1, 2, 3, 4, 1, 2, 3, 4 we have numbers, first sum will run on 1 and 2 and this list will reduce and it will become like this 3, 3 and 4, then it will run on 3 and 3 which will be 6 and 4, then it will run on 6 and 4 and it will become 10, if it would have been multiplied then what would have happened, 2 and 1 would have been multiplied, then it would have been multiplied by 3, then it would have been multiplied by 4, then 2 into 3 would have been 6 and 6 into 4 would have been 24, so if I multiply this, if I make a multiply function, I will say multiply is equal to lambda and I will write x, y and return x multiplied by y and if I give mul instead of sum which is multiply, then what will come here, 120 will come, why is 120 coming because it has 1, 2, 3, 4, 5, 2 into 1 is 2, 2 into 3 is 6, 4 into 5 is 120, I hope that makes sense and this wraps up chapter number 13 and I will see you in chapter number 13 practice set. So guys I have made a folder for chapter 13 practice set and I will solve the first problem here, in fact the first problem is very simple, we have to create virtual environments in this, so what I will do is simply pip install virtualenv and then we have to create two virtual environments, so to solve this problem, I will open my terminal here because there are many things in VS code that I have not been able to do, so I will open my terminal here. Because many things are managed in VS code by Python extension, so I try to do a lot of raw things and what I will do here is make a virtualenv env1, which made my env1 and I will make an env2, which made my env2, so these are the two environments that I have made, now what I will do to activate any of these two, I will write env1, press the tab, then I will write scripts, then I will write activate.ps1, which will activate my env1 and what I will do in this, I will pip install, the question is that what you have to do, you have to install some packages in the previous virtual environment, so what I did, pip install pandas and then pip install pyjoke and after this I can do pip install other things too, but I keep only two, I keep pandas and I keep pyjoke, once pandas is installed, I will pip install pyjoke, I am waiting for pandas to be installed, so here our pandas is installed, now I will pip install pyjoke and my pyjoke is also installed, now what I will do, I will write pip freeze and in this way I will generate requirements.txt file, so that my requirements.txt file will be created here, after this I will activate my other environment and for that I will have to deactivate my env1, I will hit enter, env1 is deactivated, I will have to write ps1 like this and in env2 I will have to write pip install-r requirements.txt, so that all these modules that were installed here in env1 will also come in env2, so now see all my packages are being installed in env2, pandas is being installed, pyjoke will also be installed, so our first question is done, so I will also check once by importing those packages so that you know that it is actually working, so I will write python here in apple, I will write import pandas and you see import pandas is working, which means that our pandas is installed in env2, now the second question is to write a program to import name, marks and phone number of a student and format it using format function like this, so name, marks and phone number, I have to take these three things, so I will write 02 underscore problem2.py and I will enter name is equal to input, name marks is equal to int input, I will enter marks and after this I will do phone number, so I have imported these three things and what I will do is I will print f string, but not f string, we have to use format function, so I will do s is equal to and I will copy this string, I have got a habit of f string, means things become so easy with f string, but again now we have to use format function, so we will obey the instruction of the question, so what I will do here, I will say that name of the student is, here name will come, then his marks are, whatever marks will be there, then whatever phone number will be there, it will come here and I will write dot format, I don't have to write zero here, I pressed it by mistake, dot format and I will write here name, marks and phone and after this I will print it to see if it is actually done correctly or not, run it and after running it, I will write Harry in name, I will write 100 in 100 and I will write random number in phone number, don't call it, name of the student is Harry, his marks are 100, phone number is 2242628210, it has become a number, don't call it, it is a random number, now what we will do is, we will do the next question, list contains a multiplication table of 7, write a program to convert it to a string of same numbers, so multiplication table of 7, we have to convert it to a string, so what I will do here, 03 underscore problem3 dot py, so I will write here table is equal to 7 into i, 7 into i, for i in range 1 to 11, and here it will become our table, with the help of list comprehension, table of 7 will be made and what I have to do then, I have to write a program to convert it to a string, so what I will do, I will write this and I will write backslash n and I will write dot format, because I have to make a vertical string and I will write table here, and this will be my s is equal to and I will write print s and when I print s, then you see that here, sorry not dot format, I had to join dot here, I am sorry about that, so I had to join, so I will join and you see here, as soon as I do this, it is saying that we need int found string, so what we will do here, we will make our table, we will make it a string, because your join function, what it will do, it needs a string, it needs a string list and you have to do it yourself, so if you join backslash n dot like this, then you have to convert it to a string, so I will run it, so you see a vertical table has been made here, 7, 7, 14, 21, 28, 35 and so on, now the fourth problem is that you have to filter a list of numbers which are divisible by 5, so what I will do simply, I will make a method here, and I will give it an n, and here I will simply say that if your n is percent 5, then return true, otherwise we will return false, and here I will write a is equal to 1, 2, and here I will write anything, and here 55, I have taken some numbers, now I will say that f is equal to list filter and our first function will be divisible by 5 and a, and if I print f, then only the items in f will be divisible by 5, because I have made a function that returns true when divisible by n5, and after that I ran the filter function, gave that function and gave this list, so we saw how the filter function works already, the next question is asking us to write a program that will remove the maximum number in a list, so I will make 05 underscore problem 5.py, and I will use this list, I have put some big items in it, so it looks a little right, so I will give 1, 2, and after that I will give 65, and the biggest item from this will tell me, so I will make a greater function, and I will say that if a is greater than b, then return a, otherwise return b, so I have made a simple function, now I will make it l, I will write print reduce, and I will have to import reduce, as I have already told you, from func tools import reduce, and the first argument of reduce is function, so I will give greater and then l, so it will tell me which one is greater, so it will compare these two, one will be 1, one will be 1, one will be 1, one will be 1, one will be 1, one will be 1, and 65 will be 65, so it will tell me the greater number by comparing these two, so it will compare these two, and it will tell me the greater number by comparing these two, so I hope you understood, if I make this greater, then it will give me 5553, as you can see, next question is, run pip freeze for the system interpreter, take the contents and create a similar virtual environment, so we have to run pip freeze, so I will simply come to this folder, right click and open in terminal, and I will write pip freeze requirements.txt, and here requirements.txt will be created, so if I show you, then requirements.txt file is created, now I will create a new virtual environment, so I will write virtualenv, and I will name it harry, and after creating harryenv, I will write .harryenv, .slash harryenv, .slash harryenv, and then scripts, then activate.ps1, so it is activated, and after activating, I will run pip install-r requirements.txt, and all my requirements will be installed one by one, so it will be installed like this, and finally it will succeed, now I will explore flask module and create a web server, so I will write the commands that I have run, so it will be easy, so the first command that I run was, I will copy and paste it, and I think it should be useful, so I will write it like this, and I will write two commands, so I will write it like this, and you can run it on your computer, so these are the two commands that you have to run, and I will comment them too, to show that this is not a python program, you have to run it on terminal, and it is installing, and it has installed all my packages, and I have already done this, n1, n2, harryenv, I had made all these virtual environments, now there are a lot of files in virtual environments, if you inspect it, you will get a lot of things, python has a complete copy in it, so now I will explore flask module, and for this I have to go to the internet, so I will write flask module, and you see here, welcome to flask, so first I have to do pip install flask, and flask will be installed automatically, and here I will do 07 underscore problem 7.py, and here I will make a very basic server of flask, so I will click on a minimal application, see there is a minimal application in quick start, I will copy it, and after copying, I will read the instructions to run it, so see there are instructions to run it, flask minus minus app, hello run, you have to run it, and after doing this, your work will be done, now you see this app.py, I will tell you another way to run it, you can find out from the documentation that you can run it here, you can run app.run, so we made an app,"
+}

@@ -1,0 +1,6270 @@
+{
+  "chunks": [
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 0.0,
+      "end": 2.0,
+      "text": " to cm's end"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 2.0,
+      "end": 4.0,
+      "text": " so"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 4.0,
+      "end": 6.0,
+      "text": " run it"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 6.0,
+      "end": 8.0,
+      "text": " and what is 6 inch?"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 8.0,
+      "end": 10.0,
+      "text": " so 6 inch is 15.24 cm"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 10.0,
+      "end": 12.0,
+      "text": " so what is 6 inch?"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 12.0,
+      "end": 14.0,
+      "text": " 15.24 cm"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 14.0,
+      "end": 16.0,
+      "text": " what is 7 inch?"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 16.0,
+      "end": 18.0,
+      "text": " 7 inch"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 18.0,
+      "end": 20.0,
+      "text": " 7 inch is 17.78 cm"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 20.0,
+      "end": 22.0,
+      "text": " what is 8 inch?"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 22.0,
+      "end": 24.0,
+      "text": " 8 inch is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 24.0,
+      "end": 26.0,
+      "text": " 20.32 cm"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 26.0,
+      "end": 28.0,
+      "text": " ok"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 28.0,
+      "end": 30.0,
+      "text": " i hope you understood this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 30.0,
+      "end": 32.0,
+      "text": " great"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 32.0,
+      "end": 34.0,
+      "text": " 7th question"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 34.0,
+      "end": 36.0,
+      "text": " write a python function to remove a given word from a list"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 36.0,
+      "end": 38.0,
+      "text": " and strip it at the same time"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 38.0,
+      "end": 40.0,
+      "text": " we have to remove a word"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 40.0,
+      "end": 42.0,
+      "text": " from a list"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 42.0,
+      "end": 44.0,
+      "text": " and strip it"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 44.0,
+      "end": 46.0,
+      "text": " at the same time"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 46.0,
+      "end": 48.0,
+      "text": " so basically what is the meaning of this problem"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 48.0,
+      "end": 50.0,
+      "text": " let me explain"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 50.0,
+      "end": 52.0,
+      "text": " this problem means"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 52.0,
+      "end": 54.0,
+      "text": " 07 underscore"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 54.0,
+      "end": 56.0,
+      "text": " problem 7.py"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 56.0,
+      "end": 58.0,
+      "text": " problem 7.py"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 58.0,
+      "end": 60.0,
+      "text": " problem 7.py"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 60.0,
+      "end": 62.0,
+      "text": " the meaning of this problem is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 62.0,
+      "end": 64.0,
+      "text": " if you have a list"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 64.0,
+      "end": 66.0,
+      "text": " let's say i have a list"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 66.0,
+      "end": 68.0,
+      "text": " and its name is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 68.0,
+      "end": 70.0,
+      "text": " harry and rohan"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 70.0,
+      "end": 72.0,
+      "text": " and after this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 72.0,
+      "end": 74.0,
+      "text": " shubham"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 74.0,
+      "end": 76.0,
+      "text": " and"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 76.0,
+      "end": 78.0,
+      "text": " let's say i want to remove an"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 78.0,
+      "end": 80.0,
+      "text": " and after this an"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 80.0,
+      "end": 82.0,
+      "text": " so if i give this list to that function"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 82.0,
+      "end": 84.0,
+      "text": " that means if i write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 84.0,
+      "end": 86.0,
+      "text": " def n"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 86.0,
+      "end": 88.0,
+      "text": " or remove"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 88.0,
+      "end": 90.0,
+      "text": " which takes a list"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 90.0,
+      "end": 92.0,
+      "text": " so what i will do"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 92.0,
+      "end": 94.0,
+      "text": " i will write for item in l"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 94.0,
+      "end": 96.0,
+      "text": " and i will remove"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 96.0,
+      "end": 98.0,
+      "text": " i will write l.remove"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 98.0,
+      "end": 100.0,
+      "text": " and i will"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 100.0,
+      "end": 102.0,
+      "text": " write word"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 102.0,
+      "end": 104.0,
+      "text": " so i will write word"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 104.0,
+      "end": 106.0,
+      "text": " and i will"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 106.0,
+      "end": 108.0,
+      "text": " return this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 108.0,
+      "end": 110.0,
+      "text": " so i will write l and word"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 110.0,
+      "end": 112.0,
+      "text": " so if i write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 112.0,
+      "end": 114.0,
+      "text": " print rem"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 114.0,
+      "end": 116.0,
+      "text": " and i will write l and an"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 116.0,
+      "end": 118.0,
+      "text": " so what will happen"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 118.0,
+      "end": 120.0,
+      "text": " my output will be nothing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 120.0,
+      "end": 122.0,
+      "text": " why it happened because i should not have"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 122.0,
+      "end": 124.0,
+      "text": " return l.remove"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 124.0,
+      "end": 126.0,
+      "text": " i should have return l"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 126.0,
+      "end": 128.0,
+      "text": " now it's fine"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 128.0,
+      "end": 130.0,
+      "text": " so if i run this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 130.0,
+      "end": 132.0,
+      "text": " an is removed from this but we don't have to do only this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 132.0,
+      "end": 134.0,
+      "text": " we"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 134.0,
+      "end": 136.0,
+      "text": " have to strip an also"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 136.0,
+      "end": 138.0,
+      "text": " we have to run dot strip function"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 138.0,
+      "end": 140.0,
+      "text": " and do an also from every word"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 140.0,
+      "end": 142.0,
+      "text": " so what i will do for item in l"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 142.0,
+      "end": 144.0,
+      "text": " and i will"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 144.0,
+      "end": 146.0,
+      "text": " change this item"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 146.0,
+      "end": 148.0,
+      "text": " and i will strip"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 148.0,
+      "end": 150.0,
+      "text": " an from this so for that i will"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 150.0,
+      "end": 152.0,
+      "text": " make a new list and i will"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 152.0,
+      "end": 154.0,
+      "text": " make an empty"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 154.0,
+      "end": 156.0,
+      "text": " array"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 156.0,
+      "end": 158.0,
+      "text": " and i will"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 158.0,
+      "end": 160.0,
+      "text": " for item in l"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 160.0,
+      "end": 162.0,
+      "text": " and i will not remove l.remove"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 162.0,
+      "end": 164.0,
+      "text": " i will say"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 164.0,
+      "end": 166.0,
+      "text": " if item equals to"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 166.0,
+      "end": 168.0,
+      "text": " word"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 168.0,
+      "end": 170.0,
+      "text": " if item is not"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 170.0,
+      "end": 172.0,
+      "text": " equals to word"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 172.0,
+      "end": 174.0,
+      "text": " then we will append item"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 174.0,
+      "end": 176.0,
+      "text": " append item in end"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 176.0,
+      "end": 178.0,
+      "text": " item dot"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 178.0,
+      "end": 180.0,
+      "text": " strip and"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 180.0,
+      "end": 182.0,
+      "text": " word now what will happen"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 182.0,
+      "end": 184.0,
+      "text": " an will be strip"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 184.0,
+      "end": 186.0,
+      "text": " strip function is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 186.0,
+      "end": 188.0,
+      "text": " from starting and end"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 188.0,
+      "end": 190.0,
+      "text": " it removes any word"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 190.0,
+      "end": 192.0,
+      "text": " and here i will"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 192.0,
+      "end": 194.0,
+      "text": " return"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 194.0,
+      "end": 196.0,
+      "text": " n return"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 196.0,
+      "end": 198.0,
+      "text": " so here you can see"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 198.0,
+      "end": 200.0,
+      "text": " that an is removed from rohan"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 200.0,
+      "end": 202.0,
+      "text": " and word is removed from here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 202.0,
+      "end": 204.0,
+      "text": " and this is shubham"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 204.0,
+      "end": 206.0,
+      "text": " i know this question is little vague but again i wanted to explain"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 206.0,
+      "end": 208.0,
+      "text": " you that if you want to return a new list"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 208.0,
+      "end": 210.0,
+      "text": " then how will you do"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 210.0,
+      "end": 212.0,
+      "text": " so if you didn't understand in first take"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 212.0,
+      "end": 214.0,
+      "text": " no problem"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 214.0,
+      "end": 216.0,
+      "text": " but i framed this question"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 216.0,
+      "end": 218.0,
+      "text": " to increase your understanding"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 218.0,
+      "end": 220.0,
+      "text": " and i gave you solution"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 220.0,
+      "end": 222.0,
+      "text": " i hope you enjoyed"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 222.0,
+      "end": 224.0,
+      "text": " next question says write a python function"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 224.0,
+      "end": 226.0,
+      "text": " to print multiplication table of a given number"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 226.0,
+      "end": 228.0,
+      "text": " come lets write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 228.0,
+      "end": 230.0,
+      "text": " that also so"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 230.0,
+      "end": 232.0,
+      "text": " 08 underscore problem"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 232.0,
+      "end": 234.0,
+      "text": " 8 dot py and"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 234.0,
+      "end": 236.0,
+      "text": " here what we will do"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 236.0,
+      "end": 238.0,
+      "text": " multiply"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 238.0,
+      "end": 240.0,
+      "text": " table"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 240.0,
+      "end": 242.0,
+      "text": " and we will write for"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 242.0,
+      "end": 244.0,
+      "text": " i in range 1 to"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 244.0,
+      "end": 246.0,
+      "text": " n plus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 246.0,
+      "end": 248.0,
+      "text": " and here what i will do i will print"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 248.0,
+      "end": 250.0,
+      "text": " what i will print"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 250.0,
+      "end": 252.0,
+      "text": " here by putting an after string"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 252.0,
+      "end": 254.0,
+      "text": " and here i will write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 254.0,
+      "end": 256.0,
+      "text": " multiply by i"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 256.0,
+      "end": 258.0,
+      "text": " and it will be equal to n star i"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 258.0,
+      "end": 260.0,
+      "text": " and"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 260.0,
+      "end": 262.0,
+      "text": " so multiply"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 262.0,
+      "end": 264.0,
+      "text": " 5 and it will print 5 table"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 264.0,
+      "end": 266.0,
+      "text": " and it did"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 266.0,
+      "end": 268.0,
+      "text": " i should not write n plus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 268.0,
+      "end": 270.0,
+      "text": " i should write 11 because i need 10"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 270.0,
+      "end": 272.0,
+      "text": " so 5 table came"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 272.0,
+      "end": 274.0,
+      "text": " from 5 into 1 to 5 into 10"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 274.0,
+      "end": 276.0,
+      "text": " this was the question"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 276.0,
+      "end": 278.0,
+      "text": " write a python function to print multiplication table"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 278.0,
+      "end": 280.0,
+      "text": " of a given number and yes we did it"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 280.0,
+      "end": 282.0,
+      "text": " so that's wraps our chapter 8 practice set"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 282.0,
+      "end": 284.0,
+      "text": " now i will meet you in chapter 9"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 284.0,
+      "end": 286.0,
+      "text": " which is an amazing chapter"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 286.0,
+      "end": 288.0,
+      "text": " and before that we will do"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 288.0,
+      "end": 290.0,
+      "text": " a project so be ready"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 290.0,
+      "end": 292.0,
+      "text": " for that project"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 292.0,
+      "end": 294.0,
+      "text": " so yeah that's about it"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 294.0,
+      "end": 296.0,
+      "text": " meet you in project 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 300.0,
+      "end": 302.0,
+      "text": " friends with a lot of pride"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 302.0,
+      "end": 304.0,
+      "text": " i am making this folder"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 304.0,
+      "end": 306.0,
+      "text": " which name is project 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 306.0,
+      "end": 308.0,
+      "text": " and project 1 is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 308.0,
+      "end": 310.0,
+      "text": " because in this project"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 310.0,
+      "end": 312.0,
+      "text": " you all are going to learn"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 312.0,
+      "end": 314.0,
+      "text": " how to make a game"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 314.0,
+      "end": 316.0,
+      "text": " by right click i will open this folder in bs code"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 316.0,
+      "end": 318.0,
+      "text": " and the question is very simple"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 318.0,
+      "end": 320.0,
+      "text": " infact this is not a question"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 320.0,
+      "end": 322.0,
+      "text": " this is a very amazing project"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 322.0,
+      "end": 324.0,
+      "text": " you played snake water gun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 324.0,
+      "end": 326.0,
+      "text": " snake water gun you used to play in your childhood"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 326.0,
+      "end": 328.0,
+      "text": " today we are going to make that"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 328.0,
+      "end": 330.0,
+      "text": " with the help of python programming"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 330.0,
+      "end": 332.0,
+      "text": " so we all played"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 332.0,
+      "end": 334.0,
+      "text": " snake water gun rock paper scissor"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 334.0,
+      "end": 336.0,
+      "text": " if you have not played then google it"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 336.0,
+      "end": 338.0,
+      "text": " i know no one is going to read"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 338.0,
+      "end": 340.0,
+      "text": " google like this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 340.0,
+      "end": 342.0,
+      "text": " so what we will do is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 342.0,
+      "end": 344.0,
+      "text": " we will make a file named main.py"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 344.0,
+      "end": 346.0,
+      "text": " whenever we make a project"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 346.0,
+      "end": 348.0,
+      "text": " we usually make a file named main.py"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 348.0,
+      "end": 350.0,
+      "text": " in which our main code is there"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 350.0,
+      "end": 352.0,
+      "text": " so what i will do here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 352.0,
+      "end": 354.0,
+      "text": " first of all i will say"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 354.0,
+      "end": 356.0,
+      "text": " computer ji what will be your input"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 356.0,
+      "end": 358.0,
+      "text": " suppose computer has input snake water gun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 358.0,
+      "end": 360.0,
+      "text": " so i will do one thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 360.0,
+      "end": 362.0,
+      "text": " i will write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 362.0,
+      "end": 364.0,
+      "text": " one is for snake"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 364.0,
+      "end": 366.0,
+      "text": " one is for snake"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 366.0,
+      "end": 368.0,
+      "text": " minus one is for water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 368.0,
+      "end": 370.0,
+      "text": " and zero for gun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 370.0,
+      "end": 372.0,
+      "text": " we will do like this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 372.0,
+      "end": 374.0,
+      "text": " one is for snake"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 374.0,
+      "end": 376.0,
+      "text": " minus one is for water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 376.0,
+      "end": 378.0,
+      "text": " and zero is for gun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 378.0,
+      "end": 380.0,
+      "text": " now computer will choose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 380.0,
+      "end": 382.0,
+      "text": " minus one or one or zero"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 382.0,
+      "end": 384.0,
+      "text": " suppose computer chose minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 384.0,
+      "end": 386.0,
+      "text": " then you will be asked"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 386.0,
+      "end": 388.0,
+      "text": " what did you choose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 388.0,
+      "end": 390.0,
+      "text": " so use equal to"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 390.0,
+      "end": 392.0,
+      "text": " int of input"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 392.0,
+      "end": 394.0,
+      "text": " enter your choice"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 394.0,
+      "end": 396.0,
+      "text": " so you will choose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 396.0,
+      "end": 398.0,
+      "text": " one of snake water gun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 398.0,
+      "end": 400.0,
+      "text": " infact i will do one thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 400.0,
+      "end": 402.0,
+      "text": " i will do like this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 402.0,
+      "end": 404.0,
+      "text": " and then i will"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 404.0,
+      "end": 406.0,
+      "text": " make a dictionary"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 406.0,
+      "end": 408.0,
+      "text": " i want you to"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 408.0,
+      "end": 410.0,
+      "text": " enter s g w"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 410.0,
+      "end": 412.0,
+      "text": " in snake water gun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 412.0,
+      "end": 414.0,
+      "text": " enter your choice"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 414.0,
+      "end": 416.0,
+      "text": " now what will happen"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 416.0,
+      "end": 418.0,
+      "text": " you will make a dictionary"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 418.0,
+      "end": 420.0,
+      "text": " now you will ask what is going on"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 420.0,
+      "end": 422.0,
+      "text": " if it is one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 422.0,
+      "end": 424.0,
+      "text": " then snake"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 424.0,
+      "end": 426.0,
+      "text": " and infact"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 426.0,
+      "end": 428.0,
+      "text": " lets do one thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 428.0,
+      "end": 430.0,
+      "text": " s will be key"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 430.0,
+      "end": 432.0,
+      "text": " and one value"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 432.0,
+      "end": 434.0,
+      "text": " w will be minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 434.0,
+      "end": 436.0,
+      "text": " and g will be"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 436.0,
+      "end": 438.0,
+      "text": " zero"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 438.0,
+      "end": 440.0,
+      "text": " i will explain everything"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 440.0,
+      "end": 442.0,
+      "text": " dont worry"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 442.0,
+      "end": 444.0,
+      "text": " first of all we have to convert"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 444.0,
+      "end": 446.0,
+      "text": " things in mathematical form"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 446.0,
+      "end": 448.0,
+      "text": " i said one for snake"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 448.0,
+      "end": 450.0,
+      "text": " one for water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 450.0,
+      "end": 452.0,
+      "text": " zero for gun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 452.0,
+      "end": 454.0,
+      "text": " and after this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 454.0,
+      "end": 456.0,
+      "text": " i wrote enter your choice"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 456.0,
+      "end": 458.0,
+      "text": " and asked user to enter one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 458.0,
+      "end": 460.0,
+      "text": " from s w and g"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 460.0,
+      "end": 462.0,
+      "text": " he will enter one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 462.0,
+      "end": 464.0,
+      "text": " i will do one thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 464.0,
+      "end": 466.0,
+      "text": " i will write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 466.0,
+      "end": 468.0,
+      "text": " input enter your choice"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 468.0,
+      "end": 470.0,
+      "text": " then i will write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 470.0,
+      "end": 472.0,
+      "text": " u num is equal to"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 472.0,
+      "end": 474.0,
+      "text": " u dict"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 474.0,
+      "end": 476.0,
+      "text": " now you will ask what is this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 476.0,
+      "end": 478.0,
+      "text": " first i took input"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 478.0,
+      "end": 480.0,
+      "text": " from s w and g"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 480.0,
+      "end": 482.0,
+      "text": " then i converted it"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 482.0,
+      "end": 484.0,
+      "text": " if s will be one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 484.0,
+      "end": 486.0,
+      "text": " w will be minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 486.0,
+      "end": 488.0,
+      "text": " and g will be zero"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 488.0,
+      "end": 490.0,
+      "text": " so i will say in this dictionary"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 490.0,
+      "end": 492.0,
+      "text": " put whatever user entered"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 492.0,
+      "end": 494.0,
+      "text": " and assign value in u num"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 494.0,
+      "end": 496.0,
+      "text": " its simple"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 496.0,
+      "end": 498.0,
+      "text": " s will be one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 498.0,
+      "end": 500.0,
+      "text": " water will be one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 500.0,
+      "end": 502.0,
+      "text": " g will be zero"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 502.0,
+      "end": 504.0,
+      "text": " now see"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 504.0,
+      "end": 506.0,
+      "text": " i have u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 506.0,
+      "end": 508.0,
+      "text": " and computer"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 508.0,
+      "end": 510.0,
+      "text": " i have u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 510.0,
+      "end": 512.0,
+      "text": " i will do one thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 512.0,
+      "end": 514.0,
+      "text": " i will put anything in variable"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 514.0,
+      "end": 516.0,
+      "text": " and here also u str will be"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 516.0,
+      "end": 518.0,
+      "text": " i asked u as a string user"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 518.0,
+      "end": 520.0,
+      "text": " and converted it in u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 520.0,
+      "end": 522.0,
+      "text": " now i have computer and u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 522.0,
+      "end": 524.0,
+      "text": " now i will say"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 524.0,
+      "end": 526.0,
+      "text": " if computer"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 526.0,
+      "end": 528.0,
+      "text": " entered minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 528.0,
+      "end": 530.0,
+      "text": " if computer is equal to"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 530.0,
+      "end": 532.0,
+      "text": " minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 532.0,
+      "end": 534.0,
+      "text": " and u is equal to"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 534.0,
+      "end": 536.0,
+      "text": " equal to what"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 536.0,
+      "end": 538.0,
+      "text": " u is equal to one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 538.0,
+      "end": 540.0,
+      "text": " so who won"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 540.0,
+      "end": 542.0,
+      "text": " so i will put u win"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 542.0,
+      "end": 544.0,
+      "text": " if computer said"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 544.0,
+      "end": 546.0,
+      "text": " water and you said"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 546.0,
+      "end": 548.0,
+      "text": " snake then snake will drink water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 548.0,
+      "end": 550.0,
+      "text": " u win"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 550.0,
+      "end": 552.0,
+      "text": " but if this does not happen"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 552.0,
+      "end": 554.0,
+      "text": " then what will happen"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 554.0,
+      "end": 556.0,
+      "text": " i will write elif"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 556.0,
+      "end": 558.0,
+      "text": " i will say if this does not happen"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 558.0,
+      "end": 560.0,
+      "text": " computer entered minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 560.0,
+      "end": 562.0,
+      "text": " and you entered zero"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 562.0,
+      "end": 564.0,
+      "text": " then u lose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 564.0,
+      "end": 566.0,
+      "text": " if"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 566.0,
+      "end": 568.0,
+      "text": " computer"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 568.0,
+      "end": 570.0,
+      "text": " entered one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 570.0,
+      "end": 572.0,
+      "text": " this time"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 572.0,
+      "end": 574.0,
+      "text": " if computer entered one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 574.0,
+      "end": 576.0,
+      "text": " i will copy paste it"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 576.0,
+      "end": 578.0,
+      "text": " if computer entered one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 578.0,
+      "end": 580.0,
+      "text": " and you entered minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 580.0,
+      "end": 582.0,
+      "text": " then who will win"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 582.0,
+      "end": 584.0,
+      "text": " if computer said water and you said snake"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 584.0,
+      "end": 586.0,
+      "text": " then who will win"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 586.0,
+      "end": 588.0,
+      "text": " you will win"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 588.0,
+      "end": 590.0,
+      "text": " if u is equal to minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 590.0,
+      "end": 592.0,
+      "text": " sorry"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 592.0,
+      "end": 594.0,
+      "text": " computer is snake and you are water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 594.0,
+      "end": 596.0,
+      "text": " then you will lose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 596.0,
+      "end": 598.0,
+      "text": " and if computer is one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 598.0,
+      "end": 600.0,
+      "text": " and you entered zero"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 600.0,
+      "end": 602.0,
+      "text": " then computer"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 602.0,
+      "end": 604.0,
+      "text": " entered snake and you entered gun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 604.0,
+      "end": 606.0,
+      "text": " then gun will blow the snake"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 606.0,
+      "end": 608.0,
+      "text": " so who will win"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 608.0,
+      "end": 610.0,
+      "text": " so u will win"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 610.0,
+      "end": 612.0,
+      "text": " after this we will take another possibility"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 612.0,
+      "end": 614.0,
+      "text": " in which computer said"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 614.0,
+      "end": 616.0,
+      "text": " we took the possibility of minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 616.0,
+      "end": 618.0,
+      "text": " we took the possibility of computer"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 618.0,
+      "end": 620.0,
+      "text": " we took the possibility of computer"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 620.0,
+      "end": 622.0,
+      "text": " we will take the possibility of zero"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 622.0,
+      "end": 624.0,
+      "text": " computer zero and you minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 624.0,
+      "end": 626.0,
+      "text": " who will win"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 626.0,
+      "end": 628.0,
+      "text": " computer said gun and you said snake"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 628.0,
+      "end": 630.0,
+      "text": " computer will win"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 630.0,
+      "end": 632.0,
+      "text": " so here u will lose and here u win"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 632.0,
+      "end": 634.0,
+      "text": " i hope i have enumerated it correctly"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 634.0,
+      "end": 636.0,
+      "text": " and after this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 636.0,
+      "end": 638.0,
+      "text": " i will write else"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 638.0,
+      "end": 640.0,
+      "text": " and i will write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 640.0,
+      "end": 642.0,
+      "text": " print something went wrong"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 642.0,
+      "end": 644.0,
+      "text": " so that i know"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 644.0,
+      "end": 646.0,
+      "text": " i have done something wrong"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 646.0,
+      "end": 648.0,
+      "text": " so lets play this game"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 648.0,
+      "end": 650.0,
+      "text": " it will be fun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 650.0,
+      "end": 652.0,
+      "text": " enter your choice s"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 652.0,
+      "end": 654.0,
+      "text": " u win or something went wrong"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 654.0,
+      "end": 656.0,
+      "text": " why it happened"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 656.0,
+      "end": 658.0,
+      "text": " so i have not put elif here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 658.0,
+      "end": 660.0,
+      "text": " so i have to put elif"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 660.0,
+      "end": 662.0,
+      "text": " elif elif elif"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 662.0,
+      "end": 664.0,
+      "text": " so now i will show you"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 664.0,
+      "end": 666.0,
+      "text": " so i will say"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 666.0,
+      "end": 668.0,
+      "text": " i chose water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 668.0,
+      "end": 670.0,
+      "text": " something went wrong"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 670.0,
+      "end": 672.0,
+      "text": " so we will have to see what is wrong"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 672.0,
+      "end": 674.0,
+      "text": " so here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 674.0,
+      "end": 676.0,
+      "text": " computer chose minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 676.0,
+      "end": 678.0,
+      "text": " so computer chose minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 678.0,
+      "end": 680.0,
+      "text": " and what we chose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 680.0,
+      "end": 682.0,
+      "text": " we also chose minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 682.0,
+      "end": 684.0,
+      "text": " if we and computer are not equal then it will be a draw"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 684.0,
+      "end": 686.0,
+      "text": " so we have to put first condition"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 686.0,
+      "end": 688.0,
+      "text": " if computer"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 688.0,
+      "end": 690.0,
+      "text": " is equal to equal to u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 690.0,
+      "end": 692.0,
+      "text": " it's a draw"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 696.0,
+      "end": 698.0,
+      "text": " after that i will say"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 698.0,
+      "end": 700.0,
+      "text": " else"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 700.0,
+      "end": 702.0,
+      "text": " now see"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 702.0,
+      "end": 704.0,
+      "text": " this is a very good example of nested if else"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 704.0,
+      "end": 706.0,
+      "text": " i wrote something in if"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 706.0,
+      "end": 708.0,
+      "text": " i wrote something in if"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 708.0,
+      "end": 710.0,
+      "text": " in else i wrote another if else"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 710.0,
+      "end": 712.0,
+      "text": " ok"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 712.0,
+      "end": 714.0,
+      "text": " if draw didn't happen then only we will evaluate"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 714.0,
+      "end": 716.0,
+      "text": " otherwise we will not"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 716.0,
+      "end": 718.0,
+      "text": " i hope you are enjoying"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 718.0,
+      "end": 720.0,
+      "text": " lets run this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 720.0,
+      "end": 722.0,
+      "text": " and one thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 722.0,
+      "end": 724.0,
+      "text": " before running"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 724.0,
+      "end": 726.0,
+      "text": " i want to print"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 726.0,
+      "end": 728.0,
+      "text": " what you did and what computer did"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 728.0,
+      "end": 730.0,
+      "text": " so before i say"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 730.0,
+      "end": 732.0,
+      "text": " it's a win or a lose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 732.0,
+      "end": 734.0,
+      "text": " i will print"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 734.0,
+      "end": 736.0,
+      "text": " f string and i will say"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 736.0,
+      "end": 738.0,
+      "text": " you chose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 738.0,
+      "end": 740.0,
+      "text": " and i will write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 740.0,
+      "end": 742.0,
+      "text": " what should i write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 742.0,
+      "end": 744.0,
+      "text": " i want to know"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 744.0,
+      "end": 746.0,
+      "text": " what did computer chose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 746.0,
+      "end": 748.0,
+      "text": " so i will do one thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 748.0,
+      "end": 750.0,
+      "text": " i will write computer chose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 752.0,
+      "end": 754.0,
+      "text": " and what i will do"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 754.0,
+      "end": 756.0,
+      "text": " i will make a reverse dictionary"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 756.0,
+      "end": 758.0,
+      "text": " and i will write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 758.0,
+      "end": 760.0,
+      "text": " what will be my reverse dictionary"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 760.0,
+      "end": 762.0,
+      "text": " reverse dictionary will tell"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 762.0,
+      "end": 764.0,
+      "text": " what is snake, what is water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 764.0,
+      "end": 766.0,
+      "text": " what is gun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 766.0,
+      "end": 768.0,
+      "text": " i have to write it correctly"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 768.0,
+      "end": 770.0,
+      "text": " i will do ctrl c"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 770.0,
+      "end": 772.0,
+      "text": " in reverse dictionary i will write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 772.0,
+      "end": 774.0,
+      "text": " one and i will write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 774.0,
+      "end": 776.0,
+      "text": " snake like this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 776.0,
+      "end": 778.0,
+      "text": " and after that i will write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 778.0,
+      "end": 780.0,
+      "text": " in minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 780.0,
+      "end": 782.0,
+      "text": " i will write water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 782.0,
+      "end": 784.0,
+      "text": " and in zero i will write gun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 784.0,
+      "end": 786.0,
+      "text": " like this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 786.0,
+      "end": 788.0,
+      "text": " and i will write"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 788.0,
+      "end": 790.0,
+      "text": " you chose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 790.0,
+      "end": 792.0,
+      "text": " and here dict"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 792.0,
+      "end": 794.0,
+      "text": " and after that you"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 794.0,
+      "end": 796.0,
+      "text": " and"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 796.0,
+      "end": 798.0,
+      "text": " like this and"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 798.0,
+      "end": 800.0,
+      "text": " and lets put backslash n"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 800.0,
+      "end": 802.0,
+      "text": " computer chose this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 802.0,
+      "end": 804.0,
+      "text": " so i will run this again"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 804.0,
+      "end": 806.0,
+      "text": " so enter your choice water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 806.0,
+      "end": 808.0,
+      "text": " so it's asking"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 808.0,
+      "end": 810.0,
+      "text": " you chose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 810.0,
+      "end": 812.0,
+      "text": " dict minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 812.0,
+      "end": 814.0,
+      "text": " you chose dict minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 814.0,
+      "end": 816.0,
+      "text": " why is it coming here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 816.0,
+      "end": 818.0,
+      "text": " you chose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 818.0,
+      "end": 820.0,
+      "text": " i made a variable here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 820.0,
+      "end": 822.0,
+      "text": " you dict will come here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 822.0,
+      "end": 824.0,
+      "text": " you dict will come here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 824.0,
+      "end": 826.0,
+      "text": " like this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 826.0,
+      "end": 828.0,
+      "text": " i have entered water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 828.0,
+      "end": 830.0,
+      "text": " so it's saying you dict you"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 830.0,
+      "end": 832.0,
+      "text": " key error minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 832.0,
+      "end": 834.0,
+      "text": " key error minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 834.0,
+      "end": 836.0,
+      "text": " so in you dict"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 836.0,
+      "end": 838.0,
+      "text": " in you dict"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 838.0,
+      "end": 840.0,
+      "text": " key error minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 840.0,
+      "end": 842.0,
+      "text": " so i have to do this in reverse dict"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 842.0,
+      "end": 844.0,
+      "text": " because i already"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 844.0,
+      "end": 846.0,
+      "text": " let me tell you what issue is coming here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 846.0,
+      "end": 848.0,
+      "text": " i have to do this in reverse dict"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 848.0,
+      "end": 850.0,
+      "text": " because in reverse dict"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 850.0,
+      "end": 852.0,
+      "text": " one snake minus one water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 852.0,
+      "end": 854.0,
+      "text": " so if here value of you is zero one two"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 854.0,
+      "end": 856.0,
+      "text": " zero minus one zero whatever it is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 856.0,
+      "end": 858.0,
+      "text": " one minus one zero whatever it is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 858.0,
+      "end": 860.0,
+      "text": " it will come here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 860.0,
+      "end": 862.0,
+      "text": " so now this program will run very well"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 862.0,
+      "end": 864.0,
+      "text": " and i will explain you the whole program again"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 864.0,
+      "end": 866.0,
+      "text": " you chose snake"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 866.0,
+      "end": 868.0,
+      "text": " computer chose water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 868.0,
+      "end": 870.0,
+      "text": " let's play again"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 870.0,
+      "end": 872.0,
+      "text": " i will choose water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 872.0,
+      "end": 874.0,
+      "text": " computer chose water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 874.0,
+      "end": 876.0,
+      "text": " let's play again"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 876.0,
+      "end": 878.0,
+      "text": " i chose water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 878.0,
+      "end": 880.0,
+      "text": " computer chose water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 880.0,
+      "end": 882.0,
+      "text": " let's play again"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 882.0,
+      "end": 884.0,
+      "text": " i chose water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 884.0,
+      "end": 886.0,
+      "text": " a very big problem here is that"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 886.0,
+      "end": 888.0,
+      "text": " we have already defined what computer chose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 888.0,
+      "end": 890.0,
+      "text": " do you understand"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 890.0,
+      "end": 892.0,
+      "text": " so we will generate random number"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 892.0,
+      "end": 894.0,
+      "text": " in python"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 894.0,
+      "end": 896.0,
+      "text": " to generate random number in python"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 896.0,
+      "end": 898.0,
+      "text": " and i want to show you"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 898.0,
+      "end": 900.0,
+      "text": " how i will use chat gpt"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 900.0,
+      "end": 902.0,
+      "text": " generate a random number"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 902.0,
+      "end": 904.0,
+      "text": " out of minus one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 904.0,
+      "end": 906.0,
+      "text": " zero and one"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 906.0,
+      "end": 908.0,
+      "text": " in python"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 908.0,
+      "end": 910.0,
+      "text": " and it will tell me"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 910.0,
+      "end": 912.0,
+      "text": " how to use random number"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 912.0,
+      "end": 914.0,
+      "text": " so see"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 914.0,
+      "end": 916.0,
+      "text": " we can use random dot choice method"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 916.0,
+      "end": 918.0,
+      "text": " which will help us"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 918.0,
+      "end": 920.0,
+      "text": " to choose any one number"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 920.0,
+      "end": 922.0,
+      "text": " from these three"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 922.0,
+      "end": 924.0,
+      "text": " sometimes chat gpt is very convenient"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 924.0,
+      "end": 926.0,
+      "text": " because"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 926.0,
+      "end": 928.0,
+      "text": " we don't remember functions"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 928.0,
+      "end": 930.0,
+      "text": " let me tell you what function is doing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 930.0,
+      "end": 932.0,
+      "text": " i don't remember"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 932.0,
+      "end": 934.0,
+      "text": " i remember random dot choice"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 934.0,
+      "end": 936.0,
+      "text": " i remember random dot randint"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 936.0,
+      "end": 938.0,
+      "text": " but according to me chat gpt"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 938.0,
+      "end": 940.0,
+      "text": " is very efficient"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 940.0,
+      "end": 942.0,
+      "text": " so you can do one thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 942.0,
+      "end": 944.0,
+      "text": " first do your own implementation"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 944.0,
+      "end": 946.0,
+      "text": " and then ask chat gpt"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 946.0,
+      "end": 948.0,
+      "text": " now this game is ready"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 948.0,
+      "end": 950.0,
+      "text": " i chose snake"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 950.0,
+      "end": 952.0,
+      "text": " computer chose water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 952.0,
+      "end": 954.0,
+      "text": " now i will choose gun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 954.0,
+      "end": 956.0,
+      "text": " and see it is drawn"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 956.0,
+      "end": 958.0,
+      "text": " i am not losing yet"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 958.0,
+      "end": 960.0,
+      "text": " are you watching"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 960.0,
+      "end": 962.0,
+      "text": " i am a snake water gun champion"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 962.0,
+      "end": 964.0,
+      "text": " i want you to write in comment"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 964.0,
+      "end": 966.0,
+      "text": " harry is a snake water gun champion"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 966.0,
+      "end": 968.0,
+      "text": " everyone write in comment"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 968.0,
+      "end": 970.0,
+      "text": " and put time stamp"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 970.0,
+      "end": 972.0,
+      "text": " everyone write in comment"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 972.0,
+      "end": 974.0,
+      "text": " and it is fun to make this project"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 974.0,
+      "end": 976.0,
+      "text": " now let's understand this program once again"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 976.0,
+      "end": 978.0,
+      "text": " we imported random module"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 978.0,
+      "end": 980.0,
+      "text": " so that we can"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 980.0,
+      "end": 982.0,
+      "text": " generate any random number"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 982.0,
+      "end": 984.0,
+      "text": " from 1,0,0,1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 984.0,
+      "end": 986.0,
+      "text": " we said ustr is equal to"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 986.0,
+      "end": 988.0,
+      "text": " enter your choice"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 988.0,
+      "end": 990.0,
+      "text": " means you can enter any one choice"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 990.0,
+      "end": 992.0,
+      "text": " from s,w,g"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 992.0,
+      "end": 994.0,
+      "text": " you entered it"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 994.0,
+      "end": 996.0,
+      "text": " it will convert in your u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 996.0,
+      "end": 998.0,
+      "text": " value of u will be 1,0,0,1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 998.0,
+      "end": 1000.0,
+      "text": " actually i didn't want to"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1000.0,
+      "end": 1002.0,
+      "text": " enter 1,0,0,1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1002.0,
+      "end": 1004.0,
+      "text": " i wanted program to be intuitive"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1004.0,
+      "end": 1006.0,
+      "text": " user experience should be good"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1006.0,
+      "end": 1008.0,
+      "text": " for this we have to"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1008.0,
+      "end": 1010.0,
+      "text": " choose one number"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1010.0,
+      "end": 1012.0,
+      "text": " and it will convert in number"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1012.0,
+      "end": 1014.0,
+      "text": " i have two numbers"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1014.0,
+      "end": 1016.0,
+      "text": " one is computer and other is u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1016.0,
+      "end": 1018.0,
+      "text": " so i will write here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1018.0,
+      "end": 1020.0,
+      "text": " by now we have two numbers"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1020.0,
+      "end": 1022.0,
+      "text": " which is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1022.0,
+      "end": 1024.0,
+      "text": " two numbers u and"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1024.0,
+      "end": 1026.0,
+      "text": " computer"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1026.0,
+      "end": 1028.0,
+      "text": " two numbers variables"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1028.0,
+      "end": 1030.0,
+      "text": " u and computer"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1030.0,
+      "end": 1032.0,
+      "text": " in u and computer it is minus 1,0,1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1032.0,
+      "end": 1034.0,
+      "text": " so we made reverse dictionary"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1034.0,
+      "end": 1036.0,
+      "text": " which will convert number in snake water gun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1036.0,
+      "end": 1038.0,
+      "text": " so to tell you"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1038.0,
+      "end": 1040.0,
+      "text": " what you have chosen"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1040.0,
+      "end": 1042.0,
+      "text": " we used reverse dictionary"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1042.0,
+      "end": 1044.0,
+      "text": " we will not use dictionary"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1044.0,
+      "end": 1046.0,
+      "text": " we will use reverse dictionary"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1046.0,
+      "end": 1048.0,
+      "text": " why we are using reverse dictionary"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1048.0,
+      "end": 1050.0,
+      "text": " because"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1050.0,
+      "end": 1052.0,
+      "text": " in this 1 is snake, minus 1 is water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1052.0,
+      "end": 1054.0,
+      "text": " and 0 is gun"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1054.0,
+      "end": 1056.0,
+      "text": " ok, great"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1056.0,
+      "end": 1058.0,
+      "text": " now what we did"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1058.0,
+      "end": 1060.0,
+      "text": " after that we said"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1060.0,
+      "end": 1062.0,
+      "text": " if computer and you both"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1062.0,
+      "end": 1064.0,
+      "text": " chose same thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1064.0,
+      "end": 1066.0,
+      "text": " so it's a draw"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1066.0,
+      "end": 1068.0,
+      "text": " ok, it's a draw"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1068.0,
+      "end": 1070.0,
+      "text": " otherwise"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1070.0,
+      "end": 1072.0,
+      "text": " we have to see each possibility"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1072.0,
+      "end": 1074.0,
+      "text": " if computer did minus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1074.0,
+      "end": 1076.0,
+      "text": " and you did 1, you won"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1076.0,
+      "end": 1078.0,
+      "text": " if computer did minus 1 and you did 0"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1078.0,
+      "end": 1080.0,
+      "text": " you lost, if computer did 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1080.0,
+      "end": 1082.0,
+      "text": " and you did minus 1, you lost"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1082.0,
+      "end": 1084.0,
+      "text": " now when you are winning"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1084.0,
+      "end": 1086.0,
+      "text": " see you are winning"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1086.0,
+      "end": 1088.0,
+      "text": " like this, 1,0"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1088.0,
+      "end": 1090.0,
+      "text": " 0, minus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1090.0,
+      "end": 1092.0,
+      "text": " and in 0,1 you are winning"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1092.0,
+      "end": 1094.0,
+      "text": " many people"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1094.0,
+      "end": 1096.0,
+      "text": " find a pattern in winning"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1096.0,
+      "end": 1098.0,
+      "text": " I will tell you"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1098.0,
+      "end": 1100.0,
+      "text": " in some time"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1100.0,
+      "end": 1102.0,
+      "text": " but I will end this program"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1102.0,
+      "end": 1104.0,
+      "text": " so we saw each possibility"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1104.0,
+      "end": 1106.0,
+      "text": " if, else, if, else, if"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1106.0,
+      "end": 1108.0,
+      "text": " something went wrong, it should not come"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1108.0,
+      "end": 1110.0,
+      "text": " but we still did"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1110.0,
+      "end": 1112.0,
+      "text": " just in case something happened"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1112.0,
+      "end": 1114.0,
+      "text": " so you saw here, finally it will tell us"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1114.0,
+      "end": 1116.0,
+      "text": " who won, who lost"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1116.0,
+      "end": 1118.0,
+      "text": " a simple program, first game of your life"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1118.0,
+      "end": 1120.0,
+      "text": " if you made it, then write in comment section"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1120.0,
+      "end": 1122.0,
+      "text": " congratulations, and all those people"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1122.0,
+      "end": 1124.0,
+      "text": " will get congratulations from you and me"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1124.0,
+      "end": 1126.0,
+      "text": " who made first game of their life"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1126.0,
+      "end": 1128.0,
+      "text": " so write in comment section"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1128.0,
+      "end": 1130.0,
+      "text": " congratulations, it will feel good"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1130.0,
+      "end": 1132.0,
+      "text": " now you see here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1132.0,
+      "end": 1134.0,
+      "text": " what people do"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1134.0,
+      "end": 1136.0,
+      "text": " now if I sum this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1136.0,
+      "end": 1138.0,
+      "text": " so this is 0"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1138.0,
+      "end": 1140.0,
+      "text": " in which I do one thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1140.0,
+      "end": 1142.0,
+      "text": " I take this in a new file"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1142.0,
+      "end": 1144.0,
+      "text": " and I brainstorm with you"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1144.0,
+      "end": 1146.0,
+      "text": " see this is 0"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1146.0,
+      "end": 1148.0,
+      "text": " sum this two, this is minus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1148.0,
+      "end": 1150.0,
+      "text": " sum this two, this is 0"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1150.0,
+      "end": 1152.0,
+      "text": " sum this two, this is 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1152.0,
+      "end": 1154.0,
+      "text": " sum this two, this is minus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1154.0,
+      "end": 1156.0,
+      "text": " sum this two, this is 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1156.0,
+      "end": 1158.0,
+      "text": " means I added 0 and 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1158.0,
+      "end": 1160.0,
+      "text": " now see whenever you are"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1160.0,
+      "end": 1162.0,
+      "text": " winning, whenever you are winning"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1162.0,
+      "end": 1164.0,
+      "text": " I am not understanding any pattern"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1164.0,
+      "end": 1166.0,
+      "text": " that"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1166.0,
+      "end": 1168.0,
+      "text": " I am not understanding any pattern"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1168.0,
+      "end": 1170.0,
+      "text": " that you are winning, so"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1170.0,
+      "end": 1172.0,
+      "text": " minus 1 or less than 0"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1172.0,
+      "end": 1174.0,
+      "text": " I am not seeing any pattern like this, so this pattern is failed"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1174.0,
+      "end": 1176.0,
+      "text": " now I will calculate one more pattern"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1176.0,
+      "end": 1178.0,
+      "text": " what will that be?"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1178.0,
+      "end": 1180.0,
+      "text": " that will be computer minus you"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1180.0,
+      "end": 1182.0,
+      "text": " here computer minus you will come"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1182.0,
+      "end": 1184.0,
+      "text": " minus 2, minus 1, minus 1, minus 2"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1184.0,
+      "end": 1186.0,
+      "text": " this is little advance analysis"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1186.0,
+      "end": 1188.0,
+      "text": " I will make you do it"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1188.0,
+      "end": 1190.0,
+      "text": " minus 1 minus 0 will be minus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1190.0,
+      "end": 1192.0,
+      "text": " 1 minus minus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1192.0,
+      "end": 1194.0,
+      "text": " will be 2"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1194.0,
+      "end": 1196.0,
+      "text": " 1 minus 0 will be 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1196.0,
+      "end": 1198.0,
+      "text": " 0 minus minus 1 plus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1198.0,
+      "end": 1200.0,
+      "text": " this will be minus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1200.0,
+      "end": 1202.0,
+      "text": " and now we will see if we got any pattern"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1202.0,
+      "end": 1204.0,
+      "text": " you lose is minus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1204.0,
+      "end": 1206.0,
+      "text": " you lose is 2"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1206.0,
+      "end": 1208.0,
+      "text": " you lose is minus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1208.0,
+      "end": 1210.0,
+      "text": " and whenever you are winning"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1210.0,
+      "end": 1212.0,
+      "text": " then here it is 1 or"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1212.0,
+      "end": 1214.0,
+      "text": " minus 2, you are seeing here it is 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1214.0,
+      "end": 1216.0,
+      "text": " or minus 2, in minus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1216.0,
+      "end": 1218.0,
+      "text": " you are losing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1218.0,
+      "end": 1220.0,
+      "text": " and in plus 2 also you are losing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1220.0,
+      "end": 1222.0,
+      "text": " so when are you losing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1222.0,
+      "end": 1224.0,
+      "text": " you are losing when minus 1 is coming"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1224.0,
+      "end": 1226.0,
+      "text": " and when it is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1226.0,
+      "end": 1228.0,
+      "text": " 2, in other cases"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1228.0,
+      "end": 1230.0,
+      "text": " in 1 or minus 2 you are"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1230.0,
+      "end": 1232.0,
+      "text": " winning, so you can replace it with a simple thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1232.0,
+      "end": 1234.0,
+      "text": " you can replace it with a simple thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1234.0,
+      "end": 1236.0,
+      "text": " if computer minus you"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1236.0,
+      "end": 1238.0,
+      "text": " you said that"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1238.0,
+      "end": 1240.0,
+      "text": " this metric"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1240.0,
+      "end": 1242.0,
+      "text": " if"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1242.0,
+      "end": 1244.0,
+      "text": " its value is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1244.0,
+      "end": 1246.0,
+      "text": " if its value"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1246.0,
+      "end": 1248.0,
+      "text": " is minus 2"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1248.0,
+      "end": 1250.0,
+      "text": " 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1250.0,
+      "end": 1252.0,
+      "text": " then is equal to"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1252.0,
+      "end": 1254.0,
+      "text": " minus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1254.0,
+      "end": 1256.0,
+      "text": " or its value is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1256.0,
+      "end": 1258.0,
+      "text": " 2, ok"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1258.0,
+      "end": 1260.0,
+      "text": " in 2 also you are winning, no not in 2, in minus 2 you are winning"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1260.0,
+      "end": 1262.0,
+      "text": " or its value is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1262.0,
+      "end": 1264.0,
+      "text": " minus"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1264.0,
+      "end": 1266.0,
+      "text": " wait a minute, we have taken out the lose here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1266.0,
+      "end": 1268.0,
+      "text": " so if it is minus 1 then you are losing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1268.0,
+      "end": 1270.0,
+      "text": " or it is 2 then you are losing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1270.0,
+      "end": 1272.0,
+      "text": " or it is 2"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1272.0,
+      "end": 1274.0,
+      "text": " then you are losing or you are winning"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1274.0,
+      "end": 1276.0,
+      "text": " ok, so"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1276.0,
+      "end": 1278.0,
+      "text": " you can replace so many lines with this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1278.0,
+      "end": 1280.0,
+      "text": " that if this happens"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1280.0,
+      "end": 1282.0,
+      "text": " then print"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1282.0,
+      "end": 1284.0,
+      "text": " you lose"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1284.0,
+      "end": 1286.0,
+      "text": " because you are losing on minus 1"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1286.0,
+      "end": 1288.0,
+      "text": " or what will happen, or you are winning"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1288.0,
+      "end": 1290.0,
+      "text": " or you are winning"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1290.0,
+      "end": 1292.0,
+      "text": " but this program will not be readable"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1292.0,
+      "end": 1294.0,
+      "text": " you can do this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1294.0,
+      "end": 1296.0,
+      "text": " else"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1296.0,
+      "end": 1298.0,
+      "text": " print"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1298.0,
+      "end": 1300.0,
+      "text": " you win"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1300.0,
+      "end": 1302.0,
+      "text": " so you can do this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1302.0,
+      "end": 1304.0,
+      "text": " but again"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1304.0,
+      "end": 1306.0,
+      "text": " this is only in your mind that why did you write this logic"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1306.0,
+      "end": 1308.0,
+      "text": " so if i assume that"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1308.0,
+      "end": 1310.0,
+      "text": " i comment this logic"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1310.0,
+      "end": 1312.0,
+      "text": " and write this logic, so you see here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1312.0,
+      "end": 1314.0,
+      "text": " that"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1314.0,
+      "end": 1316.0,
+      "text": " your program will work"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1316.0,
+      "end": 1318.0,
+      "text": " so if i assume that i made a snake"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1318.0,
+      "end": 1320.0,
+      "text": " computer chose water, you won"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1320.0,
+      "end": 1322.0,
+      "text": " if you chose water"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1322.0,
+      "end": 1324.0,
+      "text": " computer also chose water, it was drawn"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1324.0,
+      "end": 1326.0,
+      "text": " if you assume that"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1326.0,
+      "end": 1328.0,
+      "text": " you chose gun and computer"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1328.0,
+      "end": 1330.0,
+      "text": " chose snake, you won"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1330.0,
+      "end": 1332.0,
+      "text": " so this logic, even though we reduced the number of lines"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1332.0,
+      "end": 1334.0,
+      "text": " we made such a big code in 4 lines of code"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1334.0,
+      "end": 1336.0,
+      "text": " but"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1336.0,
+      "end": 1338.0,
+      "text": " readability is less in this, so you have to"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1338.0,
+      "end": 1340.0,
+      "text": " write comments to explain why you did this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1340.0,
+      "end": 1342.0,
+      "text": " or you have to stick"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1342.0,
+      "end": 1344.0,
+      "text": " with this, so i will not recommend this thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1344.0,
+      "end": 1346.0,
+      "text": " but i just wanted to tell you"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1346.0,
+      "end": 1348.0,
+      "text": " that why did we do this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1348.0,
+      "end": 1350.0,
+      "text": " where did this come from, i wanted to explain"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1350.0,
+      "end": 1352.0,
+      "text": " i wanted to explain to you"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1352.0,
+      "end": 1354.0,
+      "text": " so i will do one thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1354.0,
+      "end": 1356.0,
+      "text": " that i will cut this line"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1356.0,
+      "end": 1358.0,
+      "text": " and i will"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1358.0,
+      "end": 1360.0,
+      "text": " make main"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1360.0,
+      "end": 1362.0,
+      "text": " shortened.py"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1362.0,
+      "end": 1364.0,
+      "text": " let's do one thing, let's copy this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1364.0,
+      "end": 1366.0,
+      "text": " and"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1366.0,
+      "end": 1368.0,
+      "text": " let's make this readable"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1368.0,
+      "end": 1370.0,
+      "text": " yes, good"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1370.0,
+      "end": 1372.0,
+      "text": " now what we will do is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1372.0,
+      "end": 1374.0,
+      "text": " i will"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1374.0,
+      "end": 1376.0,
+      "text": " copy this and"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1376.0,
+      "end": 1378.0,
+      "text": " paste it here, just so that you have it"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1378.0,
+      "end": 1380.0,
+      "text": " and i will"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1380.0,
+      "end": 1382.0,
+      "text": " put"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1382.0,
+      "end": 1384.0,
+      "text": " a multi line comment"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1384.0,
+      "end": 1386.0,
+      "text": " just so that you have"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1386.0,
+      "end": 1388.0,
+      "text": " this logic, so here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1388.0,
+      "end": 1390.0,
+      "text": " what i did is, i took"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1390.0,
+      "end": 1392.0,
+      "text": " computer-u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1392.0,
+      "end": 1394.0,
+      "text": " here i took computer-u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1394.0,
+      "end": 1396.0,
+      "text": " computer-u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1396.0,
+      "end": 1398.0,
+      "text": " i will write here computer-u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1398.0,
+      "end": 1400.0,
+      "text": " is equal to minus 2"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1400.0,
+      "end": 1402.0,
+      "text": " here i took computer-u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1404.0,
+      "end": 1406.0,
+      "text": " here i took"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1406.0,
+      "end": 1408.0,
+      "text": " computer-u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1408.0,
+      "end": 1410.0,
+      "text": " value"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1410.0,
+      "end": 1412.0,
+      "text": " whatever value of computer-u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1412.0,
+      "end": 1414.0,
+      "text": " is coming, i wrote this logic on that"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1414.0,
+      "end": 1416.0,
+      "text": " now i will write here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1416.0,
+      "end": 1418.0,
+      "text": " the below logic is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1418.0,
+      "end": 1420.0,
+      "text": " written on the basis"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1420.0,
+      "end": 1422.0,
+      "text": " of the value of"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1422.0,
+      "end": 1424.0,
+      "text": " computer-u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1424.0,
+      "end": 1426.0,
+      "text": " so according to our convention"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1426.0,
+      "end": 1428.0,
+      "text": " value of computer-u"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1428.0,
+      "end": 1430.0,
+      "text": " whatever is coming, we have"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1430.0,
+      "end": 1432.0,
+      "text": " predicted win or lose, so let's do one thing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1432.0,
+      "end": 1434.0,
+      "text": " let's capitalize y"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1434.0,
+      "end": 1436.0,
+      "text": " ok"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1436.0,
+      "end": 1438.0,
+      "text": " and let's put an exclamation mark"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1438.0,
+      "end": 1440.0,
+      "text": " it will look good"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1440.0,
+      "end": 1442.0,
+      "text": " so yeah, that's about it, i hope you enjoyed"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1442.0,
+      "end": 1444.0,
+      "text": " and i am taking you on"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1444.0,
+      "end": 1446.0,
+      "text": " roller coaster rides, by telling"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1446.0,
+      "end": 1448.0,
+      "text": " such logics, i hope you are liking this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1448.0,
+      "end": 1450.0,
+      "text": " and if i want i can skip this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1450.0,
+      "end": 1452.0,
+      "text": " and if i talk about your happiness"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1452.0,
+      "end": 1454.0,
+      "text": " index, it will increase if i"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1454.0,
+      "end": 1456.0,
+      "text": " skip this complex topic"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1456.0,
+      "end": 1458.0,
+      "text": " but i don't want to skip"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1458.0,
+      "end": 1460.0,
+      "text": " because i want you to learn, do advance analysis"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1460.0,
+      "end": 1462.0,
+      "text": " if you have any problem"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1462.0,
+      "end": 1464.0,
+      "text": " when you will understand these things"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1464.0,
+      "end": 1466.0,
+      "text": " and when you will go on a little high level"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1466.0,
+      "end": 1468.0,
+      "text": " then only you will be able to differentiate"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1468.0,
+      "end": 1470.0,
+      "text": " a normal"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1470.0,
+      "end": 1472.0,
+      "text": " or i will say"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1472.0,
+      "end": 1474.0,
+      "text": " yet another programmer, ok"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1474.0,
+      "end": 1476.0,
+      "text": " i hope that makes sense and with that"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1476.0,
+      "end": 1478.0,
+      "text": " said our project 1 is over"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1478.0,
+      "end": 1480.0,
+      "text": " next chapter"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1480.0,
+      "end": 1482.0,
+      "text": " is an amazing chapter"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1482.0,
+      "end": 1484.0,
+      "text": " why am i saying it because"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1484.0,
+      "end": 1486.0,
+      "text": " with the help of this you can retry in file"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1486.0,
+      "end": 1488.0,
+      "text": " so i will meet you"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1488.0,
+      "end": 1490.0,
+      "text": " in chapter 9 which is file IO"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1490.0,
+      "end": 1492.0,
+      "text": " intro music"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1492.0,
+      "end": 1494.0,
+      "text": " intro music"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1494.0,
+      "end": 1496.0,
+      "text": " intro music"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1496.0,
+      "end": 1498.0,
+      "text": " so next chapter is file IO"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1498.0,
+      "end": 1500.0,
+      "text": " which means file input output"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1500.0,
+      "end": 1502.0,
+      "text": " how you can read file in python"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1502.0,
+      "end": 1504.0,
+      "text": " i will tell you this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1504.0,
+      "end": 1506.0,
+      "text": " so to understand this i want to explain to you"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1506.0,
+      "end": 1508.0,
+      "text": " first of all that what is a file"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1508.0,
+      "end": 1510.0,
+      "text": " and"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1510.0,
+      "end": 1512.0,
+      "text": " how a program works"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1512.0,
+      "end": 1514.0,
+      "text": " so whenever you run a python program"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1514.0,
+      "end": 1516.0,
+      "text": " then it loads in memory"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1516.0,
+      "end": 1518.0,
+      "text": " so what is the meaning of memory"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1518.0,
+      "end": 1520.0,
+      "text": " memory means"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1520.0,
+      "end": 1522.0,
+      "text": " RAM which we call random"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1522.0,
+      "end": 1524.0,
+      "text": " access memory"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1524.0,
+      "end": 1526.0,
+      "text": " so your program came in RAM"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1526.0,
+      "end": 1528.0,
+      "text": " it came in RAM and it started"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1528.0,
+      "end": 1530.0,
+      "text": " and after that it disappeared"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1530.0,
+      "end": 1532.0,
+      "text": " it didn't persist, now understand these terms"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1532.0,
+      "end": 1534.0,
+      "text": " volatile, non volatile"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1534.0,
+      "end": 1536.0,
+      "text": " and persist, what is the meaning"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1536.0,
+      "end": 1538.0,
+      "text": " of these three terms, i will explain"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1538.0,
+      "end": 1540.0,
+      "text": " volatile means on which"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1540.0,
+      "end": 1542.0,
+      "text": " data doesn't persist"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1542.0,
+      "end": 1544.0,
+      "text": " like you run a program"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1544.0,
+      "end": 1546.0,
+      "text": " it's output came, some computation happened"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1546.0,
+      "end": 1548.0,
+      "text": " whatever data will be of path"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1548.0,
+      "end": 1550.0,
+      "text": " which will be intermediary data"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1550.0,
+      "end": 1552.0,
+      "text": " means all that data which was made"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1552.0,
+      "end": 1554.0,
+      "text": " like variable data"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1554.0,
+      "end": 1556.0,
+      "text": " then some return value of a function"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1556.0,
+      "end": 1558.0,
+      "text": " came, we added it in char"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1558.0,
+      "end": 1560.0,
+      "text": " whatever program you are doing"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1560.0,
+      "end": 1562.0,
+      "text": " that all happened, that all"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1562.0,
+      "end": 1564.0,
+      "text": " stored in your random access memory"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1564.0,
+      "end": 1566.0,
+      "text": " the meaning of saying here is"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1566.0,
+      "end": 1568.0,
+      "text": " stored in random access memory"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1568.0,
+      "end": 1570.0,
+      "text": " it temporarily stays there"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1570.0,
+      "end": 1572.0,
+      "text": " so here what we will do"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1572.0,
+      "end": 1574.0,
+      "text": " that we will understand fileio"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1574.0,
+      "end": 1576.0,
+      "text": " so programmer wrote our program"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1576.0,
+      "end": 1578.0,
+      "text": " and"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1578.0,
+      "end": 1580.0,
+      "text": " he can rewrite it from a file"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1580.0,
+      "end": 1582.0,
+      "text": " if he wants"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1582.0,
+      "end": 1584.0,
+      "text": " that his data persists"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1584.0,
+      "end": 1586.0,
+      "text": " let me explain it once again"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1586.0,
+      "end": 1588.0,
+      "text": " if you made any program"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1588.0,
+      "end": 1590.0,
+      "text": " suppose i made a program"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1590.0,
+      "end": 1592.0,
+      "text": " which processes a particular data"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1592.0,
+      "end": 1594.0,
+      "text": " suppose i have a long string"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1594.0,
+      "end": 1596.0,
+      "text": " from that i am extracting an email"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1596.0,
+      "end": 1598.0,
+      "text": " a basic simple program"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1598.0,
+      "end": 1600.0,
+      "text": " to extract email"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1600.0,
+      "end": 1602.0,
+      "text": " suppose i have a variable"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1602.0,
+      "end": 1604.0,
+      "text": " let me quickly"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1604.0,
+      "end": 1606.0,
+      "text": " make a folder"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1606.0,
+      "end": 1608.0,
+      "text": " in the name of chapter 9"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1608.0,
+      "end": 1610.0,
+      "text": " and open it in vs code"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1610.0,
+      "end": 1612.0,
+      "text": " i will make"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1612.0,
+      "end": 1614.0,
+      "text": " 01 underscore file dot py"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1614.0,
+      "end": 1616.0,
+      "text": " and you see here"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1616.0,
+      "end": 1618.0,
+      "text": " i make a multi line comment"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1618.0,
+      "end": 1620.0,
+      "text": " suppose i have a computer program"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1620.0,
+      "end": 1622.0,
+      "text": " which is a is equal to"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1622.0,
+      "end": 1624.0,
+      "text": " a very long string"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1624.0,
+      "end": 1626.0,
+      "text": " suppose in which there are emails"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1626.0,
+      "end": 1628.0,
+      "text": " with emails"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1628.0,
+      "end": 1630.0,
+      "text": " and you wrote a program"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1630.0,
+      "end": 1632.0,
+      "text": " to extract emails"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1632.0,
+      "end": 1634.0,
+      "text": " suppose you have emails in a list"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1634.0,
+      "end": 1636.0,
+      "text": " the output of that program was"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1636.0,
+      "end": 1638.0,
+      "text": " emails which was coming in a list form"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1638.0,
+      "end": 1640.0,
+      "text": " once that program started"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1640.0,
+      "end": 1642.0,
+      "text": " suppose that program took time to run"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1642.0,
+      "end": 1644.0,
+      "text": " suppose it took 3 seconds"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1644.0,
+      "end": 1646.0,
+      "text": " it took 3 seconds to run"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1646.0,
+      "end": 1648.0,
+      "text": " now you run that program"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1648.0,
+      "end": 1650.0,
+      "text": " once so will you get"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1650.0,
+      "end": 1652.0,
+      "text": " those emails stored somewhere"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1652.0,
+      "end": 1654.0,
+      "text": " program started"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1654.0,
+      "end": 1656.0,
+      "text": " emails were generated"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1656.0,
+      "end": 1658.0,
+      "text": " program exited"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1658.0,
+      "end": 1660.0,
+      "text": " it is very important to understand"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1660.0,
+      "end": 1662.0,
+      "text": " that you generated emails"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1662.0,
+      "end": 1664.0,
+      "text": " then it is over"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1664.0,
+      "end": 1666.0,
+      "text": " but you don't want it to end"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1666.0,
+      "end": 1668.0,
+      "text": " so the data generated by your program"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1668.0,
+      "end": 1670.0,
+      "text": " if you want to store it somewhere"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1670.0,
+      "end": 1672.0,
+      "text": " then you have to use a file"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1672.0,
+      "end": 1674.0,
+      "text": " we have a file"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1674.0,
+      "end": 1676.0,
+      "text": " like text file"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1676.0,
+      "end": 1678.0,
+      "text": " we have mp4 file"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1678.0,
+      "end": 1680.0,
+      "text": " mp3 file which stores songs"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1680.0,
+      "end": 1682.0,
+      "text": " we have a song file"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1682.0,
+      "end": 1684.0,
+      "text": " we have many other formats"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1684.0,
+      "end": 1686.0,
+      "text": " all these files have data stored"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1686.0,
+      "end": 1688.0,
+      "text": " and if you want"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1688.0,
+      "end": 1690.0,
+      "text": " to store data"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1690.0,
+      "end": 1692.0,
+      "text": " means whatever your program generated"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1692.0,
+      "end": 1694.0,
+      "text": " you want to persist"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1694.0,
+      "end": 1696.0,
+      "text": " persist means you want to save"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1696.0,
+      "end": 1698.0,
+      "text": " you want to save it in your disk"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1698.0,
+      "end": 1700.0,
+      "text": " forever"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1700.0,
+      "end": 1702.0,
+      "text": " then you will use a file"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1702.0,
+      "end": 1704.0,
+      "text": " you will write in a file"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1704.0,
+      "end": 1706.0,
+      "text": " then only your data will be able to persist"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1706.0,
+      "end": 1708.0,
+      "text": " persist means"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1708.0,
+      "end": 1710.0,
+      "text": " like you have a file in your hard disk"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1710.0,
+      "end": 1712.0,
+      "text": " so that file persists in your hard disk"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1712.0,
+      "end": 1714.0,
+      "text": " you run this program"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1714.0,
+      "end": 1716.0,
+      "text": " it loaded in your ram"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1716.0,
+      "end": 1718.0,
+      "text": " it stopped"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1718.0,
+      "end": 1720.0,
+      "text": " ram is your volatile memory"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1720.0,
+      "end": 1722.0,
+      "text": " so if you want to persist data"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1722.0,
+      "end": 1724.0,
+      "text": " you will use non volatile memory"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1724.0,
+      "end": 1726.0,
+      "text": " which is HDD, SSD"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1726.0,
+      "end": 1728.0,
+      "text": " or your pendrive"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1728.0,
+      "end": 1730.0,
+      "text": " or your SD card"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1730.0,
+      "end": 1732.0,
+      "text": " there data stays forever"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1732.0,
+      "end": 1734.0,
+      "text": " but in your ram"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1734.0,
+      "end": 1736.0,
+      "text": " data is loaded temporarily"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1736.0,
+      "end": 1738.0,
+      "text": " so you don't want your data to be loaded temporarily"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1738.0,
+      "end": 1740.0,
+      "text": " you want"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1740.0,
+      "end": 1742.0,
+      "text": " in some cases you can save data"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1742.0,
+      "end": 1744.0,
+      "text": " like say there is a python program"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1744.0,
+      "end": 1746.0,
+      "text": " which is taking spam comments"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1746.0,
+      "end": 1748.0,
+      "text": " from a text"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1748.0,
+      "end": 1750.0,
+      "text": " from a text"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1750.0,
+      "end": 1752.0,
+      "text": " that because of this word it is spam"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1752.0,
+      "end": 1754.0,
+      "text": " or say I have a big list of comments"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1754.0,
+      "end": 1756.0,
+      "text": " it is taking spam comments"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1756.0,
+      "end": 1758.0,
+      "text": " so if you want to store this"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1758.0,
+      "end": 1760.0,
+      "text": " which comments are spam"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1760.0,
+      "end": 1762.0,
+      "text": " then you want to write in a file"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1762.0,
+      "end": 1764.0,
+      "text": " and for this we use fileio"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1764.0,
+      "end": 1766.0,
+      "text": " so that memory in which program is loaded temporarily"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1766.0,
+      "end": 1768.0,
+      "text": " so you will say why are we using ram"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1768.0,
+      "end": 1770.0,
+      "text": " we can use HDD"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1770.0,
+      "end": 1772.0,
+      "text": " so that data stays forever"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1772.0,
+      "end": 1774.0,
+      "text": " no, ram is very fast"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1774.0,
+      "end": 1776.0,
+      "text": " and we want ram fast"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1776.0,
+      "end": 1778.0,
+      "text": " so that our computer"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1778.0,
+      "end": 1780.0,
+      "text": " can execute program very fast"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1780.0,
+      "end": 1782.0,
+      "text": " HDD or SSD"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1782.0,
+      "end": 1784.0,
+      "text": " our memory is relatively"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1784.0,
+      "end": 1786.0,
+      "text": " in general slow"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1786.0,
+      "end": 1788.0,
+      "text": " and that slow memory"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1788.0,
+      "end": 1790.0,
+      "text": " helps our data to persist forever"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1790.0,
+      "end": 1792.0,
+      "text": " I hope that makes sense"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1792.0,
+      "end": 1794.0,
+      "text": " so random access memory is volatile"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1794.0,
+      "end": 1796.0,
+      "text": " and all its content are lost"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1796.0,
+      "end": 1798.0,
+      "text": " once a program dominates in order to persist"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1798.0,
+      "end": 1800.0,
+      "text": " the data forever"
+    },
+    {
+      "number": "12",
+      "title": "part12",
+      "start": 1800.0,
+      "end": 1802.0,
+      "text": " do we use it?"
+    }
+  ],
+  "text": " to cm's end so run it and what is 6 inch? so 6 inch is 15.24 cm so what is 6 inch? 15.24 cm what is 7 inch? 7 inch 7 inch is 17.78 cm what is 8 inch? 8 inch is 20.32 cm ok i hope you understood this great 7th question write a python function to remove a given word from a list and strip it at the same time we have to remove a word from a list and strip it at the same time so basically what is the meaning of this problem let me explain this problem means 07 underscore problem 7.py problem 7.py problem 7.py the meaning of this problem is if you have a list let's say i have a list and its name is harry and rohan and after this shubham and let's say i want to remove an and after this an so if i give this list to that function that means if i write def n or remove which takes a list so what i will do i will write for item in l and i will remove i will write l.remove and i will write word so i will write word and i will return this so i will write l and word so if i write print rem and i will write l and an so what will happen my output will be nothing why it happened because i should not have return l.remove i should have return l now it's fine so if i run this an is removed from this but we don't have to do only this we have to strip an also we have to run dot strip function and do an also from every word so what i will do for item in l and i will change this item and i will strip an from this so for that i will make a new list and i will make an empty array and i will for item in l and i will not remove l.remove i will say if item equals to word if item is not equals to word then we will append item append item in end item dot strip and word now what will happen an will be strip strip function is from starting and end it removes any word and here i will return n return so here you can see that an is removed from rohan and word is removed from here and this is shubham i know this question is little vague but again i wanted to explain you that if you want to return a new list then how will you do so if you didn't understand in first take no problem but i framed this question to increase your understanding and i gave you solution i hope you enjoyed next question says write a python function to print multiplication table of a given number come lets write that also so 08 underscore problem 8 dot py and here what we will do multiply table and we will write for i in range 1 to n plus 1 and here what i will do i will print what i will print here by putting an after string and here i will write multiply by i and it will be equal to n star i and so multiply 5 and it will print 5 table and it did i should not write n plus 1 i should write 11 because i need 10 so 5 table came from 5 into 1 to 5 into 10 this was the question write a python function to print multiplication table of a given number and yes we did it so that's wraps our chapter 8 practice set now i will meet you in chapter 9 which is an amazing chapter and before that we will do a project so be ready for that project so yeah that's about it meet you in project 1 friends with a lot of pride i am making this folder which name is project 1 and project 1 is because in this project you all are going to learn how to make a game by right click i will open this folder in bs code and the question is very simple infact this is not a question this is a very amazing project you played snake water gun snake water gun you used to play in your childhood today we are going to make that with the help of python programming so we all played snake water gun rock paper scissor if you have not played then google it i know no one is going to read google like this so what we will do is we will make a file named main.py whenever we make a project we usually make a file named main.py in which our main code is there so what i will do here first of all i will say computer ji what will be your input suppose computer has input snake water gun so i will do one thing i will write one is for snake one is for snake minus one is for water and zero for gun we will do like this one is for snake minus one is for water and zero is for gun now computer will choose minus one or one or zero suppose computer chose minus one then you will be asked what did you choose so use equal to int of input enter your choice so you will choose one of snake water gun infact i will do one thing i will do like this and then i will make a dictionary i want you to enter s g w in snake water gun enter your choice now what will happen you will make a dictionary now you will ask what is going on if it is one then snake and infact lets do one thing s will be key and one value w will be minus one and g will be zero i will explain everything dont worry first of all we have to convert things in mathematical form i said one for snake one for water zero for gun and after this i wrote enter your choice and asked user to enter one from s w and g he will enter one i will do one thing i will write input enter your choice then i will write u num is equal to u dict now you will ask what is this first i took input from s w and g then i converted it if s will be one w will be minus one and g will be zero so i will say in this dictionary put whatever user entered and assign value in u num its simple s will be one water will be one g will be zero now see i have u and computer i have u i will do one thing i will put anything in variable and here also u str will be i asked u as a string user and converted it in u now i have computer and u now i will say if computer entered minus one if computer is equal to minus one and u is equal to equal to what u is equal to one so who won so i will put u win if computer said water and you said snake then snake will drink water u win but if this does not happen then what will happen i will write elif i will say if this does not happen computer entered minus one and you entered zero then u lose if computer entered one this time if computer entered one i will copy paste it if computer entered one and you entered minus one then who will win if computer said water and you said snake then who will win you will win if u is equal to minus one sorry computer is snake and you are water then you will lose and if computer is one and you entered zero then computer entered snake and you entered gun then gun will blow the snake so who will win so u will win after this we will take another possibility in which computer said we took the possibility of minus one we took the possibility of computer we took the possibility of computer we will take the possibility of zero computer zero and you minus one who will win computer said gun and you said snake computer will win so here u will lose and here u win i hope i have enumerated it correctly and after this i will write else and i will write print something went wrong so that i know i have done something wrong so lets play this game it will be fun enter your choice s u win or something went wrong why it happened so i have not put elif here so i have to put elif elif elif elif so now i will show you so i will say i chose water something went wrong so we will have to see what is wrong so here computer chose minus one so computer chose minus one and what we chose we also chose minus one if we and computer are not equal then it will be a draw so we have to put first condition if computer is equal to equal to u it's a draw after that i will say else now see this is a very good example of nested if else i wrote something in if i wrote something in if in else i wrote another if else ok if draw didn't happen then only we will evaluate otherwise we will not i hope you are enjoying lets run this and one thing before running i want to print what you did and what computer did so before i say it's a win or a lose i will print f string and i will say you chose and i will write what should i write i want to know what did computer chose so i will do one thing i will write computer chose and what i will do i will make a reverse dictionary and i will write what will be my reverse dictionary reverse dictionary will tell what is snake, what is water what is gun i have to write it correctly i will do ctrl c in reverse dictionary i will write one and i will write snake like this and after that i will write in minus one i will write water and in zero i will write gun like this and i will write you chose and here dict and after that you and like this and and lets put backslash n computer chose this so i will run this again so enter your choice water so it's asking you chose dict minus one you chose dict minus one why is it coming here you chose i made a variable here you dict will come here you dict will come here like this i have entered water so it's saying you dict you key error minus one key error minus one so in you dict in you dict key error minus one so i have to do this in reverse dict because i already let me tell you what issue is coming here i have to do this in reverse dict because in reverse dict one snake minus one water so if here value of you is zero one two zero minus one zero whatever it is one minus one zero whatever it is it will come here so now this program will run very well and i will explain you the whole program again you chose snake computer chose water let's play again i will choose water computer chose water let's play again i chose water computer chose water let's play again i chose water a very big problem here is that we have already defined what computer chose do you understand so we will generate random number in python to generate random number in python and i want to show you how i will use chat gpt generate a random number out of minus one zero and one in python and it will tell me how to use random number so see we can use random dot choice method which will help us to choose any one number from these three sometimes chat gpt is very convenient because we don't remember functions let me tell you what function is doing i don't remember i remember random dot choice i remember random dot randint but according to me chat gpt is very efficient so you can do one thing first do your own implementation and then ask chat gpt now this game is ready i chose snake computer chose water now i will choose gun and see it is drawn i am not losing yet are you watching i am a snake water gun champion i want you to write in comment harry is a snake water gun champion everyone write in comment and put time stamp everyone write in comment and it is fun to make this project now let's understand this program once again we imported random module so that we can generate any random number from 1,0,0,1 we said ustr is equal to enter your choice means you can enter any one choice from s,w,g you entered it it will convert in your u value of u will be 1,0,0,1 actually i didn't want to enter 1,0,0,1 i wanted program to be intuitive user experience should be good for this we have to choose one number and it will convert in number i have two numbers one is computer and other is u so i will write here by now we have two numbers which is two numbers u and computer two numbers variables u and computer in u and computer it is minus 1,0,1 so we made reverse dictionary which will convert number in snake water gun so to tell you what you have chosen we used reverse dictionary we will not use dictionary we will use reverse dictionary why we are using reverse dictionary because in this 1 is snake, minus 1 is water and 0 is gun ok, great now what we did after that we said if computer and you both chose same thing so it's a draw ok, it's a draw otherwise we have to see each possibility if computer did minus 1 and you did 1, you won if computer did minus 1 and you did 0 you lost, if computer did 1 and you did minus 1, you lost now when you are winning see you are winning like this, 1,0 0, minus 1 and in 0,1 you are winning many people find a pattern in winning I will tell you in some time but I will end this program so we saw each possibility if, else, if, else, if something went wrong, it should not come but we still did just in case something happened so you saw here, finally it will tell us who won, who lost a simple program, first game of your life if you made it, then write in comment section congratulations, and all those people will get congratulations from you and me who made first game of their life so write in comment section congratulations, it will feel good now you see here what people do now if I sum this so this is 0 in which I do one thing I take this in a new file and I brainstorm with you see this is 0 sum this two, this is minus 1 sum this two, this is 0 sum this two, this is 1 sum this two, this is minus 1 sum this two, this is 1 means I added 0 and 1 now see whenever you are winning, whenever you are winning I am not understanding any pattern that I am not understanding any pattern that you are winning, so minus 1 or less than 0 I am not seeing any pattern like this, so this pattern is failed now I will calculate one more pattern what will that be? that will be computer minus you here computer minus you will come minus 2, minus 1, minus 1, minus 2 this is little advance analysis I will make you do it minus 1 minus 0 will be minus 1 1 minus minus 1 will be 2 1 minus 0 will be 1 0 minus minus 1 plus 1 this will be minus 1 and now we will see if we got any pattern you lose is minus 1 you lose is 2 you lose is minus 1 and whenever you are winning then here it is 1 or minus 2, you are seeing here it is 1 or minus 2, in minus 1 you are losing and in plus 2 also you are losing so when are you losing you are losing when minus 1 is coming and when it is 2, in other cases in 1 or minus 2 you are winning, so you can replace it with a simple thing you can replace it with a simple thing if computer minus you you said that this metric if its value is if its value is minus 2 1 then is equal to minus 1 or its value is 2, ok in 2 also you are winning, no not in 2, in minus 2 you are winning or its value is minus wait a minute, we have taken out the lose here so if it is minus 1 then you are losing or it is 2 then you are losing or it is 2 then you are losing or you are winning ok, so you can replace so many lines with this that if this happens then print you lose because you are losing on minus 1 or what will happen, or you are winning or you are winning but this program will not be readable you can do this else print you win so you can do this but again this is only in your mind that why did you write this logic so if i assume that i comment this logic and write this logic, so you see here that your program will work so if i assume that i made a snake computer chose water, you won if you chose water computer also chose water, it was drawn if you assume that you chose gun and computer chose snake, you won so this logic, even though we reduced the number of lines we made such a big code in 4 lines of code but readability is less in this, so you have to write comments to explain why you did this or you have to stick with this, so i will not recommend this thing but i just wanted to tell you that why did we do this where did this come from, i wanted to explain i wanted to explain to you so i will do one thing that i will cut this line and i will make main shortened.py let's do one thing, let's copy this and let's make this readable yes, good now what we will do is i will copy this and paste it here, just so that you have it and i will put a multi line comment just so that you have this logic, so here what i did is, i took computer-u here i took computer-u computer-u i will write here computer-u is equal to minus 2 here i took computer-u here i took computer-u value whatever value of computer-u is coming, i wrote this logic on that now i will write here the below logic is written on the basis of the value of computer-u so according to our convention value of computer-u whatever is coming, we have predicted win or lose, so let's do one thing let's capitalize y ok and let's put an exclamation mark it will look good so yeah, that's about it, i hope you enjoyed and i am taking you on roller coaster rides, by telling such logics, i hope you are liking this and if i want i can skip this and if i talk about your happiness index, it will increase if i skip this complex topic but i don't want to skip because i want you to learn, do advance analysis if you have any problem when you will understand these things and when you will go on a little high level then only you will be able to differentiate a normal or i will say yet another programmer, ok i hope that makes sense and with that said our project 1 is over next chapter is an amazing chapter why am i saying it because with the help of this you can retry in file so i will meet you in chapter 9 which is file IO intro music intro music intro music so next chapter is file IO which means file input output how you can read file in python i will tell you this so to understand this i want to explain to you first of all that what is a file and how a program works so whenever you run a python program then it loads in memory so what is the meaning of memory memory means RAM which we call random access memory so your program came in RAM it came in RAM and it started and after that it disappeared it didn't persist, now understand these terms volatile, non volatile and persist, what is the meaning of these three terms, i will explain volatile means on which data doesn't persist like you run a program it's output came, some computation happened whatever data will be of path which will be intermediary data means all that data which was made like variable data then some return value of a function came, we added it in char whatever program you are doing that all happened, that all stored in your random access memory the meaning of saying here is stored in random access memory it temporarily stays there so here what we will do that we will understand fileio so programmer wrote our program and he can rewrite it from a file if he wants that his data persists let me explain it once again if you made any program suppose i made a program which processes a particular data suppose i have a long string from that i am extracting an email a basic simple program to extract email suppose i have a variable let me quickly make a folder in the name of chapter 9 and open it in vs code i will make 01 underscore file dot py and you see here i make a multi line comment suppose i have a computer program which is a is equal to a very long string suppose in which there are emails with emails and you wrote a program to extract emails suppose you have emails in a list the output of that program was emails which was coming in a list form once that program started suppose that program took time to run suppose it took 3 seconds it took 3 seconds to run now you run that program once so will you get those emails stored somewhere program started emails were generated program exited it is very important to understand that you generated emails then it is over but you don't want it to end so the data generated by your program if you want to store it somewhere then you have to use a file we have a file like text file we have mp4 file mp3 file which stores songs we have a song file we have many other formats all these files have data stored and if you want to store data means whatever your program generated you want to persist persist means you want to save you want to save it in your disk forever then you will use a file you will write in a file then only your data will be able to persist persist means like you have a file in your hard disk so that file persists in your hard disk you run this program it loaded in your ram it stopped ram is your volatile memory so if you want to persist data you will use non volatile memory which is HDD, SSD or your pendrive or your SD card there data stays forever but in your ram data is loaded temporarily so you don't want your data to be loaded temporarily you want in some cases you can save data like say there is a python program which is taking spam comments from a text from a text that because of this word it is spam or say I have a big list of comments it is taking spam comments so if you want to store this which comments are spam then you want to write in a file and for this we use fileio so that memory in which program is loaded temporarily so you will say why are we using ram we can use HDD so that data stays forever no, ram is very fast and we want ram fast so that our computer can execute program very fast HDD or SSD our memory is relatively in general slow and that slow memory helps our data to persist forever I hope that makes sense so random access memory is volatile and all its content are lost once a program dominates in order to persist the data forever do we use it?"
+}

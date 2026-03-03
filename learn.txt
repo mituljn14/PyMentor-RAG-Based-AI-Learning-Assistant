@@ -1,0 +1,75 @@
+stream = false	WhatsApp message after full typing
+stream = true	Someone typing in front of you
+
+return r.json()["embeddings"]
+Extracts only the vector values from response.
+
+return r.json()["response"]
+Returns final text answer.
+
+
+. Load Vector Database
+df = joblib.load('embeddings.joblib')
+Loads your saved dataframe:
+title	number	start	end	text	embedding
+
+This is your knowledge base.
+
+
+User Browser
+   ↓
+Flask UI
+   ↓
+Embedding (bge-m3)
+   ↓
+Cosine Similarity
+   ↓
+Top-k Chunks
+   ↓
+Prompt Engineering
+   ↓
+LLM (llama3.2)
+   ↓
+Final Answer
+ 
+
+already used:
+
+NLP
+
+Vector DB
+
+Semantic search
+
+Prompt engineering
+
+RAG architecture
+
+Local LLM inference
+
+ow LLM works (in 10 seconds)
+Text → Tokenization → Transformer → Probability → Next word → Repeat
+
+
+It predicts the next most likely word again and again.
+
+
+'''
+Documents → Embeddings
+Question → Embedding
+Cosine similarity
+Return best matches
+'''
+textwrap 
+
+ek line me answer dene ki bajaye usko 3 se char line me deta na ki ek hi line me
+
+enumerate() 
+is used to loop over something and get both the index and the value at the same time.
+enumerate() returns index + item together while looping.
+fruits = ["apple", "banana", "mango"]
+
+for i, fruit in enumerate(fruits):       0 apple
+              print(i, fruit)
+                                         1 banana
+                                        2 mango

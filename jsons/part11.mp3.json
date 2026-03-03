@@ -1,0 +1,5570 @@
+{
+  "chunks": [
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Let's see what are they."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1.0,
+      "end": 5.5,
+      "text": " First of all, the built-in function is len, which you do not import from anywhere."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 5.5,
+      "end": 7.0,
+      "text": " Python already provides you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 7.0,
+      "end": 9.5,
+      "text": " Range function is there, we did not import it from anywhere."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 9.5,
+      "end": 10.5,
+      "text": " We got it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 10.5,
+      "end": 11.5,
+      "text": " That is a built-in function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 11.5,
+      "end": 14.0,
+      "text": " Print, we can use without importing anything."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 14.0,
+      "end": 15.5,
+      "text": " Print is also a built-in function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 15.5,
+      "end": 20.5,
+      "text": " But func1, we made this function, defined it, then we called it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 20.5,
+      "end": 23.0,
+      "text": " So this is a user-defined function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 23.0,
+      "end": 27.0,
+      "text": " So built-in functions, which are already in Python, you do not import from anywhere."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 27.0,
+      "end": 32.0,
+      "text": " User-defined functions are sometimes defined by a user."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 32.0,
+      "end": 36.0,
+      "text": " So here you see the concept of function with argument."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 36.0,
+      "end": 37.0,
+      "text": " You will also enjoy."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 37.0,
+      "end": 42.0,
+      "text": " What happens is that sometimes we want to get a particular argument for the function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 42.0,
+      "end": 43.0,
+      "text": " What does that mean?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 43.0,
+      "end": 52.0,
+      "text": " Like if I write this, function with arguments.py."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 52.0,
+      "end": 58.0,
+      "text": " So if I want to take the name of the user who is greeting, that is, if I write here,"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 58.0,
+      "end": 61.0,
+      "text": " Good day Harry, then good day Harry prints."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 61.0,
+      "end": 65.0,
+      "text": " If I write good day Rohan, then good day Rohan does."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 65.0,
+      "end": 66.0,
+      "text": " So what will I do?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 66.0,
+      "end": 71.0,
+      "text": " I will say that the good day function, you do one thing, that you also take this name."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 71.0,
+      "end": 74.0,
+      "text": " As a variable name, understand the concept very carefully."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 74.0,
+      "end": 75.0,
+      "text": " So what did I do?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 75.0,
+      "end": 76.0,
+      "text": " I wrote here name."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 76.0,
+      "end": 78.0,
+      "text": " Here I wrote Harry."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 78.0,
+      "end": 81.5,
+      "text": " So this Harry will go in the name variable and I can use the name here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 81.5,
+      "end": 84.5,
+      "text": " And maybe you will understand what I am doing here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 84.5,
+      "end": 85.5,
+      "text": " So what did I do here?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 85.5,
+      "end": 87.5,
+      "text": " I did string concatenation."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 87.5,
+      "end": 89.5,
+      "text": " I said good day and name."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 89.5,
+      "end": 94.5,
+      "text": " So these two strings will be found and these two strings will be added and good day name will be made."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 94.5,
+      "end": 96.5,
+      "text": " Let's run it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 96.5,
+      "end": 98.5,
+      "text": " So you see here good day Harry came."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 98.5,
+      "end": 100.5,
+      "text": " If I put a comma here, it will look better."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 100.5,
+      "end": 101.5,
+      "text": " Good day Harry."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 101.5,
+      "end": 102.5,
+      "text": " So I wrote good day Harry here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 102.5,
+      "end": 103.5,
+      "text": " So good day Harry came."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 103.5,
+      "end": 105.5,
+      "text": " So what is the name here?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 105.5,
+      "end": 108.5,
+      "text": " Name is a parameter."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 108.5,
+      "end": 113.5,
+      "text": " We passed Harry as name which came in a variable."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 113.5,
+      "end": 118.5,
+      "text": " If I write here good day and I write here Rohan, then good day Rohan will be printed."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 118.5,
+      "end": 123.5,
+      "text": " If I write here good day Divya, then good day Divya will be printed here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 123.5,
+      "end": 126.5,
+      "text": " You see here good day Harry, good day Rohan, good day Divya."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 126.5,
+      "end": 128.5,
+      "text": " So this is functions with arguments."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 128.5,
+      "end": 129.5,
+      "text": " This is taking an argument."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 129.5,
+      "end": 135.5,
+      "text": " Now assume that I want to take one more argument instead of day."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 135.5,
+      "end": 138.5,
+      "text": " Assume that I want to take an argument named ending."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 138.5,
+      "end": 140.5,
+      "text": " I want this to end in thank you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 140.5,
+      "end": 142.5,
+      "text": " End in thank you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 142.5,
+      "end": 144.5,
+      "text": " And I want to print this ending here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 144.5,
+      "end": 147.5,
+      "text": " So I can take one more argument by putting a comma."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 147.5,
+      "end": 149.5,
+      "text": " So here what will pass in name?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 149.5,
+      "end": 150.5,
+      "text": " Harry will pass."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 150.5,
+      "end": 152.5,
+      "text": " And what will pass in ending?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 152.5,
+      "end": 153.5,
+      "text": " Thank you will pass."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 153.5,
+      "end": 156.5,
+      "text": " So when I am writing good day Harry comma thank you, then what is happening?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 156.5,
+      "end": 158.5,
+      "text": " Harry will go to name."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 158.5,
+      "end": 161.5,
+      "text": " Thank you will go to ending."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 161.5,
+      "end": 164.5,
+      "text": " And when this function will run, then here good day will be there."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 164.5,
+      "end": 166.5,
+      "text": " What is the value in this variable?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 166.5,
+      "end": 167.5,
+      "text": " Harry value."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 167.5,
+      "end": 168.5,
+      "text": " So good day Harry."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 168.5,
+      "end": 172.5,
+      "text": " Then after this, thank you will be printed because there is thank you in ending."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 172.5,
+      "end": 173.5,
+      "text": " Now let's run this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 173.5,
+      "end": 177.5,
+      "text": " You see good day Harry thank you, good day Rohan thank you, good day Divya thank you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 177.5,
+      "end": 179.5,
+      "text": " Assume that Divya is a little stylish."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 179.5,
+      "end": 182.5,
+      "text": " She doesn't say thank you, she says thanks."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 182.5,
+      "end": 184.5,
+      "text": " So we will do thanks here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 184.5,
+      "end": 190.5,
+      "text": " If we run this, then good day Harry thank you, good day Rohan thank you, good day Divya thanks."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 190.5,
+      "end": 194.5,
+      "text": " So here she said thanks to South Delhi."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 194.5,
+      "end": 200.5,
+      "text": " So if you want that the user of South Delhi says thanks and the rest say thank you,"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 200.5,
+      "end": 202.5,
+      "text": " then you can do that basically."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 202.5,
+      "end": 204.5,
+      "text": " So this is the function with arguments."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 204.5,
+      "end": 206.5,
+      "text": " We have passed two arguments here, name and ending."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 206.5,
+      "end": 208.5,
+      "text": " Name came in name."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 208.5,
+      "end": 210.5,
+      "text": " What came in ending?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 210.5,
+      "end": 213.5,
+      "text": " Whatever you write in ending came in ending."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 213.5,
+      "end": 214.5,
+      "text": " Thank you, thank you came."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 214.5,
+      "end": 216.5,
+      "text": " Thanks, you write, thanks will come."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 216.5,
+      "end": 217.5,
+      "text": " Very good."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 217.5,
+      "end": 218.5,
+      "text": " So this was the function with arguments."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 218.5,
+      "end": 221.5,
+      "text": " A function can accept some value, it can work with."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 221.5,
+      "end": 224.5,
+      "text": " So basically we gave a value to the function with which the function can work."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 224.5,
+      "end": 226.5,
+      "text": " Like we gave name and gave ending."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 226.5,
+      "end": 231.5,
+      "text": " And after that what happens is that we put these values in parenthesis like this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 231.5,
+      "end": 235.5,
+      "text": " Like I made a function named greet here, def greet."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 235.5,
+      "end": 241.5,
+      "text": " I took name in this and when I called it, I did greet Harry."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 241.5,
+      "end": 245.5,
+      "text": " Now what happens is that there is also a return value of the function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 245.5,
+      "end": 248.5,
+      "text": " That means, now you see I was just running the function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 248.5,
+      "end": 251.5,
+      "text": " If I say here, I remove these two."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 251.5,
+      "end": 256.5,
+      "text": " If I say here a is equal to and I write good day and I print a,"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 256.5,
+      "end": 259.5,
+      "text": " then good day is not giving any value."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 259.5,
+      "end": 262.5,
+      "text": " Means if I run it here, then see none came."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 262.5,
+      "end": 264.5,
+      "text": " So what happened here?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 264.5,
+      "end": 268.5,
+      "text": " Printed good day Harry, printed thank you, then it came back."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 268.5,
+      "end": 270.5,
+      "text": " What came in a? Nothing came."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 270.5,
+      "end": 274.5,
+      "text": " If I want something to come in a, then I will return it from this function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 274.5,
+      "end": 278.5,
+      "text": " So I will say from this function that function you take a value with you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 278.5,
+      "end": 281.5,
+      "text": " And whatever variable you ask, give it to him."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 281.5,
+      "end": 283.5,
+      "text": " What will I say from the function? What does return mean?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 283.5,
+      "end": 289.5,
+      "text": " Return means function you take a value and whatever variable you ask, give it to him."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 289.5,
+      "end": 291.5,
+      "text": " In this case, who will get this value?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 291.5,
+      "end": 296.5,
+      "text": " A will get it. So let's say I am writing return here and I am writing done here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 296.5,
+      "end": 299.5,
+      "text": " So this string will be returned."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 299.5,
+      "end": 300.5,
+      "text": " This time done will come in a."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 300.5,
+      "end": 302.5,
+      "text": " You see here done will come."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 302.5,
+      "end": 306.5,
+      "text": " If you return 7 here, then 7 will come."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 306.5,
+      "end": 311.5,
+      "text": " If you return ok here, then ok will come."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 311.5,
+      "end": 315.5,
+      "text": " So whatever value you return, it will be its value."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 315.5,
+      "end": 319.5,
+      "text": " And if you give that value to any variable, then that value will come in that variable."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 319.5,
+      "end": 322.5,
+      "text": " So we saw the concept of arguments."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 322.5,
+      "end": 324.5,
+      "text": " This is name and ending arguments."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 324.5,
+      "end": 327.5,
+      "text": " We saw the concept of return value."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 327.5,
+      "end": 332.5,
+      "text": " The concept of return value is ok return value which will be assigned in a if we write some statement like this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 332.5,
+      "end": 335.5,
+      "text": " And when do we use this?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 335.5,
+      "end": 339.5,
+      "text": " We use this when we have to give a value."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 339.5,
+      "end": 344.5,
+      "text": " Like in the case of average, I am printing the average here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 344.5,
+      "end": 349.5,
+      "text": " But if I want this value to go, that is, when this function runs, the output comes, take it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 349.5,
+      "end": 351.5,
+      "text": " Means we basically run a logic."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 351.5,
+      "end": 354.5,
+      "text": " We got a value by running that logic."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 354.5,
+      "end": 358.5,
+      "text": " If I want that value to go back, then I will do this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 358.5,
+      "end": 360.5,
+      "text": " A is equal to A is equal to average."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 360.5,
+      "end": 363.5,
+      "text": " I will do that value inside A."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 363.5,
+      "end": 366.5,
+      "text": " Whatever this function is returning, in this case, this function is not returning anything."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 366.5,
+      "end": 368.5,
+      "text": " So that value will be none."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 368.5,
+      "end": 370.5,
+      "text": " But if I have done return average, then what will happen?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 370.5,
+      "end": 373.5,
+      "text": " So that value will come inside A."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 373.5,
+      "end": 377.5,
+      "text": " If I write A is equal to A, B, C, D, E, F, G, then you must try this thing."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 377.5,
+      "end": 378.5,
+      "text": " So we saw the concept of return value."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 378.5,
+      "end": 380.5,
+      "text": " We saw the concept of arguments."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 380.5,
+      "end": 383.5,
+      "text": " Now let's see the concept of default parameter value."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 383.5,
+      "end": 384.5,
+      "text": " What is this?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 384.5,
+      "end": 387.5,
+      "text": " We can have a value as default argument in a function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 387.5,
+      "end": 389.5,
+      "text": " So you see what happens, what does it mean?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 389.5,
+      "end": 391.5,
+      "text": " So I do one thing on you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 391.5,
+      "end": 396.5,
+      "text": " I make it with the name of 04-default-argument.py."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 396.5,
+      "end": 399.5,
+      "text": " I want that we are doing good day."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 399.5,
+      "end": 402.5,
+      "text": " We are doing good day."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 402.5,
+      "end": 404.5,
+      "text": " And let's take the name, let's take the ending."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 404.5,
+      "end": 407.5,
+      "text": " But the ending by default will be thank you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 407.5,
+      "end": 412.5,
+      "text": " So if someone runs good day Harry, then good day Harry thank you will run."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 412.5,
+      "end": 415.5,
+      "text": " But if someone, I will write the name here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 415.5,
+      "end": 418.5,
+      "text": " Or this time I will do it by putting f-string."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 418.5,
+      "end": 420.5,
+      "text": " Don't be confused at all."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 420.5,
+      "end": 421.5,
+      "text": " I can do it as I want."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 421.5,
+      "end": 424.5,
+      "text": " I can do it by putting plus, comma, f-string."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 424.5,
+      "end": 425.5,
+      "text": " I can do anything."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 425.5,
+      "end": 427.5,
+      "text": " This logic will basically run."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 427.5,
+      "end": 430.5,
+      "text": " With value Harry as name."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 430.5,
+      "end": 433.5,
+      "text": " So here you see I wrote def good day."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 433.5,
+      "end": 435.5,
+      "text": " Wrote the name, wrote the ending is equal to thank you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 435.5,
+      "end": 439.5,
+      "text": " I printed good day with f-string and comma name."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 439.5,
+      "end": 441.5,
+      "text": " And you see if I run it, then what is happening?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 441.5,
+      "end": 443.5,
+      "text": " Good day Harry is being printed."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 443.5,
+      "end": 446.5,
+      "text": " And after this I want to print the ending too."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 446.5,
+      "end": 448.5,
+      "text": " I want to print the ending too."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 448.5,
+      "end": 451.5,
+      "text": " So you see, as soon as I run it, good day Harry thank you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 451.5,
+      "end": 453.5,
+      "text": " Now I did not give anything in the ending."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 453.5,
+      "end": 455.5,
+      "text": " But even after that it worked."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 455.5,
+      "end": 458.5,
+      "text": " If I didn't do this, let's say I didn't do this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 458.5,
+      "end": 460.5,
+      "text": " And if I run it, then it complains."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 460.5,
+      "end": 463.5,
+      "text": " It says, brother, you have a required positional argument in good day."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 463.5,
+      "end": 464.5,
+      "text": " You are missing."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 464.5,
+      "end": 468.5,
+      "text": " But because I have written it this way, it means I am saying this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 468.5,
+      "end": 474.5,
+      "text": " If I supply you the ending value, then you take it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 474.5,
+      "end": 479.5,
+      "text": " But if I don't give it, then you keep this value by default."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 479.5,
+      "end": 480.5,
+      "text": " Which is thank you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 480.5,
+      "end": 482.5,
+      "text": " Okay."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 482.5,
+      "end": 484.5,
+      "text": " I hope you understood this thing."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 484.5,
+      "end": 486.5,
+      "text": " So here if I give thanks."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 486.5,
+      "end": 490.5,
+      "text": " Then good day Harry thanks will come."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 490.5,
+      "end": 492.5,
+      "text": " Okay, good day Harry thanks came."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 492.5,
+      "end": 494.5,
+      "text": " But if I don't give thanks."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 494.5,
+      "end": 496.5,
+      "text": " If I don't give thanks, I mean I write something like this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 496.5,
+      "end": 498.5,
+      "text": " I write good day Rohan here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 498.5,
+      "end": 501.5,
+      "text": " Then what will happen is that this default value will be used instead of thanks."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 501.5,
+      "end": 504.5,
+      "text": " Basically I am saying that if I give value, then it is fine."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 504.5,
+      "end": 506.5,
+      "text": " If I don't give, then by default you use this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 506.5,
+      "end": 508.5,
+      "text": " Understood."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 508.5,
+      "end": 510.5,
+      "text": " I hope you understood this thing."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 510.5,
+      "end": 513.5,
+      "text": " It happens that whenever you book a seat in the railway."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 513.5,
+      "end": 515.5,
+      "text": " Then you get any birth."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 515.5,
+      "end": 518.5,
+      "text": " But by default you get any birth."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 518.5,
+      "end": 520.5,
+      "text": " But if you supply that I want this birth."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 520.5,
+      "end": 523.5,
+      "text": " Then you get the same birth if possible."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 523.5,
+      "end": 526.5,
+      "text": " So here I wrote good day Harry thanks."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 526.5,
+      "end": 528.5,
+      "text": " So the value of thanks will come."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 528.5,
+      "end": 530.5,
+      "text": " But if I wrote Rohan."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 530.5,
+      "end": 532.5,
+      "text": " Then it will take thank you by default."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 532.5,
+      "end": 534.5,
+      "text": " Because the default value of ending is thank you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 534.5,
+      "end": 536.5,
+      "text": " It was a very simple concept."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 536.5,
+      "end": 539.5,
+      "text": " So this is our default parameter value."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 539.5,
+      "end": 541.5,
+      "text": " Here I have given an example of greet function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 541.5,
+      "end": 542.5,
+      "text": " Which is very similar."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 542.5,
+      "end": 544.5,
+      "text": " You can also see this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 544.5,
+      "end": 547.5,
+      "text": " Now the next concept I want to tell you is recursion."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 547.5,
+      "end": 550.5,
+      "text": " And the concept of recursion is really very important."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 550.5,
+      "end": 552.5,
+      "text": " And I will take time to explain this to you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 552.5,
+      "end": 555.5,
+      "text": " And you will enjoy it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 555.5,
+      "end": 557.5,
+      "text": " So what is recursion?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 557.5,
+      "end": 561.5,
+      "text": " Recursion is a function which calls itself."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 561.5,
+      "end": 563.5,
+      "text": " Now you will say why is it calling itself."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 563.5,
+      "end": 567.5,
+      "text": " One function calls itself."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 567.5,
+      "end": 572.5,
+      "text": " Because it has a logic connected to it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 572.5,
+      "end": 574.5,
+      "text": " What is the meaning of this?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 574.5,
+      "end": 576.5,
+      "text": " I am very much blown by hearing this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 576.5,
+      "end": 578.5,
+      "text": " I will tell you what I am saying."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 578.5,
+      "end": 581.5,
+      "text": " Now I want to take you back to factorial."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 581.5,
+      "end": 583.5,
+      "text": " See what happens."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 583.5,
+      "end": 585.5,
+      "text": " What is factorial?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 585.5,
+      "end": 587.5,
+      "text": " Suppose I write factorial 5."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 587.5,
+      "end": 589.5,
+      "text": " What is factorial 5?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 589.5,
+      "end": 590.5,
+      "text": " I told you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 590.5,
+      "end": 594.5,
+      "text": " 5 x 4 x 3 x 2 x 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 594.5,
+      "end": 596.5,
+      "text": " This is what I told you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 596.5,
+      "end": 599.5,
+      "text": " Some functions are like this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 599.5,
+      "end": 601.5,
+      "text": " Some functions are like this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 601.5,
+      "end": 603.5,
+      "text": " Whose logic is recursive."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 603.5,
+      "end": 608.5,
+      "text": " That is, their logic can be defined in their terms."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 608.5,
+      "end": 609.5,
+      "text": " I will explain."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 609.5,
+      "end": 611.5,
+      "text": " And I will believe you only after explaining."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 611.5,
+      "end": 613.5,
+      "text": " I will believe you only after explaining."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 613.5,
+      "end": 616.5,
+      "text": " If I say here what will be factorial 1?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 616.5,
+      "end": 618.5,
+      "text": " Factorial 1 will be only 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 618.5,
+      "end": 620.5,
+      "text": " This is the definition of factorial."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 620.5,
+      "end": 622.5,
+      "text": " I did not make this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 622.5,
+      "end": 624.5,
+      "text": " This is the mathematical definition of factorial."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 624.5,
+      "end": 626.5,
+      "text": " This is factorial 3."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 626.5,
+      "end": 629.5,
+      "text": " The meaning of factorial is that you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 629.5,
+      "end": 631.5,
+      "text": " I do factorial 3 here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 631.5,
+      "end": 633.5,
+      "text": " I do factorial 2 here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 633.5,
+      "end": 635.5,
+      "text": " So that you can understand it well."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 635.5,
+      "end": 636.5,
+      "text": " It will be 3."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 636.5,
+      "end": 637.5,
+      "text": " This will be factorial 4."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 637.5,
+      "end": 639.5,
+      "text": " This will be factorial 2."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 639.5,
+      "end": 641.5,
+      "text": " Factorial 2 will be 2 x 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 641.5,
+      "end": 643.5,
+      "text": " Factorial 3 will be 3 x 2 x 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 643.5,
+      "end": 646.5,
+      "text": " Factorial 4 will be 4 x 3 x 2 x 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 646.5,
+      "end": 648.5,
+      "text": " Factorial 5 will be this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 648.5,
+      "end": 651.5,
+      "text": " Do you understand this much?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 651.5,
+      "end": 653.5,
+      "text": " Does it come or not?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 653.5,
+      "end": 655.5,
+      "text": " You should know."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 655.5,
+      "end": 657.5,
+      "text": " Now see what I am going to tell you here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 657.5,
+      "end": 659.5,
+      "text": " Now I will tell you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 659.5,
+      "end": 663.5,
+      "text": " If I say factorial n."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 663.5,
+      "end": 665.5,
+      "text": " Means if any number comes here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 665.5,
+      "end": 667.5,
+      "text": " You can say that it will be n."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 667.5,
+      "end": 669.5,
+      "text": " Then n-1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 669.5,
+      "end": 671.5,
+      "text": " Then dot dot dot dot dot."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 671.5,
+      "end": 673.5,
+      "text": " This will go up to 3 x 2 x 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 673.5,
+      "end": 675.5,
+      "text": " Will it go or not?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 675.5,
+      "end": 677.5,
+      "text": " Will definitely go."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 677.5,
+      "end": 679.5,
+      "text": " Now if I say that factorial n."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 683.5,
+      "end": 689.5,
+      "text": " That is n x factorial n-1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 691.5,
+      "end": 693.5,
+      "text": " Did you understand what I said?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 693.5,
+      "end": 695.5,
+      "text": " I can write factorial n-1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 695.5,
+      "end": 697.5,
+      "text": " What is factorial n?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 697.5,
+      "end": 699.5,
+      "text": " Go from that number to 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 699.5,
+      "end": 701.5,
+      "text": " I can write it as factorial n-1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 701.5,
+      "end": 703.5,
+      "text": " To get any number's factorial."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 703.5,
+      "end": 705.5,
+      "text": " I can say that."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 705.5,
+      "end": 707.5,
+      "text": " That number should be multiplied by its number."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 707.5,
+      "end": 709.5,
+      "text": " I can say that."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 709.5,
+      "end": 711.5,
+      "text": " I can say that."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 711.5,
+      "end": 713.5,
+      "text": " This is a very good example."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 713.5,
+      "end": 715.5,
+      "text": " To explain recursion."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 715.5,
+      "end": 717.5,
+      "text": " Very few people understand recursion."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 717.5,
+      "end": 719.5,
+      "text": " Sometimes some teachers skip this topic."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 719.5,
+      "end": 721.5,
+      "text": " I am not one of those."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 721.5,
+      "end": 723.5,
+      "text": " So we saw factorial from 1 to n."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 723.5,
+      "end": 725.5,
+      "text": " And we understood this formula."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 725.5,
+      "end": 727.5,
+      "text": " Why does this happen?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 727.5,
+      "end": 729.5,
+      "text": " Now once we have this formula."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 729.5,
+      "end": 731.5,
+      "text": " We will use this formula."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 731.5,
+      "end": 733.5,
+      "text": " To get any number's factorial."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 733.5,
+      "end": 735.5,
+      "text": " Suppose I have to make a function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 735.5,
+      "end": 737.5,
+      "text": " Which gets n's factorial."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 737.5,
+      "end": 739.5,
+      "text": " I wrote here def."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 739.5,
+      "end": 741.5,
+      "text": " Wrote the name of the function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 741.5,
+      "end": 743.5,
+      "text": " Wrote n which will accept this parameter."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 743.5,
+      "end": 745.5,
+      "text": " I entered this function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 745.5,
+      "end": 747.5,
+      "text": " Indent automatically gave me the VS code."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 747.5,
+      "end": 749.5,
+      "text": " What will I do?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 749.5,
+      "end": 751.5,
+      "text": " I will say return"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 751.5,
+      "end": 753.5,
+      "text": " factorial of n-1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 755.5,
+      "end": 757.5,
+      "text": " n into factorial n-1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 759.5,
+      "end": 761.5,
+      "text": " Very good."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 761.5,
+      "end": 763.5,
+      "text": " But."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 763.5,
+      "end": 765.5,
+      "text": " Before that."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 765.5,
+      "end": 767.5,
+      "text": " If n's value is 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 767.5,
+      "end": 769.5,
+      "text": " Or n's value is 0."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 769.5,
+      "end": 771.5,
+      "text": " Then return 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 771.5,
+      "end": 773.5,
+      "text": " This is the rule."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 773.5,
+      "end": 775.5,
+      "text": " Factorial 1 is also 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 775.5,
+      "end": 777.5,
+      "text": " And one more thing."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 777.5,
+      "end": 779.5,
+      "text": " You need to know."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 779.5,
+      "end": 781.5,
+      "text": " Factorial 0 is also 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 781.5,
+      "end": 783.5,
+      "text": " Factorial 0 is by definition 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 783.5,
+      "end": 785.5,
+      "text": " Factorial 0 is also 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 785.5,
+      "end": 787.5,
+      "text": " And factorial 1 is also 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 787.5,
+      "end": 789.5,
+      "text": " If someone gave 1 or 0."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 789.5,
+      "end": 791.5,
+      "text": " Then value will be 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 791.5,
+      "end": 793.5,
+      "text": " Otherwise."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 793.5,
+      "end": 795.5,
+      "text": " This formula will break."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 795.5,
+      "end": 797.5,
+      "text": " And it will call itself."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 797.5,
+      "end": 799.5,
+      "text": " And will resolve the values."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 799.5,
+      "end": 801.5,
+      "text": " Let's try this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 801.5,
+      "end": 803.5,
+      "text": " I will do one thing."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 803.5,
+      "end": 805.5,
+      "text": " I will do n is equal to int input."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 807.5,
+      "end": 809.5,
+      "text": " Enter a number."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 809.5,
+      "end": 811.5,
+      "text": " And then."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 811.5,
+      "end": 813.5,
+      "text": " I will print an f-string."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 813.5,
+      "end": 815.5,
+      "text": " And I will write."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 815.5,
+      "end": 817.5,
+      "text": " The factorial of this number is."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 819.5,
+      "end": 821.5,
+      "text": " What is the factorial of this number?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 821.5,
+      "end": 823.5,
+      "text": " I will write f-string."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 823.5,
+      "end": 825.5,
+      "text": " And I will say."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 825.5,
+      "end": 827.5,
+      "text": " Factorial of n."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 827.5,
+      "end": 829.5,
+      "text": " I called this function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 829.5,
+      "end": 831.5,
+      "text": " Let's see if it works."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 831.5,
+      "end": 833.5,
+      "text": " Enter a number 6."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 833.5,
+      "end": 835.5,
+      "text": " The factorial of this number is 720."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 835.5,
+      "end": 837.5,
+      "text": " What is the factorial of 1?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 837.5,
+      "end": 839.5,
+      "text": " It is correct."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 839.5,
+      "end": 841.5,
+      "text": " Let's see."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 841.5,
+      "end": 843.5,
+      "text": " What is the factorial of 2?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 843.5,
+      "end": 845.5,
+      "text": " I entered the up arrow."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 845.5,
+      "end": 847.5,
+      "text": " What is the factorial of 3?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 847.5,
+      "end": 849.5,
+      "text": " It is 6."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 849.5,
+      "end": 851.5,
+      "text": " What is the factorial of 4?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 851.5,
+      "end": 853.5,
+      "text": " It is 24."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 853.5,
+      "end": 855.5,
+      "text": " All these values are correct."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 855.5,
+      "end": 857.5,
+      "text": " We have used this formula."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 857.5,
+      "end": 859.5,
+      "text": " We have used this formula directly."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 859.5,
+      "end": 861.5,
+      "text": " And we have used recursion."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 861.5,
+      "end": 863.5,
+      "text": " Now some of you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 863.5,
+      "end": 865.5,
+      "text": " You may think that I would have used for loop."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 865.5,
+      "end": 867.5,
+      "text": " No."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 867.5,
+      "end": 869.5,
+      "text": " We have used this property."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 869.5,
+      "end": 871.5,
+      "text": " This function can be written in terms of this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 871.5,
+      "end": 873.5,
+      "text": " Because this function can be written in terms of this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 873.5,
+      "end": 875.5,
+      "text": " We will use this property."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 875.5,
+      "end": 877.5,
+      "text": " We will use recursion."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 877.5,
+      "end": 879.5,
+      "text": " Why will we use recursion?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 879.5,
+      "end": 881.5,
+      "text": " The code which we write in many lines of code."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 881.5,
+      "end": 883.5,
+      "text": " We have written the same code in 4 lines of code."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 883.5,
+      "end": 885.5,
+      "text": " We have written the same code in 4 lines of code."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 885.5,
+      "end": 887.5,
+      "text": " We have said that we are using this formula."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 887.5,
+      "end": 889.5,
+      "text": " And resolve things."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 889.5,
+      "end": 891.5,
+      "text": " So you see this diagram."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 891.5,
+      "end": 893.5,
+      "text": " This is the diagram of 5."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 893.5,
+      "end": 895.5,
+      "text": " When you write factorial 5."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 895.5,
+      "end": 897.5,
+      "text": " Then 5 multiplied by factorial 4."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 897.5,
+      "end": 899.5,
+      "text": " It will convert."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 899.5,
+      "end": 901.5,
+      "text": " 5 multiplied by factorial 4."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 901.5,
+      "end": 903.5,
+      "text": " So you have written factorial 5."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 903.5,
+      "end": 905.5,
+      "text": " So 5 will come here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 905.5,
+      "end": 907.5,
+      "text": " If n value is 1 or n value is 0."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 907.5,
+      "end": 909.5,
+      "text": " Then return 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 909.5,
+      "end": 911.5,
+      "text": " n value is neither 1 nor 0."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 911.5,
+      "end": 913.5,
+      "text": " What is n value? It is 5."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 913.5,
+      "end": 915.5,
+      "text": " So 5 into factorial 4 will be returned."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 915.5,
+      "end": 917.5,
+      "text": " So what will happen?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 917.5,
+      "end": 919.5,
+      "text": " 5 into factorial 4."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 919.5,
+      "end": 921.5,
+      "text": " Then 5 into factorial 3."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 921.5,
+      "end": 923.5,
+      "text": " So 5 will come here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 923.5,
+      "end": 925.5,
+      "text": " It will resolve factorial 4."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 925.5,
+      "end": 927.5,
+      "text": " It will resolve factorial 4."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 927.5,
+      "end": 929.5,
+      "text": " This has come to us."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 929.5,
+      "end": 931.5,
+      "text": " What will it do after this?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 931.5,
+      "end": 933.5,
+      "text": " It will resolve factorial 3."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 933.5,
+      "end": 935.5,
+      "text": " 5 into 4 into 3 into factorial 2."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 935.5,
+      "end": 937.5,
+      "text": " Then it will resolve factorial 2."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 937.5,
+      "end": 939.5,
+      "text": " 5 into 4 into 3 into 2 into factorial 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 939.5,
+      "end": 941.5,
+      "text": " We have got."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 941.5,
+      "end": 943.5,
+      "text": " Its value is 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 943.5,
+      "end": 945.5,
+      "text": " If n value is 1, then return 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 945.5,
+      "end": 947.5,
+      "text": " And finally this calculation will be done."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 947.5,
+      "end": 949.5,
+      "text": " We will get this particular calculation."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 951.5,
+      "end": 953.5,
+      "text": " And finally we will get the result."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 953.5,
+      "end": 955.5,
+      "text": " Now here the programmer needs to be"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 955.5,
+      "end": 957.5,
+      "text": " Extremely careful while working with recursion."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 957.5,
+      "end": 959.5,
+      "text": " To ensure that the function doesn't infinitely"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 959.5,
+      "end": 961.5,
+      "text": " Keep calling itself."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 961.5,
+      "end": 963.5,
+      "text": " Because if the programmer made a mistake,"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 963.5,
+      "end": 965.5,
+      "text": " Then it is possible that the recursion will never end."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 965.5,
+      "end": 967.5,
+      "text": " So it was very important to put the base condition."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 967.5,
+      "end": 969.5,
+      "text": " So that finally this recursion is resolved."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 969.5,
+      "end": 971.5,
+      "text": " So here recursion makes things very easy."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 971.5,
+      "end": 973.5,
+      "text": " If you remember the mathematical formula."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 973.5,
+      "end": 975.5,
+      "text": " But what happens sometimes?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 975.5,
+      "end": 977.5,
+      "text": " If you made a mistake, then this recursion"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 977.5,
+      "end": 979.5,
+      "text": " Keeps calling itself."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 979.5,
+      "end": 981.5,
+      "text": " And the stack goes ahead."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 981.5,
+      "end": 983.5,
+      "text": " This is basically called a stack."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 983.5,
+      "end": 985.5,
+      "text": " This function keeps running."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 985.5,
+      "end": 987.5,
+      "text": " On loop."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 987.5,
+      "end": 989.5,
+      "text": " And finally what happens?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 989.5,
+      "end": 991.5,
+      "text": " Your program crashes."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 991.5,
+      "end": 993.5,
+      "text": " So recursion makes things easy."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 993.5,
+      "end": 995.5,
+      "text": " If you know the formula."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 995.5,
+      "end": 997.5,
+      "text": " But sometimes what happens?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 997.5,
+      "end": 999.5,
+      "text": " It makes a problem."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 999.5,
+      "end": 1001.5,
+      "text": " Now why did we use recursion in factorial?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1001.5,
+      "end": 1003.5,
+      "text": " Because sometimes this is a very direct way"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1003.5,
+      "end": 1005.5,
+      "text": " Like in this case we saw."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1005.5,
+      "end": 1007.5,
+      "text": " So we use recursion because"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1007.5,
+      "end": 1009.5,
+      "text": " Sometimes it is the most direct way"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1009.5,
+      "end": 1011.5,
+      "text": " To code an algorithm."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1011.5,
+      "end": 1013.5,
+      "text": " To code an algorithm."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1013.5,
+      "end": 1015.5,
+      "text": " It is the most direct way."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1015.5,
+      "end": 1017.5,
+      "text": " I hope you understood the function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1017.5,
+      "end": 1019.5,
+      "text": " I hope you understood recursion."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1019.5,
+      "end": 1021.5,
+      "text": " I will explain you function and recursion"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1021.5,
+      "end": 1023.5,
+      "text": " In this chapter's practice set."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1023.5,
+      "end": 1025.5,
+      "text": " So in this chapter's practice set."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1025.5,
+      "end": 1027.5,
+      "text": " You will get more clarity."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1027.5,
+      "end": 1029.5,
+      "text": " So I will meet you in chapter 8 practice set."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1029.5,
+      "end": 1031.5,
+      "text": " Where I will give you more clarity."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1031.5,
+      "end": 1033.5,
+      "text": " About functions and recursion."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1033.5,
+      "end": 1035.5,
+      "text": " Let's move on to chapter 8 practice set now."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1041.5,
+      "end": 1043.5,
+      "text": " So guys now we will do the practice set."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1043.5,
+      "end": 1045.5,
+      "text": " First of all I will close this file."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1045.5,
+      "end": 1047.5,
+      "text": " And here I will make a new folder."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1047.5,
+      "end": 1049.5,
+      "text": " I am going to name it chapter 8 practice set."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1049.5,
+      "end": 1051.5,
+      "text": " Chapter 8."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1051.5,
+      "end": 1053.5,
+      "text": " And here practice set."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1053.5,
+      "end": 1055.5,
+      "text": " So I will write chapter 8."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1055.5,
+      "end": 1057.5,
+      "text": " Ps here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1057.5,
+      "end": 1059.5,
+      "text": " And after this I will take shift right."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1059.5,
+      "end": 1061.5,
+      "text": " And I will open with code."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1061.5,
+      "end": 1063.5,
+      "text": " And here you guys see."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1063.5,
+      "end": 1065.5,
+      "text": " The first file I will make."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1065.5,
+      "end": 1067.5,
+      "text": " Problem1.py"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1067.5,
+      "end": 1069.5,
+      "text": " And our first question is."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1069.5,
+      "end": 1071.5,
+      "text": " Write a program using functions."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1071.5,
+      "end": 1073.5,
+      "text": " To find greatest of three numbers."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1073.5,
+      "end": 1075.5,
+      "text": " This time we have to use functions."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1075.5,
+      "end": 1077.5,
+      "text": " How will the function be used."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1077.5,
+      "end": 1079.5,
+      "text": " Three numbers."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1079.5,
+      "end": 1081.5,
+      "text": " Which is the greatest of the three."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1081.5,
+      "end": 1083.5,
+      "text": " To find that."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1083.5,
+      "end": 1085.5,
+      "text": " So what I will do here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1085.5,
+      "end": 1087.5,
+      "text": " I will make a function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1087.5,
+      "end": 1089.5,
+      "text": " With the name of greatest."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1089.5,
+      "end": 1091.5,
+      "text": " And what it will do."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1091.5,
+      "end": 1093.5,
+      "text": " It will take three numbers."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1093.5,
+      "end": 1095.5,
+      "text": " A, B and C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1095.5,
+      "end": 1097.5,
+      "text": " And I will write the same logic here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1097.5,
+      "end": 1099.5,
+      "text": " If A is greater than B."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1099.5,
+      "end": 1101.5,
+      "text": " And A is greater than C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1101.5,
+      "end": 1103.5,
+      "text": " Then greatest is A."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1103.5,
+      "end": 1105.5,
+      "text": " Or I will do one thing."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1105.5,
+      "end": 1107.5,
+      "text": " I will return A."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1107.5,
+      "end": 1109.5,
+      "text": " Then I will put an alif."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1109.5,
+      "end": 1111.5,
+      "text": " If."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1111.5,
+      "end": 1113.5,
+      "text": " B is greater than A."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1113.5,
+      "end": 1115.5,
+      "text": " And B is greater than C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1115.5,
+      "end": 1117.5,
+      "text": " Then return B."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1117.5,
+      "end": 1119.5,
+      "text": " Otherwise what will happen."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1119.5,
+      "end": 1121.5,
+      "text": " Otherwise I will use the same logic."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1121.5,
+      "end": 1123.5,
+      "text": " And I will say C is greater than B."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1123.5,
+      "end": 1125.5,
+      "text": " And C is greater than A."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1125.5,
+      "end": 1127.5,
+      "text": " Then we will return C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1127.5,
+      "end": 1129.5,
+      "text": " And here A, B and C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1129.5,
+      "end": 1131.5,
+      "text": " We have taken 1, 2, 3."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1131.5,
+      "end": 1133.5,
+      "text": " And what I will do."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1133.5,
+      "end": 1135.5,
+      "text": " I will print."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1135.5,
+      "end": 1137.5,
+      "text": " Greatest of A, B and C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1137.5,
+      "end": 1139.5,
+      "text": " So if I do the greatest of A, B and C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1139.5,
+      "end": 1141.5,
+      "text": " In this way."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1141.5,
+      "end": 1143.5,
+      "text": " Then see 3 is printed."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1143.5,
+      "end": 1145.5,
+      "text": " If I print."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1145.5,
+      "end": 1147.5,
+      "text": " Then return value of this function is 3."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1147.5,
+      "end": 1149.5,
+      "text": " If I do 23."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1149.5,
+      "end": 1151.5,
+      "text": " Then 23 will be printed."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1151.5,
+      "end": 1153.5,
+      "text": " So basically I wrote the logic in a function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1153.5,
+      "end": 1155.5,
+      "text": " Which number is greater."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1155.5,
+      "end": 1157.5,
+      "text": " Great."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1157.5,
+      "end": 1159.5,
+      "text": " Now let's move on to the next question."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1159.5,
+      "end": 1161.5,
+      "text": " Write a Python program using function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1161.5,
+      "end": 1163.5,
+      "text": " To convert Celsius to Fahrenheit."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1163.5,
+      "end": 1165.5,
+      "text": " What is the formula of Celsius to Fahrenheit."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1165.5,
+      "end": 1167.5,
+      "text": " If you don't remember."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1167.5,
+      "end": 1169.5,
+      "text": " Then I will tell you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1169.5,
+      "end": 1171.5,
+      "text": " C upon 5 is equal to."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1171.5,
+      "end": 1173.5,
+      "text": " F minus 32 upon 9."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1173.5,
+      "end": 1175.5,
+      "text": " This is the formula."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1175.5,
+      "end": 1177.5,
+      "text": " This is the formula."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1177.5,
+      "end": 1179.5,
+      "text": " So if you write here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1179.5,
+      "end": 1181.5,
+      "text": " 37."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1181.5,
+      "end": 1183.5,
+      "text": " Then it will be in Fahrenheit."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1183.5,
+      "end": 1185.5,
+      "text": " 102, 103."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1185.5,
+      "end": 1187.5,
+      "text": " So let's do one thing."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1187.5,
+      "end": 1189.5,
+      "text": " We have taken this formula."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1189.5,
+      "end": 1191.5,
+      "text": " So what will be the value of C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1191.5,
+      "end": 1193.5,
+      "text": " 5 multiplied by."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1193.5,
+      "end": 1195.5,
+      "text": " F minus 32 upon 9."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1195.5,
+      "end": 1197.5,
+      "text": " This will be."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1197.5,
+      "end": 1199.5,
+      "text": " So what I will do here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1199.5,
+      "end": 1201.5,
+      "text": " I will write."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1201.5,
+      "end": 1203.5,
+      "text": " Enter temperature."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1203.5,
+      "end": 1205.5,
+      "text": " In F."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1205.5,
+      "end": 1207.5,
+      "text": " And here I will."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1207.5,
+      "end": 1209.5,
+      "text": " Print C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1209.5,
+      "end": 1211.5,
+      "text": " But I remember I have to do it with function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1211.5,
+      "end": 1213.5,
+      "text": " First I will test like this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1213.5,
+      "end": 1215.5,
+      "text": " If I do 100 in Fahrenheit."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1215.5,
+      "end": 1217.5,
+      "text": " Then 37.77 is coming."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1217.5,
+      "end": 1219.5,
+      "text": " So what I will do."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1219.5,
+      "end": 1221.5,
+      "text": " I will put it in a function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1221.5,
+      "end": 1223.5,
+      "text": " And what I will do here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1223.5,
+      "end": 1225.5,
+      "text": " I will write F to C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1225.5,
+      "end": 1227.5,
+      "text": " That is Fahrenheit to Celsius."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1227.5,
+      "end": 1229.5,
+      "text": " And what I will do here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1229.5,
+      "end": 1231.5,
+      "text": " F will come here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1231.5,
+      "end": 1233.5,
+      "text": " And I will do it like this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1233.5,
+      "end": 1235.5,
+      "text": " I am showing you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1235.5,
+      "end": 1237.5,
+      "text": " How to do it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1237.5,
+      "end": 1239.5,
+      "text": " And I will return C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1239.5,
+      "end": 1241.5,
+      "text": " I can also return it directly."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1241.5,
+      "end": 1243.5,
+      "text": " And now you will see here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1243.5,
+      "end": 1245.5,
+      "text": " I have taken F value as an input."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1245.5,
+      "end": 1247.5,
+      "text": " And I will write F to C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1247.5,
+      "end": 1249.5,
+      "text": " And then I will write F here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1249.5,
+      "end": 1251.5,
+      "text": " If I write 100 here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1251.5,
+      "end": 1253.5,
+      "text": " Then you will see 37.77 will come here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1253.5,
+      "end": 1255.5,
+      "text": " And it's a good practice."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1255.5,
+      "end": 1257.5,
+      "text": " Let's do colon space."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1257.5,
+      "end": 1259.5,
+      "text": " It looks good."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1259.5,
+      "end": 1261.5,
+      "text": " If I run it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1261.5,
+      "end": 1263.5,
+      "text": " And I do 66 here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1263.5,
+      "end": 1265.5,
+      "text": " Then 18.88 degrees Celsius is coming."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1265.5,
+      "end": 1267.5,
+      "text": " If you want you can write it as F string."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1267.5,
+      "end": 1269.5,
+      "text": " How will you write it as F string."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1269.5,
+      "end": 1271.5,
+      "text": " Write F."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1271.5,
+      "end": 1273.5,
+      "text": " This is your temperature."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1273.5,
+      "end": 1275.5,
+      "text": " And here will come."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1275.5,
+      "end": 1277.5,
+      "text": " Degree C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1277.5,
+      "end": 1279.5,
+      "text": " And one more thing I want to show you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1279.5,
+      "end": 1281.5,
+      "text": " You can also copy degree from the internet."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1281.5,
+      "end": 1283.5,
+      "text": " The symbol of degree."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1283.5,
+      "end": 1285.5,
+      "text": " If you search degree on google."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1285.5,
+      "end": 1287.5,
+      "text": " Or I do one thing."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1287.5,
+      "end": 1289.5,
+      "text": " I say give me degree sign."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1289.5,
+      "end": 1291.5,
+      "text": " Here I got it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1291.5,
+      "end": 1293.5,
+      "text": " I will copy it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1293.5,
+      "end": 1295.5,
+      "text": " And here I will paste it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1295.5,
+      "end": 1297.5,
+      "text": " Like this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1297.5,
+      "end": 1299.5,
+      "text": " And now you see if I write 100 here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1299.5,
+      "end": 1301.5,
+      "text": " Then it will come 37 degrees Celsius."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1301.5,
+      "end": 1303.5,
+      "text": " Okay."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1303.5,
+      "end": 1305.5,
+      "text": " Now I did it like this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1305.5,
+      "end": 1307.5,
+      "text": " Now it doesn't look good here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1307.5,
+      "end": 1309.5,
+      "text": " If I am writing 100 here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1309.5,
+      "end": 1311.5,
+      "text": " Then it doesn't look good."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1311.5,
+      "end": 1313.5,
+      "text": " Now I will show you one more function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1313.5,
+      "end": 1315.5,
+      "text": " Which I can say like this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1315.5,
+      "end": 1317.5,
+      "text": " That round it to two decimal places."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1317.5,
+      "end": 1319.5,
+      "text": " So the first argument of round is."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1319.5,
+      "end": 1321.5,
+      "text": " The value which you want to round."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1321.5,
+      "end": 1323.5,
+      "text": " And I do one thing."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1323.5,
+      "end": 1325.5,
+      "text": " I make a variable of C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1325.5,
+      "end": 1327.5,
+      "text": " C is equal to."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1327.5,
+      "end": 1329.5,
+      "text": " So that our program is readable."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1329.5,
+      "end": 1331.5,
+      "text": " Otherwise the readability of our program was ending."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1331.5,
+      "end": 1333.5,
+      "text": " So what I did here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1333.5,
+      "end": 1335.5,
+      "text": " I said C is equal to F to C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1335.5,
+      "end": 1337.5,
+      "text": " And I gave it F."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1337.5,
+      "end": 1339.5,
+      "text": " And after this I made F string."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1339.5,
+      "end": 1341.5,
+      "text": " So you see if I run it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1341.5,
+      "end": 1343.5,
+      "text": " And I will write 100 here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1343.5,
+      "end": 1345.5,
+      "text": " Then it will come 37.78 degrees Celsius."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1345.5,
+      "end": 1347.5,
+      "text": " So if I do it like this."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1347.5,
+      "end": 1349.5,
+      "text": " It will look better."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1349.5,
+      "end": 1351.5,
+      "text": " So you have to try it."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1351.5,
+      "end": 1353.5,
+      "text": " Then finally your program will come out well."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1353.5,
+      "end": 1355.5,
+      "text": " Cool."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1355.5,
+      "end": 1357.5,
+      "text": " Next question."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1357.5,
+      "end": 1359.5,
+      "text": " How do you prevent."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1359.5,
+      "end": 1361.5,
+      "text": " Python print function to print a new line."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1361.5,
+      "end": 1363.5,
+      "text": " At the end."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1363.5,
+      "end": 1365.5,
+      "text": " I told you about the end argument."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1365.5,
+      "end": 1367.5,
+      "text": " So that's what's been done here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1367.5,
+      "end": 1369.5,
+      "text": " And I have in notes."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1369.5,
+      "end": 1371.5,
+      "text": " Like if I write here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1371.5,
+      "end": 1373.5,
+      "text": " Print A."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1373.5,
+      "end": 1375.5,
+      "text": " And I write B here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1375.5,
+      "end": 1377.5,
+      "text": " And then I write C."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1377.5,
+      "end": 1379.5,
+      "text": " And I write D."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1379.5,
+      "end": 1381.5,
+      "text": " Now you see I."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1381.5,
+      "end": 1383.5,
+      "text": " I will use multi cursor functionality."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1383.5,
+      "end": 1385.5,
+      "text": " By pressing alt."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1385.5,
+      "end": 1387.5,
+      "text": " And you see what I will do here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1387.5,
+      "end": 1389.5,
+      "text": " I pressed alt."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1389.5,
+      "end": 1391.5,
+      "text": " I need a cursor here."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1391.5,
+      "end": 1393.5,
+      "text": " And I will make end is equal to blank."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1393.5,
+      "end": 1395.5,
+      "text": " So you see between A and B."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1395.5,
+      "end": 1397.5,
+      "text": " New line will come."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1397.5,
+      "end": 1399.5,
+      "text": " But between C and D."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1399.5,
+      "end": 1401.5,
+      "text": " Because I had made end is equal to blank."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1401.5,
+      "end": 1403.5,
+      "text": " So what does end is equal to blank do?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1403.5,
+      "end": 1405.5,
+      "text": " It avoids new line in Python."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1405.5,
+      "end": 1407.5,
+      "text": " So if you want new line not to come."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1407.5,
+      "end": 1409.5,
+      "text": " So what will you do?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1409.5,
+      "end": 1411.5,
+      "text": " You will write end is equal to blank."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1411.5,
+      "end": 1413.5,
+      "text": " Which is also our question."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1413.5,
+      "end": 1415.5,
+      "text": " How do you prevent."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1415.5,
+      "end": 1417.5,
+      "text": " Print function to add new line."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1417.5,
+      "end": 1419.5,
+      "text": " Awesome."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1419.5,
+      "end": 1421.5,
+      "text": " Write a recursive function to calculate the sum of first and natural numbers."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1421.5,
+      "end": 1423.5,
+      "text": " We have to write a recursive function."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1423.5,
+      "end": 1425.5,
+      "text": " To print first and natural numbers."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1425.5,
+      "end": 1427.5,
+      "text": " Now this is going to be a bit tricky."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1427.5,
+      "end": 1429.5,
+      "text": " If you don't understand recursion."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1429.5,
+      "end": 1431.5,
+      "text": " And this is your one more chance to understand recursion."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1431.5,
+      "end": 1433.5,
+      "text": " And I have added question also."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1433.5,
+      "end": 1435.5,
+      "text": " Because I want to explain recursion to you."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1435.5,
+      "end": 1437.5,
+      "text": " So see let's start with multi line comment."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1437.5,
+      "end": 1439.5,
+      "text": " If I want to sum."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1439.5,
+      "end": 1441.5,
+      "text": " First and natural numbers."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1441.5,
+      "end": 1443.5,
+      "text": " It will be 1 plus 2 plus."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1443.5,
+      "end": 1445.5,
+      "text": " What will happen?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1445.5,
+      "end": 1447.5,
+      "text": " 3 plus 4."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1447.5,
+      "end": 1449.5,
+      "text": " All the way till end."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1449.5,
+      "end": 1451.5,
+      "text": " If I will do sum of 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1451.5,
+      "end": 1453.5,
+      "text": " Sum of 1 will be"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1453.5,
+      "end": 1455.5,
+      "text": " equal to 1."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1457.5,
+      "end": 1459.5,
+      "text": " Sum of 2 will be equals to"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1459.5,
+      "end": 1461.5,
+      "text": " 1 plus 2."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1461.5,
+      "end": 1463.5,
+      "text": " Sum of 3 will be"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1467.5,
+      "end": 1469.5,
+      "text": " Sum of 4 will be"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1471.5,
+      "end": 1473.5,
+      "text": " 1 plus 2 plus 3 plus 4."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1473.5,
+      "end": 1475.5,
+      "text": " Sum of 5 will be"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1475.5,
+      "end": 1477.5,
+      "text": " 1 plus 2 plus 3 plus 4 plus 5"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1477.5,
+      "end": 1479.5,
+      "text": " And all the way till end."
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1479.5,
+      "end": 1482.78,
+      "text": " then here sub of n will come 1,2,3,4 all the way till n"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1482.78,
+      "end": 1484.3,
+      "text": " very good"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1484.3,
+      "end": 1486.3,
+      "text": " now what we will do is"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1486.3,
+      "end": 1490.62,
+      "text": " we will write sum of n in terms of sum of n-1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1490.62,
+      "end": 1492.62,
+      "text": " so can I write this"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1492.62,
+      "end": 1494.62,
+      "text": " because here n-1 will come somewhere"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1494.62,
+      "end": 1496.62,
+      "text": " then n will come"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1496.62,
+      "end": 1498.62,
+      "text": " so I can write this whole as sum of n-1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1500.62,
+      "end": 1502.62,
+      "text": " and after this I will write plus n"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1502.62,
+      "end": 1504.62,
+      "text": " so if I make a def sum"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1504.62,
+      "end": 1506.62,
+      "text": " a function named sum"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1506.62,
+      "end": 1508.62,
+      "text": " then I can say"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1508.62,
+      "end": 1510.62,
+      "text": " return sum n-1 plus n"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1512.62,
+      "end": 1514.62,
+      "text": " and I will have to put a base condition"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1514.62,
+      "end": 1516.62,
+      "text": " otherwise it will be like"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1516.62,
+      "end": 1518.62,
+      "text": " sum-1 will go to sum-2"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1518.62,
+      "end": 1520.62,
+      "text": " when n value will be 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1520.62,
+      "end": 1522.62,
+      "text": " then it will become 0, sum of 0, sum of minus 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1522.62,
+      "end": 1524.62,
+      "text": " so to stop that I will write"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1524.62,
+      "end": 1526.62,
+      "text": " if n equals to equals to 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1526.62,
+      "end": 1528.62,
+      "text": " return 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1528.62,
+      "end": 1530.62,
+      "text": " because sum of 1 is 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1530.62,
+      "end": 1532.62,
+      "text": " so it will come while calculating"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1532.62,
+      "end": 1534.62,
+      "text": " as soon as it gets sum of 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1534.62,
+      "end": 1536.62,
+      "text": " it will write 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1536.62,
+      "end": 1538.62,
+      "text": " so what we will do is"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1538.62,
+      "end": 1540.62,
+      "text": " we will print sum of 4"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1540.62,
+      "end": 1542.62,
+      "text": " which will be"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1542.62,
+      "end": 1544.62,
+      "text": " sum of 4 will be"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1544.62,
+      "end": 1546.62,
+      "text": " 4,3,7,3,10"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1546.62,
+      "end": 1548.62,
+      "text": " so 10 is being printed"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1548.62,
+      "end": 1550.62,
+      "text": " so what happened"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1550.62,
+      "end": 1552.62,
+      "text": " we wrote it in recursive form"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1552.62,
+      "end": 1554.62,
+      "text": " and put a base condition"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1554.62,
+      "end": 1556.62,
+      "text": " why do we put a base condition"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1556.62,
+      "end": 1558.62,
+      "text": " we put a base condition"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1558.62,
+      "end": 1560.62,
+      "text": " so that your recursion"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1560.62,
+      "end": 1562.62,
+      "text": " will not go"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1562.62,
+      "end": 1564.62,
+      "text": " infinitely backwards"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1564.62,
+      "end": 1566.62,
+      "text": " what is the meaning of this"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1566.62,
+      "end": 1568.62,
+      "text": " suppose you calculated sum of 3"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1568.62,
+      "end": 1570.62,
+      "text": " it will say 1 plus"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1570.62,
+      "end": 1572.62,
+      "text": " sum of 2 plus 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1572.62,
+      "end": 1574.62,
+      "text": " then sum of 2 will be calculated"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1574.62,
+      "end": 1576.62,
+      "text": " sum of 1 plus 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1576.62,
+      "end": 1578.62,
+      "text": " then sum of 1 will be calculated"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1578.62,
+      "end": 1580.62,
+      "text": " if your base condition is not there"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1580.62,
+      "end": 1582.62,
+      "text": " then what will be calculated"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1582.62,
+      "end": 1584.62,
+      "text": " sum of 0 plus 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1584.62,
+      "end": 1586.62,
+      "text": " then sum of minus 1 plus 0"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1586.62,
+      "end": 1588.62,
+      "text": " then sum of minus 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1588.62,
+      "end": 1590.62,
+      "text": " so that it does not go to"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1590.62,
+      "end": 1592.62,
+      "text": " sum of minus 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1592.62,
+      "end": 1594.62,
+      "text": " so we will put a base condition"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1594.62,
+      "end": 1596.62,
+      "text": " so that n is equal to 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1596.62,
+      "end": 1598.62,
+      "text": " so that n is equal to 1 will be hit"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1598.62,
+      "end": 1600.62,
+      "text": " and as soon as n is equal to 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1600.62,
+      "end": 1602.62,
+      "text": " if n equals to"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1602.62,
+      "end": 1604.62,
+      "text": " equals to 1, it will return 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1604.62,
+      "end": 1606.62,
+      "text": " I hope you are understanding"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1606.62,
+      "end": 1608.62,
+      "text": " you understand, it is not like that"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1608.62,
+      "end": 1610.62,
+      "text": " you don't understand, come here"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1610.62,
+      "end": 1612.62,
+      "text": " let's do the next question"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1612.62,
+      "end": 1614.62,
+      "text": " print this pattern"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1614.62,
+      "end": 1616.62,
+      "text": " print the first 10 lines"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1616.62,
+      "end": 1618.62,
+      "text": " I can do this with recursion"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1618.62,
+      "end": 1620.62,
+      "text": " how will I do it"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1620.62,
+      "end": 1622.62,
+      "text": " to print n"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1622.62,
+      "end": 1624.62,
+      "text": " what should I do"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1624.62,
+      "end": 1626.62,
+      "text": " print n minus 1 and 3 stars"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1626.62,
+      "end": 1628.62,
+      "text": " problem 5.py"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1628.62,
+      "end": 1630.62,
+      "text": " so what I will do"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1630.62,
+      "end": 1632.62,
+      "text": " I will make a function named pattern"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1632.62,
+      "end": 1634.62,
+      "text": " and I will give n to it"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1634.62,
+      "end": 1636.62,
+      "text": " I will say"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1636.62,
+      "end": 1638.62,
+      "text": " to print pattern"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1638.62,
+      "end": 1640.62,
+      "text": " first print star"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1640.62,
+      "end": 1642.62,
+      "text": " how many times"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1642.62,
+      "end": 1644.62,
+      "text": " print star into n"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1644.62,
+      "end": 1646.62,
+      "text": " print n times star"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1646.62,
+      "end": 1648.62,
+      "text": " then what should I do"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1648.62,
+      "end": 1650.62,
+      "text": " run the pattern for n minus 1"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1650.62,
+      "end": 1652.62,
+      "text": " it is simple"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1652.62,
+      "end": 1654.62,
+      "text": " and what will be the base condition"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1654.62,
+      "end": 1656.62,
+      "text": " if n"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1656.62,
+      "end": 1658.62,
+      "text": " equals to equals to 0"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1658.62,
+      "end": 1660.62,
+      "text": " then what should I do"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1660.62,
+      "end": 1662.62,
+      "text": " print nothing"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1662.62,
+      "end": 1664.62,
+      "text": " that's it"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1664.62,
+      "end": 1666.62,
+      "text": " and I will return it"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1666.62,
+      "end": 1668.62,
+      "text": " what happens by return"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1668.62,
+      "end": 1670.62,
+      "text": " there are two things, one is value return"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1670.62,
+      "end": 1672.62,
+      "text": " we have seen that"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1672.62,
+      "end": 1674.62,
+      "text": " if we use return keyword in a function"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1674.62,
+      "end": 1676.62,
+      "text": " and write a value"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1676.62,
+      "end": 1678.62,
+      "text": " then the variable will pass"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1678.62,
+      "end": 1680.62,
+      "text": " which variable you have written"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1680.62,
+      "end": 1682.62,
+      "text": " as a function call"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1682.62,
+      "end": 1684.62,
+      "text": " we have seen this before"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1684.62,
+      "end": 1686.62,
+      "text": " if you didn't understand"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1686.62,
+      "end": 1688.62,
+      "text": " you can go to chapter"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1688.62,
+      "end": 1690.62,
+      "text": " but I have explained that"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1690.62,
+      "end": 1692.62,
+      "text": " the second thing is"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1692.62,
+      "end": 1694.62,
+      "text": " if this function is running"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1694.62,
+      "end": 1696.62,
+      "text": " as soon as it sees the return statement"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1696.62,
+      "end": 1698.62,
+      "text": " it means that the matter is over"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1698.62,
+      "end": 1700.62,
+      "text": " function will not run further"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1700.62,
+      "end": 1702.62,
+      "text": " that function call will end there"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1702.62,
+      "end": 1704.62,
+      "text": " as soon as it sees the return"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1704.62,
+      "end": 1706.62,
+      "text": " if it sees the return then the call will not happen"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1706.62,
+      "end": 1708.62,
+      "text": " understand"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1708.62,
+      "end": 1710.62,
+      "text": " the call will not happen"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1710.62,
+      "end": 1712.62,
+      "text": " return means the matter is over"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1712.62,
+      "end": 1714.62,
+      "text": " what does return mean?"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1714.62,
+      "end": 1716.62,
+      "text": " if I call pattern here"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1716.62,
+      "end": 1718.62,
+      "text": " let's say I call pattern 5"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1718.62,
+      "end": 1720.62,
+      "text": " so here my pattern 5 is called"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1720.62,
+      "end": 1722.62,
+      "text": " so this is what we had to call"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1722.62,
+      "end": 1724.62,
+      "text": " so you see we have done this call"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1724.62,
+      "end": 1726.62,
+      "text": " with recursion, now for n equals to 3"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1726.62,
+      "end": 1728.62,
+      "text": " I will show you that for n equals to 3"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1728.62,
+      "end": 1730.62,
+      "text": " if I do pattern 3"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1730.62,
+      "end": 1732.62,
+      "text": " you can take input from user"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1732.62,
+      "end": 1734.62,
+      "text": " but 3 star, 2 star, 1 star"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1734.62,
+      "end": 1736.62,
+      "text": " you can see here"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1736.62,
+      "end": 1738.62,
+      "text": " 3 star, 2 star, 1 star"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1738.62,
+      "end": 1740.62,
+      "text": " and that was question number 5"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1740.62,
+      "end": 1742.62,
+      "text": " question number 6 says"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1742.62,
+      "end": 1744.62,
+      "text": " write a python function which converts"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1744.62,
+      "end": 1746.62,
+      "text": " inches to centimeters"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1746.62,
+      "end": 1748.62,
+      "text": " inches to centimeters"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1748.62,
+      "end": 1750.62,
+      "text": " so here"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1750.62,
+      "end": 1752.62,
+      "text": " problem 6.py"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1752.62,
+      "end": 1754.62,
+      "text": " so"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1754.62,
+      "end": 1756.62,
+      "text": " def inch to cm"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1756.62,
+      "end": 1758.62,
+      "text": " so what I will do"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1758.62,
+      "end": 1760.62,
+      "text": " here I will take value inch"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1760.62,
+      "end": 1762.62,
+      "text": " so here"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1762.62,
+      "end": 1764.62,
+      "text": " what I will do"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1764.62,
+      "end": 1766.62,
+      "text": " for inches to cm I have to multiply by 2.54"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1766.62,
+      "end": 1768.62,
+      "text": " so I will return"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1768.62,
+      "end": 1770.62,
+      "text": " inch multiplied by"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1770.62,
+      "end": 1772.62,
+      "text": " 2.54"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1772.62,
+      "end": 1774.62,
+      "text": " so what I will do here"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1774.62,
+      "end": 1776.62,
+      "text": " I have to do 5.4"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1776.62,
+      "end": 1778.62,
+      "text": " so what I will do here"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1778.62,
+      "end": 1780.62,
+      "text": " n is equal to"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1780.62,
+      "end": 1782.62,
+      "text": " input enter value"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1782.62,
+      "end": 1784.62,
+      "text": " in inches"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1784.62,
+      "end": 1786.62,
+      "text": " and after this what I will do"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1786.62,
+      "end": 1788.62,
+      "text": " I will put f string here"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1788.62,
+      "end": 1790.62,
+      "text": " and I will write here"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1790.62,
+      "end": 1792.62,
+      "text": " the corresponding"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1792.62,
+      "end": 1794.62,
+      "text": " corresponding value"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1794.62,
+      "end": 1796.62,
+      "text": " in"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1796.62,
+      "end": 1798.62,
+      "text": " cm is"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1798.62,
+      "end": 1800.62,
+      "text": " what will happen"
+    },
+    {
+      "number": "11",
+      "title": "part11",
+      "start": 1800.62,
+      "end": 1802.62,
+      "text": " inch"
+    }
+  ],
+  "text": " Let's see what are they. First of all, the built-in function is len, which you do not import from anywhere. Python already provides you. Range function is there, we did not import it from anywhere. We got it. That is a built-in function. Print, we can use without importing anything. Print is also a built-in function. But func1, we made this function, defined it, then we called it. So this is a user-defined function. So built-in functions, which are already in Python, you do not import from anywhere. User-defined functions are sometimes defined by a user. So here you see the concept of function with argument. You will also enjoy. What happens is that sometimes we want to get a particular argument for the function. What does that mean? Like if I write this, function with arguments.py. So if I want to take the name of the user who is greeting, that is, if I write here, Good day Harry, then good day Harry prints. If I write good day Rohan, then good day Rohan does. So what will I do? I will say that the good day function, you do one thing, that you also take this name. As a variable name, understand the concept very carefully. So what did I do? I wrote here name. Here I wrote Harry. So this Harry will go in the name variable and I can use the name here. And maybe you will understand what I am doing here. So what did I do here? I did string concatenation. I said good day and name. So these two strings will be found and these two strings will be added and good day name will be made. Let's run it. So you see here good day Harry came. If I put a comma here, it will look better. Good day Harry. So I wrote good day Harry here. So good day Harry came. So what is the name here? Name is a parameter. We passed Harry as name which came in a variable. If I write here good day and I write here Rohan, then good day Rohan will be printed. If I write here good day Divya, then good day Divya will be printed here. You see here good day Harry, good day Rohan, good day Divya. So this is functions with arguments. This is taking an argument. Now assume that I want to take one more argument instead of day. Assume that I want to take an argument named ending. I want this to end in thank you. End in thank you. And I want to print this ending here. So I can take one more argument by putting a comma. So here what will pass in name? Harry will pass. And what will pass in ending? Thank you will pass. So when I am writing good day Harry comma thank you, then what is happening? Harry will go to name. Thank you will go to ending. And when this function will run, then here good day will be there. What is the value in this variable? Harry value. So good day Harry. Then after this, thank you will be printed because there is thank you in ending. Now let's run this. You see good day Harry thank you, good day Rohan thank you, good day Divya thank you. Assume that Divya is a little stylish. She doesn't say thank you, she says thanks. So we will do thanks here. If we run this, then good day Harry thank you, good day Rohan thank you, good day Divya thanks. So here she said thanks to South Delhi. So if you want that the user of South Delhi says thanks and the rest say thank you, then you can do that basically. So this is the function with arguments. We have passed two arguments here, name and ending. Name came in name. What came in ending? Whatever you write in ending came in ending. Thank you, thank you came. Thanks, you write, thanks will come. Very good. So this was the function with arguments. A function can accept some value, it can work with. So basically we gave a value to the function with which the function can work. Like we gave name and gave ending. And after that what happens is that we put these values in parenthesis like this. Like I made a function named greet here, def greet. I took name in this and when I called it, I did greet Harry. Now what happens is that there is also a return value of the function. That means, now you see I was just running the function. If I say here, I remove these two. If I say here a is equal to and I write good day and I print a, then good day is not giving any value. Means if I run it here, then see none came. So what happened here? Printed good day Harry, printed thank you, then it came back. What came in a? Nothing came. If I want something to come in a, then I will return it from this function. So I will say from this function that function you take a value with you. And whatever variable you ask, give it to him. What will I say from the function? What does return mean? Return means function you take a value and whatever variable you ask, give it to him. In this case, who will get this value? A will get it. So let's say I am writing return here and I am writing done here. So this string will be returned. This time done will come in a. You see here done will come. If you return 7 here, then 7 will come. If you return ok here, then ok will come. So whatever value you return, it will be its value. And if you give that value to any variable, then that value will come in that variable. So we saw the concept of arguments. This is name and ending arguments. We saw the concept of return value. The concept of return value is ok return value which will be assigned in a if we write some statement like this. And when do we use this? We use this when we have to give a value. Like in the case of average, I am printing the average here. But if I want this value to go, that is, when this function runs, the output comes, take it. Means we basically run a logic. We got a value by running that logic. If I want that value to go back, then I will do this. A is equal to A is equal to average. I will do that value inside A. Whatever this function is returning, in this case, this function is not returning anything. So that value will be none. But if I have done return average, then what will happen? So that value will come inside A. If I write A is equal to A, B, C, D, E, F, G, then you must try this thing. So we saw the concept of return value. We saw the concept of arguments. Now let's see the concept of default parameter value. What is this? We can have a value as default argument in a function. So you see what happens, what does it mean? So I do one thing on you. I make it with the name of 04-default-argument.py. I want that we are doing good day. We are doing good day. And let's take the name, let's take the ending. But the ending by default will be thank you. So if someone runs good day Harry, then good day Harry thank you will run. But if someone, I will write the name here. Or this time I will do it by putting f-string. Don't be confused at all. I can do it as I want. I can do it by putting plus, comma, f-string. I can do anything. This logic will basically run. With value Harry as name. So here you see I wrote def good day. Wrote the name, wrote the ending is equal to thank you. I printed good day with f-string and comma name. And you see if I run it, then what is happening? Good day Harry is being printed. And after this I want to print the ending too. I want to print the ending too. So you see, as soon as I run it, good day Harry thank you. Now I did not give anything in the ending. But even after that it worked. If I didn't do this, let's say I didn't do this. And if I run it, then it complains. It says, brother, you have a required positional argument in good day. You are missing. But because I have written it this way, it means I am saying this. If I supply you the ending value, then you take it. But if I don't give it, then you keep this value by default. Which is thank you. Okay. I hope you understood this thing. So here if I give thanks. Then good day Harry thanks will come. Okay, good day Harry thanks came. But if I don't give thanks. If I don't give thanks, I mean I write something like this. I write good day Rohan here. Then what will happen is that this default value will be used instead of thanks. Basically I am saying that if I give value, then it is fine. If I don't give, then by default you use this. Understood. I hope you understood this thing. It happens that whenever you book a seat in the railway. Then you get any birth. But by default you get any birth. But if you supply that I want this birth. Then you get the same birth if possible. So here I wrote good day Harry thanks. So the value of thanks will come. But if I wrote Rohan. Then it will take thank you by default. Because the default value of ending is thank you. It was a very simple concept. So this is our default parameter value. Here I have given an example of greet function. Which is very similar. You can also see this. Now the next concept I want to tell you is recursion. And the concept of recursion is really very important. And I will take time to explain this to you. And you will enjoy it. So what is recursion? Recursion is a function which calls itself. Now you will say why is it calling itself. One function calls itself. Because it has a logic connected to it. What is the meaning of this? I am very much blown by hearing this. I will tell you what I am saying. Now I want to take you back to factorial. See what happens. What is factorial? Suppose I write factorial 5. What is factorial 5? I told you. 5 x 4 x 3 x 2 x 1 This is what I told you. Some functions are like this. Some functions are like this. Whose logic is recursive. That is, their logic can be defined in their terms. I will explain. And I will believe you only after explaining. I will believe you only after explaining. If I say here what will be factorial 1? Factorial 1 will be only 1. This is the definition of factorial. I did not make this. This is the mathematical definition of factorial. This is factorial 3. The meaning of factorial is that you. I do factorial 3 here. I do factorial 2 here. So that you can understand it well. It will be 3. This will be factorial 4. This will be factorial 2. Factorial 2 will be 2 x 1. Factorial 3 will be 3 x 2 x 1. Factorial 4 will be 4 x 3 x 2 x 1. Factorial 5 will be this. Do you understand this much? Does it come or not? You should know. Now see what I am going to tell you here. Now I will tell you. If I say factorial n. Means if any number comes here. You can say that it will be n. Then n-1. Then dot dot dot dot dot. This will go up to 3 x 2 x 1. Will it go or not? Will definitely go. Now if I say that factorial n. That is n x factorial n-1. Did you understand what I said? I can write factorial n-1. What is factorial n? Go from that number to 1. I can write it as factorial n-1. To get any number's factorial. I can say that. That number should be multiplied by its number. I can say that. I can say that. This is a very good example. To explain recursion. Very few people understand recursion. Sometimes some teachers skip this topic. I am not one of those. So we saw factorial from 1 to n. And we understood this formula. Why does this happen? Now once we have this formula. We will use this formula. To get any number's factorial. Suppose I have to make a function. Which gets n's factorial. I wrote here def. Wrote the name of the function. Wrote n which will accept this parameter. I entered this function. Indent automatically gave me the VS code. What will I do? I will say return factorial of n-1. n into factorial n-1. Very good. But. Before that. If n's value is 1. Or n's value is 0. Then return 1. This is the rule. Factorial 1 is also 1. And one more thing. You need to know. Factorial 0 is also 1. Factorial 0 is by definition 1. Factorial 0 is also 1. And factorial 1 is also 1. If someone gave 1 or 0. Then value will be 1. Otherwise. This formula will break. And it will call itself. And will resolve the values. Let's try this. I will do one thing. I will do n is equal to int input. Enter a number. And then. I will print an f-string. And I will write. The factorial of this number is. What is the factorial of this number? I will write f-string. And I will say. Factorial of n. I called this function. Let's see if it works. Enter a number 6. The factorial of this number is 720. What is the factorial of 1? It is correct. Let's see. What is the factorial of 2? I entered the up arrow. What is the factorial of 3? It is 6. What is the factorial of 4? It is 24. All these values are correct. We have used this formula. We have used this formula directly. And we have used recursion. Now some of you. You may think that I would have used for loop. No. We have used this property. This function can be written in terms of this. Because this function can be written in terms of this. We will use this property. We will use recursion. Why will we use recursion? The code which we write in many lines of code. We have written the same code in 4 lines of code. We have written the same code in 4 lines of code. We have said that we are using this formula. And resolve things. So you see this diagram. This is the diagram of 5. When you write factorial 5. Then 5 multiplied by factorial 4. It will convert. 5 multiplied by factorial 4. So you have written factorial 5. So 5 will come here. If n value is 1 or n value is 0. Then return 1. n value is neither 1 nor 0. What is n value? It is 5. So 5 into factorial 4 will be returned. So what will happen? 5 into factorial 4. Then 5 into factorial 3. So 5 will come here. It will resolve factorial 4. It will resolve factorial 4. This has come to us. What will it do after this? It will resolve factorial 3. 5 into 4 into 3 into factorial 2. Then it will resolve factorial 2. 5 into 4 into 3 into 2 into factorial 1. We have got. Its value is 1. If n value is 1, then return 1. And finally this calculation will be done. We will get this particular calculation. And finally we will get the result. Now here the programmer needs to be Extremely careful while working with recursion. To ensure that the function doesn't infinitely Keep calling itself. Because if the programmer made a mistake, Then it is possible that the recursion will never end. So it was very important to put the base condition. So that finally this recursion is resolved. So here recursion makes things very easy. If you remember the mathematical formula. But what happens sometimes? If you made a mistake, then this recursion Keeps calling itself. And the stack goes ahead. This is basically called a stack. This function keeps running. On loop. And finally what happens? Your program crashes. So recursion makes things easy. If you know the formula. But sometimes what happens? It makes a problem. Now why did we use recursion in factorial? Because sometimes this is a very direct way Like in this case we saw. So we use recursion because Sometimes it is the most direct way To code an algorithm. To code an algorithm. It is the most direct way. I hope you understood the function. I hope you understood recursion. I will explain you function and recursion In this chapter's practice set. So in this chapter's practice set. You will get more clarity. So I will meet you in chapter 8 practice set. Where I will give you more clarity. About functions and recursion. Let's move on to chapter 8 practice set now. So guys now we will do the practice set. First of all I will close this file. And here I will make a new folder. I am going to name it chapter 8 practice set. Chapter 8. And here practice set. So I will write chapter 8. Ps here. And after this I will take shift right. And I will open with code. And here you guys see. The first file I will make. Problem1.py And our first question is. Write a program using functions. To find greatest of three numbers. This time we have to use functions. How will the function be used. Three numbers. Which is the greatest of the three. To find that. So what I will do here. I will make a function. With the name of greatest. And what it will do. It will take three numbers. A, B and C. And I will write the same logic here. If A is greater than B. And A is greater than C. Then greatest is A. Or I will do one thing. I will return A. Then I will put an alif. If. B is greater than A. And B is greater than C. Then return B. Otherwise what will happen. Otherwise I will use the same logic. And I will say C is greater than B. And C is greater than A. Then we will return C. And here A, B and C. We have taken 1, 2, 3. And what I will do. I will print. Greatest of A, B and C. So if I do the greatest of A, B and C. In this way. Then see 3 is printed. If I print. Then return value of this function is 3. If I do 23. Then 23 will be printed. So basically I wrote the logic in a function. Which number is greater. Great. Now let's move on to the next question. Write a Python program using function. To convert Celsius to Fahrenheit. What is the formula of Celsius to Fahrenheit. If you don't remember. Then I will tell you. C upon 5 is equal to. F minus 32 upon 9. This is the formula. This is the formula. So if you write here. 37. Then it will be in Fahrenheit. 102, 103. So let's do one thing. We have taken this formula. So what will be the value of C. 5 multiplied by. F minus 32 upon 9. This will be. So what I will do here. I will write. Enter temperature. In F. And here I will. Print C. But I remember I have to do it with function. First I will test like this. If I do 100 in Fahrenheit. Then 37.77 is coming. So what I will do. I will put it in a function. And what I will do here. I will write F to C. That is Fahrenheit to Celsius. And what I will do here. F will come here. And I will do it like this. I am showing you. How to do it. And I will return C. I can also return it directly. And now you will see here. I have taken F value as an input. And I will write F to C. And then I will write F here. If I write 100 here. Then you will see 37.77 will come here. And it's a good practice. Let's do colon space. It looks good. If I run it. And I do 66 here. Then 18.88 degrees Celsius is coming. If you want you can write it as F string. How will you write it as F string. Write F. This is your temperature. And here will come. Degree C. And one more thing I want to show you. You can also copy degree from the internet. The symbol of degree. If you search degree on google. Or I do one thing. I say give me degree sign. Here I got it. I will copy it. And here I will paste it. Like this. And now you see if I write 100 here. Then it will come 37 degrees Celsius. Okay. Now I did it like this. Now it doesn't look good here. If I am writing 100 here. Then it doesn't look good. Now I will show you one more function. Which I can say like this. That round it to two decimal places. So the first argument of round is. The value which you want to round. And I do one thing. I make a variable of C. C is equal to. So that our program is readable. Otherwise the readability of our program was ending. So what I did here. I said C is equal to F to C. And I gave it F. And after this I made F string. So you see if I run it. And I will write 100 here. Then it will come 37.78 degrees Celsius. So if I do it like this. It will look better. So you have to try it. Then finally your program will come out well. Cool. Next question. How do you prevent. Python print function to print a new line. At the end. I told you about the end argument. So that's what's been done here. And I have in notes. Like if I write here. Print A. And I write B here. And then I write C. And I write D. Now you see I. I will use multi cursor functionality. By pressing alt. And you see what I will do here. I pressed alt. I need a cursor here. And I will make end is equal to blank. So you see between A and B. New line will come. But between C and D. Because I had made end is equal to blank. So what does end is equal to blank do? It avoids new line in Python. So if you want new line not to come. So what will you do? You will write end is equal to blank. Which is also our question. How do you prevent. Print function to add new line. Awesome. Write a recursive function to calculate the sum of first and natural numbers. We have to write a recursive function. To print first and natural numbers. Now this is going to be a bit tricky. If you don't understand recursion. And this is your one more chance to understand recursion. And I have added question also. Because I want to explain recursion to you. So see let's start with multi line comment. If I want to sum. First and natural numbers. It will be 1 plus 2 plus. What will happen? 3 plus 4. All the way till end. If I will do sum of 1. Sum of 1 will be equal to 1. Sum of 2 will be equals to 1 plus 2. Sum of 3 will be Sum of 4 will be 1 plus 2 plus 3 plus 4. Sum of 5 will be 1 plus 2 plus 3 plus 4 plus 5 And all the way till end. then here sub of n will come 1,2,3,4 all the way till n very good now what we will do is we will write sum of n in terms of sum of n-1 so can I write this because here n-1 will come somewhere then n will come so I can write this whole as sum of n-1 and after this I will write plus n so if I make a def sum a function named sum then I can say return sum n-1 plus n and I will have to put a base condition otherwise it will be like sum-1 will go to sum-2 when n value will be 1 then it will become 0, sum of 0, sum of minus 1 so to stop that I will write if n equals to equals to 1 return 1 because sum of 1 is 1 so it will come while calculating as soon as it gets sum of 1 it will write 1 so what we will do is we will print sum of 4 which will be sum of 4 will be 4,3,7,3,10 so 10 is being printed so what happened we wrote it in recursive form and put a base condition why do we put a base condition we put a base condition so that your recursion will not go infinitely backwards what is the meaning of this suppose you calculated sum of 3 it will say 1 plus sum of 2 plus 1 then sum of 2 will be calculated sum of 1 plus 1 then sum of 1 will be calculated if your base condition is not there then what will be calculated sum of 0 plus 1 then sum of minus 1 plus 0 then sum of minus 1 so that it does not go to sum of minus 1 so we will put a base condition so that n is equal to 1 so that n is equal to 1 will be hit and as soon as n is equal to 1 if n equals to equals to 1, it will return 1 I hope you are understanding you understand, it is not like that you don't understand, come here let's do the next question print this pattern print the first 10 lines I can do this with recursion how will I do it to print n what should I do print n minus 1 and 3 stars problem 5.py so what I will do I will make a function named pattern and I will give n to it I will say to print pattern first print star how many times print star into n print n times star then what should I do run the pattern for n minus 1 it is simple and what will be the base condition if n equals to equals to 0 then what should I do print nothing that's it and I will return it what happens by return there are two things, one is value return we have seen that if we use return keyword in a function and write a value then the variable will pass which variable you have written as a function call we have seen this before if you didn't understand you can go to chapter but I have explained that the second thing is if this function is running as soon as it sees the return statement it means that the matter is over function will not run further that function call will end there as soon as it sees the return if it sees the return then the call will not happen understand the call will not happen return means the matter is over what does return mean? if I call pattern here let's say I call pattern 5 so here my pattern 5 is called so this is what we had to call so you see we have done this call with recursion, now for n equals to 3 I will show you that for n equals to 3 if I do pattern 3 you can take input from user but 3 star, 2 star, 1 star you can see here 3 star, 2 star, 1 star and that was question number 5 question number 6 says write a python function which converts inches to centimeters inches to centimeters so here problem 6.py so def inch to cm so what I will do here I will take value inch so here what I will do for inches to cm I have to multiply by 2.54 so I will return inch multiplied by 2.54 so what I will do here I have to do 5.4 so what I will do here n is equal to input enter value in inches and after this what I will do I will put f string here and I will write here the corresponding corresponding value in cm is what will happen inch"
+}

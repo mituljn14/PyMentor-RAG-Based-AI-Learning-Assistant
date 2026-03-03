@@ -1,0 +1,2364 @@
+{
+  "chunks": [
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 0.0,
+      "end": 7.68,
+      "text": " and what we will do here is we will request.get and now i will go to chat gpt"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 7.68,
+      "end": 15.28,
+      "text": " and what i will say to chat gpt babu, chat gpt babu, see i am a person who uses AI"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 15.28,
+      "end": 24.72,
+      "text": " i will say to chat gpt babu that help me fetch headlines from this"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 25.44,
+      "end": 31.04,
+      "text": " so it will tell me what is the format in news API, so it is telling me that you can do it this way"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 31.04,
+      "end": 38.0,
+      "text": " request.geturldata is equal to request.json you can do and after doing this you will get json"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 38.0,
+      "end": 42.64,
+      "text": " and after this you will get articles in articles, so i will show you how it works"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 42.64,
+      "end": 48.56,
+      "text": " so i put my API key here first and see it becomes a little easy by using AI"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 48.56,
+      "end": 54.88,
+      "text": " so i need all the titles in the list, so i will do one thing"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 54.88,
+      "end": 67.28,
+      "text": " i will say that i need all the titles in a list, see i can do this work by using for loop"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 67.28,
+      "end": 72.64,
+      "text": " but what i will do is i will say that this is how it looks like"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 73.36,
+      "end": 79.36,
+      "text": " and i will not get the data from chat gpt, i just want to get the format"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 79.36,
+      "end": 88.0,
+      "text": " so i will do one thing, i will reduce this and i will say that this is the format"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 88.0,
+      "end": 96.48,
+      "text": " i just need titles from this, i said this and it will tell me that if you want to get all the titles"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 96.48,
+      "end": 103.2,
+      "text": " then you need to take your API key and after that you need to run this code"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 103.2,
+      "end": 110.4,
+      "text": " so the first thing i am going to do is i need all the articles and all the responses"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 110.4,
+      "end": 116.96,
+      "text": " see in fact it has already done it, it has already said the titles of the article"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 116.96,
+      "end": 121.28,
+      "text": " so i think i am good, i think i am good, i didn't even need to do what i did"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 122.0,
+      "end": 131.28,
+      "text": " so what i will do is i will come here and i will make all the articles data is equal to this"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 131.28,
+      "end": 138.24,
+      "text": " i will correct the indentation, my response is r, r is equal to r.json data.getarticles"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 138.24,
+      "end": 141.6,
+      "text": " and i will do speak, not print, i will do speak articles"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 141.6,
+      "end": 146.48,
+      "text": " so i will do one thing, i will do language is equal to in"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 146.56,
+      "end": 152.96,
+      "text": " and it's not a good idea but i am hard coding my API key"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 152.96,
+      "end": 155.6,
+      "text": " hard code means i am writing as it is, i am not bringing it from the variable"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 155.6,
+      "end": 159.2,
+      "text": " but you can bring it from the variable, you can bring it from the variable by doing news API"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 159.2,
+      "end": 163.76,
+      "text": " but let me do the same thing, i will write news API, what is going on"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 163.76,
+      "end": 170.0,
+      "text": " so i did f here, news API is mine, i will run and i will say tell me news"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 170.48,
+      "end": 177.76,
+      "text": " initializing jarvis, jarvis tell me the news"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 180.24,
+      "end": 184.88,
+      "text": " we seek save your mothers and sisters, harbhajan slams ekmal for remarks on archdeep"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 184.88,
+      "end": 193.28,
+      "text": " xpac cricketer apologizes, news 18, stock market live, markets end flat, nifty below 23,300"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 193.28,
+      "end": 199.84,
+      "text": " nifty mid cap 100 up 440 points, the financial express, supriyasu will take stig at bunei"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 200.48,
+      "end": 206.56,
+      "text": " awesome, so it is telling me the news, so it opened google, facebook, youtube, linkedin"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 206.56,
+      "end": 210.0,
+      "text": " it played music and it told me the news, awesome"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 210.0,
+      "end": 214.0,
+      "text": " ok guys, so what we are going to do now, we will do integration with open AI"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 214.0,
+      "end": 223.28,
+      "text": " which means that we will power our assistant with the help of AI"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 223.28,
+      "end": 228.0,
+      "text": " so see what we will do now, in else, suppose there is no news in our request"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 228.0,
+      "end": 232.0,
+      "text": " this is also not done, google, open linkedin, so what we will do, finally we will say"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 232.0,
+      "end": 242.0,
+      "text": " go to open AI and let open AI handle the request, ok"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 242.0,
+      "end": 250.0,
+      "text": " awesome, and here what we will do, simply here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 250.0,
+      "end": 254.0,
+      "text": " i will come to my open AI account, so see what happens in open AI account"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 254.0,
+      "end": 260.0,
+      "text": " so when you will go to open AI account, if you will simply write open AI API on google"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 260.0,
+      "end": 266.0,
+      "text": " so what will happen, open AI has an API, you can use it in python"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 266.0,
+      "end": 270.0,
+      "text": " you can use it in different languages, like i will show you a quick start guide"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 270.0,
+      "end": 278.0,
+      "text": " what you have to do, simply like this, first of all, i will show you"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 278.0,
+      "end": 282.0,
+      "text": " you have to make this client, so i will copy this code, and first of all"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 282.0,
+      "end": 288.0,
+      "text": " what we will do, we will make a new client, i will make it client.py"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 288.0,
+      "end": 292.0,
+      "text": " and i will write it here, otherwise it is making my code difficult"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 292.0,
+      "end": 296.0,
+      "text": " and i will simply install the open AI package, so i will write here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 296.0,
+      "end": 304.0,
+      "text": " pip install open AI, which i should write here, ok i should write here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 304.0,
+      "end": 308.0,
+      "text": " and finally i should make a client with my open AI API key"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 308.0,
+      "end": 314.0,
+      "text": " i will use this client, i will not use this client, because my environment variable does not have my API key"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 314.0,
+      "end": 320.0,
+      "text": " so i will put my API key here, you keep your API key hidden, people don't want to see their open AI API key"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 320.0,
+      "end": 324.0,
+      "text": " but for now i will put my open AI API key here, and then what we will do"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 324.0,
+      "end": 330.0,
+      "text": " we will use their completion API, so how to use completion API, we have to do it like this"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 330.0,
+      "end": 334.0,
+      "text": " i will show you how to do it, so what i will do, first of all"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 334.0,
+      "end": 342.0,
+      "text": " let's put it up, and here we will make a new secret, i will name it Jarvis"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 342.0,
+      "end": 346.0,
+      "text": " and i will delete it later, for now you will see that it will not work"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 346.0,
+      "end": 351.0,
+      "text": " this key will not work, so don't even try, and if you try it will not work"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 351.0,
+      "end": 356.0,
+      "text": " because i will delete this key while making this video, but you keep your API key hidden from people"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 356.0,
+      "end": 360.0,
+      "text": " because people exhaust it and you will not even know, now you can see that we did this"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 360.0,
+      "end": 365.0,
+      "text": " now i will simply copy this code, as i told you, i will copy the code from here to here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 365.0,
+      "end": 372.0,
+      "text": " and after copying this i will paste it here, so what we did first is that we told it who it is"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 372.0,
+      "end": 379.0,
+      "text": " so i wrote here, it has written, you are a poetic assistant skilled in explaining complex programming concepts with creative flair"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 379.0,
+      "end": 383.0,
+      "text": " now see here, compose a poem that explains the concept of recursion in programming"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 383.0,
+      "end": 388.0,
+      "text": " so let's see what it gives, here i will do this, you are a virtual assistant"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 388.0,
+      "end": 405.0,
+      "text": " virtual assistant named Jarvis, skilled in general tasks like Alexa and Google Cloud"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 405.0,
+      "end": 411.0,
+      "text": " now role user or content, compose a poem that explains the concept of recursion in programming"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 411.0,
+      "end": 421.0,
+      "text": " i wrote it like this, i will not ask him, i will ask him what is coding, i will run it"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 421.0,
+      "end": 427.0,
+      "text": " and hopefully it will work, let's see if it works or not, and here it told me"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 427.0,
+      "end": 433.0,
+      "text": " content is equal to, and it told me in choices.message what is coding"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 433.0,
+      "end": 440.0,
+      "text": " and here it is coding, and i will have to do its .content message, if i am not wrong"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 440.0,
+      "end": 447.0,
+      "text": " and here we see, chat completion example, just one strength of a model, explaining recursion is available on something"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 447.0,
+      "end": 455.0,
+      "text": " now i did .message, so i got the message here, but i just want to see that what it is showing me"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 455.0,
+      "end": 464.0,
+      "text": " role is equal to assistant, so this chat completion message object it has given me, i want its content"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 464.0,
+      "end": 472.0,
+      "text": " so if i print its .content, so what will i get, let me tell you that open AI's API is paid"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 472.0,
+      "end": 479.0,
+      "text": " yes i got the content, open AI's API is paid, i am telling you earlier, paid means you will have to pay"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 479.0,
+      "end": 486.0,
+      "text": " then only you will be able to do integration of AI, and if you have not added in your open AI account, i am not saying that you have to do it"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 486.0,
+      "end": 493.0,
+      "text": " but i am just telling you that if you want to take your Jarvis to the next level, add 5$ in your open AI account"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 493.0,
+      "end": 500.0,
+      "text": " let me tell you that this 5$ is going to be worth it for you, i am not selling anything here of open AI, but i am telling you"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 500.0,
+      "end": 509.0,
+      "text": " that if you do this, then you will take your projects to the next level, and if you do 5$ once, then i will show you the usage"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 509.0,
+      "end": 517.0,
+      "text": " how little it is used, it is very less used, i mean i put 5$ once and my usage is around 1$ now"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 517.0,
+      "end": 526.0,
+      "text": " i mean i play around a little, see we have used less than 0.01$, we have requested only 2$ and we have used so little"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 527.0,
+      "end": 540.0,
+      "text": " so let's start the work, first of all i will pull my open AI documentation, and i have already shown you how to do it in open AI documentation"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 540.0,
+      "end": 551.0,
+      "text": " so we have already made a file whose name was client.py, so this time we are going to make a function, whose name we will keep open AI"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 551.0,
+      "end": 562.0,
+      "text": " so let's bring this here, and its name is def AI process, and here we will put command, and we will put all these things in it"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 562.0,
+      "end": 566.0,
+      "text": " in which we will make a client, and after making a client we will do all this of open AI, we will put completion API, so we will do all these things"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 566.0,
+      "end": 570.0,
+      "text": "in it"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 570.0,
+      "end": 575.0,
+      "text": " so let's take imports, we will copy this, and here completion is equal to this, messages is equal to this, and here what will happen, our command"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 575.0,
+      "end": 580.0,
+      "text": "will come"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 580.0,
+      "end": 588.0,
+      "text": " instead of word is coding, our command will come, so i will write command here, and what we will do in return, we will return this message"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 589.0,
+      "end": 598.0,
+      "text": " so what will happen if nothing is matched, so what we will do, we will use AI process, and we will hold command C, and we will write output is equal"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 598.0,
+      "end": 607.0,
+      "text": "to this"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 607.0,
+      "end": 615.0,
+      "text": " and finally we will speak output, so let's ask him something, we will ask him"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 616.0,
+      "end": 623.0,
+      "text": " Jarvis, who is Hrithik Roshan"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 623.0,
+      "end": 631.0,
+      "text": " Hrithik Roshan is a popular Indian actor who works in Bollywood films, he is known for his versatile acting skills and has starred in several"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 631.0,
+      "end": 639.0,
+      "text": "successful movies such as Kho Na, PR Hai, Koi, Mil Gaya, Dhoom 2 and the Kareesh series"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 639.0,
+      "end": 649.0,
+      "text": " so this AI will work only when you will use open AI, now i will ask Jarvis again, and this time i will ask Jarvis who is Donald Trump"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 649.0,
+      "end": 660.0,
+      "text": " Jarvis, Jarvis, Jarvis, who is Donald Trump"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 661.0,
+      "end": 672.0,
+      "text": " Donald Trump is a businessman, television personality and the 45th president of the United States, he served as president from January 20, 2017"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 672.0,
+      "end": 678.0,
+      "text": " before wrapping this video, I want to show you one more thing, that is how you can use GTTS, so what is GTTS, it is Google's text to speech, you have"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 678.0,
+      "end": 684.0,
+      "text": "to simply install pip"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 684.0,
+      "end": 689.5,
+      "text": " and this is a little better, this text to speech is a little better than Microsoft's free text to speech, but let me tell you, it runs for a while"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 689.5,
+      "end": 695.0,
+      "text": "for free, then you have to take Google cloud subscription"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 695.0,
+      "end": 699.5,
+      "text": " so if you are doing this project on a large level, then you have to use GTTS only, so how will GTTS work, these are three lines of code, so I will do"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 699.5,
+      "end": 704.0,
+      "text": "one thing here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 704.0,
+      "end": 711.0,
+      "text": " that my speech function, I will make it speak old and make a new speech function, and I will write here speak text and I will take this import at the"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 711.0,
+      "end": 718.0,
+      "text": "top"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 718.0,
+      "end": 730.0,
+      "text": " and I will do something wrong, no, import GTTS and here I will do it like this, so GTTS is equal to save and here its name is hello.mp3, I will make"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 730.0,
+      "end": 742.0,
+      "text": "its name temp.mp3"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 742.0,
+      "end": 752.0,
+      "text": " and I will give text in GTTS and it will make the text mp3 and after that I will do one more thing here, give short responses, I told it to give"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 752.0,
+      "end": 762.0,
+      "text": "short responses, so it will give short responses"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 762.0,
+      "end": 770.0,
+      "text": " now I have to play it, so to play mp3 I will go to chat gpt, I will not think much, how to play mp3 in pygame, so pygame is a library through which"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 770.0,
+      "end": 778.0,
+      "text": "you can play mp3 files, so first we will do pip install pygame so that we do not have any problem, I did pip install pygame and you see it has been"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 778.0,
+      "end": 786.0,
+      "text": "installed here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 786.0,
+      "end": 799.0,
+      "text": " ok, so now we will put the method of playing music in this function, so we will say play temp.mp3, initialize it and here our temp.mp3 will be played"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 799.0,
+      "end": 812.0,
+      "text": "and the import of pygame will go at the top, it is not a good idea to put the import in between"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 812.0,
+      "end": 826.5,
+      "text": " ok, now see what I will do, I will run it and ask it what is force, ok, initializing Jarvis, Jarvis, Jarvis, ok, so it is saying permission denied"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 826.5,
+      "end": 841.0,
+      "text": "temp.mp3, now that's a problem, let me see what is the problem"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 842.0,
+      "end": 851.67,
+      "text": " permission denied temp.mp3, why, why, why, why, why, why, why, I will have to see why temp.mp3 was permission denied, error 13 permission denied"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 851.67,
+      "end": 861.33,
+      "text": "temp.mp3, I will ask this code to chat gpt, so I will ask this code why it is coming, so actually what is this file of my python is not able to access"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 861.33,
+      "end": 871.0,
+      "text": "this file which is a problem"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 872.0,
+      "end": 885.5,
+      "text": " let me see what is the problem, I will run it again, initializing Jarvis, Jarvis, Jarvis, ok, so it is saying permission denied, it is not able to"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 885.5,
+      "end": 899.0,
+      "text": "write, why, initializing Jarvis, so it did initializing Jarvis, so I will do one thing, when finally everything will run, I will remove temp.mp3"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 899.0,
+      "end": 913.0,
+      "text": " so for that we will use os.remove, so it is not able to replace it, so I will import os and os.remove temp.mp3, I hope this is correct function,"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 913.0,
+      "end": 927.0,
+      "text": "remove function removes, ok, let's try this, come on, initializing Jarvis, ok, so it is saying"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 927.0,
+      "end": 936.33,
+      "text": " can not access the file because it is being used by another process, so I will unload it and try this, I have unloaded it instead of loading,"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 936.33,
+      "end": 945.67,
+      "text": "initializing Jarvis, ok, it is saying takes no argument, ok, so unload does not have to give any argument, ok, ok, initializing Jarvis, Jarvis, Yeah,"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 945.67,
+      "end": 955.0,
+      "text": "what is force, force is a push or pull that can cause an object to move, ok, so it is saying"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 957.0,
+      "end": 961.0,
+      "text": " stop or change its direction or shape"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 961.0,
+      "end": 965.0,
+      "text": " it is typically measured in units such as newtons"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 965.0,
+      "end": 969.0,
+      "text": " so now see what is the benefit of using gttx"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 969.0,
+      "end": 973.0,
+      "text": " in gttx you can control speed and many other things"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 973.0,
+      "end": 977.0,
+      "text": " you can change voice, by the way you can change voice in this too"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 977.0,
+      "end": 981.0,
+      "text": " in pyttsx too, but if you want clarity, you want professional sound"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 981.0,
+      "end": 985.0,
+      "text": " then you can use 11levs, 11levs is an option"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 985.0,
+      "end": 989.0,
+      "text": " they have an api too, so you can do something like this"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 989.0,
+      "end": 993.0,
+      "text": " now loading and unloading music is a bit difficult, so i will ask chat gpt"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 993.0,
+      "end": 997.0,
+      "text": " can i announce"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 997.0,
+      "end": 1001.0,
+      "text": " gttx voice directly without"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1001.0,
+      "end": 1005.0,
+      "text": " mp3, i think there should be some way, you can use"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1005.0,
+      "end": 1009.0,
+      "text": " to generate speech, ok, so here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1009.0,
+      "end": 1013.0,
+      "text": " they are saying something like this, you can do gttx write to fp, audio data"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1013.0,
+      "end": 1017.0,
+      "text": " i am not getting it, it is looking complicated, but again"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1017.0,
+      "end": 1021.0,
+      "text": " i think gttx does not have any direct functionality to speak"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1021.0,
+      "end": 1025.0,
+      "text": " is there any speak function"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1025.0,
+      "end": 1029.0,
+      "text": " speak function gttx"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1029.0,
+      "end": 1033.0,
+      "text": " because you have to write it and then it will be a problem"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1033.0,
+      "end": 1037.0,
+      "text": " so they are saying something like this, do it in temp file like i did"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1037.0,
+      "end": 1041.0,
+      "text": " but again i think this works, so it is fun"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1041.0,
+      "end": 1045.0,
+      "text": " and your pyttsx will be fast because"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1045.0,
+      "end": 1049.0,
+      "text": " pyttsx is microsoft windows, you understand"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1049.0,
+      "end": 1053.0,
+      "text": " save function works well in apple, i have seen one thing, their pronunciation is better"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1053.0,
+      "end": 1057.0,
+      "text": " so if you have mac, then things will be better, with that said"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1057.0,
+      "end": 1061.0,
+      "text": " our first project is over, add more functionalities, my api"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1061.0,
+      "end": 1065.0,
+      "text": " don't use cryptographer and i will move on to chapter"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1065.0,
+      "end": 1069.0,
+      "text": " not chapter, mega project 2, so this was mega project 1, jarvis"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1069.0,
+      "end": 1073.0,
+      "text": " and now we will move to mega project 2, which is an awesome project"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1073.0,
+      "end": 1077.0,
+      "text": " you will also enjoy, you will say what have you made, let's go to the project"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1081.0,
+      "end": 1085.0,
+      "text": " so guys this is a whatsapp account, which i will use"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1085.0,
+      "end": 1089.0,
+      "text": " to create a bot, which will reply to messages, let's see"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1089.0,
+      "end": 1093.0,
+      "text": " if we can do this using python, so the first thing i am going to do"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1093.0,
+      "end": 1097.0,
+      "text": " is that i will open mega project 2"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1097.0,
+      "end": 1101.0,
+      "text": " to open mega project 2, i will simply go to"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1101.0,
+      "end": 1105.0,
+      "text": " the desired folder, and after this i will simply"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1105.0,
+      "end": 1109.0,
+      "text": " create a folder, mega project 2"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1109.0,
+      "end": 1113.0,
+      "text": " and mega project 2 i have made in ultimate python course"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1113.0,
+      "end": 1117.0,
+      "text": " i will open it in vs code, what is this"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1117.0,
+      "end": 1121.0,
+      "text": " who is messaging, no problem i am making a bot, i don't need to reply"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1121.0,
+      "end": 1125.0,
+      "text": " come on, come on, so i have opened mega project 2"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1125.0,
+      "end": 1129.0,
+      "text": " i will make a main.py, and i am going to use"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1129.0,
+      "end": 1133.0,
+      "text": " a module named pyautogui, so i will write here, install pyautogui"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1133.0,
+      "end": 1137.0,
+      "text": " and as soon as you install pyautogui,"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1137.0,
+      "end": 1141.0,
+      "text": " it will be installed, so i have installed pyautogui, now"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1141.0,
+      "end": 1145.0,
+      "text": " what i will do is, i will go to the documentation of pyautogui, so we will"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1145.0,
+      "end": 1149.0,
+      "text": " write here, pyautogui docs, and i will tell you"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1149.0,
+      "end": 1153.0,
+      "text": " how to write pyautogui docs, and i am going to use chat gpt"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1153.0,
+      "end": 1157.0,
+      "text": " so here see what pyautogui does, it tells you"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1157.0,
+      "end": 1161.0,
+      "text": " where is your cursor, so first of all we will import"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1161.0,
+      "end": 1165.0,
+      "text": " i will not close mega project 1, because i am going to take some code from there"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1165.0,
+      "end": 1169.0,
+      "text": " pyautogui, and here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1169.0,
+      "end": 1173.0,
+      "text": " what i will do, i will write while true, and i will write"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1173.0,
+      "end": 1177.0,
+      "text": " pyautogui. and here there was a function"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1177.0,
+      "end": 1181.0,
+      "text": " which used to tell us, what is xy coordinate"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1181.0,
+      "end": 1185.0,
+      "text": " so what was that function, i think"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1185.0,
+      "end": 1189.0,
+      "text": " get coordinate something, let me check"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1189.0,
+      "end": 1193.0,
+      "text": " i think pyautogui."
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1193.0,
+      "end": 1197.0,
+      "text": " so i will do one thing, why not ask chat gpt, i can see it from top to bottom"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1197.0,
+      "end": 1201.0,
+      "text": " i will get that function, general functions"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1201.0,
+      "end": 1205.0,
+      "text": " if we go to cheat sheet, we will get something, yes position"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1205.0,
+      "end": 1209.0,
+      "text": " see pyautogui.position, this function tells us the position of our cursor"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1209.0,
+      "end": 1213.0,
+      "text": " so what i will do, first of all"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1213.0,
+      "end": 1217.0,
+      "text": " we have to find pyautogui.position"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1217.0,
+      "end": 1221.0,
+      "text": " so i will run this program"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1221.0,
+      "end": 1225.0,
+      "text": " and it will drag from here to here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1225.0,
+      "end": 1229.0,
+      "text": " and will copy this conversation"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1229.0,
+      "end": 1233.0,
+      "text": " and finally i will give this conversation to openai, which will give me a response"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1233.0,
+      "end": 1237.0,
+      "text": " so my first job is to drag from here to here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1237.0,
+      "end": 1241.0,
+      "text": " so what i will do, first of all"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1241.0,
+      "end": 1245.0,
+      "text": " i will take the position of all icons, so what we will do"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1245.0,
+      "end": 1249.0,
+      "text": " first of all we will run this program"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1249.0,
+      "end": 1253.0,
+      "text": " and if i talk about this, which is my chrome icon"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1253.0,
+      "end": 1257.0,
+      "text": " where is it, in which position it is, actually i am not printing"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1257.0,
+      "end": 1261.0,
+      "text": " i should print it, a is equal to a, and print a"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1261.0,
+      "end": 1265.0,
+      "text": " i think then it will give me the position, is it giving me the position"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1265.0,
+      "end": 1269.0,
+      "text": " yes, so as my mouse moves, it will give me the position"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1269.0,
+      "end": 1273.0,
+      "text": " so if i talk here, 16, 39, 14, 12"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1273.0,
+      "end": 1277.0,
+      "text": " 16, 39, 14, 12, this is the position it has given me"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1277.0,
+      "end": 1281.0,
+      "text": " now what i will do, i will make it a little smaller"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1281.0,
+      "end": 1285.0,
+      "text": " and i will take the position here, this is 975"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1285.0,
+      "end": 1289.0,
+      "text": " i will take the position here, where my mouse is"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1289.0,
+      "end": 1293.0,
+      "text": " 1003, 237"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1293.0,
+      "end": 1297.0,
+      "text": " 1003, 237"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1297.0,
+      "end": 1301.0,
+      "text": " so where we have to go, while tracking, we have to go here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1301.0,
+      "end": 1305.0,
+      "text": " now what is this position, to see this i will move it aside and see what is the position"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1305.0,
+      "end": 1309.0,
+      "text": " oops, i clicked by mistake, here i have to keep the mouse"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1309.0,
+      "end": 1313.0,
+      "text": " 2187, 1258, 2187, 1258, 2187, 1258"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1313.0,
+      "end": 1317.0,
+      "text": " ok, i have to go here, now what i will do, simply"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1317.0,
+      "end": 1321.0,
+      "text": " i will come to chat gpt, i will stop this program"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1321.0,
+      "end": 1325.0,
+      "text": " i will tell chat gpt, write a"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1325.0,
+      "end": 1329.0,
+      "text": " py auto gui script, which will"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1329.0,
+      "end": 1333.0,
+      "text": " first click, click"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1333.0,
+      "end": 1337.0,
+      "text": " on an icon at this position and then"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1337.0,
+      "end": 1341.0,
+      "text": " drag from this position"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1341.0,
+      "end": 1345.0,
+      "text": " to this position to select a text and then"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1345.0,
+      "end": 1349.0,
+      "text": " copy it to the clipboard, then"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1349.0,
+      "end": 1353.0,
+      "text": " take it in a variable, ok let's see what it does"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1353.0,
+      "end": 1357.0,
+      "text": " so it is telling me that you have to take it from here to here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1357.0,
+      "end": 1361.0,
+      "text": " we will install piper clip, let me tell you what is piper clip"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1361.0,
+      "end": 1365.0,
+      "text": " so piper clip install, what is piper clip"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1365.0,
+      "end": 1369.0,
+      "text": " let me tell you, piper clip, piper clip is basically a program"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1369.0,
+      "end": 1373.0,
+      "text": " which helps you, see i already have this installed, which helps you"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1373.0,
+      "end": 1377.0,
+      "text": " to pick content from clipboard, so if you want to pick content from clipboard"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1377.0,
+      "end": 1381.0,
+      "text": " you have to click on unit piper clip, now it will tell you how to"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1381.0,
+      "end": 1385.0,
+      "text": " work, so i will copy this program and"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1385.0,
+      "end": 1389.0,
+      "text": " start from there, see it has told me how, what is happening"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1389.0,
+      "end": 1393.0,
+      "text": " with comments, let's do one thing, here we"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1393.0,
+      "end": 1397.0,
+      "text": " make a new program.py, so that our learnings are there, i don't want to"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1397.0,
+      "end": 1401.0,
+      "text": " delete anything, we started from here and then we came here, so see what it is doing"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1401.0,
+      "end": 1405.0,
+      "text": " let's see what it is doing, it has imported required modules"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1405.0,
+      "end": 1409.0,
+      "text": " then it is clicking on the chrome icon"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1409.0,
+      "end": 1413.0,
+      "text": " i am writing here chrome icon at this coordinates, time.sleep is waiting"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1413.0,
+      "end": 1417.0,
+      "text": " for a second, click is registered, then it is moving"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1417.0,
+      "end": 1421.0,
+      "text": " from this to this, now it is dragging to this position"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1421.0,
+      "end": 1425.0,
+      "text": " and then it is pressing ctrl c so that you can copy the text"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1425.0,
+      "end": 1429.0,
+      "text": " then we have the text and finally we have the text"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1429.0,
+      "end": 1433.0,
+      "text": " so what we will do, we will print this text, let's see if this script is working"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1433.0,
+      "end": 1437.0,
+      "text": " let's run this program, ok"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1437.0,
+      "end": 1441.0,
+      "text": " ok, what is this, while dragging"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1441.0,
+      "end": 1445.0,
+      "text": " while dragging why the text is not selected"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1445.0,
+      "end": 1449.0,
+      "text": " if i drag like this, then the text should be selected"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1449.0,
+      "end": 1453.0,
+      "text": " ok i got the point, i have to do it like this"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1453.0,
+      "end": 1457.0,
+      "text": " i have to bring it down, so what i have to do"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1457.0,
+      "end": 1461.0,
+      "text": " i have to come till here, i have to drag till here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1461.0,
+      "end": 1465.0,
+      "text": " i have to drag from here to here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1465.0,
+      "end": 1469.0,
+      "text": " so i will change it, from 1003"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1469.0,
+      "end": 1473.0,
+      "text": " we were coming till 237, then we were going to 2187"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1473.0,
+      "end": 1477.0,
+      "text": " and till 1258, ok"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1477.0,
+      "end": 1481.0,
+      "text": " so i will run this program again, and i will try to see"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1481.0,
+      "end": 1485.0,
+      "text": " what are the coordinates here, here, here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1485.0,
+      "end": 1489.0,
+      "text": " if we come here also, what are the coordinates, if i drag from here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1489.0,
+      "end": 1493.0,
+      "text": " or if i drag from here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1493.0,
+      "end": 1497.0,
+      "text": " then what are the coordinates here, ok let's see"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1497.0,
+      "end": 1501.0,
+      "text": " and the coordinates here are 1499, 1263, 1499, 1263, 1499"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1501.0,
+      "end": 1505.0,
+      "text": " i will just change it to 1499, 1268"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1505.0,
+      "end": 1509.0,
+      "text": " let's see what is the scene"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1509.0,
+      "end": 1513.0,
+      "text": " oops, it got a little bit wrong, let's run it again"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1513.0,
+      "end": 1517.0,
+      "text": " ok"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1517.0,
+      "end": 1521.0,
+      "text": " it didn't work from here to here, let's make it a little bit more less"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1521.0,
+      "end": 1525.0,
+      "text": " let's make 1268 to 268, let's see"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1525.0,
+      "end": 1529.0,
+      "text": " basically our chat should be copied"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1529.0,
+      "end": 1533.0,
+      "text": " what happened, it got a little bit wrong"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1533.0,
+      "end": 1537.0,
+      "text": " it got a little bit wrong, so i have to drag, let's run it again"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1537.0,
+      "end": 1541.0,
+      "text": " i have to start from here, why not from here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1541.0,
+      "end": 1545.0,
+      "text": " let's drag from here, but you know what the problem is"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1545.0,
+      "end": 1549.0,
+      "text": " if we drag like this, in fact if we drag like this"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1549.0,
+      "end": 1553.0,
+      "text": " then the problem is there, we have to drag from here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1553.0,
+      "end": 1557.0,
+      "text": " all the way till here, let's try it again"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1557.0,
+      "end": 1561.0,
+      "text": " so if i run this program"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1561.0,
+      "end": 1565.0,
+      "text": " it's not working, it's not working, it's not working, it's not working from where we are starting"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1565.0,
+      "end": 1569.0,
+      "text": " i will change the coordinates again, but i am going to get this done"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1569.0,
+      "end": 1573.0,
+      "text": " anyways, 992207, first of all i will write 992207"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1573.0,
+      "end": 1577.0,
+      "text": " 992207"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1577.0,
+      "end": 1581.0,
+      "text": " and after this we will go all the way till"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1581.0,
+      "end": 1585.0,
+      "text": " 2208, 2208, 1285"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1585.0,
+      "end": 1589.0,
+      "text": " 2208, 1285, 1286"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1589.0,
+      "end": 1593.0,
+      "text": " let's stop it"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1593.0,
+      "end": 1597.0,
+      "text": " and let's see if our work is working or not"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1597.0,
+      "end": 1601.0,
+      "text": " ok, we got it, we got the chat"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1601.0,
+      "end": 1605.0,
+      "text": " now see here, is it coming?"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1605.0,
+      "end": 1609.0,
+      "text": " see here, i have put my name in this dummy account, now see"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1609.0,
+      "end": 1613.0,
+      "text": " what naruto said, what rohan das said, then naruto said something, then rohan das said something"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1613.0,
+      "end": 1617.0,
+      "text": " now what i will do is, i will say from open AI's API"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1617.0,
+      "end": 1621.0,
+      "text": " if you don't know about open AI's API, let me tell you something"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1621.0,
+      "end": 1625.0,
+      "text": " that open AI's API, you can go"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1625.0,
+      "end": 1629.0,
+      "text": " open AI's API, you will get the overview of the API, if you log in"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1629.0,
+      "end": 1633.0,
+      "text": " then you will get your API key, open AI key"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1633.0,
+      "end": 1637.0,
+      "text": " that is paid, i have bought it, so i am able to do all this"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1637.0,
+      "end": 1641.0,
+      "text": " if you haven't bought it, then i will recommend you to buy it"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1641.0,
+      "end": 1645.0,
+      "text": " it is a recharge of 5 dollars, 400 rupees, by eating a pizza"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1645.0,
+      "end": 1649.0,
+      "text": " you can make projects for free for a year, if you are in first year of college"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1649.0,
+      "end": 1653.0,
+      "text": " then you can make projects for free for 4 years, it takes less usage"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1653.0,
+      "end": 1657.0,
+      "text": " you should have an API key, don't steal my API key, because i will delete it"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1657.0,
+      "end": 1661.0,
+      "text": " i am telling you directly, so see here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1661.0,
+      "end": 1665.0,
+      "text": " we have used this code, and when we have made a client, then what we have to do"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1665.0,
+      "end": 1669.0,
+      "text": " that in open AI, we have to give API key like this, so i have already"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1669.0,
+      "end": 1673.0,
+      "text": " written this program for you, so i will copy client.py"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1673.0,
+      "end": 1677.0,
+      "text": " and i will make client.py here also, just so that you have"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1677.0,
+      "end": 1681.0,
+      "text": " client.py, now see here the text selected"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1681.0,
+      "end": 1685.0,
+      "text": " is selected only, i want that here a click happens, that this text gets deselected"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1685.0,
+      "end": 1689.0,
+      "text": " so what i will do, i will come to my mega project 2, i will close mega project 1"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1689.0,
+      "end": 1693.0,
+      "text": " in mega project 2, i will say, once you have done ctrl c"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1693.0,
+      "end": 1697.0,
+      "text": " then what you have to do, click on keypyautogui."
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1697.0,
+      "end": 1701.0,
+      "text": " click on register, let's see if it works or not, so yes"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1701.0,
+      "end": 1705.0,
+      "text": " it got selected, a click should also be there, a click should also be there please"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1705.0,
+      "end": 1709.0,
+      "text": " a click didn't happen, i don't know why, a click should have been there"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1709.0,
+      "end": 1713.0,
+      "text": " but i think i have to tell it where to click, so i will click here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1713.0,
+      "end": 1717.0,
+      "text": " and after clicking here"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1717.0,
+      "end": 1721.0,
+      "text": " i hope it will deselect, so see here i have done like this"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1721.0,
+      "end": 1725.0,
+      "text": " and a click should have deselected, if it clicks"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1725.0,
+      "end": 1729.0,
+      "text": " it is not deselecting, here it is deselecting, so"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1729.0,
+      "end": 1733.0,
+      "text": " i will have to do one thing, i have to click here on 21081286"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1733.0,
+      "end": 1737.0,
+      "text": " so we started from top, we came down"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1737.0,
+      "end": 1741.0,
+      "text": " then we came here and clicked, we have to click little up"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1741.0,
+      "end": 1745.0,
+      "text": " or how about i click here, so what is this"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1745.0,
+      "end": 1749.0,
+      "text": " you see i have renamed it, i have named it getcursors.py"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1749.0,
+      "end": 1753.0,
+      "text": " i have named it openai.py, i have named it 300.bot.py"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1753.0,
+      "end": 1757.0,
+      "text": " pip install openai, ok openai"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1757.0,
+      "end": 1761.0,
+      "text": " with this openai package will be installed, let's install it"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1761.0,
+      "end": 1765.0,
+      "text": " but i come back to the bot and where i have to click, i have to click on this place"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1765.0,
+      "end": 1769.0,
+      "text": " where clicking will deselect"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1769.0,
+      "end": 1773.0,
+      "text": " so i will copy this and see"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1773.0,
+      "end": 1777.0,
+      "text": " i am just trying and i want everything to be fine"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1777.0,
+      "end": 1781.0,
+      "text": " so now what we will do here is we will run this program again"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1781.0,
+      "end": 1785.0,
+      "text": " and see what happens, so it came from top, it selected"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1785.0,
+      "end": 1789.0,
+      "text": " then finally what it did, it minimized"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1789.0,
+      "end": 1793.0,
+      "text": " i will run this code"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1793.0,
+      "end": 1797.0,
+      "text": " and it is telling me"
+    },
+    {
+      "number": "21",
+      "title": "part21",
+      "start": 1797.0,
+      "end": 1801.0,
+      "text": " that i am on point from 999"
+    }
+  ],
+  "text": " and what we will do here is we will request.get and now i will go to chat gpt and what i will say to chat gpt babu, chat gpt babu, see i am a person who uses AI i will say to chat gpt babu that help me fetch headlines from this so it will tell me what is the format in news API, so it is telling me that you can do it this way request.geturldata is equal to request.json you can do and after doing this you will get json and after this you will get articles in articles, so i will show you how it works so i put my API key here first and see it becomes a little easy by using AI so i need all the titles in the list, so i will do one thing i will say that i need all the titles in a list, see i can do this work by using for loop but what i will do is i will say that this is how it looks like and i will not get the data from chat gpt, i just want to get the format so i will do one thing, i will reduce this and i will say that this is the format i just need titles from this, i said this and it will tell me that if you want to get all the titles then you need to take your API key and after that you need to run this code so the first thing i am going to do is i need all the articles and all the responses see in fact it has already done it, it has already said the titles of the article so i think i am good, i think i am good, i didn't even need to do what i did so what i will do is i will come here and i will make all the articles data is equal to this i will correct the indentation, my response is r, r is equal to r.json data.getarticles and i will do speak, not print, i will do speak articles so i will do one thing, i will do language is equal to in and it's not a good idea but i am hard coding my API key hard code means i am writing as it is, i am not bringing it from the variable but you can bring it from the variable, you can bring it from the variable by doing news API but let me do the same thing, i will write news API, what is going on so i did f here, news API is mine, i will run and i will say tell me news initializing jarvis, jarvis tell me the news we seek save your mothers and sisters, harbhajan slams ekmal for remarks on archdeep xpac cricketer apologizes, news 18, stock market live, markets end flat, nifty below 23,300 nifty mid cap 100 up 440 points, the financial express, supriyasu will take stig at bunei awesome, so it is telling me the news, so it opened google, facebook, youtube, linkedin it played music and it told me the news, awesome ok guys, so what we are going to do now, we will do integration with open AI which means that we will power our assistant with the help of AI so see what we will do now, in else, suppose there is no news in our request this is also not done, google, open linkedin, so what we will do, finally we will say go to open AI and let open AI handle the request, ok awesome, and here what we will do, simply here i will come to my open AI account, so see what happens in open AI account so when you will go to open AI account, if you will simply write open AI API on google so what will happen, open AI has an API, you can use it in python you can use it in different languages, like i will show you a quick start guide what you have to do, simply like this, first of all, i will show you you have to make this client, so i will copy this code, and first of all what we will do, we will make a new client, i will make it client.py and i will write it here, otherwise it is making my code difficult and i will simply install the open AI package, so i will write here pip install open AI, which i should write here, ok i should write here and finally i should make a client with my open AI API key i will use this client, i will not use this client, because my environment variable does not have my API key so i will put my API key here, you keep your API key hidden, people don't want to see their open AI API key but for now i will put my open AI API key here, and then what we will do we will use their completion API, so how to use completion API, we have to do it like this i will show you how to do it, so what i will do, first of all let's put it up, and here we will make a new secret, i will name it Jarvis and i will delete it later, for now you will see that it will not work this key will not work, so don't even try, and if you try it will not work because i will delete this key while making this video, but you keep your API key hidden from people because people exhaust it and you will not even know, now you can see that we did this now i will simply copy this code, as i told you, i will copy the code from here to here and after copying this i will paste it here, so what we did first is that we told it who it is so i wrote here, it has written, you are a poetic assistant skilled in explaining complex programming concepts with creative flair now see here, compose a poem that explains the concept of recursion in programming so let's see what it gives, here i will do this, you are a virtual assistant virtual assistant named Jarvis, skilled in general tasks like Alexa and Google Cloud now role user or content, compose a poem that explains the concept of recursion in programming i wrote it like this, i will not ask him, i will ask him what is coding, i will run it and hopefully it will work, let's see if it works or not, and here it told me content is equal to, and it told me in choices.message what is coding and here it is coding, and i will have to do its .content message, if i am not wrong and here we see, chat completion example, just one strength of a model, explaining recursion is available on something now i did .message, so i got the message here, but i just want to see that what it is showing me role is equal to assistant, so this chat completion message object it has given me, i want its content so if i print its .content, so what will i get, let me tell you that open AI's API is paid yes i got the content, open AI's API is paid, i am telling you earlier, paid means you will have to pay then only you will be able to do integration of AI, and if you have not added in your open AI account, i am not saying that you have to do it but i am just telling you that if you want to take your Jarvis to the next level, add 5$ in your open AI account let me tell you that this 5$ is going to be worth it for you, i am not selling anything here of open AI, but i am telling you that if you do this, then you will take your projects to the next level, and if you do 5$ once, then i will show you the usage how little it is used, it is very less used, i mean i put 5$ once and my usage is around 1$ now i mean i play around a little, see we have used less than 0.01$, we have requested only 2$ and we have used so little so let's start the work, first of all i will pull my open AI documentation, and i have already shown you how to do it in open AI documentation so we have already made a file whose name was client.py, so this time we are going to make a function, whose name we will keep open AI so let's bring this here, and its name is def AI process, and here we will put command, and we will put all these things in it in which we will make a client, and after making a client we will do all this of open AI, we will put completion API, so we will do all these things in it so let's take imports, we will copy this, and here completion is equal to this, messages is equal to this, and here what will happen, our command will come instead of word is coding, our command will come, so i will write command here, and what we will do in return, we will return this message so what will happen if nothing is matched, so what we will do, we will use AI process, and we will hold command C, and we will write output is equal to this and finally we will speak output, so let's ask him something, we will ask him Jarvis, who is Hrithik Roshan Hrithik Roshan is a popular Indian actor who works in Bollywood films, he is known for his versatile acting skills and has starred in several successful movies such as Kho Na, PR Hai, Koi, Mil Gaya, Dhoom 2 and the Kareesh series so this AI will work only when you will use open AI, now i will ask Jarvis again, and this time i will ask Jarvis who is Donald Trump Jarvis, Jarvis, Jarvis, who is Donald Trump Donald Trump is a businessman, television personality and the 45th president of the United States, he served as president from January 20, 2017 before wrapping this video, I want to show you one more thing, that is how you can use GTTS, so what is GTTS, it is Google's text to speech, you have to simply install pip and this is a little better, this text to speech is a little better than Microsoft's free text to speech, but let me tell you, it runs for a while for free, then you have to take Google cloud subscription so if you are doing this project on a large level, then you have to use GTTS only, so how will GTTS work, these are three lines of code, so I will do one thing here that my speech function, I will make it speak old and make a new speech function, and I will write here speak text and I will take this import at the top and I will do something wrong, no, import GTTS and here I will do it like this, so GTTS is equal to save and here its name is hello.mp3, I will make its name temp.mp3 and I will give text in GTTS and it will make the text mp3 and after that I will do one more thing here, give short responses, I told it to give short responses, so it will give short responses now I have to play it, so to play mp3 I will go to chat gpt, I will not think much, how to play mp3 in pygame, so pygame is a library through which you can play mp3 files, so first we will do pip install pygame so that we do not have any problem, I did pip install pygame and you see it has been installed here ok, so now we will put the method of playing music in this function, so we will say play temp.mp3, initialize it and here our temp.mp3 will be played and the import of pygame will go at the top, it is not a good idea to put the import in between ok, now see what I will do, I will run it and ask it what is force, ok, initializing Jarvis, Jarvis, Jarvis, ok, so it is saying permission denied temp.mp3, now that's a problem, let me see what is the problem permission denied temp.mp3, why, why, why, why, why, why, why, I will have to see why temp.mp3 was permission denied, error 13 permission denied temp.mp3, I will ask this code to chat gpt, so I will ask this code why it is coming, so actually what is this file of my python is not able to access this file which is a problem let me see what is the problem, I will run it again, initializing Jarvis, Jarvis, Jarvis, ok, so it is saying permission denied, it is not able to write, why, initializing Jarvis, so it did initializing Jarvis, so I will do one thing, when finally everything will run, I will remove temp.mp3 so for that we will use os.remove, so it is not able to replace it, so I will import os and os.remove temp.mp3, I hope this is correct function, remove function removes, ok, let's try this, come on, initializing Jarvis, ok, so it is saying can not access the file because it is being used by another process, so I will unload it and try this, I have unloaded it instead of loading, initializing Jarvis, ok, it is saying takes no argument, ok, so unload does not have to give any argument, ok, ok, initializing Jarvis, Jarvis, Yeah, what is force, force is a push or pull that can cause an object to move, ok, so it is saying stop or change its direction or shape it is typically measured in units such as newtons so now see what is the benefit of using gttx in gttx you can control speed and many other things you can change voice, by the way you can change voice in this too in pyttsx too, but if you want clarity, you want professional sound then you can use 11levs, 11levs is an option they have an api too, so you can do something like this now loading and unloading music is a bit difficult, so i will ask chat gpt can i announce gttx voice directly without mp3, i think there should be some way, you can use to generate speech, ok, so here they are saying something like this, you can do gttx write to fp, audio data i am not getting it, it is looking complicated, but again i think gttx does not have any direct functionality to speak is there any speak function speak function gttx because you have to write it and then it will be a problem so they are saying something like this, do it in temp file like i did but again i think this works, so it is fun and your pyttsx will be fast because pyttsx is microsoft windows, you understand save function works well in apple, i have seen one thing, their pronunciation is better so if you have mac, then things will be better, with that said our first project is over, add more functionalities, my api don't use cryptographer and i will move on to chapter not chapter, mega project 2, so this was mega project 1, jarvis and now we will move to mega project 2, which is an awesome project you will also enjoy, you will say what have you made, let's go to the project so guys this is a whatsapp account, which i will use to create a bot, which will reply to messages, let's see if we can do this using python, so the first thing i am going to do is that i will open mega project 2 to open mega project 2, i will simply go to the desired folder, and after this i will simply create a folder, mega project 2 and mega project 2 i have made in ultimate python course i will open it in vs code, what is this who is messaging, no problem i am making a bot, i don't need to reply come on, come on, so i have opened mega project 2 i will make a main.py, and i am going to use a module named pyautogui, so i will write here, install pyautogui and as soon as you install pyautogui, it will be installed, so i have installed pyautogui, now what i will do is, i will go to the documentation of pyautogui, so we will write here, pyautogui docs, and i will tell you how to write pyautogui docs, and i am going to use chat gpt so here see what pyautogui does, it tells you where is your cursor, so first of all we will import i will not close mega project 1, because i am going to take some code from there pyautogui, and here what i will do, i will write while true, and i will write pyautogui. and here there was a function which used to tell us, what is xy coordinate so what was that function, i think get coordinate something, let me check i think pyautogui. so i will do one thing, why not ask chat gpt, i can see it from top to bottom i will get that function, general functions if we go to cheat sheet, we will get something, yes position see pyautogui.position, this function tells us the position of our cursor so what i will do, first of all we have to find pyautogui.position so i will run this program and it will drag from here to here and will copy this conversation and finally i will give this conversation to openai, which will give me a response so my first job is to drag from here to here so what i will do, first of all i will take the position of all icons, so what we will do first of all we will run this program and if i talk about this, which is my chrome icon where is it, in which position it is, actually i am not printing i should print it, a is equal to a, and print a i think then it will give me the position, is it giving me the position yes, so as my mouse moves, it will give me the position so if i talk here, 16, 39, 14, 12 16, 39, 14, 12, this is the position it has given me now what i will do, i will make it a little smaller and i will take the position here, this is 975 i will take the position here, where my mouse is 1003, 237 1003, 237 so where we have to go, while tracking, we have to go here now what is this position, to see this i will move it aside and see what is the position oops, i clicked by mistake, here i have to keep the mouse 2187, 1258, 2187, 1258, 2187, 1258 ok, i have to go here, now what i will do, simply i will come to chat gpt, i will stop this program i will tell chat gpt, write a py auto gui script, which will first click, click on an icon at this position and then drag from this position to this position to select a text and then copy it to the clipboard, then take it in a variable, ok let's see what it does so it is telling me that you have to take it from here to here we will install piper clip, let me tell you what is piper clip so piper clip install, what is piper clip let me tell you, piper clip, piper clip is basically a program which helps you, see i already have this installed, which helps you to pick content from clipboard, so if you want to pick content from clipboard you have to click on unit piper clip, now it will tell you how to work, so i will copy this program and start from there, see it has told me how, what is happening with comments, let's do one thing, here we make a new program.py, so that our learnings are there, i don't want to delete anything, we started from here and then we came here, so see what it is doing let's see what it is doing, it has imported required modules then it is clicking on the chrome icon i am writing here chrome icon at this coordinates, time.sleep is waiting for a second, click is registered, then it is moving from this to this, now it is dragging to this position and then it is pressing ctrl c so that you can copy the text then we have the text and finally we have the text so what we will do, we will print this text, let's see if this script is working let's run this program, ok ok, what is this, while dragging while dragging why the text is not selected if i drag like this, then the text should be selected ok i got the point, i have to do it like this i have to bring it down, so what i have to do i have to come till here, i have to drag till here i have to drag from here to here so i will change it, from 1003 we were coming till 237, then we were going to 2187 and till 1258, ok so i will run this program again, and i will try to see what are the coordinates here, here, here if we come here also, what are the coordinates, if i drag from here or if i drag from here then what are the coordinates here, ok let's see and the coordinates here are 1499, 1263, 1499, 1263, 1499 i will just change it to 1499, 1268 let's see what is the scene oops, it got a little bit wrong, let's run it again ok it didn't work from here to here, let's make it a little bit more less let's make 1268 to 268, let's see basically our chat should be copied what happened, it got a little bit wrong it got a little bit wrong, so i have to drag, let's run it again i have to start from here, why not from here let's drag from here, but you know what the problem is if we drag like this, in fact if we drag like this then the problem is there, we have to drag from here all the way till here, let's try it again so if i run this program it's not working, it's not working, it's not working, it's not working from where we are starting i will change the coordinates again, but i am going to get this done anyways, 992207, first of all i will write 992207 992207 and after this we will go all the way till 2208, 2208, 1285 2208, 1285, 1286 let's stop it and let's see if our work is working or not ok, we got it, we got the chat now see here, is it coming? see here, i have put my name in this dummy account, now see what naruto said, what rohan das said, then naruto said something, then rohan das said something now what i will do is, i will say from open AI's API if you don't know about open AI's API, let me tell you something that open AI's API, you can go open AI's API, you will get the overview of the API, if you log in then you will get your API key, open AI key that is paid, i have bought it, so i am able to do all this if you haven't bought it, then i will recommend you to buy it it is a recharge of 5 dollars, 400 rupees, by eating a pizza you can make projects for free for a year, if you are in first year of college then you can make projects for free for 4 years, it takes less usage you should have an API key, don't steal my API key, because i will delete it i am telling you directly, so see here we have used this code, and when we have made a client, then what we have to do that in open AI, we have to give API key like this, so i have already written this program for you, so i will copy client.py and i will make client.py here also, just so that you have client.py, now see here the text selected is selected only, i want that here a click happens, that this text gets deselected so what i will do, i will come to my mega project 2, i will close mega project 1 in mega project 2, i will say, once you have done ctrl c then what you have to do, click on keypyautogui. click on register, let's see if it works or not, so yes it got selected, a click should also be there, a click should also be there please a click didn't happen, i don't know why, a click should have been there but i think i have to tell it where to click, so i will click here and after clicking here i hope it will deselect, so see here i have done like this and a click should have deselected, if it clicks it is not deselecting, here it is deselecting, so i will have to do one thing, i have to click here on 21081286 so we started from top, we came down then we came here and clicked, we have to click little up or how about i click here, so what is this you see i have renamed it, i have named it getcursors.py i have named it openai.py, i have named it 300.bot.py pip install openai, ok openai with this openai package will be installed, let's install it but i come back to the bot and where i have to click, i have to click on this place where clicking will deselect so i will copy this and see i am just trying and i want everything to be fine so now what we will do here is we will run this program again and see what happens, so it came from top, it selected then finally what it did, it minimized i will run this code and it is telling me that i am on point from 999"
+}

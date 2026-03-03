@@ -1,0 +1,6046 @@
+{
+  "chunks": [
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 0.0,
+      "end": 2.8,
+      "text": " and you can do like this app.run"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 2.8,
+      "end": 5.28,
+      "text": " and it will run after running this program"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 5.28,
+      "end": 6.88,
+      "text": " now see we will run this program"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 6.88,
+      "end": 9.04,
+      "text": " so this app is made and you see"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 9.04,
+      "end": 11.04,
+      "text": " if you click on control then this hello world"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 11.04,
+      "end": 13.04,
+      "text": " a basic python server is made"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 13.04,
+      "end": 16.4,
+      "text": " now what is flask? basically it is used to make websites and api"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 16.4,
+      "end": 18.4,
+      "text": " you can explore this further"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 18.4,
+      "end": 21.12,
+      "text": " and that wraps chapter 13 practice set"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 21.12,
+      "end": 23.12,
+      "text": " i am so happy we have come this far"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 23.12,
+      "end": 28.16,
+      "text": " music"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 28.16,
+      "end": 30.16,
+      "text": " alrighty guys today we are going to make"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 30.16,
+      "end": 32.16,
+      "text": " that project is very close to my heart"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 32.16,
+      "end": 34.16,
+      "text": " and i can say this is mega project from my heart"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 34.16,
+      "end": 36.16,
+      "text": " because in this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 36.16,
+      "end": 38.16,
+      "text": " there are good people who call this mega project"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 38.16,
+      "end": 40.16,
+      "text": " with that said i will make a folder here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 40.16,
+      "end": 42.16,
+      "text": " in which i will name it mega"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 42.16,
+      "end": 44.16,
+      "text": " project 1 and"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 44.16,
+      "end": 46.16,
+      "text": " this is jarvis and this jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 46.16,
+      "end": 48.16,
+      "text": " is not some jarvis let me tell you what i mean"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 48.16,
+      "end": 50.16,
+      "text": " this is a project in which"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 50.16,
+      "end": 52.16,
+      "text": " if you have seen alexa"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 52.16,
+      "end": 54.16,
+      "text": " google home if you have seen"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 54.16,
+      "end": 56.16,
+      "text": " if you have seen this type of devices"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 56.16,
+      "end": 58.16,
+      "text": " so we are going to make something like this for our system"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 58.16,
+      "end": 60.16,
+      "text": " so i will make this main.py"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 60.16,
+      "end": 62.16,
+      "text": " and after making main.py i will install some packages"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 62.16,
+      "end": 64.16,
+      "text": " but because this is a mega project"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 64.16,
+      "end": 66.16,
+      "text": " so we are going to"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 66.16,
+      "end": 68.16,
+      "text": " keep all the packages in a virtual environment"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 68.16,
+      "end": 70.16,
+      "text": " so to keep it in a virtual environment"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 70.16,
+      "end": 72.16,
+      "text": " i will click on select interpreter"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 72.16,
+      "end": 74.16,
+      "text": " here you can see up plus"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 74.16,
+      "end": 76.16,
+      "text": " create virtual environment or below"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 76.16,
+      "end": 78.16,
+      "text": " on the bottom right you will see select interpreter"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 78.16,
+      "end": 80.16,
+      "text": " you guys here plus create virtual"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 80.16,
+      "end": 82.16,
+      "text": " environment and select vn"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 82.16,
+      "end": 84.16,
+      "text": " and python 3.1.12"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 84.16,
+      "end": 86.16,
+      "text": " virtual environment is being created here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 86.16,
+      "end": 88.16,
+      "text": " you can see below creating virtual"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 88.16,
+      "end": 90.16,
+      "text": " environment something like this it takes some time"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 90.16,
+      "end": 92.16,
+      "text": " to make virtual environment and virtual environment"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 92.16,
+      "end": 94.16,
+      "text": " is finally created. now it is done"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 94.16,
+      "end": 96.16,
+      "text": " my virtual environment is done now one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 96.16,
+      "end": 98.16,
+      "text": " i will tell you that here whatever i will do pip install"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 98.16,
+      "end": 100.16,
+      "text": " someone is giving me a warning"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 100.16,
+      "end": 102.16,
+      "text": " that python virtual environment was"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 102.16,
+      "end": 104.16,
+      "text": " successfully activated"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 104.16,
+      "end": 106.16,
+      "text": " vn will not come in the bracket"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 106.16,
+      "end": 108.16,
+      "text": " but it means that terminal"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 108.16,
+      "end": 110.16,
+      "text": " will work on virtual environment only good"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 110.16,
+      "end": 112.16,
+      "text": " amazing so i will write here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 112.16,
+      "end": 114.16,
+      "text": " pip install"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 114.16,
+      "end": 116.16,
+      "text": " and we will install first"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 116.16,
+      "end": 118.16,
+      "text": " speech recognition"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 118.16,
+      "end": 120.16,
+      "text": " and py audio"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 120.16,
+      "end": 122.16,
+      "text": " you can install different packages by giving space"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 122.16,
+      "end": 124.16,
+      "text": " if i give here speech recognition"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 124.16,
+      "end": 126.16,
+      "text": " space py audio then it will install both"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 126.16,
+      "end": 128.16,
+      "text": " so i will enter and install this much"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 128.16,
+      "end": 130.16,
+      "text": " now here you can see it is installing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 130.16,
+      "end": 132.16,
+      "text": " all these packages it installed it very quickly"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 132.16,
+      "end": 134.16,
+      "text": " after this one more thing i am going to install"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 134.16,
+      "end": 136.16,
+      "text": " pip install i am going to"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 136.16,
+      "end": 138.16,
+      "text": " setup tools"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 138.16,
+      "end": 140.16,
+      "text": " setup tools and i will bring this terminal"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 140.16,
+      "end": 142.16,
+      "text": " here just so that you can see"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 142.16,
+      "end": 144.16,
+      "text": " drag powershell and bring it here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 144.16,
+      "end": 146.16,
+      "text": " it will become a tab and you can see"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 146.16,
+      "end": 148.16,
+      "text": " by writing pip install setup tools it will be installed"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 148.16,
+      "end": 150.16,
+      "text": " and it will be installed in virtual environment"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 150.16,
+      "end": 152.16,
+      "text": " which is a very good thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 152.16,
+      "end": 154.16,
+      "text": " now in my main.py"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 154.16,
+      "end": 156.16,
+      "text": " i will write here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 156.16,
+      "end": 158.16,
+      "text": " if __name"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 158.16,
+      "end": 160.16,
+      "text": " equals to equals to __"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 160.16,
+      "end": 162.16,
+      "text": " main i told you"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 162.16,
+      "end": 164.16,
+      "text": " it is a good practice to put it in your"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 164.16,
+      "end": 166.16,
+      "text": " program so first of all"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 166.16,
+      "end": 168.16,
+      "text": " i will do speech recognition as"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 168.16,
+      "end": 170.16,
+      "text": " sr now what is this as keyword"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 170.16,
+      "end": 172.16,
+      "text": " when i am doing import speech"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 172.16,
+      "end": 174.16,
+      "text": " recognition then i have to write"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 174.16,
+      "end": 176.16,
+      "text": " again and again after import speech"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 176.16,
+      "end": 178.16,
+      "text": " recognition speech recognition dot"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 178.16,
+      "end": 180.16,
+      "text": " something speech recognition"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 180.16,
+      "end": 182.16,
+      "text": " instead of writing this big i will write sr"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 182.16,
+      "end": 184.16,
+      "text": " so to make it small i have"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 184.16,
+      "end": 186.16,
+      "text": " made it as sr so if you are using as keyword"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 186.16,
+      "end": 188.16,
+      "text": " then now instead of speech recognition"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 188.16,
+      "end": 190.16,
+      "text": " you will write sr below"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 190.16,
+      "end": 192.16,
+      "text": " it is such a simple thing so"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 192.16,
+      "end": 194.16,
+      "text": " we did this now what we are going to do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 194.16,
+      "end": 196.16,
+      "text": " that we will install one more module"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 196.16,
+      "end": 198.16,
+      "text": " which is called web browser so we will"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 198.16,
+      "end": 200.16,
+      "text": " write pip install"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 200.16,
+      "end": 202.16,
+      "text": " now i will do don't show again so that it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 202.16,
+      "end": 204.16,
+      "text": " doesn't come again and again pip install"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 204.16,
+      "end": 206.16,
+      "text": " and i will write here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 206.16,
+      "end": 208.16,
+      "text": " web browser"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 208.16,
+      "end": 210.16,
+      "text": " ok web browser"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 210.16,
+      "end": 212.16,
+      "text": " it is saying could not"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 212.16,
+      "end": 214.16,
+      "text": " find a version"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 214.16,
+      "end": 216.16,
+      "text": " so if i write here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 216.16,
+      "end": 218.16,
+      "text": " import"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 218.16,
+      "end": 220.16,
+      "text": " web browser"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 220.16,
+      "end": 222.16,
+      "text": " so web browser ok"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 222.16,
+      "end": 224.16,
+      "text": " so interfaces for so web"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 224.16,
+      "end": 226.16,
+      "text": " browser is a built in module i guess"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 226.16,
+      "end": 228.16,
+      "text": " is it let me check"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 228.16,
+      "end": 230.16,
+      "text": " web browser module"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 230.16,
+      "end": 232.16,
+      "text": " yes this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 232.16,
+      "end": 234.16,
+      "text": " is a built in module"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 234.16,
+      "end": 236.16,
+      "text": " so this is a built in module which means"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 236.16,
+      "end": 238.16,
+      "text": " that i don't need to install it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 238.16,
+      "end": 240.16,
+      "text": " amazing that's good actually"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 240.16,
+      "end": 242.16,
+      "text": " that's good so what we will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 242.16,
+      "end": 244.16,
+      "text": " we will open browser from web browser"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 244.16,
+      "end": 246.16,
+      "text": " and if we want to open anything in browser"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 246.16,
+      "end": 248.16,
+      "text": " and we will give voice command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 248.16,
+      "end": 250.16,
+      "text": " and by giving voice command we will open"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 250.16,
+      "end": 252.16,
+      "text": " from web browser whatever we want to open ok"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 252.16,
+      "end": 254.16,
+      "text": " so first thing i will do here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 254.16,
+      "end": 256.16,
+      "text": " install pyttsx"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 256.16,
+      "end": 258.16,
+      "text": " pyttsx3"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 258.16,
+      "end": 260.16,
+      "text": " this is a package of text to speech"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 260.16,
+      "end": 262.16,
+      "text": " which will help you to do text to speech"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 262.16,
+      "end": 264.16,
+      "text": " so i will"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 264.16,
+      "end": 266.16,
+      "text": " pip install here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 266.16,
+      "end": 268.16,
+      "text": " pyttsx3"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 268.16,
+      "end": 270.16,
+      "text": " and by doing pyttsx3"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 270.16,
+      "end": 272.16,
+      "text": " you can see here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 272.16,
+      "end": 274.16,
+      "text": " i am waiting for it to install, it is installed"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 274.16,
+      "end": 276.16,
+      "text": " so pyttsx3"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 276.16,
+      "end": 278.16,
+      "text": " if we"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 278.16,
+      "end": 280.16,
+      "text": " import it so what we can do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 280.16,
+      "end": 282.16,
+      "text": " we can do text to speech"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 282.16,
+      "end": 284.16,
+      "text": " if we want to call anything"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 284.16,
+      "end": 286.16,
+      "text": " from jarvis so we can call it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 286.16,
+      "end": 288.16,
+      "text": " so far so good i am really happy"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 288.16,
+      "end": 290.16,
+      "text": " we have done a lot"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 290.16,
+      "end": 292.16,
+      "text": " now our first thing is"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 292.16,
+      "end": 294.16,
+      "text": " we have to make a recognizer"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 294.16,
+      "end": 296.16,
+      "text": " object and"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 296.16,
+      "end": 298.16,
+      "text": " what will that recognizer object do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 298.16,
+      "end": 300.16,
+      "text": " whenever we will say something it will recognize it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 300.16,
+      "end": 302.16,
+      "text": " so i will simply write here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 302.16,
+      "end": 304.16,
+      "text": " recognizer"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 304.16,
+      "end": 306.16,
+      "text": " is equal to"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 306.16,
+      "end": 308.16,
+      "text": " sr.recognizer"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 308.16,
+      "end": 310.16,
+      "text": " sr.recognizer is a class"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 310.16,
+      "end": 312.16,
+      "text": " recognizer class does"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 312.16,
+      "end": 314.16,
+      "text": " it helps you to take speech recognition functionality"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 314.16,
+      "end": 316.16,
+      "text": " and we will initialize"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 316.16,
+      "end": 318.16,
+      "text": " ttsx engine"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 318.16,
+      "end": 320.16,
+      "text": " so we will write ttsx is equal to"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 320.16,
+      "end": 322.16,
+      "text": " pyttsx"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 322.16,
+      "end": 324.16,
+      "text": " so we will write pyttsx.init"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 324.16,
+      "end": 326.16,
+      "text": " and by this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 326.16,
+      "end": 328.16,
+      "text": " our pyttsx will be initialized"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 328.16,
+      "end": 330.16,
+      "text": " now we will make a function"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 330.16,
+      "end": 332.16,
+      "text": " which will be a speak function"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 332.16,
+      "end": 334.16,
+      "text": " which will take a text"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 334.16,
+      "end": 336.16,
+      "text": " and after that it will speak"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 336.16,
+      "end": 338.16,
+      "text": " so how to make a speak function"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 338.16,
+      "end": 340.16,
+      "text": " we will use this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 340.16,
+      "end": 342.16,
+      "text": " first we have to init"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 342.16,
+      "end": 344.16,
+      "text": " and then we have to do engine.say"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 344.16,
+      "end": 346.16,
+      "text": " so you can see here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 346.16,
+      "end": 348.16,
+      "text": " if i do engine.say"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 348.16,
+      "end": 350.16,
+      "text": " i will make an engine"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 350.16,
+      "end": 352.16,
+      "text": " in fact i will do exactly like this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 352.16,
+      "end": 354.16,
+      "text": " like this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 354.16,
+      "end": 356.16,
+      "text": " so what will happen"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 356.16,
+      "end": 358.16,
+      "text": " it will be easy for me"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 358.16,
+      "end": 360.16,
+      "text": " so i did engine.say"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 360.16,
+      "end": 362.16,
+      "text": " now i will run speak function"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 362.16,
+      "end": 364.16,
+      "text": " i will write here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 364.16,
+      "end": 366.16,
+      "text": " so i wrote here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 366.16,
+      "end": 368.16,
+      "text": " i hope you can hear the desktop audio"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 368.16,
+      "end": 370.16,
+      "text": " it didn't work"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 370.16,
+      "end": 372.16,
+      "text": " let me see why"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 372.16,
+      "end": 374.16,
+      "text": " so i run it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 374.16,
+      "end": 376.16,
+      "text": " it didn't work"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 376.16,
+      "end": 378.16,
+      "text": " so i will"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 378.16,
+      "end": 380.16,
+      "text": " speak this text"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 380.16,
+      "end": 382.16,
+      "text": " i run the speak function"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 382.16,
+      "end": 384.16,
+      "text": " but it is not working"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 384.16,
+      "end": 386.16,
+      "text": " so here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 386.16,
+      "end": 388.16,
+      "text": " we did everything"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 388.16,
+      "end": 390.16,
+      "text": " but it is not working"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 390.16,
+      "end": 392.16,
+      "text": " we have to run run and wait"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 392.16,
+      "end": 394.16,
+      "text": " engine.run and wait"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 394.16,
+      "end": 396.16,
+      "text": " ok"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 396.16,
+      "end": 398.16,
+      "text": " otherwise it will exit"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 398.16,
+      "end": 400.16,
+      "text": " hey sir how may i help you"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 400.16,
+      "end": 402.16,
+      "text": " this is good"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 402.16,
+      "end": 404.16,
+      "text": " so it is working"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 404.16,
+      "end": 406.16,
+      "text": " so our jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 406.16,
+      "end": 408.16,
+      "text": " i will initialize it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 408.16,
+      "end": 410.16,
+      "text": " as jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 410.16,
+      "end": 412.16,
+      "text": " because i don't want it to work"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 412.16,
+      "end": 414.16,
+      "text": " i want it to work"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 414.16,
+      "end": 416.16,
+      "text": " for wake word"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 416.16,
+      "end": 418.16,
+      "text": " i will say jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 418.16,
+      "end": 420.16,
+      "text": " then it will say tiding"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 420.16,
+      "end": 422.16,
+      "text": " understand why we are doing this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 422.16,
+      "end": 424.16,
+      "text": " otherwise we will hear normal things"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 424.16,
+      "end": 426.16,
+      "text": " and it will be annoying"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 426.16,
+      "end": 428.16,
+      "text": " so this is the reason"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 428.16,
+      "end": 430.16,
+      "text": " so come"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 430.16,
+      "end": 432.16,
+      "text": " i will tell you how to do this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 432.16,
+      "end": 434.16,
+      "text": " so i will go to speech recognition"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 434.16,
+      "end": 436.16,
+      "text": " speech recognition documentation"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 436.16,
+      "end": 438.16,
+      "text": " speech recognition"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 438.16,
+      "end": 440.16,
+      "text": " and speech recognition"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 440.16,
+      "end": 442.16,
+      "text": " in package"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 442.16,
+      "end": 444.16,
+      "text": " python came"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 444.16,
+      "end": 446.16,
+      "text": " so i will see code samples"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 446.16,
+      "end": 448.16,
+      "text": " so i am seeing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 448.16,
+      "end": 450.16,
+      "text": " so i am seeing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 450.16,
+      "end": 452.16,
+      "text": " you can't remember code sample"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 452.16,
+      "end": 454.16,
+      "text": " you can ask chat gpt"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 454.16,
+      "end": 456.16,
+      "text": " if you are not asking chat gpt"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 456.16,
+      "end": 458.16,
+      "text": " you have to pick it from somewhere"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 458.16,
+      "end": 460.16,
+      "text": " so i am seeing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 460.16,
+      "end": 462.16,
+      "text": " speech recognition"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 462.16,
+      "end": 464.16,
+      "text": " so i am seeing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 464.16,
+      "end": 466.16,
+      "text": " any code"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 466.16,
+      "end": 468.16,
+      "text": " like examples directory"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 468.16,
+      "end": 470.16,
+      "text": " so here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 470.16,
+      "end": 472.16,
+      "text": " if you see"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 472.16,
+      "end": 474.16,
+      "text": " microphone recognition"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 474.16,
+      "end": 476.16,
+      "text": " so i will pick code from this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 476.16,
+      "end": 478.16,
+      "text": " so they have"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 478.16,
+      "end": 480.16,
+      "text": " first we will take audio from microphone"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 480.16,
+      "end": 482.16,
+      "text": " after that what we will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 482.16,
+      "end": 484.16,
+      "text": " we will see what is said"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 484.16,
+      "end": 486.16,
+      "text": " so from here to here code will help me"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 486.16,
+      "end": 488.16,
+      "text": " to know what is said"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 488.16,
+      "end": 490.16,
+      "text": " so let's go"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 490.16,
+      "end": 492.16,
+      "text": " i am very excited"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 492.16,
+      "end": 494.16,
+      "text": " so first thing i will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 494.16,
+      "end": 496.16,
+      "text": " listen for the"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 496.16,
+      "end": 498.16,
+      "text": " wake word"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 498.16,
+      "end": 500.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 500.16,
+      "end": 502.16,
+      "text": " so if i said jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 502.16,
+      "end": 504.16,
+      "text": " then only something should happen"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 504.16,
+      "end": 506.16,
+      "text": " if i didn't said anything"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 506.16,
+      "end": 508.16,
+      "text": " then nothing should happen"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 508.16,
+      "end": 510.16,
+      "text": " and this also we will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 510.16,
+      "end": 512.16,
+      "text": " in while loop"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 512.16,
+      "end": 514.16,
+      "text": " so i will do while true"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 514.16,
+      "end": 516.16,
+      "text": " means while true"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 516.16,
+      "end": 518.16,
+      "text": " i will say this thing should happen"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 518.16,
+      "end": 520.16,
+      "text": " means listen for wake word"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 520.16,
+      "end": 522.16,
+      "text": " it will listen for wake word"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 522.16,
+      "end": 524.16,
+      "text": " and finally what will happen"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 524.16,
+      "end": 526.16,
+      "text": " here say something is written"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 526.16,
+      "end": 528.16,
+      "text": " i will do listening"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 528.16,
+      "end": 530.16,
+      "text": " so this is listening r.listen source"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 530.16,
+      "end": 532.16,
+      "text": " and finally what will happen"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 532.16,
+      "end": 534.16,
+      "text": " if"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 534.16,
+      "end": 536.16,
+      "text": " r.recognize phoenix"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 536.16,
+      "end": 538.16,
+      "text": " we can use recognize google function"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 538.16,
+      "end": 540.16,
+      "text": " so i will do one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 540.16,
+      "end": 542.16,
+      "text": " command is equal to"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 542.16,
+      "end": 544.16,
+      "text": " and print command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 544.16,
+      "end": 546.16,
+      "text": " ok"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 546.16,
+      "end": 548.16,
+      "text": " so this much for now"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 548.16,
+      "end": 550.16,
+      "text": " and keep this in try"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 550.16,
+      "end": 552.16,
+      "text": " because if we didn't keep in try"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 552.16,
+      "end": 554.16,
+      "text": " then we can get error"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 554.16,
+      "end": 556.16,
+      "text": " and correct indentation also"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 556.16,
+      "end": 558.16,
+      "text": " so let's run this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 558.16,
+      "end": 560.16,
+      "text": " initializing jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 560.16,
+      "end": 562.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 564.16,
+      "end": 566.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 566.16,
+      "end": 568.16,
+      "text": " so it is saying"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 568.16,
+      "end": 570.16,
+      "text": " pocket phoenix module"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 570.16,
+      "end": 572.16,
+      "text": " you didn't set up"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 572.16,
+      "end": 574.16,
+      "text": " properly"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 574.16,
+      "end": 576.16,
+      "text": " so let's do one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 576.16,
+      "end": 578.16,
+      "text": " let's see what is this error"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 578.16,
+      "end": 580.16,
+      "text": " because you can't do everything"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 580.16,
+      "end": 582.16,
+      "text": " with your brain, you have to use stack overflow"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 582.16,
+      "end": 584.16,
+      "text": " you have to install"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 584.16,
+      "end": 586.16,
+      "text": " everything"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 586.16,
+      "end": 588.16,
+      "text": " which is going to be used"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 588.16,
+      "end": 590.16,
+      "text": " pip install pocket phoenix"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 590.16,
+      "end": 592.16,
+      "text": " ok let me try this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 592.16,
+      "end": 594.16,
+      "text": " let me try pip install pocket phoenix"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 594.16,
+      "end": 596.16,
+      "text": " which i have done"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 596.16,
+      "end": 598.16,
+      "text": " i have fired this command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 598.16,
+      "end": 600.16,
+      "text": " pip install pocket phoenix"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 600.16,
+      "end": 602.16,
+      "text": " and let me do one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 602.16,
+      "end": 604.16,
+      "text": " whatever commands i am using"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 604.16,
+      "end": 606.16,
+      "text": " i will export requirements.txt"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 606.16,
+      "end": 608.16,
+      "text": " and give you but again"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 608.16,
+      "end": 610.16,
+      "text": " i keep putting it here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 610.16,
+      "end": 612.16,
+      "text": " at the top"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 612.16,
+      "end": 614.16,
+      "text": " i have run this command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 614.16,
+      "end": 616.16,
+      "text": " and now let's see"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 616.16,
+      "end": 618.16,
+      "text": " let's run this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 618.16,
+      "end": 620.16,
+      "text": " hey jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 620.16,
+      "end": 622.16,
+      "text": " hey jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 622.16,
+      "end": 624.16,
+      "text": " hey jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 624.16,
+      "end": 626.16,
+      "text": " hey jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 626.16,
+      "end": 628.16,
+      "text": " hey jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 628.16,
+      "end": 630.16,
+      "text": " hey jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 630.16,
+      "end": 632.16,
+      "text": " hey jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 632.16,
+      "end": 634.16,
+      "text": " now see"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 634.16,
+      "end": 636.16,
+      "text": " it is saying john lewis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 636.16,
+      "end": 638.16,
+      "text": " it is saying dotif"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 638.16,
+      "end": 640.16,
+      "text": " so jarvis is not able to hear properly"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 640.16,
+      "end": 642.16,
+      "text": " so i use google"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 642.16,
+      "end": 644.16,
+      "text": " i don't use recognize phoenix"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 644.16,
+      "end": 646.16,
+      "text": " i think that function is very good"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 646.16,
+      "end": 648.16,
+      "text": " so we are not going to use this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 648.16,
+      "end": 650.16,
+      "text": " we are going to use recognize"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 650.16,
+      "end": 652.16,
+      "text": " there are many of them"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 652.16,
+      "end": 654.16,
+      "text": " google cloud, roundify, ibs, phoenix, tensorflow, whisper"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 654.16,
+      "end": 656.16,
+      "text": " don't know what all"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 656.16,
+      "end": 658.16,
+      "text": " so let me do one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 658.16,
+      "end": 660.16,
+      "text": " let me do recognize google"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 660.16,
+      "end": 662.16,
+      "text": " where are you google, recognize google was a function"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 662.16,
+      "end": 664.16,
+      "text": " recognize google cloud"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 664.16,
+      "end": 666.16,
+      "text": " was not recognize google i think"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 666.16,
+      "end": 668.16,
+      "text": " let me do one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 668.16,
+      "end": 670.16,
+      "text": " how are you jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 670.16,
+      "end": 672.16,
+      "text": " one error"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 672.16,
+      "end": 674.16,
+      "text": " it is saying give me your google cloud"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 674.16,
+      "end": 676.16,
+      "text": " so recognize google is a function"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 676.16,
+      "end": 678.16,
+      "text": " if i am not wrong"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 678.16,
+      "end": 680.16,
+      "text": " jarvis how are you"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 682.16,
+      "end": 684.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 686.16,
+      "end": 688.16,
+      "text": " now see one problem"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 688.16,
+      "end": 690.16,
+      "text": " it is taking time to recognize"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 690.16,
+      "end": 692.16,
+      "text": " so let me do one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 692.16,
+      "end": 694.16,
+      "text": " let me print recognizing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 694.16,
+      "end": 696.16,
+      "text": " so that we can know"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 696.16,
+      "end": 698.16,
+      "text": " how much time it is taking to recognize"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 698.16,
+      "end": 700.16,
+      "text": " and how much time it is taking to listen"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 700.16,
+      "end": 702.16,
+      "text": " so i did like this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 702.16,
+      "end": 704.16,
+      "text": " initializing jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 704.16,
+      "end": 706.16,
+      "text": " listening"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 708.16,
+      "end": 710.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 712.16,
+      "end": 714.16,
+      "text": " it is taking too much time"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 714.16,
+      "end": 716.16,
+      "text": " so see what happens"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 716.16,
+      "end": 718.16,
+      "text": " let me show you one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 718.16,
+      "end": 720.16,
+      "text": " listen function takes two things"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 720.16,
+      "end": 722.16,
+      "text": " one is timeout parameter"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 722.16,
+      "end": 724.16,
+      "text": " and other is face time limit parameter"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 724.16,
+      "end": 726.16,
+      "text": " so if i do timeout is equal to 2 seconds"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 726.16,
+      "end": 728.16,
+      "text": " timeout is equal to 2 seconds"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 728.16,
+      "end": 730.16,
+      "text": " so let me show you"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 730.16,
+      "end": 732.16,
+      "text": " timeout is equal to 2 seconds"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 732.16,
+      "end": 734.16,
+      "text": " so it will listen for 2 seconds"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 734.16,
+      "end": 736.16,
+      "text": " and after that"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 736.16,
+      "end": 738.16,
+      "text": " it will timeout again"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 738.16,
+      "end": 740.16,
+      "text": " so let me show you"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 740.16,
+      "end": 742.16,
+      "text": " initializing jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 742.16,
+      "end": 744.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 746.16,
+      "end": 748.16,
+      "text": " why it is saying jurivis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 748.16,
+      "end": 750.16,
+      "text": " i wrote wrong spelling"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 750.16,
+      "end": 752.16,
+      "text": " what is jurivis doing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 752.16,
+      "end": 754.16,
+      "text": " initializing jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 756.16,
+      "end": 758.16,
+      "text": " why it is saying"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 758.16,
+      "end": 760.16,
+      "text": " jurivis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 760.16,
+      "end": 762.16,
+      "text": " why it is saying"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 762.16,
+      "end": 764.16,
+      "text": " jurivis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 764.16,
+      "end": 766.16,
+      "text": " so let me do one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 766.16,
+      "end": 768.16,
+      "text": " except exception as e"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 768.16,
+      "end": 770.16,
+      "text": " except exception as e"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 770.16,
+      "end": 772.16,
+      "text": " and i will write"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 772.16,
+      "end": 774.16,
+      "text": " could not"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 774.16,
+      "end": 776.16,
+      "text": " i will write error here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 776.16,
+      "end": 778.16,
+      "text": " we are not using sphinx"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 778.16,
+      "end": 780.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 780.16,
+      "end": 782.16,
+      "text": " let me run it again"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 782.16,
+      "end": 784.16,
+      "text": " initializing jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 786.16,
+      "end": 788.16,
+      "text": " it is listening"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 788.16,
+      "end": 790.16,
+      "text": " i want it to listen again and again"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 794.16,
+      "end": 796.16,
+      "text": " and now see google"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 796.16,
+      "end": 798.16,
+      "text": " i want it to listen again and again"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 798.16,
+      "end": 800.16,
+      "text": " it is telling right"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 800.16,
+      "end": 802.16,
+      "text": " so what i will do here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 802.16,
+      "end": 804.16,
+      "text": " timeout is equal to 2"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 804.16,
+      "end": 806.16,
+      "text": " so there are two parameters"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 806.16,
+      "end": 808.16,
+      "text": " one is timeout"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 808.16,
+      "end": 810.16,
+      "text": " maximum number of seconds"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 810.16,
+      "end": 812.16,
+      "text": " that this will wait for a face to start"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 812.16,
+      "end": 814.16,
+      "text": " before giving up"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 814.16,
+      "end": 816.16,
+      "text": " wait timeout exception"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 816.16,
+      "end": 818.16,
+      "text": " and face time limit parameter"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 818.16,
+      "end": 820.16,
+      "text": " maximum number of seconds that will allow face to continue"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 820.16,
+      "end": 822.16,
+      "text": " before stopping and returning"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 822.16,
+      "end": 824.16,
+      "text": " the part of the face"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 824.16,
+      "end": 826.16,
+      "text": " like you said something"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 826.16,
+      "end": 828.16,
+      "text": " after that how long you can wait"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 828.16,
+      "end": 830.16,
+      "text": " so i will"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 830.16,
+      "end": 832.16,
+      "text": " do it for one second"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 832.16,
+      "end": 834.16,
+      "text": " so i will do face time limit for one second"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 834.16,
+      "end": 836.16,
+      "text": " and see"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 836.16,
+      "end": 838.16,
+      "text": " initializing jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 840.16,
+      "end": 842.16,
+      "text": " so here it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 842.16,
+      "end": 844.16,
+      "text": " throw the wait timeout error"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 844.16,
+      "end": 846.16,
+      "text": " and here you see"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 846.16,
+      "end": 848.16,
+      "text": " r.listen"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 848.16,
+      "end": 850.16,
+      "text": " so i will take this thing in try"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 850.16,
+      "end": 852.16,
+      "text": " i don't want to get error"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 852.16,
+      "end": 854.16,
+      "text": " so i will take this in try"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 854.16,
+      "end": 856.16,
+      "text": " so what will happen"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 856.16,
+      "end": 858.16,
+      "text": " audio is equal to this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 858.16,
+      "end": 860.16,
+      "text": " now i will run it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 860.16,
+      "end": 862.16,
+      "text": " initializing jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 862.16,
+      "end": 864.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 864.16,
+      "end": 866.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 866.16,
+      "end": 868.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 868.16,
+      "end": 870.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 870.16,
+      "end": 872.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 872.16,
+      "end": 874.16,
+      "text": " see now it is fast"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 874.16,
+      "end": 876.16,
+      "text": " it is going to listen"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 876.16,
+      "end": 878.16,
+      "text": " now we have to do only wake word"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 878.16,
+      "end": 880.16,
+      "text": " now only wake word"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 880.16,
+      "end": 882.16,
+      "text": " so once we have heard for command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 882.16,
+      "end": 884.16,
+      "text": " so i will say here if this command is jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 884.16,
+      "end": 886.16,
+      "text": " if command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 886.16,
+      "end": 888.16,
+      "text": " dot lower we have to convert in lower case"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 888.16,
+      "end": 890.16,
+      "text": " equal to equal to jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 890.16,
+      "end": 892.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 892.16,
+      "end": 894.16,
+      "text": " if this is jarvis then what we will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 894.16,
+      "end": 896.16,
+      "text": " that"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 896.16,
+      "end": 898.16,
+      "text": " we will speak"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 898.16,
+      "end": 900.16,
+      "text": " so we will say jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 900.16,
+      "end": 902.16,
+      "text": " so it will say ya"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 902.16,
+      "end": 904.16,
+      "text": " and after that we will keep our thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 904.16,
+      "end": 906.16,
+      "text": " and i will show you here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 906.16,
+      "end": 908.16,
+      "text": " if command dot lower is equal to equal to jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 908.16,
+      "end": 910.16,
+      "text": " so we have spoken ya"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 910.16,
+      "end": 912.16,
+      "text": " and after that we will do listen for command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 912.16,
+      "end": 914.16,
+      "text": " listen for command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 914.16,
+      "end": 916.16,
+      "text": " till now we have listened for wake word"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 916.16,
+      "end": 918.16,
+      "text": " we have listened for jarvis word"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 918.16,
+      "end": 920.16,
+      "text": " we have taken from audio microphone"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 920.16,
+      "end": 922.16,
+      "text": " and finally what we have done"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 922.16,
+      "end": 924.16,
+      "text": " we have said"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 924.16,
+      "end": 926.16,
+      "text": " listen if jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 926.16,
+      "end": 928.16,
+      "text": " jarvis is spoken so do this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 928.16,
+      "end": 930.16,
+      "text": " and after that we will listen for command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 930.16,
+      "end": 932.16,
+      "text": " so what we will do with sr.microphone as source"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 932.16,
+      "end": 934.16,
+      "text": " what we will do here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 934.16,
+      "end": 936.16,
+      "text": " listen for command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 936.16,
+      "end": 938.16,
+      "text": " and whatever our command will be"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 938.16,
+      "end": 940.16,
+      "text": " whatever our command will be this time"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 940.16,
+      "end": 942.16,
+      "text": " i have done print listening"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 942.16,
+      "end": 944.16,
+      "text": " and audio is equal to this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 944.16,
+      "end": 946.16,
+      "text": " and our command will be"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 946.16,
+      "end": 948.16,
+      "text": " r.recognize google audio"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 948.16,
+      "end": 950.16,
+      "text": " and this will be our command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 950.16,
+      "end": 952.16,
+      "text": " and i call this word"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 952.16,
+      "end": 954.16,
+      "text": " because now we are listening for only one word"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 954.16,
+      "end": 956.16,
+      "text": " so word dot lower"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 956.16,
+      "end": 958.16,
+      "text": " is equal to equal to jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 958.16,
+      "end": 960.16,
+      "text": " so what we will do is speak jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 960.16,
+      "end": 962.16,
+      "text": " and whatever you want to say"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 962.16,
+      "end": 964.16,
+      "text": " i write jarvis active"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 964.16,
+      "end": 966.16,
+      "text": " jarvis active"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 966.16,
+      "end": 968.16,
+      "text": " and after that"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 968.16,
+      "end": 970.16,
+      "text": " you have to listen"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 970.16,
+      "end": 972.16,
+      "text": " and r.recognize google audio"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 972.16,
+      "end": 974.16,
+      "text": " will be the command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 974.16,
+      "end": 976.16,
+      "text": " and after that we will make a function"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 976.16,
+      "end": 978.16,
+      "text": " process command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 978.16,
+      "end": 980.16,
+      "text": " so our command will be"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 980.16,
+      "end": 982.16,
+      "text": " process and this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 982.16,
+      "end": 984.16,
+      "text": " we will make a function"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 984.16,
+      "end": 986.16,
+      "text": " which i have not made yet"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 986.16,
+      "end": 988.16,
+      "text": " so let me do one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 988.16,
+      "end": 990.16,
+      "text": " and this will process our command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 990.16,
+      "end": 992.16,
+      "text": " so i write c"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 992.16,
+      "end": 994.16,
+      "text": " and for now i write pass"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 994.16,
+      "end": 996.16,
+      "text": " so this is a function which will work"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 996.16,
+      "end": 998.16,
+      "text": " now let's test this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 998.16,
+      "end": 1000.16,
+      "text": " initializing jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1002.16,
+      "end": 1004.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1004.16,
+      "end": 1006.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1006.16,
+      "end": 1008.16,
+      "text": " yeah"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1008.16,
+      "end": 1010.16,
+      "text": " now jarvis is active"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1010.16,
+      "end": 1012.16,
+      "text": " for now"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1012.16,
+      "end": 1014.16,
+      "text": " i"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1014.16,
+      "end": 1016.16,
+      "text": " i print the process command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1016.16,
+      "end": 1018.16,
+      "text": " c"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1018.16,
+      "end": 1020.16,
+      "text": " and once jarvis is active"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1020.16,
+      "end": 1022.16,
+      "text": " after that"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1022.16,
+      "end": 1024.16,
+      "text": " command will be processed"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1024.16,
+      "end": 1026.16,
+      "text": " ok let me run it again"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1026.16,
+      "end": 1028.16,
+      "text": " because i have made changes"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1028.16,
+      "end": 1030.16,
+      "text": " so our jarvis is working"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1030.16,
+      "end": 1032.16,
+      "text": " it is not saying anything to us"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1032.16,
+      "end": 1034.16,
+      "text": " it is working"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1034.16,
+      "end": 1036.16,
+      "text": " it is working"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1036.16,
+      "end": 1038.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1038.16,
+      "end": 1040.16,
+      "text": " yeah"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1040.16,
+      "end": 1042.16,
+      "text": " how are you"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1044.16,
+      "end": 1046.16,
+      "text": " it says c is not"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1046.16,
+      "end": 1048.16,
+      "text": " defined let me see what is the problem"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1048.16,
+      "end": 1050.16,
+      "text": " so i have made c in process command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1050.16,
+      "end": 1052.16,
+      "text": " and c in print"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1052.16,
+      "end": 1054.16,
+      "text": " what is the problem"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1054.16,
+      "end": 1056.16,
+      "text": " hmm"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1056.16,
+      "end": 1058.16,
+      "text": " ok"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1060.16,
+      "end": 1062.16,
+      "text": " here i have to give the full command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1062.16,
+      "end": 1064.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1064.16,
+      "end": 1066.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1066.16,
+      "end": 1068.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1068.16,
+      "end": 1070.16,
+      "text": " yeah"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1070.16,
+      "end": 1072.16,
+      "text": " how are you"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1074.16,
+      "end": 1076.16,
+      "text": " ok i have to run it again"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1076.16,
+      "end": 1078.16,
+      "text": " because i have changed the program"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1078.16,
+      "end": 1080.16,
+      "text": " initializing jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1080.16,
+      "end": 1082.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1082.16,
+      "end": 1084.16,
+      "text": " yeah"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1084.16,
+      "end": 1086.16,
+      "text": " how are you"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1088.16,
+      "end": 1090.16,
+      "text": " so it has recognized"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1090.16,
+      "end": 1092.16,
+      "text": " how are you, now we can process it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1092.16,
+      "end": 1094.16,
+      "text": " the first feature i want to add"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1094.16,
+      "end": 1096.16,
+      "text": " is open google"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1096.16,
+      "end": 1098.16,
+      "text": " so here i will say"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1098.16,
+      "end": 1100.16,
+      "text": " if c"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1100.16,
+      "end": 1102.16,
+      "text": " if c.lower"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1102.16,
+      "end": 1104.16,
+      "text": " equals to"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1104.16,
+      "end": 1106.16,
+      "text": " equals to open google"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1108.16,
+      "end": 1110.16,
+      "text": " here i will say"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1110.16,
+      "end": 1112.16,
+      "text": " if open google in c.lower"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1112.16,
+      "end": 1114.16,
+      "text": " in c.lower"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1116.16,
+      "end": 1118.16,
+      "text": " in c.lower"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1118.16,
+      "end": 1120.16,
+      "text": " if open google in c.lower"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1120.16,
+      "end": 1122.16,
+      "text": " means"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1122.16,
+      "end": 1124.16,
+      "text": " if open google in c.lower"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1124.16,
+      "end": 1126.16,
+      "text": " then you can do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1126.16,
+      "end": 1128.16,
+      "text": " webbrowser.open"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1128.16,
+      "end": 1130.16,
+      "text": " https://google.com"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1130.16,
+      "end": 1132.16,
+      "text": " and we have to do the same thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1132.16,
+      "end": 1134.16,
+      "text": " with open facebook"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1134.16,
+      "end": 1136.16,
+      "text": " we have to do the same thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1136.16,
+      "end": 1138.16,
+      "text": " here i will say elif"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1138.16,
+      "end": 1140.16,
+      "text": " we have to do the same thing with whom"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1140.16,
+      "end": 1142.16,
+      "text": " with facebook"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1142.16,
+      "end": 1144.16,
+      "text": " with linkedin"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1144.16,
+      "end": 1146.16,
+      "text": " so here you can write facebook"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1146.16,
+      "end": 1148.16,
+      "text": " ok facebook"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1148.16,
+      "end": 1150.16,
+      "text": " open youtube"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1150.16,
+      "end": 1152.16,
+      "text": " so now your jarvis has become a virtual assistant"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1152.16,
+      "end": 1154.16,
+      "text": " which will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1154.16,
+      "end": 1156.16,
+      "text": " if you say open youtube"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1156.16,
+      "end": 1158.16,
+      "text": " then it will open youtube"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1158.16,
+      "end": 1160.16,
+      "text": " if you say open facebook"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1160.16,
+      "end": 1162.16,
+      "text": " it will open facebook"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1162.16,
+      "end": 1164.16,
+      "text": " if you say let us say open linkedin"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1164.16,
+      "end": 1166.16,
+      "text": " linkedin"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1166.16,
+      "end": 1168.16,
+      "text": " it will open linkedin, let's try this first"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1168.16,
+      "end": 1170.16,
+      "text": " so here i have"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1170.16,
+      "end": 1172.16,
+      "text": " taken all of these"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1172.16,
+      "end": 1174.16,
+      "text": " initializing jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1174.16,
+      "end": 1176.16,
+      "text": " if i say self open youtube"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1176.16,
+      "end": 1178.16,
+      "text": " it will react or not"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1178.16,
+      "end": 1180.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1180.16,
+      "end": 1182.16,
+      "text": " ya"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1182.16,
+      "end": 1184.16,
+      "text": " open google"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1186.16,
+      "end": 1188.16,
+      "text": " see it has opened google"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1188.16,
+      "end": 1190.16,
+      "text": " it is fun right"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1190.16,
+      "end": 1192.16,
+      "text": " now just watch"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1192.16,
+      "end": 1194.16,
+      "text": " trailer is there, movie is still left"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1194.16,
+      "end": 1196.16,
+      "text": " so now we will stop all this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1196.16,
+      "end": 1198.16,
+      "text": " and i will show you what else"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1198.16,
+      "end": 1200.16,
+      "text": " we can add, so jarvis still listen"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1200.16,
+      "end": 1202.16,
+      "text": " i can say again to jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1202.16,
+      "end": 1204.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1204.16,
+      "end": 1206.16,
+      "text": " ya, open youtube"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1208.16,
+      "end": 1210.16,
+      "text": " it has opened facebook"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1210.16,
+      "end": 1212.16,
+      "text": " because i have made a mistake in code"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1212.16,
+      "end": 1214.16,
+      "text": " so i will do youtube instead of youtube"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1214.16,
+      "end": 1216.16,
+      "text": " now it will work, i will run it again"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1216.16,
+      "end": 1218.16,
+      "text": " so this is a program which you can run"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1218.16,
+      "end": 1220.16,
+      "text": " and it will do its work"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1220.16,
+      "end": 1222.16,
+      "text": " you keep doing your work"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1222.16,
+      "end": 1224.16,
+      "text": " and whenever you want to talk to it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1224.16,
+      "end": 1226.16,
+      "text": " you can call its name and it will do your work"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1226.16,
+      "end": 1228.16,
+      "text": " like i show you"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1228.16,
+      "end": 1230.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1230.16,
+      "end": 1232.16,
+      "text": " ya, open youtube"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1234.16,
+      "end": 1236.16,
+      "text": " why should i open youtube"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1236.16,
+      "end": 1238.16,
+      "text": " jarvis will open youtube"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1238.16,
+      "end": 1240.16,
+      "text": " i can make it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1240.16,
+      "end": 1242.16,
+      "text": " i am capable enough to make a virtual assistant"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1242.16,
+      "end": 1244.16,
+      "text": " so i will make it open by jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1244.16,
+      "end": 1246.16,
+      "text": " why i will do it myself"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1246.16,
+      "end": 1248.16,
+      "text": " it is fun"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1248.16,
+      "end": 1250.16,
+      "text": " till now it is fun"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1250.16,
+      "end": 1252.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1252.16,
+      "end": 1254.16,
+      "text": " jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1254.16,
+      "end": 1256.16,
+      "text": " ya, open linkedin"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1260.16,
+      "end": 1262.16,
+      "text": " bro, bro, bro"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1262.16,
+      "end": 1264.16,
+      "text": " wow, jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1264.16,
+      "end": 1266.16,
+      "text": " ya"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1266.16,
+      "end": 1268.16,
+      "text": " open youtube"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1270.16,
+      "end": 1272.16,
+      "text": " oh wow"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1272.16,
+      "end": 1274.16,
+      "text": " so i will do one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1274.16,
+      "end": 1276.16,
+      "text": " i will write songs here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1276.16,
+      "end": 1278.16,
+      "text": " which songs"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1278.16,
+      "end": 1280.16,
+      "text": " we will play songs"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1280.16,
+      "end": 1282.16,
+      "text": " non copyright songs"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1282.16,
+      "end": 1284.16,
+      "text": " ok"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1284.16,
+      "end": 1286.16,
+      "text": " and i will play a song"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1286.16,
+      "end": 1288.16,
+      "text": " stealth"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1288.16,
+      "end": 1290.16,
+      "text": " stealth"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1290.16,
+      "end": 1292.16,
+      "text": " youtube music"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1292.16,
+      "end": 1294.16,
+      "text": " youtube music"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1294.16,
+      "end": 1296.16,
+      "text": " stealth"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1296.16,
+      "end": 1298.16,
+      "text": " akash gandhi"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1298.16,
+      "end": 1300.16,
+      "text": " ok, it will come"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1300.16,
+      "end": 1302.16,
+      "text": " this music"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1302.16,
+      "end": 1304.16,
+      "text": " music"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1304.16,
+      "end": 1306.16,
+      "text": " music"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1306.16,
+      "end": 1308.16,
+      "text": " now i will show you one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1308.16,
+      "end": 1310.16,
+      "text": " now i will show you one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1310.16,
+      "end": 1312.16,
+      "text": " we will make a music library"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1312.16,
+      "end": 1314.16,
+      "text": " we will make a global variable"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1314.16,
+      "end": 1316.16,
+      "text": " our music library"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1316.16,
+      "end": 1318.16,
+      "text": " now music library"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1318.16,
+      "end": 1320.16,
+      "text": " now we will do one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1320.16,
+      "end": 1322.16,
+      "text": " we will make music library in another file"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1322.16,
+      "end": 1324.16,
+      "text": " we will make music library.py"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1324.16,
+      "end": 1326.16,
+      "text": " music library.py"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1326.16,
+      "end": 1328.16,
+      "text": " music library.py"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1328.16,
+      "end": 1330.16,
+      "text": " and here we will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1330.16,
+      "end": 1332.16,
+      "text": " import music library"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1332.16,
+      "end": 1334.16,
+      "text": " ok, music library"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1334.16,
+      "end": 1336.16,
+      "text": " we will import it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1336.16,
+      "end": 1338.16,
+      "text": " and here we will write"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1338.16,
+      "end": 1340.16,
+      "text": " music is equal to"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1340.16,
+      "end": 1342.16,
+      "text": " we will say"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1342.16,
+      "end": 1344.16,
+      "text": " this is the url of stealth song"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1344.16,
+      "end": 1346.16,
+      "text": " now you see what i am doing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1346.16,
+      "end": 1348.16,
+      "text": " now we will say"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1348.16,
+      "end": 1350.16,
+      "text": " many more songs"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1352.16,
+      "end": 1354.16,
+      "text": " i will name this song march"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1354.16,
+      "end": 1356.16,
+      "text": " you can name your favorite songs"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1358.16,
+      "end": 1360.16,
+      "text": " this is done"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1360.16,
+      "end": 1362.16,
+      "text": " and one more i will name"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1362.16,
+      "end": 1364.16,
+      "text": " skyfall"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1364.16,
+      "end": 1366.16,
+      "text": " skyfall"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1368.16,
+      "end": 1370.16,
+      "text": " i will take skyfall link"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1370.16,
+      "end": 1372.16,
+      "text": " copy link address"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1372.16,
+      "end": 1374.16,
+      "text": " and what else we can do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1374.16,
+      "end": 1376.16,
+      "text": " i will keep three songs"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1376.16,
+      "end": 1378.16,
+      "text": " one more"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1378.16,
+      "end": 1380.16,
+      "text": " what i will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1380.16,
+      "end": 1382.16,
+      "text": " youtube"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1382.16,
+      "end": 1384.16,
+      "text": " youtube music library"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1384.16,
+      "end": 1386.16,
+      "text": " i will write here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1386.16,
+      "end": 1388.16,
+      "text": " and here i got"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1388.16,
+      "end": 1390.16,
+      "text": " youtube music library"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1390.16,
+      "end": 1392.16,
+      "text": " many more"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1392.16,
+      "end": 1394.16,
+      "text": " i got"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1394.16,
+      "end": 1396.16,
+      "text": " let's see"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1398.16,
+      "end": 1400.16,
+      "text": " wolf"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1400.16,
+      "end": 1402.16,
+      "text": " wolf"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1402.16,
+      "end": 1404.16,
+      "text": " and here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1404.16,
+      "end": 1406.16,
+      "text": " now what i want to do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1406.16,
+      "end": 1408.16,
+      "text": " i have done import music library"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1408.16,
+      "end": 1410.16,
+      "text": " what i will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1410.16,
+      "end": 1412.16,
+      "text": " else if"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1412.16,
+      "end": 1414.16,
+      "text": " else if"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1414.16,
+      "end": 1416.16,
+      "text": " play"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1416.16,
+      "end": 1418.16,
+      "text": " or let's do one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1418.16,
+      "end": 1420.16,
+      "text": " we will say"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1420.16,
+      "end": 1422.16,
+      "text": " if c.lower is starting"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1424.16,
+      "end": 1426.16,
+      "text": " .starts with play"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1426.16,
+      "end": 1428.16,
+      "text": " ok"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1428.16,
+      "end": 1430.16,
+      "text": " then what you have to do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1430.16,
+      "end": 1432.16,
+      "text": " .play"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1432.16,
+      "end": 1434.16,
+      "text": " then you have to search"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1434.16,
+      "end": 1436.16,
+      "text": " music library"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1436.16,
+      "end": 1438.16,
+      "text": " .music"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1438.16,
+      "end": 1440.16,
+      "text": " and you have to play"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1440.16,
+      "end": 1442.16,
+      "text": " what"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1442.16,
+      "end": 1444.16,
+      "text": " music library .music"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1444.16,
+      "end": 1446.16,
+      "text": " and here will come song"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1446.16,
+      "end": 1448.16,
+      "text": " now what will be our song"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1448.16,
+      "end": 1450.16,
+      "text": " if in our command"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1450.16,
+      "end": 1452.16,
+      "text": " play then what we will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1452.16,
+      "end": 1454.16,
+      "text": " song is equal to c.lower"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1454.16,
+      "end": 1456.16,
+      "text": " .split"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1456.16,
+      "end": 1458.16,
+      "text": " by space of one"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1458.16,
+      "end": 1460.16,
+      "text": " let me explain"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1460.16,
+      "end": 1462.16,
+      "text": " this is very important for you"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1462.16,
+      "end": 1464.16,
+      "text": " if you said"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1464.16,
+      "end": 1466.16,
+      "text": " play skyfall"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1466.16,
+      "end": 1468.16,
+      "text": " then how will it play"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1468.16,
+      "end": 1470.16,
+      "text": " first c.lower"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1470.16,
+      "end": 1472.16,
+      "text": " .split by space"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1472.16,
+      "end": 1474.16,
+      "text": " which will convert it to a list"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1474.16,
+      "end": 1476.16,
+      "text": " like this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1476.16,
+      "end": 1478.16,
+      "text": " one will be play"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1478.16,
+      "end": 1480.16,
+      "text": " one will be skyfall"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1480.16,
+      "end": 1482.16,
+      "text": " then we will take 1 of this list"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1482.16,
+      "end": 1484.16,
+      "text": " 0 will start with 1"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1484.16,
+      "end": 1486.16,
+      "text": " so our song will be skyfall"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1486.16,
+      "end": 1488.16,
+      "text": " understood"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1488.16,
+      "end": 1490.16,
+      "text": " now see"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1490.16,
+      "end": 1492.16,
+      "text": " i have done this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1492.16,
+      "end": 1494.16,
+      "text": " now my song"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1494.16,
+      "end": 1496.16,
+      "text": " link will come here"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1496.16,
+      "end": 1498.16,
+      "text": " link is equal to this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1498.16,
+      "end": 1500.16,
+      "text": " then we have to open this link"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1500.16,
+      "end": 1502.16,
+      "text": " which we can do by"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1502.16,
+      "end": 1504.16,
+      "text": " opening web browser"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1504.16,
+      "end": 1506.16,
+      "text": " so let's try"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1506.16,
+      "end": 1508.16,
+      "text": " let's call Jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1508.16,
+      "end": 1510.16,
+      "text": " let's call Jarvis and ask him to play this song"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1510.16,
+      "end": 1512.16,
+      "text": " and now i am saying anything"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1512.16,
+      "end": 1514.16,
+      "text": " he is not reacting"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1514.16,
+      "end": 1516.16,
+      "text": " he will react when i will take his name"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1516.16,
+      "end": 1518.16,
+      "text": " Jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1518.16,
+      "end": 1520.16,
+      "text": " yeah"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1520.16,
+      "end": 1522.16,
+      "text": " play skyfall"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1522.16,
+      "end": 1524.16,
+      "text": " oh bro"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1524.16,
+      "end": 1526.16,
+      "text": " means ad came"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1526.16,
+      "end": 1528.16,
+      "text": " otherwise skyfall was played"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1528.16,
+      "end": 1530.16,
+      "text": " are you understanding"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1530.16,
+      "end": 1532.16,
+      "text": " very good"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1532.16,
+      "end": 1534.16,
+      "text": " and now i will say"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1534.16,
+      "end": 1536.16,
+      "text": " another song to play"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1536.16,
+      "end": 1538.16,
+      "text": " so now i will show you"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1538.16,
+      "end": 1540.16,
+      "text": " Jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1540.16,
+      "end": 1542.16,
+      "text": " yeah"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1542.16,
+      "end": 1544.16,
+      "text": " play wolf"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1548.16,
+      "end": 1550.16,
+      "text": " did you see"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1550.16,
+      "end": 1552.16,
+      "text": " so now you will simply"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1552.16,
+      "end": 1554.16,
+      "text": " come here in music library.py"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1554.16,
+      "end": 1556.16,
+      "text": " and in music library.py"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1556.16,
+      "end": 1558.16,
+      "text": " you will increase your music library"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1558.16,
+      "end": 1560.16,
+      "text": " see we all listen to 20-25 songs"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1560.16,
+      "end": 1562.16,
+      "text": " our favorite songs"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1562.16,
+      "end": 1564.16,
+      "text": " and we can listen to any of those favorite songs"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1564.16,
+      "end": 1566.16,
+      "text": " like i want to listen to march"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1566.16,
+      "end": 1568.16,
+      "text": " so now see my Jarvis is listening"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1568.16,
+      "end": 1570.16,
+      "text": " but he is not reacting"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1570.16,
+      "end": 1572.16,
+      "text": " but if i will take his name he will react"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1572.16,
+      "end": 1574.16,
+      "text": " like you see"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1574.16,
+      "end": 1576.16,
+      "text": " Jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1576.16,
+      "end": 1578.16,
+      "text": " Jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1578.16,
+      "end": 1580.16,
+      "text": " yeah"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1580.16,
+      "end": 1582.16,
+      "text": " play march"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1586.16,
+      "end": 1588.16,
+      "text": " did you see"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1588.16,
+      "end": 1590.16,
+      "text": " Jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1590.16,
+      "end": 1592.16,
+      "text": " Jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1592.16,
+      "end": 1594.16,
+      "text": " yeah"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1594.16,
+      "end": 1596.16,
+      "text": " play stealth"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1596.16,
+      "end": 1598.16,
+      "text": " ok so here there was a problem"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1598.16,
+      "end": 1600.16,
+      "text": " there was no problem"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1600.16,
+      "end": 1602.16,
+      "text": " Jarvis"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1602.16,
+      "end": 1604.16,
+      "text": " yeah"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1604.16,
+      "end": 1606.16,
+      "text": " play stealth"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1608.16,
+      "end": 1610.16,
+      "text": " see accuracy wise"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1610.16,
+      "end": 1612.16,
+      "text": " there is not much accuracy"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1612.16,
+      "end": 1614.16,
+      "text": " we have to tune some parameters"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1614.16,
+      "end": 1616.16,
+      "text": " like we have to tune these values"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1616.16,
+      "end": 1618.16,
+      "text": " but a basic idea"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1618.16,
+      "end": 1620.16,
+      "text": " is made now see what should be the value of timeout"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1620.16,
+      "end": 1622.16,
+      "text": " what should be the value of face time limit"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1622.16,
+      "end": 1624.16,
+      "text": " which recognizer we are using"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1624.16,
+      "end": 1626.16,
+      "text": " like i am using recognize google"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1626.16,
+      "end": 1628.16,
+      "text": " if we tune all those things"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1628.16,
+      "end": 1630.16,
+      "text": " it will be perfect like our Alexa"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1630.16,
+      "end": 1632.16,
+      "text": " so you have to see this thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1632.16,
+      "end": 1634.16,
+      "text": " very good"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1634.16,
+      "end": 1636.16,
+      "text": " now see he is listening continuously"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1636.16,
+      "end": 1638.16,
+      "text": " and there are other things"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1638.16,
+      "end": 1640.16,
+      "text": " which can optimize it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1640.16,
+      "end": 1642.16,
+      "text": " but for now we will not talk about them"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1642.16,
+      "end": 1644.16,
+      "text": " now we will add functionality"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1644.16,
+      "end": 1646.16,
+      "text": " so what all we have added"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1646.16,
+      "end": 1648.16,
+      "text": " this is capable of opening a music"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1648.16,
+      "end": 1650.16,
+      "text": " this is capable of opening a link"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1650.16,
+      "end": 1652.16,
+      "text": " this is capable of playing a music"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1652.16,
+      "end": 1654.16,
+      "text": " on youtube and what else we can add"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1654.16,
+      "end": 1656.16,
+      "text": " now i can say"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1656.16,
+      "end": 1658.16,
+      "text": " that"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1658.16,
+      "end": 1660.16,
+      "text": " if l if c"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1660.16,
+      "end": 1662.16,
+      "text": " dot lower"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1662.16,
+      "end": 1664.16,
+      "text": " dot starts with"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1664.16,
+      "end": 1666.16,
+      "text": " news"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1666.16,
+      "end": 1668.16,
+      "text": " ok if this news"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1668.16,
+      "end": 1670.16,
+      "text": " is in this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1670.16,
+      "end": 1672.16,
+      "text": " so what we can do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1672.16,
+      "end": 1674.16,
+      "text": " or we can do something like this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1674.16,
+      "end": 1676.16,
+      "text": " if news in"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1676.16,
+      "end": 1678.16,
+      "text": " else if news"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1680.16,
+      "end": 1682.16,
+      "text": " news in c dot lower"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1682.16,
+      "end": 1684.16,
+      "text": " this is very simple"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1684.16,
+      "end": 1686.16,
+      "text": " if news is there"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1686.16,
+      "end": 1688.16,
+      "text": " jarvis will play news"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1688.16,
+      "end": 1690.16,
+      "text": " now how we will get news"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1690.16,
+      "end": 1692.16,
+      "text": " so there is a news api"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1692.16,
+      "end": 1694.16,
+      "text": " which gives you news"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1694.16,
+      "end": 1696.16,
+      "text": " so you can take your api"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1696.16,
+      "end": 1698.16,
+      "text": " by signing up"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1698.16,
+      "end": 1700.16,
+      "text": " i will not show you my api"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1700.16,
+      "end": 1702.16,
+      "text": " but you can take your api"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1702.16,
+      "end": 1704.16,
+      "text": " and then what you can do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1704.16,
+      "end": 1706.16,
+      "text": " all articles about tesla"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1706.16,
+      "end": 1708.16,
+      "text": " from last month"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1708.16,
+      "end": 1710.16,
+      "text": " all articles"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1710.16,
+      "end": 1712.16,
+      "text": " from yesterday"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1712.16,
+      "end": 1714.16,
+      "text": " by popular publishers"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1714.16,
+      "end": 1716.16,
+      "text": " ok"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1716.16,
+      "end": 1718.16,
+      "text": " if you want headlines"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1718.16,
+      "end": 1720.16,
+      "text": " i will go to documentation"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1720.16,
+      "end": 1722.16,
+      "text": " i want headlines"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1722.16,
+      "end": 1724.16,
+      "text": " and what we will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1724.16,
+      "end": 1726.16,
+      "text": " we will see where we will get headlines"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1726.16,
+      "end": 1728.16,
+      "text": " top headlines"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1728.16,
+      "end": 1730.16,
+      "text": " countries equal to india"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1730.16,
+      "end": 1732.16,
+      "text": " i will do top headlines"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1732.16,
+      "end": 1734.16,
+      "text": " so what i will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1734.16,
+      "end": 1736.16,
+      "text": " i will put my api key"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1736.16,
+      "end": 1738.16,
+      "text": " i will login first"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1738.16,
+      "end": 1740.16,
+      "text": " i have password"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1740.16,
+      "end": 1742.16,
+      "text": " i will get my api key"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1742.16,
+      "end": 1744.16,
+      "text": " and i will come back"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1744.16,
+      "end": 1746.16,
+      "text": " i have my api key"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1746.16,
+      "end": 1748.16,
+      "text": " i will do one thing"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1748.16,
+      "end": 1750.16,
+      "text": " i will write news api key"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1750.16,
+      "end": 1752.16,
+      "text": " i will stop it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1752.16,
+      "end": 1754.16,
+      "text": " i will write news api key"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1754.16,
+      "end": 1756.16,
+      "text": " news"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1756.16,
+      "end": 1758.16,
+      "text": " news api is equal to"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1758.16,
+      "end": 1760.16,
+      "text": " and this is my api key"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1760.16,
+      "end": 1762.16,
+      "text": " guys please don't copy this api key"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1762.16,
+      "end": 1764.16,
+      "text": " i am requesting you"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1764.16,
+      "end": 1766.16,
+      "text": " please don't use this"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1766.16,
+      "end": 1768.16,
+      "text": " i am afraid if you will"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1768.16,
+      "end": 1770.16,
+      "text": " exhaust my api key"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1770.16,
+      "end": 1772.16,
+      "text": " but i am trusting you"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1772.16,
+      "end": 1774.16,
+      "text": " which i shouldn't do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1774.16,
+      "end": 1776.16,
+      "text": " because someone exhaust my api key"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1776.16,
+      "end": 1778.16,
+      "text": " but no problem"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1778.16,
+      "end": 1780.16,
+      "text": " if news is in c.lower"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1780.16,
+      "end": 1782.16,
+      "text": " then what we will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1782.16,
+      "end": 1784.16,
+      "text": " we will take this content"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1784.16,
+      "end": 1786.16,
+      "text": " whatever content is in this url"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1786.16,
+      "end": 1788.16,
+      "text": " then what we will do"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1788.16,
+      "end": 1790.16,
+      "text": " we will use a library called request"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1790.16,
+      "end": 1792.16,
+      "text": " we will say"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1792.16,
+      "end": 1794.16,
+      "text": " r is equal to request.get"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1794.16,
+      "end": 1796.16,
+      "text": " what we get from request.get"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1796.16,
+      "end": 1798.16,
+      "text": " is it"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1798.16,
+      "end": 1800.16,
+      "text": " whatever data"
+    },
+    {
+      "number": "20",
+      "title": "part20",
+      "start": 1800.16,
+      "end": 1802.16,
+      "text": " is in this"
+    }
+  ],
+  "text": " and you can do like this app.run and it will run after running this program now see we will run this program so this app is made and you see if you click on control then this hello world a basic python server is made now what is flask? basically it is used to make websites and api you can explore this further and that wraps chapter 13 practice set i am so happy we have come this far music alrighty guys today we are going to make that project is very close to my heart and i can say this is mega project from my heart because in this there are good people who call this mega project with that said i will make a folder here in which i will name it mega project 1 and this is jarvis and this jarvis is not some jarvis let me tell you what i mean this is a project in which if you have seen alexa google home if you have seen if you have seen this type of devices so we are going to make something like this for our system so i will make this main.py and after making main.py i will install some packages but because this is a mega project so we are going to keep all the packages in a virtual environment so to keep it in a virtual environment i will click on select interpreter here you can see up plus create virtual environment or below on the bottom right you will see select interpreter you guys here plus create virtual environment and select vn and python 3.1.12 virtual environment is being created here you can see below creating virtual environment something like this it takes some time to make virtual environment and virtual environment is finally created. now it is done my virtual environment is done now one thing i will tell you that here whatever i will do pip install someone is giving me a warning that python virtual environment was successfully activated vn will not come in the bracket but it means that terminal will work on virtual environment only good amazing so i will write here pip install and we will install first speech recognition and py audio you can install different packages by giving space if i give here speech recognition space py audio then it will install both so i will enter and install this much now here you can see it is installing all these packages it installed it very quickly after this one more thing i am going to install pip install i am going to setup tools setup tools and i will bring this terminal here just so that you can see drag powershell and bring it here it will become a tab and you can see by writing pip install setup tools it will be installed and it will be installed in virtual environment which is a very good thing now in my main.py i will write here if __name equals to equals to __ main i told you it is a good practice to put it in your program so first of all i will do speech recognition as sr now what is this as keyword when i am doing import speech recognition then i have to write again and again after import speech recognition speech recognition dot something speech recognition instead of writing this big i will write sr so to make it small i have made it as sr so if you are using as keyword then now instead of speech recognition you will write sr below it is such a simple thing so we did this now what we are going to do that we will install one more module which is called web browser so we will write pip install now i will do don't show again so that it doesn't come again and again pip install and i will write here web browser ok web browser it is saying could not find a version so if i write here import web browser so web browser ok so interfaces for so web browser is a built in module i guess is it let me check web browser module yes this is a built in module so this is a built in module which means that i don't need to install it amazing that's good actually that's good so what we will do we will open browser from web browser and if we want to open anything in browser and we will give voice command and by giving voice command we will open from web browser whatever we want to open ok so first thing i will do here install pyttsx pyttsx3 this is a package of text to speech which will help you to do text to speech so i will pip install here pyttsx3 and by doing pyttsx3 you can see here i am waiting for it to install, it is installed so pyttsx3 if we import it so what we can do we can do text to speech if we want to call anything from jarvis so we can call it so far so good i am really happy we have done a lot now our first thing is we have to make a recognizer object and what will that recognizer object do whenever we will say something it will recognize it so i will simply write here recognizer is equal to sr.recognizer sr.recognizer is a class recognizer class does it helps you to take speech recognition functionality and we will initialize ttsx engine so we will write ttsx is equal to pyttsx so we will write pyttsx.init and by this our pyttsx will be initialized now we will make a function which will be a speak function which will take a text and after that it will speak so how to make a speak function we will use this first we have to init and then we have to do engine.say so you can see here if i do engine.say i will make an engine in fact i will do exactly like this like this so what will happen it will be easy for me so i did engine.say now i will run speak function i will write here so i wrote here i hope you can hear the desktop audio it didn't work let me see why so i run it it didn't work so i will speak this text i run the speak function but it is not working so here we did everything but it is not working we have to run run and wait engine.run and wait ok otherwise it will exit hey sir how may i help you this is good so it is working so our jarvis i will initialize it as jarvis because i don't want it to work i want it to work for wake word i will say jarvis then it will say tiding understand why we are doing this otherwise we will hear normal things and it will be annoying so this is the reason so come i will tell you how to do this so i will go to speech recognition speech recognition documentation speech recognition and speech recognition in package python came so i will see code samples so i am seeing so i am seeing you can't remember code sample you can ask chat gpt if you are not asking chat gpt you have to pick it from somewhere so i am seeing speech recognition so i am seeing any code like examples directory so here if you see microphone recognition so i will pick code from this so they have first we will take audio from microphone after that what we will do we will see what is said so from here to here code will help me to know what is said so let's go i am very excited so first thing i will do listen for the wake word jarvis so if i said jarvis then only something should happen if i didn't said anything then nothing should happen and this also we will do in while loop so i will do while true means while true i will say this thing should happen means listen for wake word it will listen for wake word and finally what will happen here say something is written i will do listening so this is listening r.listen source and finally what will happen if r.recognize phoenix we can use recognize google function so i will do one thing command is equal to and print command ok so this much for now and keep this in try because if we didn't keep in try then we can get error and correct indentation also so let's run this initializing jarvis jarvis jarvis so it is saying pocket phoenix module you didn't set up properly so let's do one thing let's see what is this error because you can't do everything with your brain, you have to use stack overflow you have to install everything which is going to be used pip install pocket phoenix ok let me try this let me try pip install pocket phoenix which i have done i have fired this command pip install pocket phoenix and let me do one thing whatever commands i am using i will export requirements.txt and give you but again i keep putting it here at the top i have run this command and now let's see let's run this hey jarvis hey jarvis hey jarvis hey jarvis hey jarvis hey jarvis hey jarvis now see it is saying john lewis it is saying dotif so jarvis is not able to hear properly so i use google i don't use recognize phoenix i think that function is very good so we are not going to use this we are going to use recognize there are many of them google cloud, roundify, ibs, phoenix, tensorflow, whisper don't know what all so let me do one thing let me do recognize google where are you google, recognize google was a function recognize google cloud was not recognize google i think let me do one thing how are you jarvis one error it is saying give me your google cloud so recognize google is a function if i am not wrong jarvis how are you jarvis now see one problem it is taking time to recognize so let me do one thing let me print recognizing so that we can know how much time it is taking to recognize and how much time it is taking to listen so i did like this initializing jarvis listening jarvis it is taking too much time so see what happens let me show you one thing listen function takes two things one is timeout parameter and other is face time limit parameter so if i do timeout is equal to 2 seconds timeout is equal to 2 seconds so let me show you timeout is equal to 2 seconds so it will listen for 2 seconds and after that it will timeout again so let me show you initializing jarvis jarvis why it is saying jurivis i wrote wrong spelling what is jurivis doing initializing jarvis why it is saying jurivis why it is saying jurivis so let me do one thing except exception as e except exception as e and i will write could not i will write error here we are not using sphinx jarvis let me run it again initializing jarvis it is listening i want it to listen again and again and now see google i want it to listen again and again it is telling right so what i will do here timeout is equal to 2 so there are two parameters one is timeout maximum number of seconds that this will wait for a face to start before giving up wait timeout exception and face time limit parameter maximum number of seconds that will allow face to continue before stopping and returning the part of the face like you said something after that how long you can wait so i will do it for one second so i will do face time limit for one second and see initializing jarvis so here it throw the wait timeout error and here you see r.listen so i will take this thing in try i don't want to get error so i will take this in try so what will happen audio is equal to this now i will run it initializing jarvis jarvis jarvis jarvis jarvis jarvis see now it is fast it is going to listen now we have to do only wake word now only wake word so once we have heard for command so i will say here if this command is jarvis if command dot lower we have to convert in lower case equal to equal to jarvis jarvis if this is jarvis then what we will do that we will speak so we will say jarvis so it will say ya and after that we will keep our thing and i will show you here if command dot lower is equal to equal to jarvis so we have spoken ya and after that we will do listen for command listen for command till now we have listened for wake word we have listened for jarvis word we have taken from audio microphone and finally what we have done we have said listen if jarvis jarvis is spoken so do this and after that we will listen for command so what we will do with sr.microphone as source what we will do here listen for command and whatever our command will be whatever our command will be this time i have done print listening and audio is equal to this and our command will be r.recognize google audio and this will be our command and i call this word because now we are listening for only one word so word dot lower is equal to equal to jarvis so what we will do is speak jarvis and whatever you want to say i write jarvis active jarvis active and after that you have to listen and r.recognize google audio will be the command and after that we will make a function process command so our command will be process and this we will make a function which i have not made yet so let me do one thing and this will process our command so i write c and for now i write pass so this is a function which will work now let's test this initializing jarvis jarvis jarvis yeah now jarvis is active for now i i print the process command c and once jarvis is active after that command will be processed ok let me run it again because i have made changes so our jarvis is working it is not saying anything to us it is working it is working jarvis yeah how are you it says c is not defined let me see what is the problem so i have made c in process command and c in print what is the problem hmm ok here i have to give the full command jarvis jarvis jarvis yeah how are you ok i have to run it again because i have changed the program initializing jarvis jarvis yeah how are you so it has recognized how are you, now we can process it the first feature i want to add is open google so here i will say if c if c.lower equals to equals to open google here i will say if open google in c.lower in c.lower in c.lower if open google in c.lower means if open google in c.lower then you can do webbrowser.open https://google.com and we have to do the same thing with open facebook we have to do the same thing here i will say elif we have to do the same thing with whom with facebook with linkedin so here you can write facebook ok facebook open youtube so now your jarvis has become a virtual assistant which will do if you say open youtube then it will open youtube if you say open facebook it will open facebook if you say let us say open linkedin linkedin it will open linkedin, let's try this first so here i have taken all of these initializing jarvis if i say self open youtube it will react or not jarvis ya open google see it has opened google it is fun right now just watch trailer is there, movie is still left so now we will stop all this and i will show you what else we can add, so jarvis still listen i can say again to jarvis jarvis ya, open youtube it has opened facebook because i have made a mistake in code so i will do youtube instead of youtube now it will work, i will run it again so this is a program which you can run and it will do its work you keep doing your work and whenever you want to talk to it you can call its name and it will do your work like i show you jarvis ya, open youtube why should i open youtube jarvis will open youtube i can make it i am capable enough to make a virtual assistant so i will make it open by jarvis why i will do it myself it is fun till now it is fun jarvis jarvis ya, open linkedin bro, bro, bro wow, jarvis ya open youtube oh wow so i will do one thing i will write songs here which songs we will play songs non copyright songs ok and i will play a song stealth stealth youtube music youtube music stealth akash gandhi ok, it will come this music music music now i will show you one thing now i will show you one thing we will make a music library we will make a global variable our music library now music library now we will do one thing we will make music library in another file we will make music library.py music library.py music library.py and here we will do import music library ok, music library we will import it and here we will write music is equal to we will say this is the url of stealth song now you see what i am doing now we will say many more songs i will name this song march you can name your favorite songs this is done and one more i will name skyfall skyfall i will take skyfall link copy link address and what else we can do i will keep three songs one more what i will do youtube youtube music library i will write here and here i got youtube music library many more i got let's see wolf wolf and here now what i want to do i have done import music library what i will do else if else if play or let's do one thing we will say if c.lower is starting .starts with play ok then what you have to do .play then you have to search music library .music and you have to play what music library .music and here will come song now what will be our song if in our command play then what we will do song is equal to c.lower .split by space of one let me explain this is very important for you if you said play skyfall then how will it play first c.lower .split by space which will convert it to a list like this one will be play one will be skyfall then we will take 1 of this list 0 will start with 1 so our song will be skyfall understood now see i have done this now my song link will come here link is equal to this then we have to open this link which we can do by opening web browser so let's try let's call Jarvis let's call Jarvis and ask him to play this song and now i am saying anything he is not reacting he will react when i will take his name Jarvis yeah play skyfall oh bro means ad came otherwise skyfall was played are you understanding very good and now i will say another song to play so now i will show you Jarvis yeah play wolf did you see so now you will simply come here in music library.py and in music library.py you will increase your music library see we all listen to 20-25 songs our favorite songs and we can listen to any of those favorite songs like i want to listen to march so now see my Jarvis is listening but he is not reacting but if i will take his name he will react like you see Jarvis Jarvis yeah play march did you see Jarvis Jarvis yeah play stealth ok so here there was a problem there was no problem Jarvis yeah play stealth see accuracy wise there is not much accuracy we have to tune some parameters like we have to tune these values but a basic idea is made now see what should be the value of timeout what should be the value of face time limit which recognizer we are using like i am using recognize google if we tune all those things it will be perfect like our Alexa so you have to see this thing very good now see he is listening continuously and there are other things which can optimize it but for now we will not talk about them now we will add functionality so what all we have added this is capable of opening a music this is capable of opening a link this is capable of playing a music on youtube and what else we can add now i can say that if l if c dot lower dot starts with news ok if this news is in this so what we can do or we can do something like this if news in else if news news in c dot lower this is very simple if news is there jarvis will play news now how we will get news so there is a news api which gives you news so you can take your api by signing up i will not show you my api but you can take your api and then what you can do all articles about tesla from last month all articles from yesterday by popular publishers ok if you want headlines i will go to documentation i want headlines and what we will do we will see where we will get headlines top headlines countries equal to india i will do top headlines so what i will do i will put my api key i will login first i have password i will get my api key and i will come back i have my api key i will do one thing i will write news api key i will stop it i will write news api key news news api is equal to and this is my api key guys please don't copy this api key i am requesting you please don't use this i am afraid if you will exhaust my api key but i am trusting you which i shouldn't do because someone exhaust my api key but no problem if news is in c.lower then what we will do we will take this content whatever content is in this url then what we will do we will use a library called request we will say r is equal to request.get what we get from request.get is it whatever data is in this"
+}
