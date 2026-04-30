@@ -1,6 +1,6 @@
 ================================================================
 EduRAG — 50-Query Evaluation Dataset
-Corpus  : CodeWithHarry — Python Tutorial for Beginners (Parts 1–22)
+Corpus  : Python Tutorial for Beginners (Parts 1–22)
 Source  : https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg
 Prepared: Two domain experts (disagreements resolved by consensus)
 Format  : Query | Ground-Truth Answer | Retrieved Source | Query Type
