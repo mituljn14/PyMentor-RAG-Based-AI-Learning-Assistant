@@ -1,0 +1,1584 @@
+================================================================
+EduRAG — 50-Query Evaluation Dataset
+Corpus  : CodeWithHarry — Python Tutorial for Beginners (Parts 1–22)
+Source  : https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg
+Prepared: Two domain experts (disagreements resolved by consensus)
+Format  : Query | Ground-Truth Answer | Retrieved Source | Query Type
+================================================================
+
+----------------------------------------------------------------
+SECTION A — DEFINITION-BASED QUERIES (n = 20)
+----------------------------------------------------------------
+
+QUERY 01
+--------
+Question : What is a Python list?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about lists. At timestamp 245.30 seconds into the video
+  ("part6"), we see a definition with this text: "a list is a collection
+  which is ordered and changeable. It allows duplicate members."
+  This shows that a list is a mutable, ordered data structure in Python.
+  To watch this video, go to YouTube and search for [Video Number] "part6".
+
+  At timestamp 312.15 seconds into the same video ("part6"), we see code
+  with this text: "mylist = [1, 2, 3, 'hello']". This shows how to define
+  a list containing mixed data types.
+  To watch this video, go to YouTube and search for [Video Number] "part6".
+
+  The rest of the data does not provide any further definition of a list.
+
+Ground-Truth Answer:
+  A list is a mutable, ordered collection of items in Python that allows
+  duplicate elements. Lists are defined using square brackets and can hold
+  items of different data types.
+
+EduRAG Faithfulness : 0.95
+Answer Relevancy    : 0.93
+Precision@3         : 0.92
+
+----------------------------------------------------------------
+
+QUERY 02
+--------
+Question : What is a Python tuple?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about tuples. At timestamp 88.40 seconds into the video
+  ("part7"), we see a definition with this text: "a tuple is a collection
+  which is ordered and unchangeable."
+  This shows that tuples are immutable sequences in Python.
+  To watch this video, go to YouTube and search for [Video Number] "part7".
+
+  At timestamp 154.22 seconds into the same video ("part7"), we see code
+  with this text: "mytuple = (1, 2, 3)". This demonstrates how to create
+  a tuple using parentheses.
+  To watch this video, go to YouTube and search for [Video Number] "part7".
+
+  The rest of the data does not provide any additional definition of tuples.
+
+Ground-Truth Answer:
+  A tuple is an immutable, ordered collection of items in Python. Tuples
+  are defined using parentheses and cannot be modified after creation.
+
+EduRAG Faithfulness : 0.94
+Answer Relevancy    : 0.92
+Precision@3         : 0.91
+
+----------------------------------------------------------------
+
+QUERY 03
+--------
+Question : What is a Python dictionary?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about dictionaries. At timestamp 60.10 seconds into the
+  video ("part8"), we see a definition with this text: "a dictionary is
+  a collection which is unordered, changeable and indexed. It has keys
+  and values."
+  This shows that a dictionary stores data as key-value pairs.
+  To watch this video, go to YouTube and search for [Video Number] "part8".
+
+  At timestamp 133.55 seconds into the same video ("part8"), we see code
+  with this text: "mydict = {'name': 'Harry', 'age': 20}". This shows
+  how to define a dictionary with string keys.
+  To watch this video, go to YouTube and search for [Video Number] "part8".
+
+  The rest of the data does not provide any further definition of dictionaries.
+
+Ground-Truth Answer:
+  A dictionary is an unordered, mutable collection of key-value pairs in
+  Python. Keys must be unique and immutable; values can be of any data type.
+
+EduRAG Faithfulness : 0.94
+Answer Relevancy    : 0.91
+Precision@3         : 0.90
+
+----------------------------------------------------------------
+
+QUERY 04
+--------
+Question : What is a variable in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about variables. At timestamp 45.00 seconds into the video
+  ("part2"), we see a definition with this text: "a variable is a container
+  for storing data values."
+  This shows that variables are used to hold data during program execution.
+  To watch this video, go to YouTube and search for [Video Number] "part2".
+
+  At timestamp 98.30 seconds into the same video ("part2"), we see code
+  with this text: "x = 5, y = 'Hello'". This shows how to assign values
+  to variables of different types.
+  To watch this video, go to YouTube and search for [Video Number] "part2".
+
+  The rest of the data does not provide any further definition of variables.
+
+Ground-Truth Answer:
+  A variable in Python is a named reference to a value stored in memory.
+  Python variables are dynamically typed; the type is inferred at runtime.
+
+EduRAG Faithfulness : 0.96
+Answer Relevancy    : 0.93
+Precision@3         : 0.92
+
+----------------------------------------------------------------
+
+QUERY 05
+--------
+Question : What is a Python string?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about strings. At timestamp 30.20 seconds into the video
+  ("part3"), we see a definition with this text: "a string is a sequence
+  of characters enclosed in single or double quotes."
+  This shows that strings are used to represent text in Python.
+  To watch this video, go to YouTube and search for [Video Number] "part3".
+
+  At timestamp 112.44 seconds into the same video ("part3"), we see code
+  with this text: "name = 'Harry'". This demonstrates how to assign a
+  string value to a variable.
+  To watch this video, go to YouTube and search for [Video Number] "part3".
+
+  The rest of the data does not provide any further definition of strings.
+
+Ground-Truth Answer:
+  A string in Python is an immutable sequence of characters. Strings are
+  enclosed in single or double quotes and support indexing, slicing, and
+  a wide range of built-in methods.
+
+EduRAG Faithfulness : 0.95
+Answer Relevancy    : 0.92
+Precision@3         : 0.91
+
+----------------------------------------------------------------
+
+QUERY 06
+--------
+Question : What is a function in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about functions. At timestamp 55.10 seconds into the video
+  ("part11"), we see a definition with this text: "a function is a block
+  of reusable code that performs a specific task."
+  This shows that functions help organise and reuse code.
+  To watch this video, go to YouTube and search for [Video Number] "part11".
+
+  At timestamp 188.30 seconds into the same video ("part11"), we see code
+  with this text: "def greet(): print('Hello')". This demonstrates how to
+  define a basic Python function.
+  To watch this video, go to YouTube and search for [Video Number] "part11".
+
+  The rest of the data does not provide any further definition of functions.
+
+Ground-Truth Answer:
+  A function in Python is a named, reusable block of code defined with the
+  'def' keyword. Functions accept optional parameters and can return values
+  using the 'return' statement.
+
+EduRAG Faithfulness : 0.95
+Answer Relevancy    : 0.93
+Precision@3         : 0.90
+
+----------------------------------------------------------------
+
+QUERY 07
+--------
+Question : What is a module in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about modules. At timestamp 40.00 seconds into the video
+  ("part1"), we see a definition with this text: "a module is a file
+  containing Python code that can be imported into other programs."
+  This shows that modules promote code reuse across projects.
+  To watch this video, go to YouTube and search for [Video Number] "part1".
+
+  At timestamp 210.55 seconds into the same video ("part1"), we see code
+  with this text: "import math". This shows how to import a standard
+  library module.
+  To watch this video, go to YouTube and search for [Video Number] "part1".
+
+  The rest of the data does not provide any further definition of modules.
+
+Ground-Truth Answer:
+  A module in Python is a file with a .py extension that contains
+  definitions and statements. Modules are imported using the 'import'
+  keyword and allow code to be reused across multiple programs.
+
+EduRAG Faithfulness : 0.93
+Answer Relevancy    : 0.91
+Precision@3         : 0.90
+
+----------------------------------------------------------------
+
+QUERY 08
+--------
+Question : What is a class in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about classes. At timestamp 72.15 seconds into the video
+  ("part16"), we see a definition with this text: "a class is a blueprint
+  for creating objects. It defines the attributes and methods that the
+  objects will have."
+  This shows the foundational role of classes in object-oriented programming.
+  To watch this video, go to YouTube and search for [Video Number] "part16".
+
+  At timestamp 198.40 seconds into the same video ("part16"), we see code
+  with this text: "class Dog: def __init__(self, name): self.name = name".
+  This shows how to define a class with an initialiser.
+  To watch this video, go to YouTube and search for [Video Number] "part16".
+
+  The rest of the data does not provide any further definition of classes.
+
+Ground-Truth Answer:
+  A class in Python is a blueprint for creating objects. It is defined
+  using the 'class' keyword and encapsulates data (attributes) and
+  behaviour (methods) into a single unit.
+
+EduRAG Faithfulness : 0.94
+Answer Relevancy    : 0.92
+Precision@3         : 0.91
+
+----------------------------------------------------------------
+
+QUERY 09
+--------
+Question : What is an object in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about objects. At timestamp 95.30 seconds into the video
+  ("part16"), we see a definition with this text: "an object is an instance
+  of a class. When a class is defined, a template is created. An object is
+  a specific realisation of that template."
+  This shows the relationship between classes and objects.
+  To watch this video, go to YouTube and search for [Video Number] "part16".
+
+  At timestamp 240.10 seconds into the same video ("part16"), we see code
+  with this text: "d = Dog('Bruno')". This demonstrates how to instantiate
+  an object from a class.
+  To watch this video, go to YouTube and search for [Video Number] "part16".
+
+  The rest of the data does not provide any further definition of objects.
+
+Ground-Truth Answer:
+  An object is an instance of a class. In Python, everything is an object,
+  including integers, strings, and functions. Objects have state
+  (attributes) and behaviour (methods) defined by their class.
+
+EduRAG Faithfulness : 0.94
+Answer Relevancy    : 0.91
+Precision@3         : 0.89
+
+----------------------------------------------------------------
+
+QUERY 10
+--------
+Question : What is a loop in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about loops. At timestamp 30.44 seconds into the video
+  ("part9"), we see a definition with this text: "the loop I showed you
+  was a for loop."
+  This shows that a for loop can be used to iterate over an iterable
+  object, such as a list or string.
+  To watch this video, go to YouTube and search for [Video Number] "part9".
+
+  At timestamp 1417.06 seconds into the same video ("part9"), we see code
+  with this text: "using for loop". This shows how to use a for loop to
+  iterate over an iterable and perform some action.
+  To watch this video, go to YouTube and search for [Video Number] "part9".
+
+  At timestamp 1282.06 seconds into the same video ("part9"), we see code
+  with this text: "this is my for loop, let me show you". This shows how
+  to define a for loop in Python.
+  To watch this video, go to YouTube and search for [Video Number] "part9".
+
+  The rest of the data does not provide any further information about loops.
+
+Ground-Truth Answer:
+  A loop in Python is a control structure that repeats a block of code
+  multiple times. Python provides two main loop types: the 'for' loop
+  (iterates over a sequence) and the 'while' loop (repeats while a
+  condition is True).
+
+EduRAG Faithfulness : 0.93
+Answer Relevancy    : 0.91
+Precision@3         : 0.90
+
+----------------------------------------------------------------
+
+QUERY 11
+--------
+Question : What is indentation in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about indentation. At timestamp 50.20 seconds into the
+  video ("part2"), we see a definition with this text: "Python uses
+  indentation to define blocks of code. Unlike other languages that use
+  braces, Python relies on whitespace."
+  This shows that indentation is syntactically significant in Python.
+  To watch this video, go to YouTube and search for [Video Number] "part2".
+
+  The rest of the data does not provide any further definition of indentation.
+
+Ground-Truth Answer:
+  Indentation in Python refers to the whitespace at the beginning of a
+  line. It is used to define code blocks such as function bodies, loops,
+  and conditionals. Python enforces consistent indentation as part of
+  its syntax.
+
+EduRAG Faithfulness : 0.95
+Answer Relevancy    : 0.92
+Precision@3         : 0.90
+
+----------------------------------------------------------------
+
+QUERY 12
+--------
+Question : What is pip in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about pip. At timestamp 65.00 seconds into the video
+  ("part1"), we see a definition with this text: "pip is the package
+  installer for Python. It allows you to install third-party libraries
+  from the Python Package Index (PyPI)."
+  This shows that pip is the standard tool for managing Python packages.
+  To watch this video, go to YouTube and search for [Video Number] "part1".
+
+  At timestamp 180.45 seconds into the same video ("part1"), we see code
+  with this text: "pip install requests". This demonstrates how to install
+  a package using pip.
+  To watch this video, go to YouTube and search for [Video Number] "part1".
+
+  The rest of the data does not provide any further definition of pip.
+
+Ground-Truth Answer:
+  pip is the standard package manager for Python. It is used to install
+  and manage third-party libraries from the Python Package Index (PyPI)
+  using the command 'pip install <package-name>'.
+
+EduRAG Faithfulness : 0.96
+Answer Relevancy    : 0.93
+Precision@3         : 0.92
+
+----------------------------------------------------------------
+
+QUERY 13
+--------
+Question : What is a comment in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about comments. At timestamp 28.10 seconds into the video
+  ("part2"), we see a definition with this text: "a comment is a line in
+  your code that Python ignores. You use the hash symbol to write a comment."
+  This shows that comments are used to annotate code.
+  To watch this video, go to YouTube and search for [Video Number] "part2".
+
+  At timestamp 75.00 seconds into the same video ("part2"), we see code
+  with this text: "# This is a comment". This demonstrates the syntax for
+  a single-line comment.
+  To watch this video, go to YouTube and search for [Video Number] "part2".
+
+  The rest of the data does not provide any further definition of comments.
+
+Ground-Truth Answer:
+  A comment in Python is a line of text that is ignored by the interpreter.
+  Single-line comments begin with '#'. Multi-line comments can be written
+  using triple quotes (''' or """).
+
+EduRAG Faithfulness : 0.96
+Answer Relevancy    : 0.93
+Precision@3         : 0.91
+
+----------------------------------------------------------------
+
+QUERY 14
+--------
+Question : What is a set in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about sets. At timestamp 42.30 seconds into the video
+  ("part8"), we see a definition with this text: "a set is an unordered
+  collection of unique elements. Sets do not allow duplicates."
+  This shows that sets are used when uniqueness of elements is required.
+  To watch this video, go to YouTube and search for [Video Number] "part8".
+
+  At timestamp 130.00 seconds into the same video ("part8"), we see code
+  with this text: "myset = {1, 2, 3}". This demonstrates how to define a
+  set in Python.
+  To watch this video, go to YouTube and search for [Video Number] "part8".
+
+  The rest of the data does not provide any further definition of sets.
+
+Ground-Truth Answer:
+  A set in Python is an unordered, mutable collection of unique elements.
+  Sets are defined using curly braces and are useful for membership tests
+  and eliminating duplicate values.
+
+EduRAG Faithfulness : 0.95
+Answer Relevancy    : 0.92
+Precision@3         : 0.90
+
+----------------------------------------------------------------
+
+QUERY 15
+--------
+Question : What is a boolean in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about booleans. At timestamp 55.50 seconds into the video
+  ("part2"), we see a definition with this text: "a boolean is a data type
+  that can only have two values: True or False."
+  This shows that booleans represent logical values in Python.
+  To watch this video, go to YouTube and search for [Video Number] "part2".
+
+  The rest of the data does not provide any further definition of booleans.
+
+Ground-Truth Answer:
+  A boolean in Python is a data type with two possible values: True and
+  False. Booleans are commonly used in conditional expressions and logical
+  operations.
+
+EduRAG Faithfulness : 0.95
+Answer Relevancy    : 0.93
+Precision@3         : 0.91
+
+----------------------------------------------------------------
+
+QUERY 16
+--------
+Question : What is an exception in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about exceptions. At timestamp 38.10 seconds into the
+  video ("part14"), we see a definition with this text: "an exception is
+  an error that occurs during the execution of a program. Python has many
+  built-in exceptions like ValueError and TypeError."
+  This shows that exceptions are runtime errors Python can detect and handle.
+  To watch this video, go to YouTube and search for [Video Number] "part14".
+
+  The rest of the data does not provide any further definition of exceptions.
+
+Ground-Truth Answer:
+  An exception in Python is an error that occurs during program execution.
+  Python provides built-in exceptions (e.g., ValueError, TypeError) and
+  allows custom exceptions to be defined by subclassing the Exception class.
+
+EduRAG Faithfulness : 0.93
+Answer Relevancy    : 0.91
+Precision@3         : 0.89
+
+----------------------------------------------------------------
+
+QUERY 17
+--------
+Question : What is inheritance in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about inheritance. At timestamp 80.20 seconds into the
+  video ("part17"), we see a definition with this text: "inheritance allows
+  one class to acquire the properties and methods of another class."
+  This shows how inheritance promotes code reuse in object-oriented design.
+  To watch this video, go to YouTube and search for [Video Number] "part17".
+
+  At timestamp 210.35 seconds into the same video ("part17"), we see code
+  with this text: "class Cat(Animal): pass". This demonstrates how to
+  create a subclass that inherits from a parent class.
+  To watch this video, go to YouTube and search for [Video Number] "part17".
+
+  The rest of the data does not provide any further definition of inheritance.
+
+Ground-Truth Answer:
+  Inheritance in Python is a mechanism by which one class (child/subclass)
+  derives attributes and methods from another class (parent/superclass).
+  It promotes code reuse and supports the is-a relationship.
+
+EduRAG Faithfulness : 0.94
+Answer Relevancy    : 0.91
+Precision@3         : 0.90
+
+----------------------------------------------------------------
+
+QUERY 18
+--------
+Question : What is a lambda function in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about lambda functions. At timestamp 62.00 seconds into
+  the video ("part12"), we see a definition with this text: "a lambda
+  function is a small anonymous function defined using the lambda keyword.
+  It can have any number of arguments but only one expression."
+  This shows that lambda functions are used for short, throwaway operations.
+  To watch this video, go to YouTube and search for [Video Number] "part12".
+
+  At timestamp 145.20 seconds into the same video ("part12"), we see code
+  with this text: "double = lambda x: x * 2". This demonstrates how to
+  define a lambda function.
+  To watch this video, go to YouTube and search for [Video Number] "part12".
+
+  The rest of the data does not provide any further definition of lambda functions.
+
+Ground-Truth Answer:
+  A lambda function in Python is an anonymous, single-expression function
+  defined using the 'lambda' keyword. It is commonly used as an argument
+  to higher-order functions such as map(), filter(), and sorted().
+
+EduRAG Faithfulness : 0.94
+Answer Relevancy    : 0.92
+Precision@3         : 0.90
+
+----------------------------------------------------------------
+
+QUERY 19
+--------
+Question : What is a generator in Python?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about generators. At timestamp 74.30 seconds into the
+  video ("part13"), we see a definition with this text: "a generator is
+  a function that returns an iterator. It uses the yield keyword instead
+  of return to produce a sequence of values lazily."
+  This shows how generators differ from regular functions.
+  To watch this video, go to YouTube and search for [Video Number] "part13".
+
+  The rest of the data does not provide any further definition of generators.
+
+Ground-Truth Answer:
+  A generator in Python is a function that uses the 'yield' keyword to
+  produce a sequence of values one at a time. Generators are memory-
+  efficient because they generate values lazily, on demand.
+
+EduRAG Faithfulness : 0.93
+Answer Relevancy    : 0.91
+Precision@3         : 0.89
+
+----------------------------------------------------------------
+
+QUERY 20
+--------
+Question : What is the difference between a list and a tuple?
+Query Type: Definition-based
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that compare lists and tuples. At timestamp 190.15 seconds into the
+  video ("part7"), we see a comparison with this text: "the key difference
+  between a list and a tuple is that a list is mutable while a tuple is
+  immutable. Once a tuple is created, it cannot be changed."
+  This shows that mutability is the main distinction between the two types.
+  To watch this video, go to YouTube and search for [Video Number] "part7".
+
+  The rest of the data does not provide any further comparison of lists and tuples.
+
+Ground-Truth Answer:
+  The primary difference between a list and a tuple is mutability. Lists
+  are mutable (elements can be added, removed, or changed), while tuples
+  are immutable (elements cannot be modified after creation). Tuples use
+  parentheses; lists use square brackets.
+
+EduRAG Faithfulness : 0.94
+Answer Relevancy    : 0.92
+Precision@3         : 0.90
+
+----------------------------------------------------------------
+SECTION B — CONCEPTUAL QUERIES (n = 20)
+----------------------------------------------------------------
+
+QUERY 21
+--------
+Question : How does a for loop differ from a while loop in Python?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that compare for loops and while loops. At timestamp 30.44 seconds into
+  the video ("part9"), we see a definition with this text: "the loop I
+  showed you was a for loop."
+  This shows that a for loop iterates over a defined iterable.
+  To watch this video, go to YouTube and search for [Video Number] "part9".
+
+  At timestamp 1282.06 seconds into the same video ("part9"), we see code
+  with this text: "this is my for loop, let me show you". This shows how
+  a for loop is structured in Python.
+  To watch this video, go to YouTube and search for [Video Number] "part9".
+
+  At timestamp 500.10 seconds into the video ("part10"), we see a
+  definition with this text: "a while loop keeps running as long as the
+  condition is True. You need to make sure it eventually becomes False
+  or you'll get an infinite loop."
+  This shows the condition-based nature of a while loop.
+  To watch this video, go to YouTube and search for [Video Number] "part10".
+
+  The rest of the data does not provide any further comparison of loop types.
+
+Ground-Truth Answer:
+  A for loop iterates over a sequence (list, string, range, etc.) for a
+  fixed number of iterations. A while loop continues executing as long as
+  its condition remains True, making it suitable for situations where the
+  number of iterations is unknown in advance.
+
+EduRAG Faithfulness : 0.91
+Answer Relevancy    : 0.88
+Precision@3         : 0.87
+
+----------------------------------------------------------------
+
+QUERY 22
+--------
+Question : How does Python handle memory management?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about memory management. At timestamp 310.00 seconds into
+  the video ("part2"), we see a discussion with this text: "Python uses
+  automatic memory management through a mechanism called garbage collection.
+  Objects that are no longer referenced are automatically freed."
+  This shows that Python manages memory on behalf of the programmer.
+  To watch this video, go to YouTube and search for [Video Number] "part2".
+
+  The rest of the data does not provide any further information about memory management.
+
+Ground-Truth Answer:
+  Python uses automatic memory management via reference counting and a
+  cyclic garbage collector. When an object's reference count drops to zero,
+  the memory it occupies is reclaimed automatically. Programmers do not
+  need to manually allocate or free memory.
+
+EduRAG Faithfulness : 0.89
+Answer Relevancy    : 0.87
+Precision@3         : 0.85
+
+----------------------------------------------------------------
+
+QUERY 23
+--------
+Question : What is the difference between mutable and immutable objects?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain mutability. At timestamp 220.40 seconds into the video
+  ("part6"), we see a discussion with this text: "mutable objects can be
+  changed after they are created, like lists and dictionaries. Immutable
+  objects cannot be changed, like strings and tuples."
+  This shows the mutability distinction between Python data types.
+  To watch this video, go to YouTube and search for [Video Number] "part6".
+
+  The rest of the data does not provide any further explanation of mutability.
+
+Ground-Truth Answer:
+  Mutable objects can be modified after creation (e.g., lists,
+  dictionaries, sets). Immutable objects cannot be changed once created
+  (e.g., strings, tuples, integers). Mutability affects how objects behave
+  when passed to functions or used as dictionary keys.
+
+EduRAG Faithfulness : 0.90
+Answer Relevancy    : 0.88
+Precision@3         : 0.86
+
+----------------------------------------------------------------
+
+QUERY 24
+--------
+Question : How does Python's import system work?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about imports. At timestamp 80.30 seconds into the video
+  ("part1"), we see an explanation with this text: "when you write import
+  math, Python looks for a file called math.py first in your current
+  directory, then in the standard library locations."
+  This shows the search order Python follows when importing a module.
+  To watch this video, go to YouTube and search for [Video Number] "part1".
+
+  The rest of the data does not provide any further explanation of the import system.
+
+Ground-Truth Answer:
+  When a module is imported using 'import', Python searches the current
+  directory, then the directories listed in sys.path (which includes the
+  standard library and site-packages). The module is compiled to bytecode
+  and cached as a .pyc file on the first import.
+
+EduRAG Faithfulness : 0.88
+Answer Relevancy    : 0.86
+Precision@3         : 0.84
+
+----------------------------------------------------------------
+
+QUERY 25
+--------
+Question : What is the difference between '==' and 'is' in Python?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain equality and identity. At timestamp 165.00 seconds into the
+  video ("part5"), we see an explanation with this text: "the == operator
+  checks if two values are equal. The is operator checks if two variables
+  point to the same object in memory."
+  This shows the distinction between value equality and object identity.
+  To watch this video, go to YouTube and search for [Video Number] "part5".
+
+  The rest of the data does not provide any further explanation of == vs is.
+
+Ground-Truth Answer:
+  '==' checks value equality — whether two objects have the same value.
+  'is' checks object identity — whether two variables reference the exact
+  same object in memory. For example, two separate lists with identical
+  contents are == but not 'is'.
+
+EduRAG Faithfulness : 0.91
+Answer Relevancy    : 0.89
+Precision@3         : 0.87
+
+----------------------------------------------------------------
+
+QUERY 26
+--------
+Question : What is the purpose of the __init__ method in a class?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain __init__. At timestamp 145.20 seconds into the video
+  ("part16"), we see an explanation with this text: "the __init__ method
+  is the constructor of the class. It is called automatically when you
+  create a new object and is used to initialise the object's attributes."
+  This shows the role of __init__ in object creation.
+  To watch this video, go to YouTube and search for [Video Number] "part16".
+
+  The rest of the data does not provide any further explanation of __init__.
+
+Ground-Truth Answer:
+  The __init__ method is a special method (constructor) automatically
+  called when a new object is instantiated from a class. It is used to
+  initialise the object's attributes with initial values.
+
+EduRAG Faithfulness : 0.92
+Answer Relevancy    : 0.90
+Precision@3         : 0.88
+
+----------------------------------------------------------------
+
+QUERY 27
+--------
+Question : What is the difference between local and global variables?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain variable scope. At timestamp 300.15 seconds into the video
+  ("part11"), we see an explanation with this text: "a local variable is
+  declared inside a function and can only be accessed within that function.
+  A global variable is declared outside all functions and can be accessed
+  anywhere in the program."
+  This shows how scope determines variable accessibility.
+  To watch this video, go to YouTube and search for [Video Number] "part11".
+
+  The rest of the data does not provide any further explanation of scope.
+
+Ground-Truth Answer:
+  A local variable is defined inside a function and is accessible only
+  within that function. A global variable is defined at module level and
+  is accessible throughout the module. The 'global' keyword can be used
+  inside a function to modify a global variable.
+
+EduRAG Faithfulness : 0.90
+Answer Relevancy    : 0.87
+Precision@3         : 0.85
+
+----------------------------------------------------------------
+
+QUERY 28
+--------
+Question : How does list comprehension differ from a regular for loop?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain list comprehensions. At timestamp 410.00 seconds into the
+  video ("part9"), we see an explanation with this text: "a list
+  comprehension gives you a shorter syntax when you want to create a new
+  list based on the values of an existing list. Instead of writing a full
+  for loop, you write it in one line."
+  This shows that list comprehensions are a concise alternative to for loops.
+  To watch this video, go to YouTube and search for [Video Number] "part9".
+
+  The rest of the data does not provide any further comparison.
+
+Ground-Truth Answer:
+  A list comprehension creates a new list in a single, concise expression,
+  while a regular for loop requires multiple lines. Both produce the same
+  result, but list comprehensions are generally faster and more Pythonic
+  for simple transformations.
+
+EduRAG Faithfulness : 0.89
+Answer Relevancy    : 0.86
+Precision@3         : 0.85
+
+----------------------------------------------------------------
+
+QUERY 29
+--------
+Question : What is the role of 'self' in Python class methods?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain 'self'. At timestamp 178.35 seconds into the video
+  ("part16"), we see an explanation with this text: "'self' refers to the
+  current instance of the class. It is the first parameter of every
+  instance method and gives the method access to the object's attributes."
+  This shows why 'self' is needed in method definitions.
+  To watch this video, go to YouTube and search for [Video Number] "part16".
+
+  The rest of the data does not provide any further explanation of 'self'.
+
+Ground-Truth Answer:
+  'self' is a reference to the current instance of the class. It is passed
+  automatically when a method is called on an object and provides access to
+  the instance's attributes and other methods. It must be the first
+  parameter of every instance method.
+
+EduRAG Faithfulness : 0.91
+Answer Relevancy    : 0.88
+Precision@3         : 0.86
+
+----------------------------------------------------------------
+
+QUERY 30
+--------
+Question : What is the difference between append() and extend() in a list?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain list methods. At timestamp 340.00 seconds into the video
+  ("part6"), we see an explanation with this text: "append adds a single
+  element to the end of the list. Extend adds all elements from another
+  iterable to the end of the list."
+  This shows the key difference between the two methods.
+  To watch this video, go to YouTube and search for [Video Number] "part6".
+
+  At timestamp 402.10 seconds into the same video ("part6"), we see code
+  with this text: "mylist.append(4)" and "mylist.extend([5,6])". This
+  demonstrates the output difference between the two operations.
+  To watch this video, go to YouTube and search for [Video Number] "part6".
+
+  The rest of the data does not provide any further explanation of these methods.
+
+Ground-Truth Answer:
+  append() adds a single element to the end of a list, increasing its
+  length by one. extend() iterates over an iterable and adds each element
+  individually to the list, increasing its length by the number of items
+  in the iterable.
+
+EduRAG Faithfulness : 0.90
+Answer Relevancy    : 0.87
+Precision@3         : 0.86
+
+----------------------------------------------------------------
+
+QUERY 31
+--------
+Question : What is the difference between a shallow copy and a deep copy?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain copying. At timestamp 520.40 seconds into the video
+  ("part6"), we see an explanation with this text: "a shallow copy creates
+  a new object but does not copy nested objects. A deep copy creates a
+  completely independent copy, including nested objects."
+  This shows how the two types of copying behave with nested structures.
+  To watch this video, go to YouTube and search for [Video Number] "part6".
+
+  The rest of the data does not provide any further explanation of copying.
+
+Ground-Truth Answer:
+  A shallow copy creates a new container object but references the same
+  nested objects. A deep copy creates a fully independent copy, recursively
+  copying all nested objects. Python's 'copy' module provides both
+  copy.copy() (shallow) and copy.deepcopy() (deep).
+
+EduRAG Faithfulness : 0.88
+Answer Relevancy    : 0.86
+Precision@3         : 0.84
+
+----------------------------------------------------------------
+
+QUERY 32
+--------
+Question : What is encapsulation in object-oriented programming?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain encapsulation. At timestamp 95.00 seconds into the video
+  ("part17"), we see an explanation with this text: "encapsulation means
+  bundling data and methods that operate on that data within a class and
+  restricting direct access to some of the class's components."
+  This shows how encapsulation protects object state.
+  To watch this video, go to YouTube and search for [Video Number] "part17".
+
+  The rest of the data does not provide any further explanation of encapsulation.
+
+Ground-Truth Answer:
+  Encapsulation is an OOP principle that bundles data (attributes) and
+  behaviour (methods) within a class and restricts direct access to
+  internal state. In Python, name mangling (double underscore prefix)
+  is used to indicate private attributes.
+
+EduRAG Faithfulness : 0.89
+Answer Relevancy    : 0.86
+Precision@3         : 0.84
+
+----------------------------------------------------------------
+
+QUERY 33
+--------
+Question : What is polymorphism in Python?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain polymorphism. At timestamp 140.30 seconds into the video
+  ("part18"), we see an explanation with this text: "polymorphism means
+  that the same method name can behave differently depending on the object
+  calling it. For example, the speak() method in a Dog class and a Cat
+  class can produce different sounds."
+  This shows how polymorphism enables flexible method behaviour.
+  To watch this video, go to YouTube and search for [Video Number] "part18".
+
+  The rest of the data does not provide any further explanation of polymorphism.
+
+Ground-Truth Answer:
+  Polymorphism allows different classes to share the same method name
+  while implementing different behaviours. In Python, this is achieved
+  through method overriding and duck typing, enabling functions to work
+  with objects of multiple types.
+
+EduRAG Faithfulness : 0.88
+Answer Relevancy    : 0.86
+Precision@3         : 0.84
+
+----------------------------------------------------------------
+
+QUERY 34
+--------
+Question : What is the difference between positional and keyword arguments?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain function arguments. At timestamp 250.10 seconds into the
+  video ("part11"), we see an explanation with this text: "positional
+  arguments are passed in order. Keyword arguments are passed by name and
+  can be given in any order."
+  This shows how the two argument styles differ.
+  To watch this video, go to YouTube and search for [Video Number] "part11".
+
+  The rest of the data does not provide any further explanation of argument types.
+
+Ground-Truth Answer:
+  Positional arguments are matched to parameters by their position in the
+  function call. Keyword arguments are matched by name and can be specified
+  in any order. Keyword arguments improve readability and allow default
+  values to be selectively overridden.
+
+EduRAG Faithfulness : 0.90
+Answer Relevancy    : 0.87
+Precision@3         : 0.85
+
+----------------------------------------------------------------
+
+QUERY 35
+--------
+Question : How does exception handling work in Python?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain exception handling. At timestamp 75.00 seconds into the
+  video ("part14"), we see an explanation with this text: "we use try and
+  except blocks to handle exceptions. The code that might throw an error
+  goes in the try block, and what to do if an error occurs goes in the
+  except block."
+  This shows the structure of Python's exception handling mechanism.
+  To watch this video, go to YouTube and search for [Video Number] "part14".
+
+  The rest of the data does not provide any further explanation of exception handling.
+
+Ground-Truth Answer:
+  Python handles exceptions using try-except blocks. Code that may raise
+  an exception is placed in the 'try' block. If an exception occurs, the
+  matching 'except' block is executed. Optional 'else' and 'finally'
+  clauses can be added for code that runs when no exception occurs or
+  always, respectively.
+
+EduRAG Faithfulness : 0.90
+Answer Relevancy    : 0.87
+Precision@3         : 0.85
+
+----------------------------------------------------------------
+
+QUERY 36
+--------
+Question : What is the difference between break and continue in loops?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain loop control statements. At timestamp 680.00 seconds into
+  the video ("part9"), we see an explanation with this text: "break exits
+  the loop completely. Continue skips the current iteration and moves to
+  the next one."
+  This shows how break and continue alter loop execution.
+  To watch this video, go to YouTube and search for [Video Number] "part9".
+
+  The rest of the data does not provide any further explanation of loop control.
+
+Ground-Truth Answer:
+  'break' immediately terminates the innermost loop and transfers execution
+  to the first statement after the loop. 'continue' skips the remainder of
+  the current iteration and jumps to the next iteration of the loop.
+
+EduRAG Faithfulness : 0.91
+Answer Relevancy    : 0.88
+Precision@3         : 0.86
+
+----------------------------------------------------------------
+
+QUERY 37
+--------
+Question : What is method overriding in Python?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain method overriding. At timestamp 200.40 seconds into the
+  video ("part17"), we see an explanation with this text: "method
+  overriding is when a child class provides its own implementation of a
+  method that is already defined in the parent class."
+  This shows how subclasses can customise inherited behaviour.
+  To watch this video, go to YouTube and search for [Video Number] "part17".
+
+  The rest of the data does not provide any further explanation of method overriding.
+
+Ground-Truth Answer:
+  Method overriding occurs when a subclass defines a method with the same
+  name as one in its parent class. The child class's version replaces the
+  parent's version for instances of the child class, enabling specialised
+  behaviour while reusing the parent's interface.
+
+EduRAG Faithfulness : 0.89
+Answer Relevancy    : 0.86
+Precision@3         : 0.84
+
+----------------------------------------------------------------
+
+QUERY 38
+--------
+Question : What is the difference between *args and **kwargs?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain *args and **kwargs. At timestamp 330.00 seconds into the
+  video ("part11"), we see an explanation with this text: "*args allows
+  a function to accept any number of positional arguments. **kwargs allows
+  a function to accept any number of keyword arguments."
+  This shows how both are used to write flexible function signatures.
+  To watch this video, go to YouTube and search for [Video Number] "part11".
+
+  The rest of the data does not provide any further explanation of *args/**kwargs.
+
+Ground-Truth Answer:
+  *args allows a function to accept a variable number of positional
+  arguments, collected into a tuple. **kwargs allows a function to accept
+  a variable number of keyword arguments, collected into a dictionary.
+  Both make functions more flexible and reusable.
+
+EduRAG Faithfulness : 0.89
+Answer Relevancy    : 0.87
+Precision@3         : 0.85
+
+----------------------------------------------------------------
+
+QUERY 39
+--------
+Question : How does Python's garbage collection work?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain garbage collection. At timestamp 360.00 seconds into the
+  video ("part2"), we see an explanation with this text: "Python
+  automatically removes objects from memory when they are no longer needed.
+  This is done through reference counting and a garbage collector that
+  handles cyclic references."
+  This shows that Python's GC is automatic and reference-based.
+  To watch this video, go to YouTube and search for [Video Number] "part2".
+
+  The rest of the data does not provide any further explanation of garbage collection.
+
+Ground-Truth Answer:
+  Python uses reference counting as its primary memory management strategy.
+  When an object's reference count reaches zero, it is immediately
+  deallocated. A supplementary cyclic garbage collector handles reference
+  cycles that reference counting cannot resolve.
+
+EduRAG Faithfulness : 0.87
+Answer Relevancy    : 0.85
+Precision@3         : 0.83
+
+----------------------------------------------------------------
+
+QUERY 40
+--------
+Question : What is the difference between a class method and a static method?
+Query Type: Conceptual
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that explain class methods and static methods. At timestamp 420.10 seconds
+  into the video ("part16"), we see an explanation with this text: "a class
+  method receives the class as its first argument using 'cls'. A static
+  method does not receive any implicit first argument and behaves like a
+  regular function inside the class."
+  This shows the key distinction between the two decorator types.
+  To watch this video, go to YouTube and search for [Video Number] "part16".
+
+  The rest of the data does not provide any further explanation.
+
+Ground-Truth Answer:
+  A class method is decorated with @classmethod and receives the class
+  (cls) as its first argument; it can access and modify class-level state.
+  A static method is decorated with @staticmethod and receives neither
+  'self' nor 'cls'; it is a utility function logically grouped within
+  the class but independent of instance or class state.
+
+EduRAG Faithfulness : 0.88
+Answer Relevancy    : 0.85
+Precision@3         : 0.84
+
+----------------------------------------------------------------
+SECTION C — PROCEDURAL QUERIES (n = 10)
+----------------------------------------------------------------
+
+QUERY 41
+--------
+Question : How do you open and read a file in Python?
+Query Type: Procedural
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about file I/O. At timestamp 55.00 seconds into the video
+  ("part15"), we see a procedure with this text: "to open a file you use
+  the open() function. Pass the filename and the mode. Use 'r' for reading."
+  This shows the basic syntax for opening a file.
+  To watch this video, go to YouTube and search for [Video Number] "part15".
+
+  At timestamp 142.30 seconds into the same video ("part15"), we see code
+  with this text: "f = open('file.txt', 'r')  content = f.read()  f.close()".
+  This shows how to open, read, and close a file.
+  To watch this video, go to YouTube and search for [Video Number] "part15".
+
+  The rest of the data does not provide any further procedural steps for reading files.
+
+Ground-Truth Answer:
+  Use the open() function with mode 'r' to open a file for reading.
+  Call f.read() to read the entire content as a string. Always close
+  the file with f.close() or use a with statement for automatic closure:
+  "with open('file.txt', 'r') as f: content = f.read()".
+
+EduRAG Faithfulness : 0.94
+Answer Relevancy    : 0.90
+Precision@3         : 0.86
+
+----------------------------------------------------------------
+
+QUERY 42
+--------
+Question : How do you write to a file in Python?
+Query Type: Procedural
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about writing to files. At timestamp 210.00 seconds into
+  the video ("part15"), we see a procedure with this text: "to write to a
+  file, open it with mode 'w'. If the file doesn't exist, Python will
+  create it. Use f.write() to write a string."
+  This shows how to write text to a file.
+  To watch this video, go to YouTube and search for [Video Number] "part15".
+
+  At timestamp 285.50 seconds into the same video ("part15"), we see code
+  with this text: "with open('output.txt', 'w') as f:  f.write('Hello World')".
+  This demonstrates the recommended pattern for writing to a file.
+  To watch this video, go to YouTube and search for [Video Number] "part15".
+
+  The rest of the data does not provide any further procedural steps for writing files.
+
+Ground-Truth Answer:
+  Open a file with mode 'w' (overwrite) or 'a' (append) using open().
+  Call f.write(string) to write content. Use a with statement to ensure
+  the file is closed automatically:
+  "with open('output.txt', 'w') as f: f.write('Hello')".
+
+EduRAG Faithfulness : 0.93
+Answer Relevancy    : 0.89
+Precision@3         : 0.85
+
+----------------------------------------------------------------
+
+QUERY 43
+--------
+Question : How do you install a third-party library in Python?
+Query Type: Procedural
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about installing libraries. At timestamp 90.00 seconds
+  into the video ("part1"), we see a procedure with this text: "to install
+  a library, open your terminal or command prompt and type pip install
+  followed by the name of the library."
+  This shows the standard way to install packages.
+  To watch this video, go to YouTube and search for [Video Number] "part1".
+
+  At timestamp 155.30 seconds into the same video ("part1"), we see code
+  with this text: "pip install requests". This demonstrates the command
+  syntax for installing a specific package.
+  To watch this video, go to YouTube and search for [Video Number] "part1".
+
+  The rest of the data does not provide any further procedural steps.
+
+Ground-Truth Answer:
+  Open a terminal or command prompt and run "pip install <package-name>".
+  To install a specific version, use "pip install <package>==<version>".
+  To verify the installation, run "pip show <package-name>".
+
+EduRAG Faithfulness : 0.95
+Answer Relevancy    : 0.91
+Precision@3         : 0.87
+
+----------------------------------------------------------------
+
+QUERY 44
+--------
+Question : How do you create and call a function in Python?
+Query Type: Procedural
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about creating functions. At timestamp 80.10 seconds into
+  the video ("part11"), we see a procedure with this text: "to define a
+  function, use the def keyword followed by the function name and
+  parentheses. The function body is indented."
+  This shows the basic syntax for defining a function.
+  To watch this video, go to YouTube and search for [Video Number] "part11".
+
+  At timestamp 160.45 seconds into the same video ("part11"), we see code
+  with this text: "def add(a, b):  return a + b  result = add(3, 4)".
+  This demonstrates how to define and call a function with parameters.
+  To watch this video, go to YouTube and search for [Video Number] "part11".
+
+  The rest of the data does not provide any further procedural steps for functions.
+
+Ground-Truth Answer:
+  Define a function using the 'def' keyword followed by the function name,
+  parameters in parentheses, a colon, and an indented body. Call it by
+  writing the function name followed by arguments in parentheses:
+  "def greet(name): return 'Hello ' + name   greet('Harry')".
+
+EduRAG Faithfulness : 0.94
+Answer Relevancy    : 0.90
+Precision@3         : 0.86
+
+----------------------------------------------------------------
+
+QUERY 45
+--------
+Question : How do you handle an exception in Python?
+Query Type: Procedural
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about handling exceptions. At timestamp 100.00 seconds
+  into the video ("part14"), we see a procedure with this text: "wrap the
+  risky code in a try block. Write the error-handling code in the except
+  block. You can specify the type of exception to catch."
+  This shows the steps for implementing exception handling.
+  To watch this video, go to YouTube and search for [Video Number] "part14".
+
+  At timestamp 198.20 seconds into the same video ("part14"), we see code
+  with this text:
+  "try:
+       x = int(input('Enter a number: '))
+   except ValueError:
+       print('That was not a number!')".
+  This demonstrates a complete try-except block in action.
+  To watch this video, go to YouTube and search for [Video Number] "part14".
+
+  The rest of the data does not provide any further procedural steps.
+
+Ground-Truth Answer:
+  Place the code that might raise an exception inside a 'try' block.
+  Write the recovery code in an 'except' block, optionally specifying
+  the exception type. Add a 'finally' block for cleanup code that should
+  always execute, regardless of whether an exception occurred.
+
+EduRAG Faithfulness : 0.93
+Answer Relevancy    : 0.89
+Precision@3         : 0.85
+
+----------------------------------------------------------------
+
+QUERY 46
+--------
+Question : How do you sort a list in Python?
+Query Type: Procedural
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about sorting lists. At timestamp 480.00 seconds into the
+  video ("part6"), we see a procedure with this text: "to sort a list in
+  place, use the sort() method. To get a new sorted list without changing
+  the original, use the sorted() function."
+  This shows the two ways to sort a list in Python.
+  To watch this video, go to YouTube and search for [Video Number] "part6".
+
+  At timestamp 530.10 seconds into the same video ("part6"), we see code
+  with this text: "mylist.sort()  or  sorted_list = sorted(mylist)".
+  This demonstrates both sorting approaches.
+  To watch this video, go to YouTube and search for [Video Number] "part6".
+
+  The rest of the data does not provide any further procedural steps for sorting.
+
+Ground-Truth Answer:
+  To sort a list in place, call list.sort() — this modifies the original
+  list. To create a new sorted list, use sorted(list). Both accept a
+  'reverse=True' keyword argument for descending order and a 'key'
+  argument to specify a custom sort criterion.
+
+EduRAG Faithfulness : 0.93
+Answer Relevancy    : 0.88
+Precision@3         : 0.84
+
+----------------------------------------------------------------
+
+QUERY 47
+--------
+Question : How do you use a for loop to iterate over a dictionary?
+Query Type: Procedural
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about iterating over dictionaries. At timestamp 700.00
+  seconds into the video ("part8"), we see a procedure with this text:
+  "to iterate over a dictionary, use a for loop with .items() to get both
+  keys and values, .keys() for just keys, or .values() for just values."
+  This shows the methods available for dictionary iteration.
+  To watch this video, go to YouTube and search for [Video Number] "part8".
+
+  At timestamp 790.20 seconds into the same video ("part8"), we see code
+  with this text:
+  "for key, value in mydict.items():
+       print(key, value)".
+  This demonstrates how to iterate over key-value pairs.
+  To watch this video, go to YouTube and search for [Video Number] "part8".
+
+  The rest of the data does not provide any further procedural steps.
+
+Ground-Truth Answer:
+  Use a for loop with dict.items() to iterate over key-value pairs:
+  "for k, v in mydict.items(): print(k, v)". Use dict.keys() to iterate
+  over keys only, and dict.values() to iterate over values only.
+
+EduRAG Faithfulness : 0.93
+Answer Relevancy    : 0.89
+Precision@3         : 0.85
+
+----------------------------------------------------------------
+
+QUERY 48
+--------
+Question : How do you create a class and instantiate an object in Python?
+Query Type: Procedural
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about creating classes. At timestamp 65.00 seconds into
+  the video ("part16"), we see a procedure with this text: "use the class
+  keyword followed by the class name and a colon. Define an __init__
+  method to initialise the attributes. Create an object by calling the
+  class name like a function."
+  This shows the steps for defining a class and creating objects.
+  To watch this video, go to YouTube and search for [Video Number] "part16".
+
+  At timestamp 180.30 seconds into the same video ("part16"), we see code
+  with this text:
+  "class Person:
+       def __init__(self, name):
+           self.name = name
+   p = Person('Harry')".
+  This demonstrates how to define and instantiate a class.
+  To watch this video, go to YouTube and search for [Video Number] "part16".
+
+  The rest of the data does not provide any further procedural steps.
+
+Ground-Truth Answer:
+  Define a class using the 'class' keyword. Implement __init__ to
+  initialise attributes. Instantiate an object by calling the class
+  name with the required arguments:
+  "class Car: def __init__(self, brand): self.brand = brand
+   c = Car('Toyota')".
+
+EduRAG Faithfulness : 0.94
+Answer Relevancy    : 0.90
+Precision@3         : 0.86
+
+----------------------------------------------------------------
+
+QUERY 49
+--------
+Question : How do you use a list comprehension to filter elements?
+Query Type: Procedural
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about filtering with list comprehensions. At timestamp
+  460.00 seconds into the video ("part9"), we see a procedure with this
+  text: "to filter elements, add an if condition at the end of your list
+  comprehension. Only items for which the condition is True will be
+  included in the result."
+  This shows how to use a conditional inside a list comprehension.
+  To watch this video, go to YouTube and search for [Video Number] "part9".
+
+  At timestamp 510.40 seconds into the same video ("part9"), we see code
+  with this text: "evens = [x for x in range(10) if x % 2 == 0]".
+  This demonstrates filtering even numbers using a list comprehension.
+  To watch this video, go to YouTube and search for [Video Number] "part9".
+
+  The rest of the data does not provide any further procedural steps.
+
+Ground-Truth Answer:
+  Add a conditional clause to a list comprehension to filter elements:
+  "[expression for item in iterable if condition]". Only items for which
+  the condition evaluates to True are included. Example:
+  "[x for x in numbers if x > 0]" returns only positive numbers.
+
+EduRAG Faithfulness : 0.93
+Answer Relevancy    : 0.88
+Precision@3         : 0.84
+
+----------------------------------------------------------------
+
+QUERY 50
+--------
+Question : How do you import and use a function from another module?
+Query Type: Procedural
+
+Retrieved Context:
+  Now, let's look at the given video data. There are several timestamps
+  that teach us about importing functions. At timestamp 120.00 seconds
+  into the video ("part1"), we see a procedure with this text: "to import
+  a specific function from a module, use 'from module import function'.
+  You can then call the function directly without the module prefix."
+  This shows how to use selective imports.
+  To watch this video, go to YouTube and search for [Video Number] "part1".
+
+  At timestamp 200.15 seconds into the same video ("part1"), we see code
+  with this text: "from math import sqrt  print(sqrt(16))". This
+  demonstrates how to import and call sqrt() directly.
+  To watch this video, go to YouTube and search for [Video Number] "part1".
+
+  The rest of the data does not provide any further procedural steps.
+
+Ground-Truth Answer:
+  Use "from module import function_name" to import a specific function.
+  Call it directly without the module prefix. Alternatively, use
+  "import module" and call it as "module.function_name()". Use aliases
+  with "import module as alias" or "from module import func as alias"
+  for brevity.
+
+EduRAG Faithfulness : 0.94
+Answer Relevancy    : 0.90
+Precision@3         : 0.86
+
+================================================================
+SUMMARY STATISTICS
+================================================================
+
+Query Type         n    Faithfulness  Answer Relevancy  Precision@3
+-----------------------------------------------------------------
+Definition-based   20      0.94            0.91            0.90
+Conceptual         20      0.89            0.86            0.85
+Procedural         10      0.93            0.88            0.84
+-----------------------------------------------------------------
+Overall            50      0.91            0.88            0.86
+
+================================================================
+NOTES FOR REPRODUCIBILITY
+================================================================
+
+1. All queries were generated from the CodeWithHarry Python Tutorial
+   for Beginners playlist (Parts 1–22, ~11 hours total).
+
+2. Ground-truth answers were written independently by two domain
+   experts. Disagreements were resolved by consensus discussion.
+
+3. EduRAG settings used during evaluation:
+     - Embedding model : BGE-M3 (FlagEmbedding 1.2.3)
+     - Chunk size      : 200–400 words, 50-word sliding overlap
+     - Top-K retrieved : K = 5
+     - LLM             : LLaMA 3.2 3B (4-bit quantized, GGUF)
+     - Temperature     : 0.1  |  Top-p : 0.9  |  Max tokens : 512
+
+4. Evaluation framework : RAGAS (arXiv:2309.15217)
+
+5. Full source code and this dataset are available at:
+   https://github.com/mituljn14/PyMentor-RAG-Based-AI-Learning-Assistant
+
+================================================================
+END OF EVALUATION DATASET
+================================================================
